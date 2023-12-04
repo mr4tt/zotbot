@@ -1,4 +1,10 @@
 # stories
+- [War in the Shade](https://warintheshade.wordpress.com/category/comic/) - Posts about comic written by toastyhat
+
+- [Archipelago](https://www.webtoons.com/en/canvas/archipelago/list?title_no=835044) - The archive for the fantasy/sci-fi webcomic Archipelago which originally ran from 2005-2015. The story of how a waitress saves the world.
+
+- [The Great Silence](https://electricliterature.com/the-great-silence-by-ted-chiang/) - “The Great Silence” by Ted Chiang The humans use Arecibo to look for extraterrestrial intelligence. Their desire to make a connection is so strong that they’ve created an ear capable of hearing across the universe. But I and my fellow parrots are right here. Why aren’t they interested in listening to our voices? We’re a nonhuman […]
+
 - [Good Hunting by Ken Liu](https://buzzymag.com/good-hunting-by-ken-liu/) - Good Hunting by Ken Liu is a steampunk fantasy tale of individual adaptability and resistance in a time of historical transformations. It was first published in Strange Horizons in October 2012.
 
 - [The Curing](https://www.uncannymagazine.com/article/the-curing/) - Content note: Hate crimes and animal death   We stole the bottle of Elmer’s glue in the pass time between lunch and free period, the orange cap a beacon on the art room’s back shelves. Mrs. Chowdhury was out having her third baby in as many years, and the sub they’d hired to take her […]

@@ -1,4 +1,8 @@
 # misc
+- [Discord Should Remove Usernames Entirely](https://erikmcclure.com/blog/discord-should-remove-usernames/) - Discord's Recent Announcement made a lot of people mad, mostly because of Hyrum's Law - users were relying on unintended observable behavior in the original username system, and are mad that their use-cases are being broken despite very good evidence that the current system is problematic. I think the major issue here is that Discord didn't go far e...
+
+- [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
+
 - [Element Speller](https://www.bgreco.net/periodic/)
 
 - [The Cave of Dragonflies](https://www.dragonflycave.com/)
