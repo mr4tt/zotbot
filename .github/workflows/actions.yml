@@ -1,4 +1,4 @@
-name: Scrape and push 
+name: Upload New Zotero Links
 
 on: 
   schedule: 
@@ -19,9 +19,9 @@ jobs:
       - name: Run script for updating files
         working-directory: ./src
         env:
-          LIBRARY_ID: ${{ secrets.LIBRARY_ID }}
-          API_KEY: ${{ secrets.API_KEY }}
-          USER_TYPE: ${{ secrets.USER_TYPE }}
+          LIBRARY_ID: '${{ secrets.LIBRARY_ID }}'
+          API_KEY: '${{ secrets.API_KEY }}'
+          USER_TYPE: '${{ secrets.USER_TYPE }}'
         run: |
           python3 zot.py
         shell: bash
