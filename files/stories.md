@@ -1,9 +1,13 @@
 # stories
+- [The God of Arepo](https://reimenayee.com/the-god-of-arepo/) - Adaptation of the popular internet short story. Temples are made for gods. Knowing this a farmer builds one to see which god turns up.
+
+- [The Great Silence](https://electricliterature.com/the-great-silence-by-ted-chiang/) - “The Great Silence” by Ted Chiang The humans use Arecibo to look for extraterrestrial intelligence. Their desire to make a connection is so strong that they’ve created an ear capable of hearing across the universe. But I and my fellow parrots are right here. Why aren’t they interested in listening to our voices? We’re a nonhuman […]
+
+- [What football will look like in the future](http://www.sbnation.com/a/17776-football) - Something is terribly wrong. Something is terribly wrong. Something is terribly wrong. Something is terribly wrong.
+
 - [War in the Shade](https://warintheshade.wordpress.com/category/comic/) - Posts about comic written by toastyhat
 
 - [Archipelago](https://www.webtoons.com/en/canvas/archipelago/list?title_no=835044) - The archive for the fantasy/sci-fi webcomic Archipelago which originally ran from 2005-2015. The story of how a waitress saves the world.
-
-- [The Great Silence](https://electricliterature.com/the-great-silence-by-ted-chiang/) - “The Great Silence” by Ted Chiang The humans use Arecibo to look for extraterrestrial intelligence. Their desire to make a connection is so strong that they’ve created an ear capable of hearing across the universe. But I and my fellow parrots are right here. Why aren’t they interested in listening to our voices? We’re a nonhuman […]
 
 - [Good Hunting by Ken Liu](https://buzzymag.com/good-hunting-by-ken-liu/) - Good Hunting by Ken Liu is a steampunk fantasy tale of individual adaptability and resistance in a time of historical transformations. It was first published in Strange Horizons in October 2012.
 

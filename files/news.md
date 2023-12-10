@@ -1,4 +1,6 @@
 # news
+- [The Sobering Details Behind the Latest Seed Monopoly Chart](https://civileats.com/2019/01/11/the-sobering-details-behind-the-latest-seed-monopoly-chart/) - As four seed companies now control more than 60 percent of the global market, a seed policy expert argues that consolidation poses major risks to our food supply.
+
 - [A Pixies song is accidentally turning off Google alarms](https://fortune.com/2023/05/04/google-pixel-phone-pixies-song-where-is-my-mind-accidentally-turning-off-alarms/) - The company's Pixel phone responds to voice commands, and sometimes that can have inadvertent effects.
 
 - [Roombas at the End of the World - IEEE Spectrum](https://spectrum.ieee.org/south-pole-roombas) - Robotic romance, ransoms, and raccoon suits at the South Pole
@@ -98,8 +100,6 @@
 - [Rare Jurassic-era bug found at Arkansas Walmart](https://www.bbc.com/news/world-us-canada-64814931) - A teacher who spotted the bug took it home - then realised during a class how unusual it was.
 
 - [Honeybees waggle to communicate. But to do it well, they need dance lessons](https://www.sciencenews.org/article/bee-honeybees-waggle-dance-communicate-lessons-learn-hive) - Young honeybees can’t perfect waggling on their own after all. Without older sisters to practice with, youngsters fail to nail distances.
-
-- [Super Ball](https://en.wikipedia.org/w/index.php?title=Super_Ball&oldid=1138994393) - A Super Ball or Superball is a toy bouncy ball based on a type of synthetic rubber invented in 1964 by chemist Norman Stingley.  It is an extremely elastic ball made of Zectron, which contains the synthetic polymer polybutadiene as well as hydrated silica, zinc oxide, stearic acid, and other ingredients.  This compound is  vulcanized with sulfur at ...
 
 - [What HBO’s “Chernobyl” Got Right, and What It Got Terribly Wrong | The New Yorker](https://www.newyorker.com/news/our-columnists/what-hbos-chernobyl-got-right-and-what-it-got-terribly-wrong)
 

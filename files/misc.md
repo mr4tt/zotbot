@@ -1,4 +1,8 @@
 # misc
+- [AmputatorBot: Remove AMP from your URLs](https://www.amputatorbot.com) - AMP is threatening your privacy and the Open Web. With AmputatorBot, you can remove it from your URLs. AmputatorBot is available in many forms: here, as bots on Reddit and Twitter and as a free and public API
+
+- [Predicting The Future](http://www.ecotopia.com/webpress/futures.htm)
+
 - [Discord Should Remove Usernames Entirely](https://erikmcclure.com/blog/discord-should-remove-usernames/) - Discord's Recent Announcement made a lot of people mad, mostly because of Hyrum's Law - users were relying on unintended observable behavior in the original username system, and are mad that their use-cases are being broken despite very good evidence that the current system is problematic. I think the major issue here is that Discord didn't go far e...
 
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps

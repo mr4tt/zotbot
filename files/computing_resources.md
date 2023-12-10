@@ -1,4 +1,6 @@
 # computing_resources
+- [Generate TOC Table of Contents from GitHub Markdown or Wiki Online](https://ecotrust-canada.github.io/markdown-toc/)
+
 - [Robert Heaton | Blog](https://robertheaton.com) - Software engineer. One-track lover down a two-way lane
 
 - [Quick Sort - Sorting Algorithm Animations](https://www.toptal.com/developers/sorting-algorithms/quick-sort) - Animation, code, analysis, and discussion of quick sort on 4 initial conditions.

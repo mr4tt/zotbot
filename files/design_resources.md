@@ -25,8 +25,6 @@
 
 - [Color and Contrast.com](https://colorandcontrast.com/) - Color & Contrast is an interactive guide to color for designers.
 
-- [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
-
 - [In the file: The first 90 days of the Head of DesignOps](https://www.youtube.com/watch?v=mjRPk2faqKw) - Figma is free to use. Sign up here: https://bit.ly/3msp0OVSalome Mortazavi, Head of DesignOps at SiriusXM Listener, and Adam Fry-Pierce, Chief of Staff at Go...
 
 - [UI Playbook](https://uiplaybook.dev) - The documented collection of UI components.
