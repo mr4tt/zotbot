@@ -15,9 +15,9 @@ class Zot():
         api_key (str): Zotero API key
     """
     def __init__(self) -> None:
-        library_id = os.getenv('LIBRARY_ID')
-        library_type = os.getenv('LIBRARY_TYPE')
-        api_key = os.getenv('API_KEY')
+        library_id = os.environ.get('LIBRARY_ID')
+        library_type = os.environ.get('LIBRARY_TYPE')
+        api_key = os.environ.get('API_KEY')
 
         self.zotbot = zotero.Zotero(library_id, library_type, api_key)
 
