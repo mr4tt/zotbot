@@ -38,8 +38,8 @@ jobs:
       - name: Commit files
         if: steps.verify_diff.outputs.changed == 'true'
         run: |
-          git config --local user.email ${{ env.EMAIL }}
-          git config --local user.name ${{ env.NAME }}
+          git config --local user.email ${{ secrets.EMAIL }}
+          git config --local user.name ${{ secrets.NAME }}
           git commit -a -m "adding new saved links on ${{ env.TIME }}"
 
       - name: GitHub Push
