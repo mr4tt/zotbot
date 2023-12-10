@@ -1,4 +1,8 @@
 # computing_resources
+- [Nix & NixOS | Reproducible builds and deployments](https://nixos.org/) - Nix is a tool that takes a unique approach to package management and system configuration. Learn how to make reproducible, declarative and reliable systems.
+
+- [VSCodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
+
 - [Generate TOC Table of Contents from GitHub Markdown or Wiki Online](https://ecotrust-canada.github.io/markdown-toc/)
 
 - [Robert Heaton | Blog](https://robertheaton.com) - Software engineer. One-track lover down a two-way lane
