@@ -22,7 +22,8 @@ jobs:
           LIBRARY_ID: ${{ secrets.LIBRARY_ID }}
           API_KEY: ${{ secrets.API_KEY }}
           USER_TYPE: ${{ secrets.USER_TYPE }}
-        run: python3 zot.py
+        run: |
+          python3 zot.py
         shell: bash
 
       - name: Save Time
@@ -39,7 +40,7 @@ jobs:
         run: |
           git config --local user.email ${{ env.EMAIL }}
           git config --local user.name ${{ env.NAME }}
-          git commit -a -m "adding new saved files on ${{ env.TIME }}"
+          git commit -a -m "adding new saved links on ${{ env.TIME }}"
 
       - name: GitHub Push
         uses: ad-m/github-push-action@v0.6.0
