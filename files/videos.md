@@ -1,4 +1,6 @@
 # videos
+- [Nihilist Penguin (Werner Herzog)](https://www.youtube.com/watch?v=mnTU_hJoByA)
+
 - [Why we hate engineers](https://www.youtube.com/watch?v=0CutVc9WRc4)
 
 - [Llamas with Hats 1-12: The Complete Series](https://www.youtube.com/watch?v=jJOwdrTA8Gw)

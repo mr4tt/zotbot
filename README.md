@@ -36,6 +36,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [Nihilist Penguin (Werner Herzog)](https://www.youtube.com/watch?v=mnTU_hJoByA)
+
 - [Why we hate engineers](https://www.youtube.com/watch?v=0CutVc9WRc4)
 
 - [Llamas with Hats 1-12: The Complete Series](https://www.youtube.com/watch?v=jJOwdrTA8Gw)
@@ -375,6 +377,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Alex (parrot)](https://en.wikipedia.org/w/index.php?title=Alex_(parrot)&oldid=1187540125) - Alex (May 18, 1976 – September 6, 2007) was a grey parrot and the subject of a thirty-year experiment by animal psychologist Irene Pepperberg, initially at the University of Arizona and later at Harvard University and Brandeis University. When Alex was about one year old, Pepperberg bought him at a pet shop. In her book "Alex & Me", Pepperberg descr...
+
 - [AquAdvantage salmon](https://en.wikipedia.org/w/index.php?title=AquAdvantage_salmon&oldid=1187028882) - AquAdvantage salmon is a genetically engineered (GE) fish, a GE Atlantic salmon developed by AquaBounty Technologies in 1989. The typical  growth hormone-regulating gene  in the Atlantic salmon was replaced with the growth hormone-regulating gene from Pacific Chinook salmon, with a promoter sequence from ocean pout. This gene enables GM salmon to gr...
 
 - [Freetown Christiania](https://en.wikipedia.org/w/index.php?title=Freetown_Christiania&oldid=1188832743) - Freetown Christiania (Danish: Fristaden Christiania), also known as Christiania or simply the Staden, is an intentional community and commune in the Christianshavn neighbourhood of the Danish capital city of Copenhagen. It began in 1971 as a squatted military base. Its Pusher Street is famous for its open trade of cannabis, which is illegal in Denma...
@@ -573,9 +577,11 @@ To view a single category, check the files/ folder.
 
 - [Complaint tablet to Ea-nasir](https://en.wikipedia.org/w/index.php?title=Complaint_tablet_to_Ea-nasir&oldid=1146263756) - The complaint tablet to Ea-nāṣir (UET V 81) is a clay tablet that was sent to ancient Ur, written c. 1750 BCE. It is a complaint to a merchant named Ea-nasir from a customer named Nanni. Written in Akkadian cuneiform, it is considered to be the oldest known written complaint. It is currently kept in the British Museum. The tablet has also become an ...
 
-- [<i>My Immortal</i> (fan fiction)](https://en.wikipedia.org/w/index.php?title=My_Immortal_(fan_fiction)&oldid=1146340684) - My Immortal is a Harry Potter-based fan fiction serially published on FanFiction.net between 2006 and 2007. Though notable for its convoluted narrative and constant digressions, the story largely centers on a non-canonical female vampire character named "Ebony Dark'ness Dementia Raven Way" and her relationships with the characters of the Harry Potte...
-
 # misc
+- [OpenPods](https://github.com/adolfintel/OpenPods) - The Free and Open Source app for monitoring your AirPods on Android
+
+- [Home | Shrimp Welfare Project](https://www.shrimpwelfareproject.org) - Shrimp Welfare Project aims to improve the lives of billions of farmed shrimps in India and Southeast Asia.
+
 - [AmputatorBot: Remove AMP from your URLs](https://www.amputatorbot.com) - AMP is threatening your privacy and the Open Web. With AmputatorBot, you can remove it from your URLs. AmputatorBot is available in many forms: here, as bots on Reddit and Twitter and as a free and public API
 
 - [Predicting The Future](http://www.ecotopia.com/webpress/futures.htm)

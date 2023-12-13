@@ -1,4 +1,8 @@
 # misc
+- [OpenPods](https://github.com/adolfintel/OpenPods) - The Free and Open Source app for monitoring your AirPods on Android
+
+- [Home | Shrimp Welfare Project](https://www.shrimpwelfareproject.org) - Shrimp Welfare Project aims to improve the lives of billions of farmed shrimps in India and Southeast Asia.
+
 - [AmputatorBot: Remove AMP from your URLs](https://www.amputatorbot.com) - AMP is threatening your privacy and the Open Web. With AmputatorBot, you can remove it from your URLs. AmputatorBot is available in many forms: here, as bots on Reddit and Twitter and as a free and public API
 
 - [Predicting The Future](http://www.ecotopia.com/webpress/futures.htm)
