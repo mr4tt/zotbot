@@ -1,4 +1,8 @@
 # videos
+- [The Lambda Service Behind Videos @ Meta: A New Years Eve Case Study | Zainab Zahid](https://www.youtube.com/watch?v=s3zsGS81A3M)
+
+- [Crane: Uber's Next-Gen Infrastructure Stack | Kurtis Nusbaum](https://www.youtube.com/watch?v=JQPTlrff8iU)
+
 - [Nihilist Penguin (Werner Herzog)](https://www.youtube.com/watch?v=mnTU_hJoByA)
 
 - [Why we hate engineers](https://www.youtube.com/watch?v=0CutVc9WRc4)

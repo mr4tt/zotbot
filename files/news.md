@@ -1,4 +1,6 @@
 # news
+- [The Cold War Over Hacking McDonald’s Ice Cream Machines](https://www.wired.com/story/they-hacked-mcdonalds-ice-cream-makers-started-cold-war/) - Secret codes. Legal threats. Betrayal. How one couple built a device to fix McDonald’s notoriously broken soft-serve machines—and how the fast-food giant froze them out.
+
 - [The Sobering Details Behind the Latest Seed Monopoly Chart](https://civileats.com/2019/01/11/the-sobering-details-behind-the-latest-seed-monopoly-chart/) - As four seed companies now control more than 60 percent of the global market, a seed policy expert argues that consolidation poses major risks to our food supply.
 
 - [A Pixies song is accidentally turning off Google alarms](https://fortune.com/2023/05/04/google-pixel-phone-pixies-song-where-is-my-mind-accidentally-turning-off-alarms/) - The company's Pixel phone responds to voice commands, and sometimes that can have inadvertent effects.

@@ -1,4 +1,8 @@
 # misc
+- [I can't sleep](https://blog.paulbiggar.com/i-cant-sleep/) - I can't sleep. I'm lying in bed every night, and images of Gaza are running through my head. Fathers holding their babies, dead, caked in dust. Bombs dropped on homes, on hospitals, on schools. Tens of thousands of dead in indiscriminate bombings.
+
+- [Mechanical Watch – Bartosz Ciechanowski](https://ciechanow.ski/mechanical-watch/) - Interactive article explaining how a mechanical watch works.
+
 - [OpenPods](https://github.com/adolfintel/OpenPods) - The Free and Open Source app for monitoring your AirPods on Android
 
 - [Home | Shrimp Welfare Project](https://www.shrimpwelfareproject.org) - Shrimp Welfare Project aims to improve the lives of billions of farmed shrimps in India and Southeast Asia.

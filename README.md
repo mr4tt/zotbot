@@ -36,6 +36,10 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [The Lambda Service Behind Videos @ Meta: A New Years Eve Case Study | Zainab Zahid](https://www.youtube.com/watch?v=s3zsGS81A3M)
+
+- [Crane: Uber's Next-Gen Infrastructure Stack | Kurtis Nusbaum](https://www.youtube.com/watch?v=JQPTlrff8iU)
+
 - [Nihilist Penguin (Werner Herzog)](https://www.youtube.com/watch?v=mnTU_hJoByA)
 
 - [Why we hate engineers](https://www.youtube.com/watch?v=0CutVc9WRc4)
@@ -146,6 +150,8 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # computing_resources
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+
 - [Nix & NixOS | Reproducible builds and deployments](https://nixos.org/) - Nix is a tool that takes a unique approach to package management and system configuration. Learn how to make reproducible, declarative and reliable systems.
 
 - [VSCodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
@@ -254,6 +260,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The Cold War Over Hacking McDonald’s Ice Cream Machines](https://www.wired.com/story/they-hacked-mcdonalds-ice-cream-makers-started-cold-war/) - Secret codes. Legal threats. Betrayal. How one couple built a device to fix McDonald’s notoriously broken soft-serve machines—and how the fast-food giant froze them out.
+
 - [The Sobering Details Behind the Latest Seed Monopoly Chart](https://civileats.com/2019/01/11/the-sobering-details-behind-the-latest-seed-monopoly-chart/) - As four seed companies now control more than 60 percent of the global market, a seed policy expert argues that consolidation poses major risks to our food supply.
 
 - [A Pixies song is accidentally turning off Google alarms](https://fortune.com/2023/05/04/google-pixel-phone-pixies-song-where-is-my-mind-accidentally-turning-off-alarms/) - The company's Pixel phone responds to voice commands, and sometimes that can have inadvertent effects.
@@ -578,6 +586,10 @@ To view a single category, check the files/ folder.
 - [Complaint tablet to Ea-nasir](https://en.wikipedia.org/w/index.php?title=Complaint_tablet_to_Ea-nasir&oldid=1146263756) - The complaint tablet to Ea-nāṣir (UET V 81) is a clay tablet that was sent to ancient Ur, written c. 1750 BCE. It is a complaint to a merchant named Ea-nasir from a customer named Nanni. Written in Akkadian cuneiform, it is considered to be the oldest known written complaint. It is currently kept in the British Museum. The tablet has also become an ...
 
 # misc
+- [I can't sleep](https://blog.paulbiggar.com/i-cant-sleep/) - I can't sleep. I'm lying in bed every night, and images of Gaza are running through my head. Fathers holding their babies, dead, caked in dust. Bombs dropped on homes, on hospitals, on schools. Tens of thousands of dead in indiscriminate bombings.
+
+- [Mechanical Watch – Bartosz Ciechanowski](https://ciechanow.ski/mechanical-watch/) - Interactive article explaining how a mechanical watch works.
+
 - [OpenPods](https://github.com/adolfintel/OpenPods) - The Free and Open Source app for monitoring your AirPods on Android
 
 - [Home | Shrimp Welfare Project](https://www.shrimpwelfareproject.org) - Shrimp Welfare Project aims to improve the lives of billions of farmed shrimps in India and Southeast Asia.
