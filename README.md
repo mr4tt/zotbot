@@ -14,6 +14,10 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # crochet
+- [Glinting Eyes for Amigurumi – PlanetJune by June Gilbank: Blog](https://www.planetjune.com/blog/glinting-eyes-for-amigurumi/)
+
+- [Crochet Eyes Tutorial - An Alternative To Plastic Safety Eyes](https://www.graceandyarn.com/2018/03/crochet-eyes-tutorial-alternative-to.html)
+
 - [The Right Side of Amigurumi](https://www.allaboutami.com/rightside/)
 
 - [How to Crochet a Fish Drink Coaster/ Summer Crochet Pattern](https://www.youtube.com/watch?v=SA0DOzC3SNU)
