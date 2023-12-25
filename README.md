@@ -40,9 +40,7 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
-- [The Lambda Service Behind Videos @ Meta: A New Years Eve Case Study | Zainab Zahid](https://www.youtube.com/watch?v=s3zsGS81A3M)
-
-- [Crane: Uber's Next-Gen Infrastructure Stack | Kurtis Nusbaum](https://www.youtube.com/watch?v=JQPTlrff8iU)
+- [義足のMoses](https://www.youtube.com/watch?v=byAfC5yW_hw)
 
 - [Nihilist Penguin (Werner Herzog)](https://www.youtube.com/watch?v=mnTU_hJoByA)
 
@@ -156,6 +154,10 @@ To view a single category, check the files/ folder.
 # computing_resources
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 
+- [The Lambda Service Behind Videos @ Meta: A New Years Eve Case Study | Zainab Zahid](https://www.youtube.com/watch?v=s3zsGS81A3M) - The Lambda Service Behind Videos @ Meta: A New Years Eve Case Study | Zainab Zahid  What happens at the stroke of midnight on December 31st? Other than the fireworks 🙂 In this talk, we’ll dive into the Lamba service that powers Videos@ Meta and we’ll see whats really happening behind the scenes on New Years Eve. We’ll explore the system design, and ...
+
+- [Crane: Uber's Next-Gen Infrastructure Stack | Kurtis Nusbaum](https://www.youtube.com/watch?v=JQPTlrff8iU) - Uber has been on a multi-year journey to reimagine our infrastructure stack for a hybrid, multi-cloud world. The internal code name for this project is Crane. In this talk we’ll examine the original motivation behind Crane, requirements we needed to satisfy, and some key features of our implementation. Finally, we’ll wrap up with some forward-lookin...
+
 - [Nix & NixOS | Reproducible builds and deployments](https://nixos.org/) - Nix is a tool that takes a unique approach to package management and system configuration. Learn how to make reproducible, declarative and reliable systems.
 
 - [VSCodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
@@ -264,6 +266,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The story behind the iconic Vietnam episode of 'Hey Arnold!'](https://www.nbcnews.com/news/asian-america/story-behind-iconic-vietnam-episode-hey-arnold-n1273598) - For the 25th anniversary of the “Hey Arnold!” pilot, show creator Craig Bartlett talked to NBC Asian America about the storyline surrounding Mr. Hyunh, a Vietnamese refugee.
+
 - [The Cold War Over Hacking McDonald’s Ice Cream Machines](https://www.wired.com/story/they-hacked-mcdonalds-ice-cream-makers-started-cold-war/) - Secret codes. Legal threats. Betrayal. How one couple built a device to fix McDonald’s notoriously broken soft-serve machines—and how the fast-food giant froze them out.
 
 - [The Sobering Details Behind the Latest Seed Monopoly Chart](https://civileats.com/2019/01/11/the-sobering-details-behind-the-latest-seed-monopoly-chart/) - As four seed companies now control more than 60 percent of the global market, a seed policy expert argues that consolidation poses major risks to our food supply.
@@ -590,6 +594,8 @@ To view a single category, check the files/ folder.
 - [Complaint tablet to Ea-nasir](https://en.wikipedia.org/w/index.php?title=Complaint_tablet_to_Ea-nasir&oldid=1146263756) - The complaint tablet to Ea-nāṣir (UET V 81) is a clay tablet that was sent to ancient Ur, written c. 1750 BCE. It is a complaint to a merchant named Ea-nasir from a customer named Nanni. Written in Akkadian cuneiform, it is considered to be the oldest known written complaint. It is currently kept in the British Museum. The tablet has also become an ...
 
 # misc
+- [Holotypic Occlupanid Research Group](https://www.horg.com/horg) - This site contains ongoing research in the classification of occlupanids.
+
 - [I can't sleep](https://blog.paulbiggar.com/i-cant-sleep/) - I can't sleep. I'm lying in bed every night, and images of Gaza are running through my head. Fathers holding their babies, dead, caked in dust. Bombs dropped on homes, on hospitals, on schools. Tens of thousands of dead in indiscriminate bombings.
 
 - [Mechanical Watch – Bartosz Ciechanowski](https://ciechanow.ski/mechanical-watch/) - Interactive article explaining how a mechanical watch works.

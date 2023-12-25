@@ -1,6 +1,10 @@
 # computing_resources
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 
+- [The Lambda Service Behind Videos @ Meta: A New Years Eve Case Study | Zainab Zahid](https://www.youtube.com/watch?v=s3zsGS81A3M) - The Lambda Service Behind Videos @ Meta: A New Years Eve Case Study | Zainab Zahid  What happens at the stroke of midnight on December 31st? Other than the fireworks 🙂 In this talk, we’ll dive into the Lamba service that powers Videos@ Meta and we’ll see whats really happening behind the scenes on New Years Eve. We’ll explore the system design, and ...
+
+- [Crane: Uber's Next-Gen Infrastructure Stack | Kurtis Nusbaum](https://www.youtube.com/watch?v=JQPTlrff8iU) - Uber has been on a multi-year journey to reimagine our infrastructure stack for a hybrid, multi-cloud world. The internal code name for this project is Crane. In this talk we’ll examine the original motivation behind Crane, requirements we needed to satisfy, and some key features of our implementation. Finally, we’ll wrap up with some forward-lookin...
+
 - [Nix & NixOS | Reproducible builds and deployments](https://nixos.org/) - Nix is a tool that takes a unique approach to package management and system configuration. Learn how to make reproducible, declarative and reliable systems.
 
 - [VSCodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing

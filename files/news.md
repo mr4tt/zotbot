@@ -1,4 +1,6 @@
 # news
+- [The story behind the iconic Vietnam episode of 'Hey Arnold!'](https://www.nbcnews.com/news/asian-america/story-behind-iconic-vietnam-episode-hey-arnold-n1273598) - For the 25th anniversary of the “Hey Arnold!” pilot, show creator Craig Bartlett talked to NBC Asian America about the storyline surrounding Mr. Hyunh, a Vietnamese refugee.
+
 - [The Cold War Over Hacking McDonald’s Ice Cream Machines](https://www.wired.com/story/they-hacked-mcdonalds-ice-cream-makers-started-cold-war/) - Secret codes. Legal threats. Betrayal. How one couple built a device to fix McDonald’s notoriously broken soft-serve machines—and how the fast-food giant froze them out.
 
 - [The Sobering Details Behind the Latest Seed Monopoly Chart](https://civileats.com/2019/01/11/the-sobering-details-behind-the-latest-seed-monopoly-chart/) - As four seed companies now control more than 60 percent of the global market, a seed policy expert argues that consolidation poses major risks to our food supply.
