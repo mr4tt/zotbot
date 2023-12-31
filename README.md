@@ -594,6 +594,10 @@ To view a single category, check the files/ folder.
 - [Complaint tablet to Ea-nasir](https://en.wikipedia.org/w/index.php?title=Complaint_tablet_to_Ea-nasir&oldid=1146263756) - The complaint tablet to Ea-nāṣir (UET V 81) is a clay tablet that was sent to ancient Ur, written c. 1750 BCE. It is a complaint to a merchant named Ea-nasir from a customer named Nanni. Written in Akkadian cuneiform, it is considered to be the oldest known written complaint. It is currently kept in the British Museum. The tablet has also become an ...
 
 # misc
+- [Bubble Tea: A Breakdown](https://taiwandatastories.com/bubble-tea-guide/)
+
+- [Compromise](https://compromise.cool/)
+
 - [Holotypic Occlupanid Research Group](https://www.horg.com/horg) - This site contains ongoing research in the classification of occlupanids.
 
 - [I can't sleep](https://blog.paulbiggar.com/i-cant-sleep/) - I can't sleep. I'm lying in bed every night, and images of Gaza are running through my head. Fathers holding their babies, dead, caked in dust. Bombs dropped on homes, on hospitals, on schools. Tens of thousands of dead in indiscriminate bombings.
