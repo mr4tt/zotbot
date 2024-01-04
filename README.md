@@ -266,6 +266,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [How the Talmud Became a Best-Seller in South Korea](https://www.newyorker.com/books/page-turner/how-the-talmud-became-a-best-seller-in-south-korea) - In 2011, the South Korean Ambassador to Israel said on Israeli public television that “each Korean family has at least one copy of the Talmud.”
+
 - [The story behind the iconic Vietnam episode of 'Hey Arnold!'](https://www.nbcnews.com/news/asian-america/story-behind-iconic-vietnam-episode-hey-arnold-n1273598) - For the 25th anniversary of the “Hey Arnold!” pilot, show creator Craig Bartlett talked to NBC Asian America about the storyline surrounding Mr. Hyunh, a Vietnamese refugee.
 
 - [The Cold War Over Hacking McDonald’s Ice Cream Machines](https://www.wired.com/story/they-hacked-mcdonalds-ice-cream-makers-started-cold-war/) - Secret codes. Legal threats. Betrayal. How one couple built a device to fix McDonald’s notoriously broken soft-serve machines—and how the fast-food giant froze them out.
@@ -393,6 +395,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Nutri-Score](https://en.wikipedia.org/w/index.php?title=Nutri-Score&oldid=1191945284) - The Nutri-Score, also known as the 5-Colour Nutrition label or 5-CNL, is a five-colour nutrition label and nutritional rating system, and an attempt to simplify the nutritional rating system demonstrating the overall nutritional value of food products. It assigns products a rating letter from A (best) to E (worst), with associated colors from green ...
+
 - [Alex (parrot)](https://en.wikipedia.org/w/index.php?title=Alex_(parrot)&oldid=1187540125) - Alex (May 18, 1976 – September 6, 2007) was a grey parrot and the subject of a thirty-year experiment by animal psychologist Irene Pepperberg, initially at the University of Arizona and later at Harvard University and Brandeis University. When Alex was about one year old, Pepperberg bought him at a pet shop. In her book "Alex & Me", Pepperberg descr...
 
 - [AquAdvantage salmon](https://en.wikipedia.org/w/index.php?title=AquAdvantage_salmon&oldid=1187028882) - AquAdvantage salmon is a genetically engineered (GE) fish, a GE Atlantic salmon developed by AquaBounty Technologies in 1989. The typical  growth hormone-regulating gene  in the Atlantic salmon was replaced with the growth hormone-regulating gene from Pacific Chinook salmon, with a promoter sequence from ocean pout. This gene enables GM salmon to gr...
@@ -590,8 +594,6 @@ To view a single category, check the files/ folder.
 - [Robert Bork](https://en.wikipedia.org/w/index.php?title=Robert_Bork&oldid=1148934587) - Robert Heron Bork (March 1, 1927 – December 19, 2012) was an American jurist who served as the solicitor general of the United States from 1973 until 1977. A professor at Yale Law School by occupation, he was later acting U.S. attorney general and a judge on the U.S. Court of Appeals for the D.C. Circuit from 1982 to 1988. In 1987, President Ronald ...
 
 - [Lion of Gripsholm Castle](https://en.wikipedia.org/w/index.php?title=Lion_of_Gripsholm_Castle&oldid=1145956492) - The Lion of Gripsholm Castle is a notable example of bad taxidermy located in Gripsholm Castle, Sweden. The lion is badly stuffed and is considered to have a comically deformed face.In 1731, the Bey of Algiers presented King Frederick I of Sweden with a lion, one of the first lions in Scandinavia.  When alive, the lion was kept in a cage near Juniba...
-
-- [Complaint tablet to Ea-nasir](https://en.wikipedia.org/w/index.php?title=Complaint_tablet_to_Ea-nasir&oldid=1146263756) - The complaint tablet to Ea-nāṣir (UET V 81) is a clay tablet that was sent to ancient Ur, written c. 1750 BCE. It is a complaint to a merchant named Ea-nasir from a customer named Nanni. Written in Akkadian cuneiform, it is considered to be the oldest known written complaint. It is currently kept in the British Museum. The tablet has also become an ...
 
 # misc
 - [Bubble Tea: A Breakdown](https://taiwandatastories.com/bubble-tea-guide/)
