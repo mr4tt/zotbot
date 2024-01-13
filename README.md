@@ -117,6 +117,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Website Design Inspiration | Httpster](https://httpster.net/)
+
 - [The Bézier Game](http://bezier.method.ac) - A game to help you master the pen tool
 
 - [Kern Type](http://type.method.ac) - A game to learn how to kern type
@@ -152,6 +154,12 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # computing_resources
+- [Common commands | tldr InBrowser.App](https://tldr.inbrowser.app/pages/common)
+
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
+- [Getting started - Spectrum CSS](https://opensource.adobe.com/spectrum-css/get-started.html)
+
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 
 - [The Lambda Service Behind Videos @ Meta: A New Years Eve Case Study | Zainab Zahid](https://www.youtube.com/watch?v=s3zsGS81A3M) - The Lambda Service Behind Videos @ Meta: A New Years Eve Case Study | Zainab Zahid  What happens at the stroke of midnight on December 31st? Other than the fireworks 🙂 In this talk, we’ll dive into the Lamba service that powers Videos@ Meta and we’ll see whats really happening behind the scenes on New Years Eve. We’ll explore the system design, and ...
@@ -266,6 +274,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [McDonald’s Ice Cream Machine Hackers Say They Found the ‘Smoking Gun’ That Killed Their Startup](https://www.wired.com/story/kytch-taylor-mcdonalds-ice-cream-machine-smoking-gun/) - Kytch, the company that tried to fix McDonald’s broken ice cream machines, has unearthed a 3-year-old email it says proves claims of an alleged plot to undermine their business.
+
 - [How the Talmud Became a Best-Seller in South Korea](https://www.newyorker.com/books/page-turner/how-the-talmud-became-a-best-seller-in-south-korea) - In 2011, the South Korean Ambassador to Israel said on Israeli public television that “each Korean family has at least one copy of the Talmud.”
 
 - [The story behind the iconic Vietnam episode of 'Hey Arnold!'](https://www.nbcnews.com/news/asian-america/story-behind-iconic-vietnam-episode-hey-arnold-n1273598) - For the 25th anniversary of the “Hey Arnold!” pilot, show creator Craig Bartlett talked to NBC Asian America about the storyline surrounding Mr. Hyunh, a Vietnamese refugee.
@@ -395,6 +405,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Child Abusers Are Getting Better at Using Crypto to Cover Their Tracks](https://www.wired.com/story/csam-sellers-monero-rise/) - Crypto tracing firm Chainalysis found that sellers of child sexual abuse materials are successfully using “mixers” and “privacy coins” like Monero to launder their profits and evade law enforcement.
+
 - [Glorified rice](https://en.wikipedia.org/w/index.php?title=Glorified_rice&oldid=1176811015) - Glorified rice is a dessert salad popular in the Midwestern cuisine served in Minnesota and other states in the Upper Midwest, United States and other places with Norwegian populations. It is popular in more rural areas with sizable Lutheran populations of Scandinavian heritage. It is made from rice, crushed pineapple, and whipped cream. It is often...
 
 - [Nutri-Score](https://en.wikipedia.org/w/index.php?title=Nutri-Score&oldid=1191945284) - The Nutri-Score, also known as the 5-Colour Nutrition label or 5-CNL, is a five-colour nutrition label and nutritional rating system, and an attempt to simplify the nutritional rating system demonstrating the overall nutritional value of food products. It assigns products a rating letter from A (best) to E (worst), with associated colors from green ...
@@ -592,8 +604,6 @@ To view a single category, check the files/ folder.
 - [Winchester Mystery House](https://en.wikipedia.org/w/index.php?title=Winchester_Mystery_House&oldid=1146131249) - The Winchester Mystery House is a mansion in San Jose, California, that was once the personal residence of Sarah Winchester, the widow of firearms magnate William Wirt Winchester. The house became a tourist attraction nine months after Winchester's death in 1922. The Victorian and Gothic style mansion is renowned for its size and its architectural c...
 
 - [Portuguese man o' war](https://en.wikipedia.org/w/index.php?title=Portuguese_man_o%27_war&oldid=1149349729) - The Portuguese man o' war (Physalia physalis), also known as the man-of-war, is a marine hydrozoan found in the Atlantic Ocean and the Indian Ocean. It is considered to be the same species as the Pacific man o' war or blue bottle, which is found mainly in the Pacific Ocean. The Portuguese man o' war is the only species in the genus Physalia, which i...
-
-- [Robert Bork](https://en.wikipedia.org/w/index.php?title=Robert_Bork&oldid=1148934587) - Robert Heron Bork (March 1, 1927 – December 19, 2012) was an American jurist who served as the solicitor general of the United States from 1973 until 1977. A professor at Yale Law School by occupation, he was later acting U.S. attorney general and a judge on the U.S. Court of Appeals for the D.C. Circuit from 1982 to 1988. In 1987, President Ronald ...
 
 # misc
 - [Bubble Tea: A Breakdown](https://taiwandatastories.com/bubble-tea-guide/)

@@ -1,4 +1,10 @@
 # computing_resources
+- [Common commands | tldr InBrowser.App](https://tldr.inbrowser.app/pages/common)
+
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
+- [Getting started - Spectrum CSS](https://opensource.adobe.com/spectrum-css/get-started.html)
+
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 
 - [The Lambda Service Behind Videos @ Meta: A New Years Eve Case Study | Zainab Zahid](https://www.youtube.com/watch?v=s3zsGS81A3M) - The Lambda Service Behind Videos @ Meta: A New Years Eve Case Study | Zainab Zahid  What happens at the stroke of midnight on December 31st? Other than the fireworks 🙂 In this talk, we’ll dive into the Lamba service that powers Videos@ Meta and we’ll see whats really happening behind the scenes on New Years Eve. We’ll explore the system design, and ...

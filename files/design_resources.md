@@ -1,4 +1,6 @@
 # design_resources
+- [Website Design Inspiration | Httpster](https://httpster.net/)
+
 - [The Bézier Game](http://bezier.method.ac) - A game to help you master the pen tool
 
 - [Kern Type](http://type.method.ac) - A game to learn how to kern type
