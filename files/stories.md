@@ -1,4 +1,6 @@
 # stories
+- [Peaks and Valleys - Chapter 1 - clefairytea - Pocket Monsters | Pokemon (Main Video Game Series) [Archive of Our Own]](https://archiveofourown.org/works/8791510/chapters/20154553)
+
 - [The God of Arepo](https://reimenayee.com/the-god-of-arepo/) - Adaptation of the popular internet short story. Temples are made for gods. Knowing this a farmer builds one to see which god turns up.
 
 - [The Great Silence](https://electricliterature.com/the-great-silence-by-ted-chiang/) - “The Great Silence” by Ted Chiang The humans use Arecibo to look for extraterrestrial intelligence. Their desire to make a connection is so strong that they’ve created an ear capable of hearing across the universe. But I and my fellow parrots are right here. Why aren’t they interested in listening to our voices? We’re a nonhuman […]

@@ -14,6 +14,10 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # crochet
+- [DIY Crochet Pokemon - How to Crochet a Drifloon (Step by Step for Beginners)](https://www.youtube.com/watch?v=x3Hge-_sJYU)
+
+- [Free Crochet Pattern: Simple Strawberry](https://www.kapercrochet.com/free-pattern-simple-strawberry/)
+
 - [Glinting Eyes for Amigurumi – PlanetJune by June Gilbank: Blog](https://www.planetjune.com/blog/glinting-eyes-for-amigurumi/)
 
 - [Crochet Eyes Tutorial - An Alternative To Plastic Safety Eyes](https://www.graceandyarn.com/2018/03/crochet-eyes-tutorial-alternative-to.html)
@@ -40,6 +44,12 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [ボーカロイドたちがただﾃｯﾃｰﾃﾚｯﾃｰするだけ](https://www.youtube.com/watch?v=-iFEKeULaIo)
+
+- [he walk](https://www.youtube.com/watch?v=xa1Zn6XrDlM)
+
+- [Cat has a crazy deep meow](https://www.youtube.com/watch?v=w7x_lWJNnNg)
+
 - [義足のMoses](https://www.youtube.com/watch?v=byAfC5yW_hw)
 
 - [Nihilist Penguin (Werner Herzog)](https://www.youtube.com/watch?v=mnTU_hJoByA)
@@ -102,6 +112,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Ninite - Install or Update Multiple Apps at Once](https://ninite.com/)
+
 - [Snapdrop](https://snapdrop.net/) - Instantly share images, videos, PDFs, and links with people nearby. Peer2Peer and Open Source. No Setup, No Signup.
 
 - [Carbon](https://carbon.now.sh/) - Carbon is the easiest way to create and share beautiful images of your source code.
@@ -221,6 +233,8 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # stories
+- [Peaks and Valleys - Chapter 1 - clefairytea - Pocket Monsters | Pokemon (Main Video Game Series) [Archive of Our Own]](https://archiveofourown.org/works/8791510/chapters/20154553)
+
 - [The God of Arepo](https://reimenayee.com/the-god-of-arepo/) - Adaptation of the popular internet short story. Temples are made for gods. Knowing this a farmer builds one to see which god turns up.
 
 - [The Great Silence](https://electricliterature.com/the-great-silence-by-ted-chiang/) - “The Great Silence” by Ted Chiang The humans use Arecibo to look for extraterrestrial intelligence. Their desire to make a connection is so strong that they’ve created an ear capable of hearing across the universe. But I and my fellow parrots are right here. Why aren’t they interested in listening to our voices? We’re a nonhuman […]
@@ -405,6 +419,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Response to sneezing](https://en.wikipedia.org/w/index.php?title=Response_to_sneezing&oldid=1194916949) - In English-speaking countries, the common verbal response to another person's sneeze is "[God] bless you", or, less commonly in the United States and Canada, "Gesundheit", the German word for health (and the response to sneezing in German-speaking countries).  There are several proposed bless-you origins for use in the context of sneezing. In non-En...
+
 - [Child Abusers Are Getting Better at Using Crypto to Cover Their Tracks](https://www.wired.com/story/csam-sellers-monero-rise/) - Crypto tracing firm Chainalysis found that sellers of child sexual abuse materials are successfully using “mixers” and “privacy coins” like Monero to launder their profits and evade law enforcement.
 
 - [Glorified rice](https://en.wikipedia.org/w/index.php?title=Glorified_rice&oldid=1176811015) - Glorified rice is a dessert salad popular in the Midwestern cuisine served in Minnesota and other states in the Upper Midwest, United States and other places with Norwegian populations. It is popular in more rural areas with sizable Lutheran populations of Scandinavian heritage. It is made from rice, crushed pineapple, and whipped cream. It is often...
@@ -602,8 +618,6 @@ To view a single category, check the files/ folder.
 - [The Third Wave (experiment)](https://en.wikipedia.org/w/index.php?title=The_Third_Wave_(experiment)&oldid=1149144794) - The Third Wave was an experimental social movement created by California high school history teacher Ron Jones in 1967 to explain how the German population could have accepted the actions of the Nazi regime during the rise of the Third Reich and the Second World War.While Jones taught his students about Nazi Germany during his senior level Contempor...
 
 - [Winchester Mystery House](https://en.wikipedia.org/w/index.php?title=Winchester_Mystery_House&oldid=1146131249) - The Winchester Mystery House is a mansion in San Jose, California, that was once the personal residence of Sarah Winchester, the widow of firearms magnate William Wirt Winchester. The house became a tourist attraction nine months after Winchester's death in 1922. The Victorian and Gothic style mansion is renowned for its size and its architectural c...
-
-- [Portuguese man o' war](https://en.wikipedia.org/w/index.php?title=Portuguese_man_o%27_war&oldid=1149349729) - The Portuguese man o' war (Physalia physalis), also known as the man-of-war, is a marine hydrozoan found in the Atlantic Ocean and the Indian Ocean. It is considered to be the same species as the Pacific man o' war or blue bottle, which is found mainly in the Pacific Ocean. The Portuguese man o' war is the only species in the genus Physalia, which i...
 
 # misc
 - [Bubble Tea: A Breakdown](https://taiwandatastories.com/bubble-tea-guide/)

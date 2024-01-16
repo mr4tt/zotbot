@@ -1,4 +1,10 @@
 # videos
+- [ボーカロイドたちがただﾃｯﾃｰﾃﾚｯﾃｰするだけ](https://www.youtube.com/watch?v=-iFEKeULaIo)
+
+- [he walk](https://www.youtube.com/watch?v=xa1Zn6XrDlM)
+
+- [Cat has a crazy deep meow](https://www.youtube.com/watch?v=w7x_lWJNnNg)
+
 - [義足のMoses](https://www.youtube.com/watch?v=byAfC5yW_hw)
 
 - [Nihilist Penguin (Werner Herzog)](https://www.youtube.com/watch?v=mnTU_hJoByA)

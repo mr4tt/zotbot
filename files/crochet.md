@@ -1,4 +1,8 @@
 # crochet
+- [DIY Crochet Pokemon - How to Crochet a Drifloon (Step by Step for Beginners)](https://www.youtube.com/watch?v=x3Hge-_sJYU)
+
+- [Free Crochet Pattern: Simple Strawberry](https://www.kapercrochet.com/free-pattern-simple-strawberry/)
+
 - [Glinting Eyes for Amigurumi – PlanetJune by June Gilbank: Blog](https://www.planetjune.com/blog/glinting-eyes-for-amigurumi/)
 
 - [Crochet Eyes Tutorial - An Alternative To Plastic Safety Eyes](https://www.graceandyarn.com/2018/03/crochet-eyes-tutorial-alternative-to.html)

@@ -1,4 +1,6 @@
 # general_resources
+- [Ninite - Install or Update Multiple Apps at Once](https://ninite.com/)
+
 - [Snapdrop](https://snapdrop.net/) - Instantly share images, videos, PDFs, and links with people nearby. Peer2Peer and Open Source. No Setup, No Signup.
 
 - [Carbon](https://carbon.now.sh/) - Carbon is the easiest way to create and share beautiful images of your source code.
