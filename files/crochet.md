@@ -1,4 +1,12 @@
 # crochet
+- [Crochet Fruit Coasters Pattern - Repeat Crafter Me](https://www.repeatcrafterme.com/2013/04/crochet-fruit-coasters-pattern.html, https://www.repeatcrafterme.com/2013/04/crochet-fruit-coasters-pattern.html)
+
+- [How to Crochet the Fish Purse](https://www.youtube.com/watch?v=mFEynw7fQwY)
+
+- [Luffy Hat by Milayou on DeviantArt](https://www.deviantart.com/milayou/art/Luffy-Hat-625710825)
+
+- [Karen's Seattle Salmon pattern by Karen Mortensen](https://www.ravelry.com/patterns/library/karens-seattle-salmon)
+
 - [DIY Crochet Pokemon - How to Crochet a Drifloon (Step by Step for Beginners)](https://www.youtube.com/watch?v=x3Hge-_sJYU)
 
 - [Free Crochet Pattern: Simple Strawberry](https://www.kapercrochet.com/free-pattern-simple-strawberry/)

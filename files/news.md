@@ -1,4 +1,8 @@
 # news
+- [Tropicn: Tropicana withdraws letters 'AI' from its branding. Here's why](https://interestingengineering.com/innovation/tropicn-tropicana-withdraws-letters-ai-from-its-branding-heres-why) - The limited-time rebranding is really just a marketing stunt timed to coincide with CES 2024, one of the biggest tech showcases of the year.
+
+- [This Clever New Idea Could Fix AirTag Stalking While Maximizing Privacy](https://www.wired.com/story/apple-airtag-privacy-stalking-cryptographic-solution/) - Apple updated its location-tracking system in an attempt to cut down on AirTag abuse while still preserving privacy. Researchers think they’ve found a better balance.
+
 - [McDonald’s Ice Cream Machine Hackers Say They Found the ‘Smoking Gun’ That Killed Their Startup](https://www.wired.com/story/kytch-taylor-mcdonalds-ice-cream-machine-smoking-gun/) - Kytch, the company that tried to fix McDonald’s broken ice cream machines, has unearthed a 3-year-old email it says proves claims of an alleged plot to undermine their business.
 
 - [How the Talmud Became a Best-Seller in South Korea](https://www.newyorker.com/books/page-turner/how-the-talmud-became-a-best-seller-in-south-korea) - In 2011, the South Korean Ambassador to Israel said on Israeli public television that “each Korean family has at least one copy of the Talmud.”

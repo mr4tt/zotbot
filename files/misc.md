@@ -1,4 +1,8 @@
 # misc
+- [Before I reach my enemy, bring me some heads](https://samkriss.substack.com/p/before-i-reach-my-enemy-bring-me) - Lessons from the plagiarists of the steppe
+
+- [Can't Unsee](https://cantunsee.space/) - A game where you need to pick the design that is most correct. Test your attention to details!
+
 - [Bubble Tea: A Breakdown](https://taiwandatastories.com/bubble-tea-guide/)
 
 - [Compromise](https://compromise.cool/)

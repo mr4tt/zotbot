@@ -14,6 +14,14 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # crochet
+- [Crochet Fruit Coasters Pattern - Repeat Crafter Me](https://www.repeatcrafterme.com/2013/04/crochet-fruit-coasters-pattern.html, https://www.repeatcrafterme.com/2013/04/crochet-fruit-coasters-pattern.html)
+
+- [How to Crochet the Fish Purse](https://www.youtube.com/watch?v=mFEynw7fQwY)
+
+- [Luffy Hat by Milayou on DeviantArt](https://www.deviantart.com/milayou/art/Luffy-Hat-625710825)
+
+- [Karen's Seattle Salmon pattern by Karen Mortensen](https://www.ravelry.com/patterns/library/karens-seattle-salmon)
+
 - [DIY Crochet Pokemon - How to Crochet a Drifloon (Step by Step for Beginners)](https://www.youtube.com/watch?v=x3Hge-_sJYU)
 
 - [Free Crochet Pattern: Simple Strawberry](https://www.kapercrochet.com/free-pattern-simple-strawberry/)
@@ -112,6 +120,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work) - In 12 months, @aarondfrancis changed his life by bypassing fear and embracing risk. Now, he’s working his dream job @tuple. Get his full story on The ReadME Project:
+
 - [Ninite - Install or Update Multiple Apps at Once](https://ninite.com/)
 
 - [Snapdrop](https://snapdrop.net/) - Instantly share images, videos, PDFs, and links with people nearby. Peer2Peer and Open Source. No Setup, No Signup.
@@ -166,6 +176,8 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # computing_resources
+- [pragmatic_segmenter/README.md at master · diasks2/pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter/blob/master/README.md) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages. - diasks2/pragmatic_segmenter
+
 - [Common commands | tldr InBrowser.App](https://tldr.inbrowser.app/pages/common)
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
@@ -233,6 +245,8 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # stories
+- [Bad Doors](https://www.uncannymagazine.com/article/bad-doors/) - The country was at just over ten thousand deaths the morning that the door appeared. On Kosmo’s phone NPR was interviewing a doctor with a nasal voice about the need for social distancing, while Kosmo himself collected empty cans from around his home office. They were everywhere. Walls of recyclable cans dominated his room. Just […]
+
 - [Peaks and Valleys - Chapter 1 - clefairytea - Pocket Monsters | Pokemon (Main Video Game Series) [Archive of Our Own]](https://archiveofourown.org/works/8791510/chapters/20154553)
 
 - [The God of Arepo](https://reimenayee.com/the-god-of-arepo/) - Adaptation of the popular internet short story. Temples are made for gods. Knowing this a farmer builds one to see which god turns up.
@@ -288,6 +302,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Tropicn: Tropicana withdraws letters 'AI' from its branding. Here's why](https://interestingengineering.com/innovation/tropicn-tropicana-withdraws-letters-ai-from-its-branding-heres-why) - The limited-time rebranding is really just a marketing stunt timed to coincide with CES 2024, one of the biggest tech showcases of the year.
+
+- [This Clever New Idea Could Fix AirTag Stalking While Maximizing Privacy](https://www.wired.com/story/apple-airtag-privacy-stalking-cryptographic-solution/) - Apple updated its location-tracking system in an attempt to cut down on AirTag abuse while still preserving privacy. Researchers think they’ve found a better balance.
+
 - [McDonald’s Ice Cream Machine Hackers Say They Found the ‘Smoking Gun’ That Killed Their Startup](https://www.wired.com/story/kytch-taylor-mcdonalds-ice-cream-machine-smoking-gun/) - Kytch, the company that tried to fix McDonald’s broken ice cream machines, has unearthed a 3-year-old email it says proves claims of an alleged plot to undermine their business.
 
 - [How the Talmud Became a Best-Seller in South Korea](https://www.newyorker.com/books/page-turner/how-the-talmud-became-a-best-seller-in-south-korea) - In 2011, the South Korean Ambassador to Israel said on Israeli public television that “each Korean family has at least one copy of the Talmud.”
@@ -419,6 +437,10 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Chinese number gestures](https://en.wikipedia.org/w/index.php?title=Chinese_number_gestures&oldid=1186927843) - Chinese number gestures are a method to signify the natural numbers one through ten using one hand.  This method may have been developed to bridge the many varieties of Chinese—for example, the numbers 4 (Chinese: 四; pinyin: sì) and 10 (Chinese: 十; pinyin: shí) are hard to distinguish in some dialects. Some suggest that it was also used by business ...
+
+- [The purpose of a system is what it does](https://en.wikipedia.org/w/index.php?title=The_purpose_of_a_system_is_what_it_does&oldid=1195089743) - The purpose of a system is what it does (POSIWID) is a systems thinking heuristic coined by Stafford Beer, who observed that there is "no point in claiming that the purpose of a system is to do what it constantly fails to do." The term is widely used by systems theorists, and is generally invoked to counter the notion that the purpose of a system ca...
+
 - [Response to sneezing](https://en.wikipedia.org/w/index.php?title=Response_to_sneezing&oldid=1194916949) - In English-speaking countries, the common verbal response to another person's sneeze is "[God] bless you", or, less commonly in the United States and Canada, "Gesundheit", the German word for health (and the response to sneezing in German-speaking countries).  There are several proposed bless-you origins for use in the context of sneezing. In non-En...
 
 - [Child Abusers Are Getting Better at Using Crypto to Cover Their Tracks](https://www.wired.com/story/csam-sellers-monero-rise/) - Crypto tracing firm Chainalysis found that sellers of child sexual abuse materials are successfully using “mixers” and “privacy coins” like Monero to launder their profits and evade law enforcement.
@@ -615,11 +637,11 @@ To view a single category, check the files/ folder.
 
 - [Whale fall](https://en.wikipedia.org/w/index.php?title=Whale_fall&oldid=1146047663) - A whale fall occurs when the carcass of a whale has fallen onto the ocean floor at a depth greater than 1,000 m (3,300 ft), in the bathyal or abyssal zones. On the sea floor, these carcasses can create complex localized ecosystems that supply sustenance to deep-sea organisms for decades. This is unlike in shallower waters, where a whale carcass will...
 
-- [The Third Wave (experiment)](https://en.wikipedia.org/w/index.php?title=The_Third_Wave_(experiment)&oldid=1149144794) - The Third Wave was an experimental social movement created by California high school history teacher Ron Jones in 1967 to explain how the German population could have accepted the actions of the Nazi regime during the rise of the Third Reich and the Second World War.While Jones taught his students about Nazi Germany during his senior level Contempor...
-
-- [Winchester Mystery House](https://en.wikipedia.org/w/index.php?title=Winchester_Mystery_House&oldid=1146131249) - The Winchester Mystery House is a mansion in San Jose, California, that was once the personal residence of Sarah Winchester, the widow of firearms magnate William Wirt Winchester. The house became a tourist attraction nine months after Winchester's death in 1922. The Victorian and Gothic style mansion is renowned for its size and its architectural c...
-
 # misc
+- [Before I reach my enemy, bring me some heads](https://samkriss.substack.com/p/before-i-reach-my-enemy-bring-me) - Lessons from the plagiarists of the steppe
+
+- [Can't Unsee](https://cantunsee.space/) - A game where you need to pick the design that is most correct. Test your attention to details!
+
 - [Bubble Tea: A Breakdown](https://taiwandatastories.com/bubble-tea-guide/)
 
 - [Compromise](https://compromise.cool/)

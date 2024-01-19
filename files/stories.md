@@ -1,4 +1,6 @@
 # stories
+- [Bad Doors](https://www.uncannymagazine.com/article/bad-doors/) - The country was at just over ten thousand deaths the morning that the door appeared. On Kosmo’s phone NPR was interviewing a doctor with a nasal voice about the need for social distancing, while Kosmo himself collected empty cans from around his home office. They were everywhere. Walls of recyclable cans dominated his room. Just […]
+
 - [Peaks and Valleys - Chapter 1 - clefairytea - Pocket Monsters | Pokemon (Main Video Game Series) [Archive of Our Own]](https://archiveofourown.org/works/8791510/chapters/20154553)
 
 - [The God of Arepo](https://reimenayee.com/the-god-of-arepo/) - Adaptation of the popular internet short story. Temples are made for gods. Knowing this a farmer builds one to see which god turns up.

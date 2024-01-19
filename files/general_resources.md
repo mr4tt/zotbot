@@ -1,4 +1,6 @@
 # general_resources
+- [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work) - In 12 months, @aarondfrancis changed his life by bypassing fear and embracing risk. Now, he’s working his dream job @tuple. Get his full story on The ReadME Project:
+
 - [Ninite - Install or Update Multiple Apps at Once](https://ninite.com/)
 
 - [Snapdrop](https://snapdrop.net/) - Instantly share images, videos, PDFs, and links with people nearby. Peer2Peer and Open Source. No Setup, No Signup.
