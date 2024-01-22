@@ -1,4 +1,6 @@
 # misc
+- [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/) - A while back I answered a question on Quora: Can people actually keep up with note-taking in Mathematics lectures with LaTeX. There, I explained my workflow of taking lecture notes in LaTeX using Vim and how I draw figures in Inkscape. However, a lot has…
+
 - [Before I reach my enemy, bring me some heads](https://samkriss.substack.com/p/before-i-reach-my-enemy-bring-me) - Lessons from the plagiarists of the steppe
 
 - [Can't Unsee](https://cantunsee.space/) - A game where you need to pick the design that is most correct. Test your attention to details!

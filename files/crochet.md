@@ -1,4 +1,6 @@
 # crochet
+- [Amigurumi Patterns](https://www.loopycathrine.com/amigurumi-patterns)
+
 - [Crochet Fruit Coasters Pattern - Repeat Crafter Me](https://www.repeatcrafterme.com/2013/04/crochet-fruit-coasters-pattern.html, https://www.repeatcrafterme.com/2013/04/crochet-fruit-coasters-pattern.html)
 
 - [How to Crochet the Fish Purse](https://www.youtube.com/watch?v=mFEynw7fQwY)

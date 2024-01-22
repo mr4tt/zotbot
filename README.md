@@ -14,6 +14,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # crochet
+- [Amigurumi Patterns](https://www.loopycathrine.com/amigurumi-patterns)
+
 - [Crochet Fruit Coasters Pattern - Repeat Crafter Me](https://www.repeatcrafterme.com/2013/04/crochet-fruit-coasters-pattern.html, https://www.repeatcrafterme.com/2013/04/crochet-fruit-coasters-pattern.html)
 
 - [How to Crochet the Fish Purse](https://www.youtube.com/watch?v=mFEynw7fQwY)
@@ -43,6 +45,8 @@ To view a single category, check the files/ folder.
 - [How to make a Baby Seal - BEGINNER FRIENDLY - ALMOST NO SEW](https://www.youtube.com/watch?v=hlPHXrA2Qqg)
 
 # papers
+- [The possibility of making $\$138,000$ from shredded banknote pieces using computer vision](http://arxiv.org/abs/2401.06133) - Every country must dispose of old banknotes. At the Hong Kong Monetary Authority visitor center, visitors can buy a paperweight souvenir full of shredded banknotes. Even though the shredded banknotes are small, by using computer vision, it is possible to reconstruct the whole banknote like a jigsaw puzzle. Each paperweight souvenir costs $\$100$ HKD...
+
 - [Tangible bits: towards seamless interfaces between people, bits and atoms](https://dl.acm.org/doi/10.1145/258549.258715)
 
 - [BeyondCorp: A New Approach to Enterprise Security](https://research.google/pubs/pub43231/)
@@ -638,6 +642,8 @@ To view a single category, check the files/ folder.
 - [Whale fall](https://en.wikipedia.org/w/index.php?title=Whale_fall&oldid=1146047663) - A whale fall occurs when the carcass of a whale has fallen onto the ocean floor at a depth greater than 1,000 m (3,300 ft), in the bathyal or abyssal zones. On the sea floor, these carcasses can create complex localized ecosystems that supply sustenance to deep-sea organisms for decades. This is unlike in shallower waters, where a whale carcass will...
 
 # misc
+- [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/) - A while back I answered a question on Quora: Can people actually keep up with note-taking in Mathematics lectures with LaTeX. There, I explained my workflow of taking lecture notes in LaTeX using Vim and how I draw figures in Inkscape. However, a lot has…
+
 - [Before I reach my enemy, bring me some heads](https://samkriss.substack.com/p/before-i-reach-my-enemy-bring-me) - Lessons from the plagiarists of the steppe
 
 - [Can't Unsee](https://cantunsee.space/) - A game where you need to pick the design that is most correct. Test your attention to details!

@@ -1,4 +1,6 @@
 # papers
+- [The possibility of making $\$138,000$ from shredded banknote pieces using computer vision](http://arxiv.org/abs/2401.06133) - Every country must dispose of old banknotes. At the Hong Kong Monetary Authority visitor center, visitors can buy a paperweight souvenir full of shredded banknotes. Even though the shredded banknotes are small, by using computer vision, it is possible to reconstruct the whole banknote like a jigsaw puzzle. Each paperweight souvenir costs $\$100$ HKD...
+
 - [Tangible bits: towards seamless interfaces between people, bits and atoms](https://dl.acm.org/doi/10.1145/258549.258715)
 
 - [BeyondCorp: A New Approach to Enterprise Security](https://research.google/pubs/pub43231/)
