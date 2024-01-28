@@ -306,6 +306,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Computer scientists designing the future can’t agree on what privacy means](https://www.technologyreview.com/2023/04/03/1070665/cmu-university-privacy-battle-smart-building-sensors-mites/) - Researchers at Carnegie Mellon University wanted to create a privacy-preserving smart sensor. Then, they were accused of violating their colleagues’ privacy.
+
 - [Tropicn: Tropicana withdraws letters 'AI' from its branding. Here's why](https://interestingengineering.com/innovation/tropicn-tropicana-withdraws-letters-ai-from-its-branding-heres-why) - The limited-time rebranding is really just a marketing stunt timed to coincide with CES 2024, one of the biggest tech showcases of the year.
 
 - [This Clever New Idea Could Fix AirTag Stalking While Maximizing Privacy](https://www.wired.com/story/apple-airtag-privacy-stalking-cryptographic-solution/) - Apple updated its location-tracking system in an attempt to cut down on AirTag abuse while still preserving privacy. Researchers think they’ve found a better balance.
@@ -441,6 +443,10 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Hand of Glory](https://en.wikipedia.org/w/index.php?title=Hand_of_Glory&oldid=1191567439) - A Hand of Glory is the dried and pickled hand of a hanged man, often specified as being the left (Latin: sinister) hand, or, if the person was hanged for murder, the hand that "did the deed." Old European beliefs attribute great powers to a Hand of Glory combined with a candle made from fat from the corpse of the same malefactor who died on the gall...
+
+- [Beagle Brigade](https://en.wikipedia.org/w/index.php?title=Beagle_Brigade&oldid=1197943839) - Beagle Brigade is a team of beagles and their human handlers who, as part of the United States Department of Agriculture's Animal and Plant Health Inspection Service (APHIS), inspect luggage at U.S. airports searching for agricultural products.  According to the USDA, the Beagle Brigade program averages around 75,000 seizures of prohibited agricultu...
+
 - [China–Hong Kong football rivalry](https://en.wikipedia.org/w/index.php?title=China–Hong_Kong_football_rivalry&oldid=1193679365) - The China–Hong Kong football rivalry is a sports rivalry between the national association football teams of the People's Republic of China and Hong Kong. The rivalry has been exacerbated by Hong Kong's status as a Special Administrative Region of China, with major political and ideological differences than on the mainland, a legacy of having been un...
 
 - [Chinese number gestures](https://en.wikipedia.org/w/index.php?title=Chinese_number_gestures&oldid=1186927843) - Chinese number gestures are a method to signify the natural numbers one through ten using one hand.  This method may have been developed to bridge the many varieties of Chinese—for example, the numbers 4 (Chinese: 四; pinyin: sì) and 10 (Chinese: 十; pinyin: shí) are hard to distinguish in some dialects. Some suggest that it was also used by business ...
@@ -637,11 +643,13 @@ To view a single category, check the files/ folder.
 
 - [Operation Legacy](https://en.wikipedia.org/w/index.php?title=Operation_Legacy&oldid=1152151235) - Operation Legacy was a British Colonial Office (later Foreign Office) programme to destroy or hide files, to prevent them being inherited by its ex-colonies. It ran from the 1950s until the 1970s, when the decolonisation of the British Empire was at its height.
 
-- [Mill Ends Park](https://en.wikipedia.org/w/index.php?title=Mill_Ends_Park&oldid=1151008967) - Mill Ends Park (sometimes mistakenly called Mill's End Park) is a tiny urban park, consisting of one tree, located in the median strip of SW Naito Parkway next to Tom McCall Waterfront Park along the Willamette River near SW Taylor Street in downtown Portland, Oregon, United States. The park is a small circle 2 ft (0.61 m) across, with a total area ...
-
-- [AlphaBay](https://en.wikipedia.org/w/index.php?title=AlphaBay&oldid=1147581630) - AlphaBay is a darknet market operating both as an onion service on the Tor network and as an I2P node on I2P. After it was shut down in July 2017 following law enforcement action in the United States, Canada, and Thailand as part of Operation Bayonet, it was relaunched in August 2021 by the self-described co-founder and security administrator DeSnak...
-
 # misc
+- [Tumblr](https://embed.tumblr.com/widgets/share/button?canonicalUrl=http%3A%2F%2Fwww.fantasticmaps.com%2F2015%2F02%2Fhow-to-draw-a-map%2F&postcontent%5Btitle%5D=How%20to%20draw%20a%20map&postcontent%5Bcontent%5D=http%3A%2F%2Fwww.fantasticmaps.com%2F2015%2F02%2Fhow-to-draw-a-map%2F)
+
+- [Home | The Bulwer-Lytton Fiction Contest](https://www.bulwer-lytton.com) - A whimsical literary competition for the worst possible opening sentences to novels never written.
+
+- [Baking a Hello World Cake](https://www.mike-worth.com/2013/03/31/baking-a-hello-world-cake/) - I have a soft spot for esoteric programming languages. They are (usually) perfectly functional languages, in the rather loose sense that they are Turing complete and thus capable of solving all the…
+
 - [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/) - A while back I answered a question on Quora: Can people actually keep up with note-taking in Mathematics lectures with LaTeX. There, I explained my workflow of taking lecture notes in LaTeX using Vim and how I draw figures in Inkscape. However, a lot has…
 
 - [Before I reach my enemy, bring me some heads](https://samkriss.substack.com/p/before-i-reach-my-enemy-bring-me) - Lessons from the plagiarists of the steppe

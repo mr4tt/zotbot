@@ -1,4 +1,10 @@
 # misc
+- [Tumblr](https://embed.tumblr.com/widgets/share/button?canonicalUrl=http%3A%2F%2Fwww.fantasticmaps.com%2F2015%2F02%2Fhow-to-draw-a-map%2F&postcontent%5Btitle%5D=How%20to%20draw%20a%20map&postcontent%5Bcontent%5D=http%3A%2F%2Fwww.fantasticmaps.com%2F2015%2F02%2Fhow-to-draw-a-map%2F)
+
+- [Home | The Bulwer-Lytton Fiction Contest](https://www.bulwer-lytton.com) - A whimsical literary competition for the worst possible opening sentences to novels never written.
+
+- [Baking a Hello World Cake](https://www.mike-worth.com/2013/03/31/baking-a-hello-world-cake/) - I have a soft spot for esoteric programming languages. They are (usually) perfectly functional languages, in the rather loose sense that they are Turing complete and thus capable of solving all the…
+
 - [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/) - A while back I answered a question on Quora: Can people actually keep up with note-taking in Mathematics lectures with LaTeX. There, I explained my workflow of taking lecture notes in LaTeX using Vim and how I draw figures in Inkscape. However, a lot has…
 
 - [Before I reach my enemy, bring me some heads](https://samkriss.substack.com/p/before-i-reach-my-enemy-bring-me) - Lessons from the plagiarists of the steppe
