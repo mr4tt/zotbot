@@ -1,4 +1,8 @@
 # misc
+- [papercraft library](https://sneepsnorp3d.com/papercraft-library)
+
+- [Radium Girls](https://www.emigennis.com/radium-girls)
+
 - [Tumblr](https://embed.tumblr.com/widgets/share/button?canonicalUrl=http%3A%2F%2Fwww.fantasticmaps.com%2F2015%2F02%2Fhow-to-draw-a-map%2F&postcontent%5Btitle%5D=How%20to%20draw%20a%20map&postcontent%5Bcontent%5D=http%3A%2F%2Fwww.fantasticmaps.com%2F2015%2F02%2Fhow-to-draw-a-map%2F)
 
 - [Home | The Bulwer-Lytton Fiction Contest](https://www.bulwer-lytton.com) - A whimsical literary competition for the worst possible opening sentences to novels never written.

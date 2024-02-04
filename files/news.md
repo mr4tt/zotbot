@@ -1,4 +1,6 @@
 # news
+- [AI Cameras Took Over One Small American Town. Now They're Everywhere](https://www.404media.co/fusus-ai-cameras-took-over-town-america/) - Hundreds of documents obtained by 404 Media show how Fusus, a system for linking a town’s security cameras into one central hub and adding AI to them, has spread across the country.
+
 - [Computer scientists designing the future can’t agree on what privacy means](https://www.technologyreview.com/2023/04/03/1070665/cmu-university-privacy-battle-smart-building-sensors-mites/) - Researchers at Carnegie Mellon University wanted to create a privacy-preserving smart sensor. Then, they were accused of violating their colleagues’ privacy.
 
 - [Tropicn: Tropicana withdraws letters 'AI' from its branding. Here's why](https://interestingengineering.com/innovation/tropicn-tropicana-withdraws-letters-ai-from-its-branding-heres-why) - The limited-time rebranding is really just a marketing stunt timed to coincide with CES 2024, one of the biggest tech showcases of the year.

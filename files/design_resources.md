@@ -1,4 +1,14 @@
 # design_resources
+- [A precise, three-word address for every place on earth | Chris Sheldrick - YouTube](https://www.youtube.com/watch?v=a4ZBzM3L6ws)
+
+- [One Page Love - One Page Website Inspiration and Templates](https://onepagelove.com) - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
+
+- [Brutalist Websites](https://brutalistwebsites.com/)
+
+- [Stack Sorted.](https://stacksorted.com) - Find Inspiration in Design Elements.
+
+- [DesignWanted](https://designwanted.com) - Design magazine
+
 - [Website Design Inspiration | Httpster](https://httpster.net/)
 
 - [The Bézier Game](http://bezier.method.ac) - A game to help you master the pen tool

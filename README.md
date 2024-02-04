@@ -124,6 +124,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [How to be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic) - On a supposedly difficult thing
+
 - [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work) - In 12 months, @aarondfrancis changed his life by bypassing fear and embracing risk. Now, he’s working his dream job @tuple. Get his full story on The ReadME Project:
 
 - [Ninite - Install or Update Multiple Apps at Once](https://ninite.com/)
@@ -143,6 +145,16 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [A precise, three-word address for every place on earth | Chris Sheldrick - YouTube](https://www.youtube.com/watch?v=a4ZBzM3L6ws)
+
+- [One Page Love - One Page Website Inspiration and Templates](https://onepagelove.com) - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
+
+- [Brutalist Websites](https://brutalistwebsites.com/)
+
+- [Stack Sorted.](https://stacksorted.com) - Find Inspiration in Design Elements.
+
+- [DesignWanted](https://designwanted.com) - Design magazine
+
 - [Website Design Inspiration | Httpster](https://httpster.net/)
 
 - [The Bézier Game](http://bezier.method.ac) - A game to help you master the pen tool
@@ -180,6 +192,14 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # computing_resources
+- [r4victor/brtlx](https://github.com/r4victor/brtlx) - 📚💻 Content for https://bestresourcestolearnx.com
+
+- [How Levels.fyi scaled to millions of users with Google Sheets as a backend](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html) - Our philosophy to scaling is simple, avoid premature optimization
+
+- [Glaze - What is Glaze](https://glaze.cs.uchicago.edu/what-is-glaze.html)
+
+- [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) - CSS Grid is an incredibly powerful tool for building layouts on the web, but like all powerful tools, there's a significant learning curve. In this tutorial, we'll build a mental model for how CSS Grid works and how we can use it effectively. I'll share the biggest 💡 lightbulb moments I've had in my own learning journey.
+
 - [dbdiagram.io - Database Relationship Diagrams Design Tool](https://dbdiagram.io/home) - Quick and simple free tool to help you draw your database relationship diagrams and flow quickly using simple DSL language.
 
 - [pragmatic_segmenter/README.md at master · diasks2/pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter/blob/master/README.md) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages. - diasks2/pragmatic_segmenter
@@ -308,6 +328,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [AI Cameras Took Over One Small American Town. Now They're Everywhere](https://www.404media.co/fusus-ai-cameras-took-over-town-america/) - Hundreds of documents obtained by 404 Media show how Fusus, a system for linking a town’s security cameras into one central hub and adding AI to them, has spread across the country.
+
 - [Computer scientists designing the future can’t agree on what privacy means](https://www.technologyreview.com/2023/04/03/1070665/cmu-university-privacy-battle-smart-building-sensors-mites/) - Researchers at Carnegie Mellon University wanted to create a privacy-preserving smart sensor. Then, they were accused of violating their colleagues’ privacy.
 
 - [Tropicn: Tropicana withdraws letters 'AI' from its branding. Here's why](https://interestingengineering.com/innovation/tropicn-tropicana-withdraws-letters-ai-from-its-branding-heres-why) - The limited-time rebranding is really just a marketing stunt timed to coincide with CES 2024, one of the biggest tech showcases of the year.
@@ -445,6 +467,18 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Mystery Seeker](https://en.wikipedia.org/w/index.php?title=Mystery_Seeker&oldid=1146656552) - Mystery Seeker was a website based on the Google search engine. that until November 30, 2009 had been known as Mystery Google.  The WHOIS domain name record for mysterygoogle.com was created on 10 February 2009 with registrant Google Inc, but since February 26, 2017 it has had no website.  The website has been featured in a number of technology blog...
+
+- [Reverse Polish notation](https://en.wikipedia.org/w/index.php?title=Reverse_Polish_notation&oldid=1199898249) - Reverse Polish notation (RPN), also known as reverse Łukasiewicz notation, Polish postfix notation or simply postfix notation, is a mathematical notation in which operators follow their operands, in contrast to prefix or Polish notation (PN), in which operators precede their operands. The notation does not need any parentheses for as long as each op...
+
+- [Lake Nyos disaster](https://en.wikipedia.org/w/index.php?title=Lake_Nyos_disaster&oldid=1198146078) - On 21 August 1986, a limnic eruption at Lake Nyos in northwestern Cameroon killed 1,746 people and 3,500 livestock.The eruption triggered the sudden release of about 100,000–300,000 tons (1.6 million tons, according to some sources) of carbon dioxide (CO2). The gas cloud initially rose at nearly 100 kilometres per hour (62 mph; 28 m/s) and then, bei...
+
+- [Mass suicides in 1945 Nazi Germany](https://en.wikipedia.org/w/index.php?title=Mass_suicides_in_1945_Nazi_Germany&oldid=1195387051) - During the final weeks of Nazi Germany and World War II in Europe, many civilians, government officials, and military personnel throughout Germany and German-occupied Europe committed suicide. In addition to high-ranking Nazi officials like Adolf Hitler, Joseph Goebbels, Heinrich Himmler, Philipp Bouhler, and Martin Bormann, many others chose suicid...
+
+- [Road of Life](https://en.wikipedia.org/w/index.php?title=Road_of_Life&oldid=1189240814) - The Road of Life (Доро́га жи́зни, doroga žizni) was the set of ice road transport routes across Lake Ladoga to Leningrad during the Second World War. They were the only Soviet winter surface routes into the city while it was besieged by the German Army Group North under Feldmarschall Wilhelm Ritter von Leeb.The routes operated in the winters of 1941...
+
+- [Sanrizuka Struggle](https://en.wikipedia.org/w/index.php?title=Sanrizuka_Struggle&oldid=1187611033) - The Sanrizuka Struggle (三里塚闘争, Sanrizuka tōsō) refers to a civil conflict and riots involving the Japanese government and the agricultural community of Sanrizuka, comprising organised opposition by farmers, local residents, and leftist groups to the construction of Narita International Airport (then New Tokyo International Airport). The struggle ste...
+
 - [Page 3](https://en.wikipedia.org/w/index.php?title=Page_3&oldid=1193363611) - Page 3, or Page Three, was a British newspaper convention of publishing a large image of a topless female glamour model (known as a Page 3 girl) on the third page of mainstream red-top tabloids. The Sun introduced the feature in November 1970, which boosted its readership and prompted competing tabloids—including The Daily Mirror, The Sunday People,...
 
 - [Anti-computer tactics](https://en.wikipedia.org/w/index.php?title=Anti-computer_tactics&oldid=1181771353) - Anti-computer tactics are methods used by humans to try to beat computer opponents at various games, most typically board games such as chess and Arimaa.  They are most associated with competitions against computer AIs that are playing to their utmost to win, rather than AIs merely programmed to be an interesting challenge that can be given intentio...
@@ -633,19 +667,11 @@ To view a single category, check the files/ folder.
 
 - [MaxMind](https://en.wikipedia.org/w/index.php?title=MaxMind&oldid=1155172645) - MaxMind is a Massachusetts-based data company that provides location data for IP addresses and other data for IP addresses, and fraud detection data used to screen hundreds of millions of online transactions monthly for more than 7,000 businesses.
 
-- [Interservice rivalry](https://en.wikipedia.org/w/index.php?title=Interservice_rivalry&oldid=1152663362) - Interservice rivalry is rivalry between different branches of a country's armed forces. This may include competition between land, marine, naval, coastal, air, or space forces.Interservice rivalry can occur over such topics as the appropriation of the military budget, prestige, or the possession of certain types of equipment or units. The latter cas...
-
-- [Kodinhi](https://en.wikipedia.org/w/index.php?title=Kodinhi&oldid=1147115751) - Kodinhi is a village in Malappuram district in Kerala, India. The village is situated close to the town of Tirurangadi and, as of 2008, is home to around 2,000 families. Administered by the Nannambra panchayat, the village came to international attention for the unusually large number of multiple births in the region, especially twins, although Indi...
-
-- [Hyper Text Coffee Pot Control Protocol](https://en.wikipedia.org/w/index.php?title=Hyper_Text_Coffee_Pot_Control_Protocol&oldid=1151694030) - The Hyper Text Coffee Pot Control Protocol (HTCPCP) is a facetious communication protocol for controlling, monitoring, and diagnosing coffee pots. It is specified in RFC 2324, published on 1 April 1998 as an April Fools' Day RFC, as part of an April Fools prank. An extension, HTCPCP-TEA, was published as RFC 7168 on 1 April 2014 to support brewing t...
-
-- [<i>Kremen v. Cohen</i>](https://en.wikipedia.org/w/index.php?title=Kremen_v._Cohen&oldid=1146734203) - Kremen v. Cohen, 337 F.3d 1024 (9th Cir., 2003), was a court ruling at the United States Court of Appeals for the Ninth Circuit. The ruling was an important early cyberlaw precedent, determining that an Internet domain name is an item of property that can be bought, sold, and stolen.
-
-- [Abdul Qadeer Khan](https://en.wikipedia.org/w/index.php?title=Abdul_Qadeer_Khan&oldid=1152219137) - Abdul Qadeer Khan, NI, HI, FPAS ( (listen); Urdu: عبد القدیر خان; 1 April 1936 – 10 October 2021), known as A. Q. Khan, was a Pakistani nuclear physicist and metallurgical engineer who is colloquially known as the "father of Pakistan's atomic weapons program".An émigré (Muhajir) from India who migrated to Pakistan in 1952, Khan was educated in the m...
-
-- [Henry Molaison](https://en.wikipedia.org/w/index.php?title=Henry_Molaison&oldid=1153648933) - Henry Gustav Molaison (February 26, 1926 – December 2, 2008), known widely as H.M., was an American who had a bilateral medial temporal lobectomy to surgically resect the anterior two thirds of his hippocampi, parahippocampal cortices, entorhinal cortices, piriform cortices, and amygdalae in an attempt to cure his epilepsy. Although the surgery was ...
-
 # misc
+- [papercraft library](https://sneepsnorp3d.com/papercraft-library)
+
+- [Radium Girls](https://www.emigennis.com/radium-girls)
+
 - [Tumblr](https://embed.tumblr.com/widgets/share/button?canonicalUrl=http%3A%2F%2Fwww.fantasticmaps.com%2F2015%2F02%2Fhow-to-draw-a-map%2F&postcontent%5Btitle%5D=How%20to%20draw%20a%20map&postcontent%5Bcontent%5D=http%3A%2F%2Fwww.fantasticmaps.com%2F2015%2F02%2Fhow-to-draw-a-map%2F)
 
 - [Home | The Bulwer-Lytton Fiction Contest](https://www.bulwer-lytton.com) - A whimsical literary competition for the worst possible opening sentences to novels never written.

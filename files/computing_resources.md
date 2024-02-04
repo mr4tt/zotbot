@@ -1,4 +1,12 @@
 # computing_resources
+- [r4victor/brtlx](https://github.com/r4victor/brtlx) - 📚💻 Content for https://bestresourcestolearnx.com
+
+- [How Levels.fyi scaled to millions of users with Google Sheets as a backend](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html) - Our philosophy to scaling is simple, avoid premature optimization
+
+- [Glaze - What is Glaze](https://glaze.cs.uchicago.edu/what-is-glaze.html)
+
+- [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) - CSS Grid is an incredibly powerful tool for building layouts on the web, but like all powerful tools, there's a significant learning curve. In this tutorial, we'll build a mental model for how CSS Grid works and how we can use it effectively. I'll share the biggest 💡 lightbulb moments I've had in my own learning journey.
+
 - [dbdiagram.io - Database Relationship Diagrams Design Tool](https://dbdiagram.io/home) - Quick and simple free tool to help you draw your database relationship diagrams and flow quickly using simple DSL language.
 
 - [pragmatic_segmenter/README.md at master · diasks2/pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter/blob/master/README.md) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages. - diasks2/pragmatic_segmenter
