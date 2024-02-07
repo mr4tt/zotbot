@@ -145,6 +145,10 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [RUBBISH!](https://www.wweek.com/portland/article-1616-rubbish.html-2) - It's past midnight. Over the whump of the wipers and the screech of the fan   belt, we lurch through the side streets of Southeast Portland in a battered   white van, double-checking our toolkit: flas ...,News
+
+- [Essays](https://jonathanhoefler.com/writing) - Articles by Jonathan Hoefler
+
 - [A precise, three-word address for every place on earth | Chris Sheldrick - YouTube](https://www.youtube.com/watch?v=a4ZBzM3L6ws)
 
 - [One Page Love - One Page Website Inspiration and Templates](https://onepagelove.com) - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
@@ -192,6 +196,16 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # computing_resources
+- [jvns/pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
+
+- [discord.js Guide](https://discordjs.guide/) - Imagine a guide... that explores the many possibilities for your discord.js bot.
+
+- [wizard zines](https://wizardzines.com/)
+
+- [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example web application written in Go.
+
+- [I heard you like polyrhythms](https://www.youtube.com/watch?v=SthcxWPXG_E) - I've been watching this YouTube channel called ProjectJDM with these oddly satisfying pendulum-like sequences and I thought it would be cool if someone made a full song out of that concept :)  Project file available on Patreon   / virtualriot    Inspiration: https://www.youtube.com/@project_jdm/...
+
 - [r4victor/brtlx](https://github.com/r4victor/brtlx) - 📚💻 Content for https://bestresourcestolearnx.com
 
 - [How Levels.fyi scaled to millions of users with Google Sheets as a backend](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html) - Our philosophy to scaling is simple, avoid premature optimization
@@ -328,6 +342,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- ['Date Me' Google Docs and the Hyper-Optimized Quest for Love](https://www.wired.com/story/date-me-google-docs-and-the-hyper-optimized-quest-for-love/) - Some people have ditched dating apps—and opted to bare their souls via a public, view-only link instead.
+
 - [AI Cameras Took Over One Small American Town. Now They're Everywhere](https://www.404media.co/fusus-ai-cameras-took-over-town-america/) - Hundreds of documents obtained by 404 Media show how Fusus, a system for linking a town’s security cameras into one central hub and adding AI to them, has spread across the country.
 
 - [Computer scientists designing the future can’t agree on what privacy means](https://www.technologyreview.com/2023/04/03/1070665/cmu-university-privacy-battle-smart-building-sensors-mites/) - Researchers at Carnegie Mellon University wanted to create a privacy-preserving smart sensor. Then, they were accused of violating their colleagues’ privacy.
@@ -467,6 +483,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Pirate Party of Catalonia](https://en.wikipedia.org/w/index.php?title=Pirate_Party_of_Catalonia&oldid=1195753686) - Pirates of Catalonia (Catalan: Pirates de Catalunya, PIRATA.CAT) is a political party in Catalonia. The party is based on the model of the Swedish Pirate Party and is a member of the Pirate Parties International, it supports intellectual property reform, open access to culture and knowledge, transparency and direct democracy.The party was founded in...
+
 - [Mystery Seeker](https://en.wikipedia.org/w/index.php?title=Mystery_Seeker&oldid=1146656552) - Mystery Seeker was a website based on the Google search engine. that until November 30, 2009 had been known as Mystery Google.  The WHOIS domain name record for mysterygoogle.com was created on 10 February 2009 with registrant Google Inc, but since February 26, 2017 it has had no website.  The website has been featured in a number of technology blog...
 
 - [Reverse Polish notation](https://en.wikipedia.org/w/index.php?title=Reverse_Polish_notation&oldid=1199898249) - Reverse Polish notation (RPN), also known as reverse Łukasiewicz notation, Polish postfix notation or simply postfix notation, is a mathematical notation in which operators follow their operands, in contrast to prefix or Polish notation (PN), in which operators precede their operands. The notation does not need any parentheses for as long as each op...
@@ -665,9 +683,9 @@ To view a single category, check the files/ folder.
 
 - [List of animals awarded human credentials](https://en.wikipedia.org/w/index.php?title=List_of_animals_awarded_human_credentials&oldid=1143954660) - This list of animals awarded human credentials includes nonhuman animals who have been submitted as applicants to suspected diploma mills, and have been awarded a diploma. On occasion, they have been admitted and granted a degree, as reported in reliable sources. Animals are often used as a device to clearly demonstrate the lax standards or fraudule...
 
-- [MaxMind](https://en.wikipedia.org/w/index.php?title=MaxMind&oldid=1155172645) - MaxMind is a Massachusetts-based data company that provides location data for IP addresses and other data for IP addresses, and fraud detection data used to screen hundreds of millions of online transactions monthly for more than 7,000 businesses.
-
 # misc
+- ["Apocryphal Inventions," an exploration of Generative AI](https://jonathanhoefler.com/inventions) - "Apocryphal Inventions" by Jonathan Hoefler: An exploration of Generative AI
+
 - [papercraft library](https://sneepsnorp3d.com/papercraft-library)
 
 - [Radium Girls](https://www.emigennis.com/radium-girls)

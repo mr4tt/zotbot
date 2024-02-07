@@ -1,4 +1,14 @@
 # computing_resources
+- [jvns/pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
+
+- [discord.js Guide](https://discordjs.guide/) - Imagine a guide... that explores the many possibilities for your discord.js bot.
+
+- [wizard zines](https://wizardzines.com/)
+
+- [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example web application written in Go.
+
+- [I heard you like polyrhythms](https://www.youtube.com/watch?v=SthcxWPXG_E) - I've been watching this YouTube channel called ProjectJDM with these oddly satisfying pendulum-like sequences and I thought it would be cool if someone made a full song out of that concept :)  Project file available on Patreon   / virtualriot    Inspiration: https://www.youtube.com/@project_jdm/...
+
 - [r4victor/brtlx](https://github.com/r4victor/brtlx) - 📚💻 Content for https://bestresourcestolearnx.com
 
 - [How Levels.fyi scaled to millions of users with Google Sheets as a backend](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html) - Our philosophy to scaling is simple, avoid premature optimization

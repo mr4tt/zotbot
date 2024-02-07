@@ -1,4 +1,6 @@
 # misc
+- ["Apocryphal Inventions," an exploration of Generative AI](https://jonathanhoefler.com/inventions) - "Apocryphal Inventions" by Jonathan Hoefler: An exploration of Generative AI
+
 - [papercraft library](https://sneepsnorp3d.com/papercraft-library)
 
 - [Radium Girls](https://www.emigennis.com/radium-girls)

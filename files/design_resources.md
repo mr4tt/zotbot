@@ -1,4 +1,8 @@
 # design_resources
+- [RUBBISH!](https://www.wweek.com/portland/article-1616-rubbish.html-2) - It's past midnight. Over the whump of the wipers and the screech of the fan   belt, we lurch through the side streets of Southeast Portland in a battered   white van, double-checking our toolkit: flas ...,News
+
+- [Essays](https://jonathanhoefler.com/writing) - Articles by Jonathan Hoefler
+
 - [A precise, three-word address for every place on earth | Chris Sheldrick - YouTube](https://www.youtube.com/watch?v=a4ZBzM3L6ws)
 
 - [One Page Love - One Page Website Inspiration and Templates](https://onepagelove.com) - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
