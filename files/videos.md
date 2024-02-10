@@ -1,4 +1,18 @@
 # videos
+- [A precise, three-word address for every place on earth | Chris Sheldrick](https://www.youtube.com/watch?v=a4ZBzM3L6ws)
+
+- [Watch What Happens When a Portrait Artist Takes LSD](https://www.youtube.com/watch?v=n4Sb8jCJUTw)
+
+- [everything will be ok](https://www.youtube.com/watch?v=_DEbVM6tgmk)
+
+- [SLEEPY TOM](https://www.youtube.com/watch?v=CDBqSSMQKNw)
+
+- [ROBLOX_OOF.mp3](https://www.youtube.com/watch?v=0twDETh6QaI)
+
+- [Plagiarism and You(Tube)](https://www.youtube.com/watch?v=yDp3cB5fHXQ)
+
+- [Disney Channel's Theme: A History Mystery](https://www.youtube.com/watch?v=b_rjBWmc1iQ)
+
 - [ボーカロイドたちがただﾃｯﾃｰﾃﾚｯﾃｰするだけ](https://www.youtube.com/watch?v=-iFEKeULaIo)
 
 - [he walk](https://www.youtube.com/watch?v=xa1Zn6XrDlM)
@@ -40,12 +54,6 @@
 - [The Vanishing of Flight 370](https://www.youtube.com/watch?v=kd2KEHvK-q8)
 
 - [Extraordinary Until Proven Otherwise](https://www.youtube.com/watch?v=SpeSpA3e56A)
-
-- [Disney Channel's Theme: A History Mystery](https://www.youtube.com/watch?v=b_rjBWmc1iQ)
-
-- [ROBLOX_OOF.mp3](https://www.youtube.com/watch?v=0twDETh6QaI)
-
-- [Plagiarism and You(Tube)](https://www.youtube.com/watch?v=yDp3cB5fHXQ)
 
 - [My love letter to computer science is very short,  James Mickens (Harvard University)](https://www.youtube.com/feed/subscriptions)
 

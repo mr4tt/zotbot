@@ -1,4 +1,6 @@
 # general_resources
+- [Getting things done](https://jvns.ca/blog/2016/09/19/getting-things-done/) - Getting things done
+
 - [How to be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic) - On a supposedly difficult thing
 
 - [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work) - In 12 months, @aarondfrancis changed his life by bypassing fear and embracing risk. Now, he’s working his dream job @tuple. Get his full story on The ReadME Project:

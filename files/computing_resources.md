@@ -1,4 +1,10 @@
 # computing_resources
+- [Learn Git Branching](https://pcottle.github.io/learnGitBranching/index.html?demo) - An interactive Git visualization tool to educate and challenge!
+
+- [Pelican navbar menu items](https://appliedcaffeine.org/blog/navbaritems/) - Static site generators can greatly reduce the slope of the website creation learning curve. Take advantage of these tools if you are interested in creating your own simple website but want to sidestep manually generating the HTML and CSS on your own.
+
+- [links | TenThousandMeters.com](https://tenthousandmeters.com/links/page-1/)
+
 - [jvns/pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
 
 - [discord.js Guide](https://discordjs.guide/) - Imagine a guide... that explores the many possibilities for your discord.js bot.

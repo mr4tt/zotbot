@@ -56,6 +56,20 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [A precise, three-word address for every place on earth | Chris Sheldrick](https://www.youtube.com/watch?v=a4ZBzM3L6ws)
+
+- [Watch What Happens When a Portrait Artist Takes LSD](https://www.youtube.com/watch?v=n4Sb8jCJUTw)
+
+- [everything will be ok](https://www.youtube.com/watch?v=_DEbVM6tgmk)
+
+- [SLEEPY TOM](https://www.youtube.com/watch?v=CDBqSSMQKNw)
+
+- [ROBLOX_OOF.mp3](https://www.youtube.com/watch?v=0twDETh6QaI)
+
+- [Plagiarism and You(Tube)](https://www.youtube.com/watch?v=yDp3cB5fHXQ)
+
+- [Disney Channel's Theme: A History Mystery](https://www.youtube.com/watch?v=b_rjBWmc1iQ)
+
 - [ボーカロイドたちがただﾃｯﾃｰﾃﾚｯﾃｰするだけ](https://www.youtube.com/watch?v=-iFEKeULaIo)
 
 - [he walk](https://www.youtube.com/watch?v=xa1Zn6XrDlM)
@@ -98,12 +112,6 @@ To view a single category, check the files/ folder.
 
 - [Extraordinary Until Proven Otherwise](https://www.youtube.com/watch?v=SpeSpA3e56A)
 
-- [Disney Channel's Theme: A History Mystery](https://www.youtube.com/watch?v=b_rjBWmc1iQ)
-
-- [ROBLOX_OOF.mp3](https://www.youtube.com/watch?v=0twDETh6QaI)
-
-- [Plagiarism and You(Tube)](https://www.youtube.com/watch?v=yDp3cB5fHXQ)
-
 - [My love letter to computer science is very short,  James Mickens (Harvard University)](https://www.youtube.com/feed/subscriptions)
 
 - [Miike Snow - Genghis Khan (Official Video)](https://www.youtube.com/watch?v=P_SlAzsXa7E)
@@ -124,6 +132,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Getting things done](https://jvns.ca/blog/2016/09/19/getting-things-done/) - Getting things done
+
 - [How to be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic) - On a supposedly difficult thing
 
 - [Publishing your work increases your luck](https://github.com/readme/guides/publishing-your-work) - In 12 months, @aarondfrancis changed his life by bypassing fear and embracing risk. Now, he’s working his dream job @tuple. Get his full story on The ReadME Project:
@@ -145,11 +155,11 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Touch capabilities and customizable workspaces](https://helpx.adobe.com/content/help/en/photoshop/using/touch.html) - Learn about Photoshop Touch capabilities and customizable workspaces
+
 - [RUBBISH!](https://www.wweek.com/portland/article-1616-rubbish.html-2) - It's past midnight. Over the whump of the wipers and the screech of the fan   belt, we lurch through the side streets of Southeast Portland in a battered   white van, double-checking our toolkit: flas ...,News
 
 - [Essays](https://jonathanhoefler.com/writing) - Articles by Jonathan Hoefler
-
-- [A precise, three-word address for every place on earth | Chris Sheldrick - YouTube](https://www.youtube.com/watch?v=a4ZBzM3L6ws)
 
 - [One Page Love - One Page Website Inspiration and Templates](https://onepagelove.com) - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
 
@@ -196,6 +206,12 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # computing_resources
+- [Learn Git Branching](https://pcottle.github.io/learnGitBranching/index.html?demo) - An interactive Git visualization tool to educate and challenge!
+
+- [Pelican navbar menu items](https://appliedcaffeine.org/blog/navbaritems/) - Static site generators can greatly reduce the slope of the website creation learning curve. Take advantage of these tools if you are interested in creating your own simple website but want to sidestep manually generating the HTML and CSS on your own.
+
+- [links | TenThousandMeters.com](https://tenthousandmeters.com/links/page-1/)
+
 - [jvns/pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
 
 - [discord.js Guide](https://discordjs.guide/) - Imagine a guide... that explores the many possibilities for your discord.js bot.
@@ -684,6 +700,8 @@ To view a single category, check the files/ folder.
 - [List of animals awarded human credentials](https://en.wikipedia.org/w/index.php?title=List_of_animals_awarded_human_credentials&oldid=1143954660) - This list of animals awarded human credentials includes nonhuman animals who have been submitted as applicants to suspected diploma mills, and have been awarded a diploma. On occasion, they have been admitted and granted a degree, as reported in reliable sources. Animals are often used as a device to clearly demonstrate the lax standards or fraudule...
 
 # misc
+- [What I Learned Using Private LLMs to Write an Undergraduate History Essay – zwischenzugs](https://zwischenzugs.com/2023/12/27/what-i-learned-using-private-llms-to-write-an-undergraduate-history-essay/)
+
 - ["Apocryphal Inventions," an exploration of Generative AI](https://jonathanhoefler.com/inventions) - "Apocryphal Inventions" by Jonathan Hoefler: An exploration of Generative AI
 
 - [papercraft library](https://sneepsnorp3d.com/papercraft-library)
@@ -793,8 +811,6 @@ To view a single category, check the files/ folder.
 - [“Considered Harmful” Essays Considered Harmful](https://meyerweb.com/eric/comment/chech.html)
 
 - [Burning up in Orbit](https://www.the-fence.com/issues/issue-12/burning-up-in-orbit) - Waxing lyrical
-
-- [Watch What Happens When a Portrait Artist Takes LSD](https://www.youtube.com/watch?v=n4Sb8jCJUTw) - These drawings were done by an artist under the influence of LSD as part of a test conducted by the US government in the late 1950's. The artist was given a dose of LSD 25 and free access to an activity box full of crayons and pencils. His subject was the medic.    http://www.cowboybooks.com.au/html/ac...
 
 - [Never Forget Jeju](https://liberationmartialarts.substack.com/p/jeju) - Remembering the Dark History of My Ancestral Home
 

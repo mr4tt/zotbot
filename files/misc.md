@@ -1,4 +1,6 @@
 # misc
+- [What I Learned Using Private LLMs to Write an Undergraduate History Essay – zwischenzugs](https://zwischenzugs.com/2023/12/27/what-i-learned-using-private-llms-to-write-an-undergraduate-history-essay/)
+
 - ["Apocryphal Inventions," an exploration of Generative AI](https://jonathanhoefler.com/inventions) - "Apocryphal Inventions" by Jonathan Hoefler: An exploration of Generative AI
 
 - [papercraft library](https://sneepsnorp3d.com/papercraft-library)
@@ -108,8 +110,6 @@
 - [“Considered Harmful” Essays Considered Harmful](https://meyerweb.com/eric/comment/chech.html)
 
 - [Burning up in Orbit](https://www.the-fence.com/issues/issue-12/burning-up-in-orbit) - Waxing lyrical
-
-- [Watch What Happens When a Portrait Artist Takes LSD](https://www.youtube.com/watch?v=n4Sb8jCJUTw) - These drawings were done by an artist under the influence of LSD as part of a test conducted by the US government in the late 1950's. The artist was given a dose of LSD 25 and free access to an activity box full of crayons and pencils. His subject was the medic.    http://www.cowboybooks.com.au/html/ac...
 
 - [Never Forget Jeju](https://liberationmartialarts.substack.com/p/jeju) - Remembering the Dark History of My Ancestral Home
 
