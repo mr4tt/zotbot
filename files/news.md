@@ -1,4 +1,6 @@
 # news
+- [The first known scorpion to live with ants carries mini hitchhikers](https://www.sciencenews.org/article/first-scorpion-live-ants-carries-hitchhikers-animals) - Small arachnids hitch a ride on the scorpion, possibly to get inside food-rich ant nests.
+
 - ['Date Me' Google Docs and the Hyper-Optimized Quest for Love](https://www.wired.com/story/date-me-google-docs-and-the-hyper-optimized-quest-for-love/) - Some people have ditched dating apps—and opted to bare their souls via a public, view-only link instead.
 
 - [AI Cameras Took Over One Small American Town. Now They're Everywhere](https://www.404media.co/fusus-ai-cameras-took-over-town-america/) - Hundreds of documents obtained by 404 Media show how Fusus, a system for linking a town’s security cameras into one central hub and adding AI to them, has spread across the country.

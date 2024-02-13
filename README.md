@@ -206,6 +206,10 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # computing_resources
+- [bash keyboard shortcuts - Linux - SS64.com](https://ss64.com/bash/syntax-keyboard.html)
+
+- [Creating a Culture of Observability](https://onemogin.com/observability/stripe/culture/monitoring/monitorama/creating-a-culture-of-observability.html)
+
 - [Learn Git Branching](https://pcottle.github.io/learnGitBranching/index.html?demo) - An interactive Git visualization tool to educate and challenge!
 
 - [Pelican navbar menu items](https://appliedcaffeine.org/blog/navbaritems/) - Static site generators can greatly reduce the slope of the website creation learning curve. Take advantage of these tools if you are interested in creating your own simple website but want to sidestep manually generating the HTML and CSS on your own.
@@ -358,6 +362,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The first known scorpion to live with ants carries mini hitchhikers](https://www.sciencenews.org/article/first-scorpion-live-ants-carries-hitchhikers-animals) - Small arachnids hitch a ride on the scorpion, possibly to get inside food-rich ant nests.
+
 - ['Date Me' Google Docs and the Hyper-Optimized Quest for Love](https://www.wired.com/story/date-me-google-docs-and-the-hyper-optimized-quest-for-love/) - Some people have ditched dating apps—and opted to bare their souls via a public, view-only link instead.
 
 - [AI Cameras Took Over One Small American Town. Now They're Everywhere](https://www.404media.co/fusus-ai-cameras-took-over-town-america/) - Hundreds of documents obtained by 404 Media show how Fusus, a system for linking a town’s security cameras into one central hub and adding AI to them, has spread across the country.
@@ -499,6 +505,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Carbuncle Cup](https://en.wikipedia.org/w/index.php?title=Carbuncle_Cup&oldid=1147643079) - The Carbuncle Cup was an architecture prize, given annually by the magazine Building Design to "the ugliest building in the United Kingdom completed in the last 12 months". It was intended to be a humorous response to the prestigious Stirling Prize, given by the Royal Institute of British Architects.The cup was launched in 2006, with the first winne...
+
 - [Pirate Party of Catalonia](https://en.wikipedia.org/w/index.php?title=Pirate_Party_of_Catalonia&oldid=1195753686) - Pirates of Catalonia (Catalan: Pirates de Catalunya, PIRATA.CAT) is a political party in Catalonia. The party is based on the model of the Swedish Pirate Party and is a member of the Pirate Parties International, it supports intellectual property reform, open access to culture and knowledge, transparency and direct democracy.The party was founded in...
 
 - [Mystery Seeker](https://en.wikipedia.org/w/index.php?title=Mystery_Seeker&oldid=1146656552) - Mystery Seeker was a website based on the Google search engine. that until November 30, 2009 had been known as Mystery Google.  The WHOIS domain name record for mysterygoogle.com was created on 10 February 2009 with registrant Google Inc, but since February 26, 2017 it has had no website.  The website has been featured in a number of technology blog...
@@ -696,8 +704,6 @@ To view a single category, check the files/ folder.
 - [Operation Monopoly](https://en.wikipedia.org/w/index.php?title=Operation_Monopoly&oldid=1158972318) - Operation Monopoly was a covert plan by the United States Federal Bureau of Investigation (FBI) to build a tunnel underneath the Soviet Embassy in Washington, D.C., to gather secret intelligence in effect from 1977 until its public discovery in 2001.The embassy of the Soviet Union was relocated to a new building complex in 1977. The US government fe...
 
 - [Baby Tooth Survey](https://en.wikipedia.org/w/index.php?title=Baby_Tooth_Survey&oldid=1127916860) - The Baby Tooth Survey was initiated by the Greater St. Louis Citizens' Committee for Nuclear Information in conjunction with Saint Louis University and the Washington University School of Dental Medicine as a means of determining the effects of nuclear fallout in the human anatomy by examining the levels of radioactive material absorbed into the dec...
-
-- [List of animals awarded human credentials](https://en.wikipedia.org/w/index.php?title=List_of_animals_awarded_human_credentials&oldid=1143954660) - This list of animals awarded human credentials includes nonhuman animals who have been submitted as applicants to suspected diploma mills, and have been awarded a diploma. On occasion, they have been admitted and granted a degree, as reported in reliable sources. Animals are often used as a device to clearly demonstrate the lax standards or fraudule...
 
 # misc
 - [What I Learned Using Private LLMs to Write an Undergraduate History Essay – zwischenzugs](https://zwischenzugs.com/2023/12/27/what-i-learned-using-private-llms-to-write-an-undergraduate-history-essay/)
