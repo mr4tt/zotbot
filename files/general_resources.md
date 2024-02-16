@@ -1,4 +1,6 @@
 # general_resources
+- [FutureMe: Write a Letter to your Future Self](https://www.futureme.org) - Write a letter to the future and read the public (but anonymous) letters from others. FutureMe has been delivering letters to the future for millions of people since 2002.
+
 - [Getting things done](https://jvns.ca/blog/2016/09/19/getting-things-done/) - Getting things done
 
 - [How to be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic) - On a supposedly difficult thing

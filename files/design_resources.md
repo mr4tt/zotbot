@@ -1,11 +1,13 @@
 # design_resources
+- [One Page Love - One Page Website Inspiration and Templates](https://onepagelove.com) - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
+
+- [Free Faces](https://www.freefaces.gallery/) - This website is a curated collection of typefaces that are available under a variety of free licences somewhere on the interwebs.
+
 - [Touch capabilities and customizable workspaces](https://helpx.adobe.com/content/help/en/photoshop/using/touch.html) - Learn about Photoshop Touch capabilities and customizable workspaces
 
 - [RUBBISH!](https://www.wweek.com/portland/article-1616-rubbish.html-2) - It's past midnight. Over the whump of the wipers and the screech of the fan   belt, we lurch through the side streets of Southeast Portland in a battered   white van, double-checking our toolkit: flas ...,News
 
 - [Essays](https://jonathanhoefler.com/writing) - Articles by Jonathan Hoefler
-
-- [One Page Love - One Page Website Inspiration and Templates](https://onepagelove.com) - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
 
 - [Brutalist Websites](https://brutalistwebsites.com/)
 
@@ -46,6 +48,4 @@
 - [UI Playbook](https://uiplaybook.dev) - The documented collection of UI components.
 
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
-
-- [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 

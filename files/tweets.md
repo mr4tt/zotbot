@@ -1,4 +1,6 @@
 # tweets
+- [https://twitter.com/jon_bois/status/1634062491729764352](https://twitter.com/jon_bois/status/1634062491729764352/photo/2)
+
 - [https://twitter.com/owenbroadcast/status/1700672456397037898?s=09](https://twitter.com/owenbroadcast/status/1700672456397037898?s=09)
 
 - [chameleon chameleon (1/5) https://t.co/PsrFRashg2](https://twitter.com/fourleafisland/status/1669755428576669706)

@@ -1,7 +1,15 @@
 # computing_resources
+- [Pigeons are still (sometimes) faster than your internet](https://www.washingtonpost.com/technology/2023/11/10/pigeons-are-faster-than-your-internet/) - Internet speeds have come a long way since the days of the dial-up modem, but sometimes you can’t beat the millennia-old method of carrier pigeon.
+
+- [BashPitfalls - Greg's Wiki](https://mywiki.wooledge.org/BashPitfalls#for_f_in_.24.28ls_.2A.mp3.29)
+
+- [Floating Point Math](https://0.30000000000000004.com/)
+
 - [bash keyboard shortcuts - Linux - SS64.com](https://ss64.com/bash/syntax-keyboard.html)
 
 - [Creating a Culture of Observability](https://onemogin.com/observability/stripe/culture/monitoring/monitorama/creating-a-culture-of-observability.html)
+
+- [SecurityZines](https://securityzines.com/) - SecurityZines are new way of learning security concepts, check the collection of Zines down below. You can get them all in a bundle or individually. But why should you read it ? Because, its proven that graphics has more persistent memory than reading.
 
 - [Learn Git Branching](https://pcottle.github.io/learnGitBranching/index.html?demo) - An interactive Git visualization tool to educate and challenge!
 

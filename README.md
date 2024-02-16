@@ -123,6 +123,8 @@ To view a single category, check the files/ folder.
 - [EMESIS BLUE [SFM]](https://www.youtube.com/watch?v=V0ODG8bFme0)
 
 # tweets
+- [https://twitter.com/jon_bois/status/1634062491729764352](https://twitter.com/jon_bois/status/1634062491729764352/photo/2)
+
 - [https://twitter.com/owenbroadcast/status/1700672456397037898?s=09](https://twitter.com/owenbroadcast/status/1700672456397037898?s=09)
 
 - [chameleon chameleon (1/5) https://t.co/PsrFRashg2](https://twitter.com/fourleafisland/status/1669755428576669706)
@@ -132,6 +134,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [FutureMe: Write a Letter to your Future Self](https://www.futureme.org) - Write a letter to the future and read the public (but anonymous) letters from others. FutureMe has been delivering letters to the future for millions of people since 2002.
+
 - [Getting things done](https://jvns.ca/blog/2016/09/19/getting-things-done/) - Getting things done
 
 - [How to be More Agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic) - On a supposedly difficult thing
@@ -155,13 +159,15 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [One Page Love - One Page Website Inspiration and Templates](https://onepagelove.com) - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
+
+- [Free Faces](https://www.freefaces.gallery/) - This website is a curated collection of typefaces that are available under a variety of free licences somewhere on the interwebs.
+
 - [Touch capabilities and customizable workspaces](https://helpx.adobe.com/content/help/en/photoshop/using/touch.html) - Learn about Photoshop Touch capabilities and customizable workspaces
 
 - [RUBBISH!](https://www.wweek.com/portland/article-1616-rubbish.html-2) - It's past midnight. Over the whump of the wipers and the screech of the fan   belt, we lurch through the side streets of Southeast Portland in a battered   white van, double-checking our toolkit: flas ...,News
 
 - [Essays](https://jonathanhoefler.com/writing) - Articles by Jonathan Hoefler
-
-- [One Page Love - One Page Website Inspiration and Templates](https://onepagelove.com) - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
 
 - [Brutalist Websites](https://brutalistwebsites.com/)
 
@@ -203,12 +209,18 @@ To view a single category, check the files/ folder.
 
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
-- [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
-
 # computing_resources
+- [Pigeons are still (sometimes) faster than your internet](https://www.washingtonpost.com/technology/2023/11/10/pigeons-are-faster-than-your-internet/) - Internet speeds have come a long way since the days of the dial-up modem, but sometimes you can’t beat the millennia-old method of carrier pigeon.
+
+- [BashPitfalls - Greg's Wiki](https://mywiki.wooledge.org/BashPitfalls#for_f_in_.24.28ls_.2A.mp3.29)
+
+- [Floating Point Math](https://0.30000000000000004.com/)
+
 - [bash keyboard shortcuts - Linux - SS64.com](https://ss64.com/bash/syntax-keyboard.html)
 
 - [Creating a Culture of Observability](https://onemogin.com/observability/stripe/culture/monitoring/monitorama/creating-a-culture-of-observability.html)
+
+- [SecurityZines](https://securityzines.com/) - SecurityZines are new way of learning security concepts, check the collection of Zines down below. You can get them all in a bundle or individually. But why should you read it ? Because, its proven that graphics has more persistent memory than reading.
 
 - [Learn Git Branching](https://pcottle.github.io/learnGitBranching/index.html?demo) - An interactive Git visualization tool to educate and challenge!
 
@@ -305,6 +317,10 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # stories
+- [Love at the Event Horizon](https://www.uncannymagazine.com/article/love-at-the-event-horizon/) - I never thought I’d want to make a film about the Lost Countrymen and the ghosts that haunt their ship. It’s been years since my brief time with them, but how could I forget them, the ghosts muttering to themselves about worlds long gone? Eyes starry wide, dreaming of a future Earth that would receive […]
+
+- [On the Fox Roads](https://reactormag.com/on-the-fox-roads-nghi-vo-2/) - While learning the ropes from a crafty Jazz Age bank robber, a young stowaway discovers their authentic self, a hidden gift, and that there are no straight lines when you run the fox roads...
+
 - [Bad Doors](https://www.uncannymagazine.com/article/bad-doors/) - The country was at just over ten thousand deaths the morning that the door appeared. On Kosmo’s phone NPR was interviewing a doctor with a nasal voice about the need for social distancing, while Kosmo himself collected empty cans from around his home office. They were everywhere. Walls of recyclable cans dominated his room. Just […]
 
 - [Peaks and Valleys - Chapter 1 - clefairytea - Pocket Monsters | Pokemon (Main Video Game Series) [Archive of Our Own]](https://archiveofourown.org/works/8791510/chapters/20154553)
@@ -362,6 +378,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [A new look at our linguistic roots](https://arstechnica.com/science/2024/02/a-new-look-at-our-linguistic-roots/) - A controversial analytic technique offers new answers for Indo-European languages.
+
 - [The first known scorpion to live with ants carries mini hitchhikers](https://www.sciencenews.org/article/first-scorpion-live-ants-carries-hitchhikers-animals) - Small arachnids hitch a ride on the scorpion, possibly to get inside food-rich ant nests.
 
 - ['Date Me' Google Docs and the Hyper-Optimized Quest for Love](https://www.wired.com/story/date-me-google-docs-and-the-hyper-optimized-quest-for-love/) - Some people have ditched dating apps—and opted to bare their souls via a public, view-only link instead.
@@ -505,7 +523,11 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Snowplow Game](https://en.wikipedia.org/w/index.php?title=Snowplow_Game&oldid=1189473593) - The Snowplow Game was a regular-season game played between the Miami Dolphins and New England Patriots on December 12, 1982, at Schaefer Stadium in Foxborough, Massachusetts. Due in part to icy conditions, the game remained scoreless until late in the fourth quarter, when the snowplow operator was called in to clear a spot on the snowy field specifi...
+
 - [Carbuncle Cup](https://en.wikipedia.org/w/index.php?title=Carbuncle_Cup&oldid=1147643079) - The Carbuncle Cup was an architecture prize, given annually by the magazine Building Design to "the ugliest building in the United Kingdom completed in the last 12 months". It was intended to be a humorous response to the prestigious Stirling Prize, given by the Royal Institute of British Architects.The cup was launched in 2006, with the first winne...
+
+- [Miura fold](https://en.wikipedia.org/w/index.php?title=Miura_fold&oldid=1168868721) - The Miura fold (ミウラ折り, Miura-ori) is a method of folding a flat surface such as a sheet of paper into a smaller area. The fold is named for its inventor, Japanese astrophysicist Kōryō Miura.The crease patterns of the Miura fold form a tessellation of the surface by parallelograms. In one direction, the creases lie along straight lines, with each par...
 
 - [Pirate Party of Catalonia](https://en.wikipedia.org/w/index.php?title=Pirate_Party_of_Catalonia&oldid=1195753686) - Pirates of Catalonia (Catalan: Pirates de Catalunya, PIRATA.CAT) is a political party in Catalonia. The party is based on the model of the Swedish Pirate Party and is a member of the Pirate Parties International, it supports intellectual property reform, open access to culture and knowledge, transparency and direct democracy.The party was founded in...
 
@@ -701,11 +723,11 @@ To view a single category, check the files/ folder.
 
 - [David Brandt (farmer)](https://en.wikipedia.org/w/index.php?title=David_Brandt_(farmer)&oldid=1158482125) - David Brandt (1946 or 1947 – May 21, 2023) was an American farmer known for working on sustainable agriculture techniques, specifically no-till farming and cover crops. Outside of the agriculture field, he was known on the internet for being the face of a meme.
 
-- [Operation Monopoly](https://en.wikipedia.org/w/index.php?title=Operation_Monopoly&oldid=1158972318) - Operation Monopoly was a covert plan by the United States Federal Bureau of Investigation (FBI) to build a tunnel underneath the Soviet Embassy in Washington, D.C., to gather secret intelligence in effect from 1977 until its public discovery in 2001.The embassy of the Soviet Union was relocated to a new building complex in 1977. The US government fe...
-
-- [Baby Tooth Survey](https://en.wikipedia.org/w/index.php?title=Baby_Tooth_Survey&oldid=1127916860) - The Baby Tooth Survey was initiated by the Greater St. Louis Citizens' Committee for Nuclear Information in conjunction with Saint Louis University and the Washington University School of Dental Medicine as a means of determining the effects of nuclear fallout in the human anatomy by examining the levels of radioactive material absorbed into the dec...
-
 # misc
+- [How to draw a map](http://www.fantasticmaps.com/2015/02/how-to-draw-a-map/)
+
+- [MWBD - Games](https://mathgameswithbaddrawings.com/games) - Math Games with Bad Drawings
+
 - [What I Learned Using Private LLMs to Write an Undergraduate History Essay – zwischenzugs](https://zwischenzugs.com/2023/12/27/what-i-learned-using-private-llms-to-write-an-undergraduate-history-essay/)
 
 - ["Apocryphal Inventions," an exploration of Generative AI](https://jonathanhoefler.com/inventions) - "Apocryphal Inventions" by Jonathan Hoefler: An exploration of Generative AI
@@ -713,8 +735,6 @@ To view a single category, check the files/ folder.
 - [papercraft library](https://sneepsnorp3d.com/papercraft-library)
 
 - [Radium Girls](https://www.emigennis.com/radium-girls)
-
-- [Tumblr](https://embed.tumblr.com/widgets/share/button?canonicalUrl=http%3A%2F%2Fwww.fantasticmaps.com%2F2015%2F02%2Fhow-to-draw-a-map%2F&postcontent%5Btitle%5D=How%20to%20draw%20a%20map&postcontent%5Bcontent%5D=http%3A%2F%2Fwww.fantasticmaps.com%2F2015%2F02%2Fhow-to-draw-a-map%2F)
 
 - [Home | The Bulwer-Lytton Fiction Contest](https://www.bulwer-lytton.com) - A whimsical literary competition for the worst possible opening sentences to novels never written.
 
@@ -757,8 +777,6 @@ To view a single category, check the files/ folder.
 - [Nyan Cat's cousin who is listening to some lo-fi beats](https://hostrider.com) - ...the cat that has a habit of singing while coding. Meow.
 
 - [Ubuntu Manpage: run-parts - run scripts or programs in a directory](https://manpages.ubuntu.com/manpages/trusty/man8/run-parts.8.html)
-
-- [styleguide/pyguide.md at gh-pages · google/styleguide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md) - Style guides for Google-originated open-source projects - google/styleguide
 
 - [A literary history of fake texts in Apple's marketing materials](https://maxread.substack.com/p/a-literary-history-of-fake-texts) - Exploring the Applecore style
 
@@ -839,8 +857,6 @@ To view a single category, check the files/ folder.
 - [Los Angeles Is a Fantastic Walking City. No, Really.](https://www.nytimes.com/2023/03/07/magazine/los-angeles-walking-rosecrans-avenue.html) - A stroll down Rosecrans Avenue is not a pleasure. But it does offer a 27-mile canvas of the city’s vastness and its diverse communities coexisting.
 
 - [Unbundling Tools for Thought](https://borretti.me/article/unbundling-tools-for-thought) - Disparate thoughts on personal information management after traversing the hype cycle.
-
-- [Home / Twitter](https://twitter.com/jon_bois/status/1634062491729764352/photo/2)
 
 - [An Introduction to Extratone: The World’s Fastest Music Genre](https://daily.bandcamp.com/features/an-introduction-to-extratone-the-worlds-fastest-music-genre) - Meet the extreme artists creating music that range from 1,000 to 10,000 BPM.
 

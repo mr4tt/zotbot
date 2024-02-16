@@ -1,4 +1,8 @@
 # misc
+- [How to draw a map](http://www.fantasticmaps.com/2015/02/how-to-draw-a-map/)
+
+- [MWBD - Games](https://mathgameswithbaddrawings.com/games) - Math Games with Bad Drawings
+
 - [What I Learned Using Private LLMs to Write an Undergraduate History Essay – zwischenzugs](https://zwischenzugs.com/2023/12/27/what-i-learned-using-private-llms-to-write-an-undergraduate-history-essay/)
 
 - ["Apocryphal Inventions," an exploration of Generative AI](https://jonathanhoefler.com/inventions) - "Apocryphal Inventions" by Jonathan Hoefler: An exploration of Generative AI
@@ -6,8 +10,6 @@
 - [papercraft library](https://sneepsnorp3d.com/papercraft-library)
 
 - [Radium Girls](https://www.emigennis.com/radium-girls)
-
-- [Tumblr](https://embed.tumblr.com/widgets/share/button?canonicalUrl=http%3A%2F%2Fwww.fantasticmaps.com%2F2015%2F02%2Fhow-to-draw-a-map%2F&postcontent%5Btitle%5D=How%20to%20draw%20a%20map&postcontent%5Bcontent%5D=http%3A%2F%2Fwww.fantasticmaps.com%2F2015%2F02%2Fhow-to-draw-a-map%2F)
 
 - [Home | The Bulwer-Lytton Fiction Contest](https://www.bulwer-lytton.com) - A whimsical literary competition for the worst possible opening sentences to novels never written.
 
@@ -50,8 +52,6 @@
 - [Nyan Cat's cousin who is listening to some lo-fi beats](https://hostrider.com) - ...the cat that has a habit of singing while coding. Meow.
 
 - [Ubuntu Manpage: run-parts - run scripts or programs in a directory](https://manpages.ubuntu.com/manpages/trusty/man8/run-parts.8.html)
-
-- [styleguide/pyguide.md at gh-pages · google/styleguide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md) - Style guides for Google-originated open-source projects - google/styleguide
 
 - [A literary history of fake texts in Apple's marketing materials](https://maxread.substack.com/p/a-literary-history-of-fake-texts) - Exploring the Applecore style
 
@@ -132,8 +132,6 @@
 - [Los Angeles Is a Fantastic Walking City. No, Really.](https://www.nytimes.com/2023/03/07/magazine/los-angeles-walking-rosecrans-avenue.html) - A stroll down Rosecrans Avenue is not a pleasure. But it does offer a 27-mile canvas of the city’s vastness and its diverse communities coexisting.
 
 - [Unbundling Tools for Thought](https://borretti.me/article/unbundling-tools-for-thought) - Disparate thoughts on personal information management after traversing the hype cycle.
-
-- [Home / Twitter](https://twitter.com/jon_bois/status/1634062491729764352/photo/2)
 
 - [An Introduction to Extratone: The World’s Fastest Music Genre](https://daily.bandcamp.com/features/an-introduction-to-extratone-the-worlds-fastest-music-genre) - Meet the extreme artists creating music that range from 1,000 to 10,000 BPM.
 

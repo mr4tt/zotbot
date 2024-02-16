@@ -1,4 +1,8 @@
 # stories
+- [Love at the Event Horizon](https://www.uncannymagazine.com/article/love-at-the-event-horizon/) - I never thought I’d want to make a film about the Lost Countrymen and the ghosts that haunt their ship. It’s been years since my brief time with them, but how could I forget them, the ghosts muttering to themselves about worlds long gone? Eyes starry wide, dreaming of a future Earth that would receive […]
+
+- [On the Fox Roads](https://reactormag.com/on-the-fox-roads-nghi-vo-2/) - While learning the ropes from a crafty Jazz Age bank robber, a young stowaway discovers their authentic self, a hidden gift, and that there are no straight lines when you run the fox roads...
+
 - [Bad Doors](https://www.uncannymagazine.com/article/bad-doors/) - The country was at just over ten thousand deaths the morning that the door appeared. On Kosmo’s phone NPR was interviewing a doctor with a nasal voice about the need for social distancing, while Kosmo himself collected empty cans from around his home office. They were everywhere. Walls of recyclable cans dominated his room. Just […]
 
 - [Peaks and Valleys - Chapter 1 - clefairytea - Pocket Monsters | Pokemon (Main Video Game Series) [Archive of Our Own]](https://archiveofourown.org/works/8791510/chapters/20154553)
