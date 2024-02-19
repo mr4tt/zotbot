@@ -1,4 +1,6 @@
 # crochet
+- [How to Crochet Perry the Platypus l Easy Amigurumi Tutorial l Beginner-Friendly l Monua DIY](https://www.youtube.com/watch?v=3wHWXDTMLKw)
+
 - [Amigurumi Patterns](https://www.loopycathrine.com/amigurumi-patterns)
 
 - [Crochet Fruit Coasters Pattern - Repeat Crafter Me](https://www.repeatcrafterme.com/2013/04/crochet-fruit-coasters-pattern.html, https://www.repeatcrafterme.com/2013/04/crochet-fruit-coasters-pattern.html)

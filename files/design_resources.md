@@ -1,4 +1,6 @@
 # design_resources
+- [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so) - A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team
+
 - [One Page Love - One Page Website Inspiration and Templates](https://onepagelove.com) - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
 
 - [Free Faces](https://www.freefaces.gallery/) - This website is a curated collection of typefaces that are available under a variety of free licences somewhere on the interwebs.
