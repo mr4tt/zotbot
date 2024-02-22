@@ -1,4 +1,6 @@
 # misc
+- [Deliberate Grieving](https://www.lesswrong.com/posts/gs3vp3ukPbpaEie5L/deliberate-grieving-1) - This post is hopefully useful on its own, but begins a series ultimately about grieving over a world that might (or, might not) be doomed.  …
+
 - [How to draw a map](http://www.fantasticmaps.com/2015/02/how-to-draw-a-map/)
 
 - [MWBD - Games](https://mathgameswithbaddrawings.com/games) - Math Games with Bad Drawings

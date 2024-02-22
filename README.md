@@ -161,6 +161,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines) - The HIG contains guidance and best practices that can help you design a great experience for any Apple platform.
+
 - [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so) - A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team
 
 - [One Page Love - One Page Website Inspiration and Templates](https://onepagelove.com) - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
@@ -321,6 +323,10 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # stories
+- [maia :3](https://maia.crimew.gay/) - meow
+
+- [The Magnus Archives – Rusty Quill](https://rustyquill.com/show/the-magnus-archives/)
+
 - [Love at the Event Horizon](https://www.uncannymagazine.com/article/love-at-the-event-horizon/) - I never thought I’d want to make a film about the Lost Countrymen and the ghosts that haunt their ship. It’s been years since my brief time with them, but how could I forget them, the ghosts muttering to themselves about worlds long gone? Eyes starry wide, dreaming of a future Earth that would receive […]
 
 - [On the Fox Roads](https://reactormag.com/on-the-fox-roads-nghi-vo-2/) - While learning the ropes from a crafty Jazz Age bank robber, a young stowaway discovers their authentic self, a hidden gift, and that there are no straight lines when you run the fox roads...
@@ -527,6 +533,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Bogdanov affair](https://en.wikipedia.org/w/index.php?title=Bogdanov_affair&oldid=1183687764) - The Bogdanov affair was an academic dispute regarding the legitimacy of a series of theoretical physics papers written by French twins Igor and Grichka Bogdanov (alternatively spelled Bogdanoff). The papers were published in reputable scientific journals, and were alleged by their authors to culminate in a theory for describing what occurred before ...
+
 - [Snowplow Game](https://en.wikipedia.org/w/index.php?title=Snowplow_Game&oldid=1189473593) - The Snowplow Game was a regular-season game played between the Miami Dolphins and New England Patriots on December 12, 1982, at Schaefer Stadium in Foxborough, Massachusetts. Due in part to icy conditions, the game remained scoreless until late in the fourth quarter, when the snowplow operator was called in to clear a spot on the snowy field specifi...
 
 - [Carbuncle Cup](https://en.wikipedia.org/w/index.php?title=Carbuncle_Cup&oldid=1147643079) - The Carbuncle Cup was an architecture prize, given annually by the magazine Building Design to "the ugliest building in the United Kingdom completed in the last 12 months". It was intended to be a humorous response to the prestigious Stirling Prize, given by the Royal Institute of British Architects.The cup was launched in 2006, with the first winne...
@@ -725,9 +733,9 @@ To view a single category, check the files/ folder.
 
 - [Nut rage incident](https://en.wikipedia.org/w/index.php?title=Nut_rage_incident&oldid=1159420912) - The nut rage incident, also referred to as nutgate (Korean: 땅콩 회항, Ttangkong hoehang), was an air rage incident that occurred on December 5, 2014, at John F. Kennedy International Airport in New York City onboard Korean Air Flight 086. Korean Air vice president Heather Cho (Korean name: Cho Hyun-ah), dissatisfied with the way a flight attendant serv...
 
-- [David Brandt (farmer)](https://en.wikipedia.org/w/index.php?title=David_Brandt_(farmer)&oldid=1158482125) - David Brandt (1946 or 1947 – May 21, 2023) was an American farmer known for working on sustainable agriculture techniques, specifically no-till farming and cover crops. Outside of the agriculture field, he was known on the internet for being the face of a meme.
-
 # misc
+- [Deliberate Grieving](https://www.lesswrong.com/posts/gs3vp3ukPbpaEie5L/deliberate-grieving-1) - This post is hopefully useful on its own, but begins a series ultimately about grieving over a world that might (or, might not) be doomed.  …
+
 - [How to draw a map](http://www.fantasticmaps.com/2015/02/how-to-draw-a-map/)
 
 - [MWBD - Games](https://mathgameswithbaddrawings.com/games) - Math Games with Bad Drawings

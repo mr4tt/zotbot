@@ -1,4 +1,6 @@
 # design_resources
+- [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines) - The HIG contains guidance and best practices that can help you design a great experience for any Apple platform.
+
 - [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so) - A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team
 
 - [One Page Love - One Page Website Inspiration and Templates](https://onepagelove.com) - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
