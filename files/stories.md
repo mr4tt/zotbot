@@ -1,4 +1,8 @@
 # stories
+- [The Venus Effect](https://www.lightspeedmagazine.com/fiction/the-venus-effect/) - This is 2015. A party on a westside roof, just before midnight. Some Mia or Mina or throwing it, the white girl with the jean jacket and the headband and the two-bumps-of-molly grin, flitting from friend circle to friend circle, laughing loudly and refilling any empty cup in her eyeline from a bottomless jug of sangria, Maenad Sicagi. There are thre...
+
+- [https://www.lightspeedmagazine.com/fiction/the-venus-effect/](https://www.lightspeedmagazine.com/fiction/the-venus-effect/)
+
 - [maia :3](https://maia.crimew.gay/) - meow
 
 - [The Magnus Archives – Rusty Quill](https://rustyquill.com/show/the-magnus-archives/)

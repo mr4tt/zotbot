@@ -1,5 +1,9 @@
 # misc
+- [Coding Font by Typogram – Find Your True Love of Coding Fonts](https://www.codingfont.com/)
+
 - [Deliberate Grieving](https://www.lesswrong.com/posts/gs3vp3ukPbpaEie5L/deliberate-grieving-1) - This post is hopefully useful on its own, but begins a series ultimately about grieving over a world that might (or, might not) be doomed.  …
+
+- [sisters with transistors](https://sisterswithtransistors.com) - Cargo
 
 - [How to draw a map](http://www.fantasticmaps.com/2015/02/how-to-draw-a-map/)
 

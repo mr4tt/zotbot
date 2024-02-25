@@ -14,11 +14,11 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # crochet
+- [Crochet Fruit Coasters Pattern - Repeat Crafter Me](https://www.repeatcrafterme.com/2013/04/crochet-fruit-coasters-pattern.html)
+
 - [How to Crochet Perry the Platypus l Easy Amigurumi Tutorial l Beginner-Friendly l Monua DIY](https://www.youtube.com/watch?v=3wHWXDTMLKw)
 
 - [Amigurumi Patterns](https://www.loopycathrine.com/amigurumi-patterns)
-
-- [Crochet Fruit Coasters Pattern - Repeat Crafter Me](https://www.repeatcrafterme.com/2013/04/crochet-fruit-coasters-pattern.html, https://www.repeatcrafterme.com/2013/04/crochet-fruit-coasters-pattern.html)
 
 - [How to Crochet the Fish Purse](https://www.youtube.com/watch?v=mFEynw7fQwY)
 
@@ -47,6 +47,10 @@ To view a single category, check the files/ folder.
 - [How to make a Baby Seal - BEGINNER FRIENDLY - ALMOST NO SEW](https://www.youtube.com/watch?v=hlPHXrA2Qqg)
 
 # papers
+- [The ‘ petertodd’ phenomenon](https://www.lesswrong.com/posts/jkY6QdCfAXHJk3kea/the-petertodd-phenomenon) - Note: Nothing in this post is intended to vilify or defame any actual human named Peter Todd. I recognise that the existence of this phenomenon may b…
+
+- [SolidGoldMagikarp (plus, prompt generation)](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation) - UPDATE (14th Feb 2023): ChatGPT appears to have been patched! However, very strange behaviour can still be elicited in the OpenAI playground, particu…
+
 - [The possibility of making $\$138,000$ from shredded banknote pieces using computer vision](http://arxiv.org/abs/2401.06133) - Every country must dispose of old banknotes. At the Hong Kong Monetary Authority visitor center, visitors can buy a paperweight souvenir full of shredded banknotes. Even though the shredded banknotes are small, by using computer vision, it is possible to reconstruct the whole banknote like a jigsaw puzzle. Each paperweight souvenir costs $\$100$ HKD...
 
 - [Tangible bits: towards seamless interfaces between people, bits and atoms](https://dl.acm.org/doi/10.1145/258549.258715)
@@ -125,13 +129,13 @@ To view a single category, check the files/ folder.
 - [EMESIS BLUE [SFM]](https://www.youtube.com/watch?v=V0ODG8bFme0)
 
 # tweets
+- [David R. MacIver on Twitter: "Wait hang on I just realised something. Are you... are you all just thinking in your head? Like... you're just trying to form thoughts in your bare brain before putting them out into the world?? You know that doesn't work, right? Brains aren't for that." / Twitter](https://twitter.com/DRMacIver/status/1654415405409026048?t=wSTC38T24sC-nccfB-IFsg&s=33)
+
 - [https://twitter.com/jon_bois/status/1634062491729764352](https://twitter.com/jon_bois/status/1634062491729764352/photo/2)
 
 - [https://twitter.com/owenbroadcast/status/1700672456397037898?s=09](https://twitter.com/owenbroadcast/status/1700672456397037898?s=09)
 
 - [chameleon chameleon (1/5) https://t.co/PsrFRashg2](https://twitter.com/fourleafisland/status/1669755428576669706)
-
-- [(1) David R. MacIver on Twitter: "Wait hang on I just realised something. Are you... are you all just thinking in your head? Like... you're just trying to form thoughts in your bare brain before putting them out into the world?? You know that doesn't work, right? Brains aren't for that." / Twitter](https://twitter.com/DRMacIver/status/1654415405409026048?t=wSTC38T24sC-nccfB-IFsg&s=33)
 
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
@@ -162,8 +166,6 @@ To view a single category, check the files/ folder.
 
 # design_resources
 - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines) - The HIG contains guidance and best practices that can help you design a great experience for any Apple platform.
-
-- [Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://www.notion.so) - A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team
 
 - [One Page Love - One Page Website Inspiration and Templates](https://onepagelove.com) - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
 
@@ -216,8 +218,6 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
-- [Pigeons are still (sometimes) faster than your internet](https://www.washingtonpost.com/technology/2023/11/10/pigeons-are-faster-than-your-internet/) - Internet speeds have come a long way since the days of the dial-up modem, but sometimes you can’t beat the millennia-old method of carrier pigeon.
-
 - [BashPitfalls - Greg's Wiki](https://mywiki.wooledge.org/BashPitfalls#for_f_in_.24.28ls_.2A.mp3.29)
 
 - [Floating Point Math](https://0.30000000000000004.com/)
@@ -323,6 +323,10 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # stories
+- [The Venus Effect](https://www.lightspeedmagazine.com/fiction/the-venus-effect/) - This is 2015. A party on a westside roof, just before midnight. Some Mia or Mina or throwing it, the white girl with the jean jacket and the headband and the two-bumps-of-molly grin, flitting from friend circle to friend circle, laughing loudly and refilling any empty cup in her eyeline from a bottomless jug of sangria, Maenad Sicagi. There are thre...
+
+- [https://www.lightspeedmagazine.com/fiction/the-venus-effect/](https://www.lightspeedmagazine.com/fiction/the-venus-effect/)
+
 - [maia :3](https://maia.crimew.gay/) - meow
 
 - [The Magnus Archives – Rusty Quill](https://rustyquill.com/show/the-magnus-archives/)
@@ -388,6 +392,12 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Escaped robber returns to annals of weird crime / Cops say 'Roofman' lived large in store](https://www.sfgate.com/news/article/escaped-robber-returns-to-annals-of-weird-crime-2706176.php) - Escaped robber returns to annals of weird crime / Cops say 'Roofman' lived large in...
+
+- [The hijacking of $339,000 worth of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats) - This is an instance of a computer-based form of fraud dubbed 'part identity theft, part extortion'. Read more at straitstimes.com.
+
+- [Pigeons are still (sometimes) faster than your internet](https://www.washingtonpost.com/technology/2023/11/10/pigeons-are-faster-than-your-internet/) - Internet speeds have come a long way since the days of the dial-up modem, but sometimes you can’t beat the millennia-old method of carrier pigeon.
+
 - [A new look at our linguistic roots](https://arstechnica.com/science/2024/02/a-new-look-at-our-linguistic-roots/) - A controversial analytic technique offers new answers for Indo-European languages.
 
 - [The first known scorpion to live with ants carries mini hitchhikers](https://www.sciencenews.org/article/first-scorpion-live-ants-carries-hitchhikers-animals) - Small arachnids hitch a ride on the scorpion, possibly to get inside food-rich ant nests.
@@ -533,6 +543,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Jeffrey Manchester](https://en.wikipedia.org/w/index.php?title=Jeffrey_Manchester&oldid=1173147482) - Jeffrey Allen Manchester (born 1972) is an American convicted spree-robber and former United States Army Reserve officer known as the 'Rooftop Robber' or simply 'Roofman' due to his modus operandi of entering his targets (most commonly McDonald's locations) by drilling through the roof and dropping in. Before being apprehended for the second time in...
+
 - [Bogdanov affair](https://en.wikipedia.org/w/index.php?title=Bogdanov_affair&oldid=1183687764) - The Bogdanov affair was an academic dispute regarding the legitimacy of a series of theoretical physics papers written by French twins Igor and Grichka Bogdanov (alternatively spelled Bogdanoff). The papers were published in reputable scientific journals, and were alleged by their authors to culminate in a theory for describing what occurred before ...
 
 - [Snowplow Game](https://en.wikipedia.org/w/index.php?title=Snowplow_Game&oldid=1189473593) - The Snowplow Game was a regular-season game played between the Miami Dolphins and New England Patriots on December 12, 1982, at Schaefer Stadium in Foxborough, Massachusetts. Due in part to icy conditions, the game remained scoreless until late in the fourth quarter, when the snowplow operator was called in to clear a spot on the snowy field specifi...
@@ -731,10 +743,12 @@ To view a single category, check the files/ folder.
 
 - [Operation Coffee Cup](https://en.wikipedia.org/w/index.php?title=Operation_Coffee_Cup&oldid=1031013696) - Operation Coffee Cup was a campaign conducted by the American Medical Association (AMA) during the late 1950s and early 1960s in opposition to the Democrats' plans to extend Social Security to include health insurance for the elderly, later known as Medicare. As part of the plan, doctors' wives would organize coffee meetings in an attempt to convinc...
 
-- [Nut rage incident](https://en.wikipedia.org/w/index.php?title=Nut_rage_incident&oldid=1159420912) - The nut rage incident, also referred to as nutgate (Korean: 땅콩 회항, Ttangkong hoehang), was an air rage incident that occurred on December 5, 2014, at John F. Kennedy International Airport in New York City onboard Korean Air Flight 086. Korean Air vice president Heather Cho (Korean name: Cho Hyun-ah), dissatisfied with the way a flight attendant serv...
-
 # misc
+- [Coding Font by Typogram – Find Your True Love of Coding Fonts](https://www.codingfont.com/)
+
 - [Deliberate Grieving](https://www.lesswrong.com/posts/gs3vp3ukPbpaEie5L/deliberate-grieving-1) - This post is hopefully useful on its own, but begins a series ultimately about grieving over a world that might (or, might not) be doomed.  …
+
+- [sisters with transistors](https://sisterswithtransistors.com) - Cargo
 
 - [How to draw a map](http://www.fantasticmaps.com/2015/02/how-to-draw-a-map/)
 

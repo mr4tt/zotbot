@@ -1,6 +1,4 @@
 # computing_resources
-- [Pigeons are still (sometimes) faster than your internet](https://www.washingtonpost.com/technology/2023/11/10/pigeons-are-faster-than-your-internet/) - Internet speeds have come a long way since the days of the dial-up modem, but sometimes you can’t beat the millennia-old method of carrier pigeon.
-
 - [BashPitfalls - Greg's Wiki](https://mywiki.wooledge.org/BashPitfalls#for_f_in_.24.28ls_.2A.mp3.29)
 
 - [Floating Point Math](https://0.30000000000000004.com/)

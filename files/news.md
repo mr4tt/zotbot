@@ -1,4 +1,10 @@
 # news
+- [Escaped robber returns to annals of weird crime / Cops say 'Roofman' lived large in store](https://www.sfgate.com/news/article/escaped-robber-returns-to-annals-of-weird-crime-2706176.php) - Escaped robber returns to annals of weird crime / Cops say 'Roofman' lived large in...
+
+- [The hijacking of $339,000 worth of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats) - This is an instance of a computer-based form of fraud dubbed 'part identity theft, part extortion'. Read more at straitstimes.com.
+
+- [Pigeons are still (sometimes) faster than your internet](https://www.washingtonpost.com/technology/2023/11/10/pigeons-are-faster-than-your-internet/) - Internet speeds have come a long way since the days of the dial-up modem, but sometimes you can’t beat the millennia-old method of carrier pigeon.
+
 - [A new look at our linguistic roots](https://arstechnica.com/science/2024/02/a-new-look-at-our-linguistic-roots/) - A controversial analytic technique offers new answers for Indo-European languages.
 
 - [The first known scorpion to live with ants carries mini hitchhikers](https://www.sciencenews.org/article/first-scorpion-live-ants-carries-hitchhikers-animals) - Small arachnids hitch a ride on the scorpion, possibly to get inside food-rich ant nests.
