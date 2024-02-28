@@ -47,6 +47,8 @@ To view a single category, check the files/ folder.
 - [How to make a Baby Seal - BEGINNER FRIENDLY - ALMOST NO SEW](https://www.youtube.com/watch?v=hlPHXrA2Qqg)
 
 # papers
+- [Chinese woman stuck in blind date's house after city lockdown](https://www.straitstimes.com/asia/east-asia/chinese-woman-stuck-in-blind-dates-house-after-city-lockdown?mc_cid=53f6a0baaa) - BEIJING (AFP) - Imagine being on a first date you couldn't end? Read more at straitstimes.com.
+
 - [The ‘ petertodd’ phenomenon](https://www.lesswrong.com/posts/jkY6QdCfAXHJk3kea/the-petertodd-phenomenon) - Note: Nothing in this post is intended to vilify or defame any actual human named Peter Todd. I recognise that the existence of this phenomenon may b…
 
 - [SolidGoldMagikarp (plus, prompt generation)](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation) - UPDATE (14th Feb 2023): ChatGPT appears to have been patched! However, very strange behaviour can still be elicited in the OpenAI playground, particu…
@@ -62,6 +64,14 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [Simba is Stupid in School (Parody)](https://www.youtube.com/watch?v=dkmweTykUcw)
+
+- [THE NURTURE MEGAMIX [𝐄𝐏𝐈𝐋𝐄𝐏𝐒𝐘 𝐖𝐀𝐑𝐍𝐈𝐍𝐆] - A Tribute to Porter Robinson's "Nurture" by distantstar](https://www.youtube.com/watch?v=H335oGno4S0)
+
+- [RASPUTIN | Arcane](https://www.youtube.com/watch?v=vVs6bbTQ80U)
+
+- [Is 'Huh?' a universal word?](https://www.youtube.com/watch?v=nm_klOMto4o)
+
 - [A precise, three-word address for every place on earth | Chris Sheldrick](https://www.youtube.com/watch?v=a4ZBzM3L6ws)
 
 - [Watch What Happens When a Portrait Artist Takes LSD](https://www.youtube.com/watch?v=n4Sb8jCJUTw)
@@ -129,6 +139,10 @@ To view a single category, check the files/ folder.
 - [EMESIS BLUE [SFM]](https://www.youtube.com/watch?v=V0ODG8bFme0)
 
 # tweets
+- [I fucking hate when Mario gets burned and starts hopping and jumping around like can you fucking grow up and focus on the situation at hand](https://twitter.com/andy_sidecake/status/1311926569359695872)
+
+- [Maybe you feel like I do? 1/5 https://t.co/NGix4M7Xpi](https://twitter.com/RianSygh/status/1535503387235536896)
+
 - [David R. MacIver on Twitter: "Wait hang on I just realised something. Are you... are you all just thinking in your head? Like... you're just trying to form thoughts in your bare brain before putting them out into the world?? You know that doesn't work, right? Brains aren't for that." / Twitter](https://twitter.com/DRMacIver/status/1654415405409026048?t=wSTC38T24sC-nccfB-IFsg&s=33)
 
 - [https://twitter.com/jon_bois/status/1634062491729764352](https://twitter.com/jon_bois/status/1634062491729764352/photo/2)
@@ -165,6 +179,12 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Typescale - Create stunning typography, generate CSS, and find inspiration.](https://typescale.com/)
+
+- [Building a Visual Language](https://airbnb.design/building-a-visual-language/) - Behind the scenes of our new design system
+
+- [Xiaohan Zou's Portfolio](https://portfolio.zxh.io/)
+
 - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines) - The HIG contains guidance and best practices that can help you design a great experience for any Apple platform.
 
 - [One Page Love - One Page Website Inspiration and Templates](https://onepagelove.com) - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
@@ -218,6 +238,14 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [AutoRegex: Convert from English to RegEx with Natural Language Processing](https://www.autoregex.xyz/)
+
+- [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+
+- [Confessions of a recovering lifehacker](https://johnpavlus.wordpress.com/2010/06/15/confessions-of-a-recovering-lifehacker/) - I used to be a lifehacking addict, and in some ways I still am. I have a perverse love of systems and efficiency: analyzing, configuring, optmizing, categorizing, defining, and parameter-setting. (…
+
+- [How does Tor work?](https://robertheaton.com/2019/04/06/how-does-tor-work/) - The internet is a dangerous place for Person X.
+
 - [BashPitfalls - Greg's Wiki](https://mywiki.wooledge.org/BashPitfalls#for_f_in_.24.28ls_.2A.mp3.29)
 
 - [Floating Point Math](https://0.30000000000000004.com/)
@@ -323,6 +351,8 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # stories
+- [Fandom for Robots](https://www.uncannymagazine.com/article/fandom-for-robots/) - Computron feels no emotion towards the animated television show titled Hyperdimension Warp Record (超次元 ワープ レコード). After all, Computron does not have any emotion circuits installed, and is thus constitutionally incapable of experiencing “excitement,” “hatred,” or “frustration.” It is completely impossible for Computron to experience emotions such as ...
+
 - [The Venus Effect](https://www.lightspeedmagazine.com/fiction/the-venus-effect/) - This is 2015. A party on a westside roof, just before midnight. Some Mia or Mina or throwing it, the white girl with the jean jacket and the headband and the two-bumps-of-molly grin, flitting from friend circle to friend circle, laughing loudly and refilling any empty cup in her eyeline from a bottomless jug of sangria, Maenad Sicagi. There are thre...
 
 - [https://www.lightspeedmagazine.com/fiction/the-venus-effect/](https://www.lightspeedmagazine.com/fiction/the-venus-effect/)
@@ -392,6 +422,16 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Before There Was Tinder](https://www.thecut.com/2022/09/computer-dating-love-stories.html) - Five people on finding their life partners through 1960s “computer dating.”
+
+- [Two of four stolen giant tortoises found in Dorset](https://www.bbc.com/news/uk-england-dorset-45314157) - Blastoise and Jeffery were found, but the other two - Squirtle and Wartortle - are still missing.
+
+- [Endangered Hawaiian monk seals keep getting eels stuck up their noses; scientists want them to stop](https://www.seattletimes.com/nation-world/make-better-choices-endangered-hawaiian-monk-seals-keep-getting-eels-stuck-up-their-noses-and-scientists-want-them-to-stop/) - The mystery began about two years ago, when Charles Littnan, lead scientist of the monk-seal program, got a strange email from researchers in the field. The subject line was short: "Eel in nose."
+
+- [New pictures show Wally the Walrus relaxing on a small boat in Crookhaven](https://www.irishexaminer.com/news/munster/arid-40360598.html) - Wally the walrus is set to get a ‘floating couch’ in an effort to prevent him from sinking more boats.
+
+- [If I Fits, I Sits: Starlink's Self-Heating Internet Satellite Dishes Are Attracting Cats](https://gizmodo.com/if-i-fits-i-sits-starlinks-self-heating-internet-sate-1848327155) - The dish's Snow Melt Mode prevents snow build-up from interfering with the signal—and apparently provides a toasty outdoor lounge space for critters.
+
 - [Escaped robber returns to annals of weird crime / Cops say 'Roofman' lived large in store](https://www.sfgate.com/news/article/escaped-robber-returns-to-annals-of-weird-crime-2706176.php) - Escaped robber returns to annals of weird crime / Cops say 'Roofman' lived large in...
 
 - [The hijacking of $339,000 worth of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats) - This is an instance of a computer-based form of fraud dubbed 'part identity theft, part extortion'. Read more at straitstimes.com.
@@ -413,6 +453,8 @@ To view a single category, check the files/ folder.
 - [This Clever New Idea Could Fix AirTag Stalking While Maximizing Privacy](https://www.wired.com/story/apple-airtag-privacy-stalking-cryptographic-solution/) - Apple updated its location-tracking system in an attempt to cut down on AirTag abuse while still preserving privacy. Researchers think they’ve found a better balance.
 
 - [McDonald’s Ice Cream Machine Hackers Say They Found the ‘Smoking Gun’ That Killed Their Startup](https://www.wired.com/story/kytch-taylor-mcdonalds-ice-cream-machine-smoking-gun/) - Kytch, the company that tried to fix McDonald’s broken ice cream machines, has unearthed a 3-year-old email it says proves claims of an alleged plot to undermine their business.
+
+- [Child Abusers Are Getting Better at Using Crypto to Cover Their Tracks](https://www.wired.com/story/csam-sellers-monero-rise/) - Crypto tracing firm Chainalysis found that sellers of child sexual abuse materials are successfully using “mixers” and “privacy coins” like Monero to launder their profits and evade law enforcement.
 
 - [How the Talmud Became a Best-Seller in South Korea](https://www.newyorker.com/books/page-turner/how-the-talmud-became-a-best-seller-in-south-korea) - In 2011, the South Korean Ambassador to Israel said on Israeli public television that “each Korean family has at least one copy of the Talmud.”
 
@@ -543,6 +585,16 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Pirahã people](https://en.wikipedia.org/w/index.php?title=Pirah%C3%A3_people&oldid=1209357592) - The Pirahã (pronounced [piɾaˈhɐ̃]) are an indigenous people of the Amazon Rainforest in Brazil. They are the sole surviving subgroup of the Mura people, and are hunter-gatherers. They live mainly on the banks of the Maici River in Humaitá and Manicoré in the state of Amazonas. As of 2018, they number 800 individuals. The Pirahã people do not call th...
+
+- [Chicken gun](https://en.wikipedia.org/w/index.php?title=Chicken_gun&oldid=1194769968) - A chicken gun or flight impact simulator is a large-diameter, compressed-air gun used to fire bird carcasses at aircraft components in order to simulate high-speed bird strikes during the aircraft's flight. Jet engines and aircraft windshields are particularly vulnerable to damage from such strikes, and are the most common target in such tests. Alth...
+
+- [Trojan Room coffee pot](https://en.wikipedia.org/w/index.php?title=Trojan_Room_coffee_pot&oldid=1190704629) - The Trojan Room coffee pot was a coffee machine located in the Computer Laboratory of the University of Cambridge, England. Created in 1991 by Quentin Stafford-Fraser and Paul Jardetzky, it was migrated from their laboratory network to the web in 1993, becoming the world's first webcam. To save people working in the building the disappointment of fi...
+
+- [Veterstrikdiploma](https://en.wikipedia.org/w/index.php?title=Veterstrikdiploma&oldid=1174786622) - A veterstrikdiploma, also known as veterdiploma or strikdiploma (English: shoelacing diploma) is a diploma which children between 5 and 6 years can get in the Netherlands and Belgium after they manage to tie their shoelaces by themselves. It is often the first diploma a child achieves and thus has an important pedagogic meaning, giving the child the...
+
+- [Polar bear jail](https://en.wikipedia.org/w/index.php?title=Polar_bear_jail&oldid=1189644123) - The polar bear jail (officially known as the  Polar Bear Holding Facility) is a special building in Churchill, Manitoba, Canada where polar bears that are considered troublesome or dangerous are isolated until they can be relocated.Before the facility was established, polar bears which were considered dangerous were shot.  The jail was established i...
+
 - [Jeffrey Manchester](https://en.wikipedia.org/w/index.php?title=Jeffrey_Manchester&oldid=1173147482) - Jeffrey Allen Manchester (born 1972) is an American convicted spree-robber and former United States Army Reserve officer known as the 'Rooftop Robber' or simply 'Roofman' due to his modus operandi of entering his targets (most commonly McDonald's locations) by drilling through the roof and dropping in. Before being apprehended for the second time in...
 
 - [Bogdanov affair](https://en.wikipedia.org/w/index.php?title=Bogdanov_affair&oldid=1183687764) - The Bogdanov affair was an academic dispute regarding the legitimacy of a series of theoretical physics papers written by French twins Igor and Grichka Bogdanov (alternatively spelled Bogdanoff). The papers were published in reputable scientific journals, and were alleged by their authors to culminate in a theory for describing what occurred before ...
@@ -733,17 +785,25 @@ To view a single category, check the files/ folder.
 
 - [<i>Zeitpyramide</i>](https://en.wikipedia.org/w/index.php?title=Zeitpyramide&oldid=1160430743) - The Zeitpyramide (lit. 'time pyramid') is a work of public art by Manfred Laber under construction in Wemding, Germany. The pyramid was begun in 1993 – the 1,200 year anniversary of the town. It will take another 1,160 years to complete and is scheduled to be finished in the year 3183. The project at the end of 2023 will be 3.3% complete with the fi...
 
-- [Wow! signal](https://en.wikipedia.org/w/index.php?title=Wow!_signal&oldid=1163860584) - The Wow! signal was a strong narrowband radio signal detected on August 15, 1977, by Ohio State University's Big Ear radio telescope in the United States, then used to support the search for extraterrestrial intelligence. The signal appeared to come from the direction of the constellation Sagittarius and bore the expected hallmarks of extraterrestri...
-
-- [Pirate Joe's](https://en.wikipedia.org/w/index.php?title=Pirate_Joe%27s&oldid=1112002529) - Pirate Joe's was a specialty grocery store in Vancouver, British Columbia, Canada, owned by Michael Hallatt. Its inventory consisted entirely of store brand products resold from locations of the U.S.-based grocery chain Trader Joe's, which does not operate any locations in Canada. Despite the high costs of operating the store because of its business...
-
-- [Thigmonasty](https://en.wikipedia.org/w/index.php?title=Thigmonasty&oldid=1143962145) - In biology, thigmonasty or seismonasty is the nastic (non-directional) response of a plant or fungus to touch or vibration. Conspicuous examples of thigmonasty include many species in the leguminous subfamily Mimosoideae, active carnivorous plants such as Dionaea and a wide range of pollination mechanisms.
-
-- [996 working hour system](https://en.wikipedia.org/w/index.php?title=996_working_hour_system&oldid=1158983563) - The 996 working hour system (Chinese: 996工作制) is a work schedule practiced by some companies in China. It derives its name from its requirement that employees work from 9:00 am to 9:00 pm, 6 days per week; i.e. 72 hours per week. A number of Mainland Chinese internet companies have adopted this system as their official work schedule. Critics argue t...
-
-- [Operation Coffee Cup](https://en.wikipedia.org/w/index.php?title=Operation_Coffee_Cup&oldid=1031013696) - Operation Coffee Cup was a campaign conducted by the American Medical Association (AMA) during the late 1950s and early 1960s in opposition to the Democrats' plans to extend Social Security to include health insurance for the elderly, later known as Medicare. As part of the plan, doctors' wives would organize coffee meetings in an attempt to convinc...
-
 # misc
+- [Why Are Hyperlinks Blue | The Mozilla Blog](https://blog.mozilla.org/en/internet-culture/why-are-hyperlinks-blue-revisited/) - Why we need to revisit the origin of blue hyperlink While musing over my recently published article, Why are hyperlinks blue, I was left feeling a bit blue
+
+- [Compare Countries With This Simple Tool](https://www.thetruesize.com/#?borders=1~!MTU1MTcwOTA.NDk4NjYyMQ*MzE0NTUwNDk(NjAzNzA4MA~!CONTIGUOUS_US*MTAwMjQwNzU.MjUwMjM1MTc(MTc1)MA~!IN*NTI2NDA1MQ.Nzg2MzQyMQ)MQ~!CN*OTkyMTY5Nw.NzMxNDcwNQ(MjI1)Mg) - Drag and drop countries around the map to compare their relative size. Is Greenland really as big as all of Africa? You may be surprised at what you find! A great tool for educators.
+
+- [TartanLlama/vizh](https://github.com/TartanLlama/vizh) - An esoteric visual language that takes image files as input based on a multi-tape turing machine, designed for compatibility with C.
+
+- [Zelda BotW Street View](https://nassimsoftware.github.io/zeldabotwstreetview/)
+
+- [Tinder for 🍌](http://tinderforbananas.com/) - It’s like Tinder, but for 🍌
+
+- [Fandom for Robots](https://www.uncannymagazine.com/article/fandom-for-robots/) - Computron feels no emotion towards the animated television show titled Hyperdimension Warp Record (超次元 ワープ レコード). After all, Computron does not have any emotion circuits installed, and is thus constitutionally incapable of experiencing “excitement,” “hatred,” or “frustration.” It is completely impossible for Computron to experience emotions such as ...
+
+- [Banana Ducks of Dubai](https://yousaydubai.com/2018/07/18/banana-ducks-of-dubai/) - They are just silly.  No apparent real purpose.  When I first saw the BANANA DUCKS of downtown Dubai, I thought that perhaps they were marking some slippery parts of the pavement – ?  But no,…
+
+- [Fandom for Robots - Uncanny Magazine](https://www.uncannymagazine.com/article/fandom-for-robots/)
+
+- [Fat Bear Week Hall of Champions](https://explore.org) - Fat Bear Week Hall of Champions
+
 - [Coding Font by Typogram – Find Your True Love of Coding Fonts](https://www.codingfont.com/)
 
 - [Deliberate Grieving](https://www.lesswrong.com/posts/gs3vp3ukPbpaEie5L/deliberate-grieving-1) - This post is hopefully useful on its own, but begins a series ultimately about grieving over a world that might (or, might not) be doomed.  …

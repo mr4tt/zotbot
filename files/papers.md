@@ -1,4 +1,6 @@
 # papers
+- [Chinese woman stuck in blind date's house after city lockdown](https://www.straitstimes.com/asia/east-asia/chinese-woman-stuck-in-blind-dates-house-after-city-lockdown?mc_cid=53f6a0baaa) - BEIJING (AFP) - Imagine being on a first date you couldn't end? Read more at straitstimes.com.
+
 - [The ‘ petertodd’ phenomenon](https://www.lesswrong.com/posts/jkY6QdCfAXHJk3kea/the-petertodd-phenomenon) - Note: Nothing in this post is intended to vilify or defame any actual human named Peter Todd. I recognise that the existence of this phenomenon may b…
 
 - [SolidGoldMagikarp (plus, prompt generation)](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation) - UPDATE (14th Feb 2023): ChatGPT appears to have been patched! However, very strange behaviour can still be elicited in the OpenAI playground, particu…

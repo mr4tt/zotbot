@@ -1,4 +1,8 @@
 # tweets
+- [I fucking hate when Mario gets burned and starts hopping and jumping around like can you fucking grow up and focus on the situation at hand](https://twitter.com/andy_sidecake/status/1311926569359695872)
+
+- [Maybe you feel like I do? 1/5 https://t.co/NGix4M7Xpi](https://twitter.com/RianSygh/status/1535503387235536896)
+
 - [David R. MacIver on Twitter: "Wait hang on I just realised something. Are you... are you all just thinking in your head? Like... you're just trying to form thoughts in your bare brain before putting them out into the world?? You know that doesn't work, right? Brains aren't for that." / Twitter](https://twitter.com/DRMacIver/status/1654415405409026048?t=wSTC38T24sC-nccfB-IFsg&s=33)
 
 - [https://twitter.com/jon_bois/status/1634062491729764352](https://twitter.com/jon_bois/status/1634062491729764352/photo/2)

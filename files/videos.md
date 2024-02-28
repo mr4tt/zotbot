@@ -1,4 +1,12 @@
 # videos
+- [Simba is Stupid in School (Parody)](https://www.youtube.com/watch?v=dkmweTykUcw)
+
+- [THE NURTURE MEGAMIX [𝐄𝐏𝐈𝐋𝐄𝐏𝐒𝐘 𝐖𝐀𝐑𝐍𝐈𝐍𝐆] - A Tribute to Porter Robinson's "Nurture" by distantstar](https://www.youtube.com/watch?v=H335oGno4S0)
+
+- [RASPUTIN | Arcane](https://www.youtube.com/watch?v=vVs6bbTQ80U)
+
+- [Is 'Huh?' a universal word?](https://www.youtube.com/watch?v=nm_klOMto4o)
+
 - [A precise, three-word address for every place on earth | Chris Sheldrick](https://www.youtube.com/watch?v=a4ZBzM3L6ws)
 
 - [Watch What Happens When a Portrait Artist Takes LSD](https://www.youtube.com/watch?v=n4Sb8jCJUTw)

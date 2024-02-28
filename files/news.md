@@ -1,4 +1,14 @@
 # news
+- [Before There Was Tinder](https://www.thecut.com/2022/09/computer-dating-love-stories.html) - Five people on finding their life partners through 1960s “computer dating.”
+
+- [Two of four stolen giant tortoises found in Dorset](https://www.bbc.com/news/uk-england-dorset-45314157) - Blastoise and Jeffery were found, but the other two - Squirtle and Wartortle - are still missing.
+
+- [Endangered Hawaiian monk seals keep getting eels stuck up their noses; scientists want them to stop](https://www.seattletimes.com/nation-world/make-better-choices-endangered-hawaiian-monk-seals-keep-getting-eels-stuck-up-their-noses-and-scientists-want-them-to-stop/) - The mystery began about two years ago, when Charles Littnan, lead scientist of the monk-seal program, got a strange email from researchers in the field. The subject line was short: "Eel in nose."
+
+- [New pictures show Wally the Walrus relaxing on a small boat in Crookhaven](https://www.irishexaminer.com/news/munster/arid-40360598.html) - Wally the walrus is set to get a ‘floating couch’ in an effort to prevent him from sinking more boats.
+
+- [If I Fits, I Sits: Starlink's Self-Heating Internet Satellite Dishes Are Attracting Cats](https://gizmodo.com/if-i-fits-i-sits-starlinks-self-heating-internet-sate-1848327155) - The dish's Snow Melt Mode prevents snow build-up from interfering with the signal—and apparently provides a toasty outdoor lounge space for critters.
+
 - [Escaped robber returns to annals of weird crime / Cops say 'Roofman' lived large in store](https://www.sfgate.com/news/article/escaped-robber-returns-to-annals-of-weird-crime-2706176.php) - Escaped robber returns to annals of weird crime / Cops say 'Roofman' lived large in...
 
 - [The hijacking of $339,000 worth of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats) - This is an instance of a computer-based form of fraud dubbed 'part identity theft, part extortion'. Read more at straitstimes.com.
@@ -20,6 +30,8 @@
 - [This Clever New Idea Could Fix AirTag Stalking While Maximizing Privacy](https://www.wired.com/story/apple-airtag-privacy-stalking-cryptographic-solution/) - Apple updated its location-tracking system in an attempt to cut down on AirTag abuse while still preserving privacy. Researchers think they’ve found a better balance.
 
 - [McDonald’s Ice Cream Machine Hackers Say They Found the ‘Smoking Gun’ That Killed Their Startup](https://www.wired.com/story/kytch-taylor-mcdonalds-ice-cream-machine-smoking-gun/) - Kytch, the company that tried to fix McDonald’s broken ice cream machines, has unearthed a 3-year-old email it says proves claims of an alleged plot to undermine their business.
+
+- [Child Abusers Are Getting Better at Using Crypto to Cover Their Tracks](https://www.wired.com/story/csam-sellers-monero-rise/) - Crypto tracing firm Chainalysis found that sellers of child sexual abuse materials are successfully using “mixers” and “privacy coins” like Monero to launder their profits and evade law enforcement.
 
 - [How the Talmud Became a Best-Seller in South Korea](https://www.newyorker.com/books/page-turner/how-the-talmud-became-a-best-seller-in-south-korea) - In 2011, the South Korean Ambassador to Israel said on Israeli public television that “each Korean family has at least one copy of the Talmud.”
 

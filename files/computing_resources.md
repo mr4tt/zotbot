@@ -1,4 +1,12 @@
 # computing_resources
+- [AutoRegex: Convert from English to RegEx with Natural Language Processing](https://www.autoregex.xyz/)
+
+- [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+
+- [Confessions of a recovering lifehacker](https://johnpavlus.wordpress.com/2010/06/15/confessions-of-a-recovering-lifehacker/) - I used to be a lifehacking addict, and in some ways I still am. I have a perverse love of systems and efficiency: analyzing, configuring, optmizing, categorizing, defining, and parameter-setting. (…
+
+- [How does Tor work?](https://robertheaton.com/2019/04/06/how-does-tor-work/) - The internet is a dangerous place for Person X.
+
 - [BashPitfalls - Greg's Wiki](https://mywiki.wooledge.org/BashPitfalls#for_f_in_.24.28ls_.2A.mp3.29)
 
 - [Floating Point Math](https://0.30000000000000004.com/)

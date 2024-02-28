@@ -1,4 +1,10 @@
 # design_resources
+- [Typescale - Create stunning typography, generate CSS, and find inspiration.](https://typescale.com/)
+
+- [Building a Visual Language](https://airbnb.design/building-a-visual-language/) - Behind the scenes of our new design system
+
+- [Xiaohan Zou's Portfolio](https://portfolio.zxh.io/)
+
 - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines) - The HIG contains guidance and best practices that can help you design a great experience for any Apple platform.
 
 - [One Page Love - One Page Website Inspiration and Templates](https://onepagelove.com) - One Page Love is a One Page website design gallery showcasing the best Single Page websites, templates and resources.
