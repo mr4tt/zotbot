@@ -1,4 +1,6 @@
 # misc
+- [Tails](https://tails.net/index.en.html)
+
 - [Why Are Hyperlinks Blue | The Mozilla Blog](https://blog.mozilla.org/en/internet-culture/why-are-hyperlinks-blue-revisited/) - Why we need to revisit the origin of blue hyperlink While musing over my recently published article, Why are hyperlinks blue, I was left feeling a bit blue
 
 - [Compare Countries With This Simple Tool](https://www.thetruesize.com/#?borders=1~!MTU1MTcwOTA.NDk4NjYyMQ*MzE0NTUwNDk(NjAzNzA4MA~!CONTIGUOUS_US*MTAwMjQwNzU.MjUwMjM1MTc(MTc1)MA~!IN*NTI2NDA1MQ.Nzg2MzQyMQ)MQ~!CN*OTkyMTY5Nw.NzMxNDcwNQ(MjI1)Mg) - Drag and drop countries around the map to compare their relative size. Is Greenland really as big as all of Africa? You may be surprised at what you find! A great tool for educators.
