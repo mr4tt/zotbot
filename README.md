@@ -154,6 +154,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [2024 Habit Calendar](https://habitcalendar.co/)
+
 - [FutureMe: Write a Letter to your Future Self](https://www.futureme.org) - Write a letter to the future and read the public (but anonymous) letters from others. FutureMe has been delivering letters to the future for millions of people since 2002.
 
 - [Getting things done](https://jvns.ca/blog/2016/09/19/getting-things-done/) - Getting things done
@@ -786,6 +788,8 @@ To view a single category, check the files/ folder.
 - [<i>Zeitpyramide</i>](https://en.wikipedia.org/w/index.php?title=Zeitpyramide&oldid=1160430743) - The Zeitpyramide (lit. 'time pyramid') is a work of public art by Manfred Laber under construction in Wemding, Germany. The pyramid was begun in 1993 – the 1,200 year anniversary of the town. It will take another 1,160 years to complete and is scheduled to be finished in the year 3183. The project at the end of 2023 will be 3.3% complete with the fi...
 
 # misc
+- [How different languages laugh online](https://restofworld.org/2023/how-people-laugh-online/) - Laughter is universal, but lol is not.
+
 - [Tails](https://tails.net/index.en.html)
 
 - [Why Are Hyperlinks Blue | The Mozilla Blog](https://blog.mozilla.org/en/internet-culture/why-are-hyperlinks-blue-revisited/) - Why we need to revisit the origin of blue hyperlink While musing over my recently published article, Why are hyperlinks blue, I was left feeling a bit blue

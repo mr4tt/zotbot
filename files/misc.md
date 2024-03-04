@@ -1,4 +1,6 @@
 # misc
+- [How different languages laugh online](https://restofworld.org/2023/how-people-laugh-online/) - Laughter is universal, but lol is not.
+
 - [Tails](https://tails.net/index.en.html)
 
 - [Why Are Hyperlinks Blue | The Mozilla Blog](https://blog.mozilla.org/en/internet-culture/why-are-hyperlinks-blue-revisited/) - Why we need to revisit the origin of blue hyperlink While musing over my recently published article, Why are hyperlinks blue, I was left feeling a bit blue
