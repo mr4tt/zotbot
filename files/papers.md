@@ -1,4 +1,6 @@
 # papers
+- [How To Break Anonymity of the Netflix Prize Dataset](http://arxiv.org/abs/cs/0610105) - We present a new class of statistical de-anonymization attacks against high-dimensional micro-data, such as individual preferences, recommendations, transaction records and so on. Our techniques are robust to perturbation in the data and tolerate some mistakes in the adversary's background knowledge. We apply our de-anonymization methodology to the ...
+
 - [Chinese woman stuck in blind date's house after city lockdown](https://www.straitstimes.com/asia/east-asia/chinese-woman-stuck-in-blind-dates-house-after-city-lockdown?mc_cid=53f6a0baaa) - BEIJING (AFP) - Imagine being on a first date you couldn't end? Read more at straitstimes.com.
 
 - [The ‘ petertodd’ phenomenon](https://www.lesswrong.com/posts/jkY6QdCfAXHJk3kea/the-petertodd-phenomenon) - Note: Nothing in this post is intended to vilify or defame any actual human named Peter Todd. I recognise that the existence of this phenomenon may b…
