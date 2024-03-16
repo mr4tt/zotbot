@@ -1,4 +1,22 @@
 # computing_resources
+- [Julia Evans](https://jvns.ca/) - Julia Evans
+
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
+- [wizard zines](https://wizardzines.com/)
+
+- [Robert Heaton | Blog](https://robertheaton.com) - Software engineer. One-track lover down a two-way lane
+
+- [explainshell.com - match command-line arguments to their help text](https://explainshell.com/)
+
+- [BashPitfalls - Greg's Wiki](https://mywiki.wooledge.org/BashPitfalls#for_f_in_.24.28ls_.2A.mp3.29)
+
+- [bash keyboard shortcuts - Linux - SS64.com](https://ss64.com/bash/syntax-keyboard.html)
+
+- [Bash best practices](https://bertvv.github.io/cheat-sheets/Bash.html) - Cheat sheets for various stuff
+
+- [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) - CSS Grid is an incredibly powerful tool for building layouts on the web, but like all powerful tools, there's a significant learning curve. In this tutorial, we'll build a mental model for how CSS Grid works and how we can use it effectively. I'll share the biggest 💡 lightbulb moments I've had in my own learning journey.
+
 - [A CRITICAL FIELD GUIDE FOR WORKING WITH MACHINE LEARNING DATASETS](https://knowingmachines.org/critical-field-guide) - Maybe you’re an engineer creating a new machine vision system to track birds. You might be a journalist using social media data to research Costa Rican households. You could be a researcher who stumbled upon your university’s archive of handwritten census cards from 1939. Or a designer creating a chatbot that relies on large language models like GPT...
 
 - [Learn VIM while playing a game - VIM Adventures](https://vim-adventures.com/) - VIM Adventures is an online game based on VIM's keyboard shortcuts. It's the "Zelda meets text editing" game. So come have some fun and learn some VIM!
@@ -11,11 +29,7 @@
 
 - [How does Tor work?](https://robertheaton.com/2019/04/06/how-does-tor-work/) - The internet is a dangerous place for Person X.
 
-- [BashPitfalls - Greg's Wiki](https://mywiki.wooledge.org/BashPitfalls#for_f_in_.24.28ls_.2A.mp3.29)
-
 - [Floating Point Math](https://0.30000000000000004.com/)
-
-- [bash keyboard shortcuts - Linux - SS64.com](https://ss64.com/bash/syntax-keyboard.html)
 
 - [Creating a Culture of Observability](https://onemogin.com/observability/stripe/culture/monitoring/monitorama/creating-a-culture-of-observability.html)
 
@@ -31,8 +45,6 @@
 
 - [discord.js Guide](https://discordjs.guide/) - Imagine a guide... that explores the many possibilities for your discord.js bot.
 
-- [wizard zines](https://wizardzines.com/)
-
 - [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example web application written in Go.
 
 - [I heard you like polyrhythms](https://www.youtube.com/watch?v=SthcxWPXG_E) - I've been watching this YouTube channel called ProjectJDM with these oddly satisfying pendulum-like sequences and I thought it would be cool if someone made a full song out of that concept :)  Project file available on Patreon   / virtualriot    Inspiration: https://www.youtube.com/@project_jdm/...
@@ -43,15 +55,11 @@
 
 - [Glaze - What is Glaze](https://glaze.cs.uchicago.edu/what-is-glaze.html)
 
-- [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) - CSS Grid is an incredibly powerful tool for building layouts on the web, but like all powerful tools, there's a significant learning curve. In this tutorial, we'll build a mental model for how CSS Grid works and how we can use it effectively. I'll share the biggest 💡 lightbulb moments I've had in my own learning journey.
-
 - [dbdiagram.io - Database Relationship Diagrams Design Tool](https://dbdiagram.io/home) - Quick and simple free tool to help you draw your database relationship diagrams and flow quickly using simple DSL language.
 
 - [pragmatic_segmenter/README.md at master · diasks2/pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter/blob/master/README.md) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages. - diasks2/pragmatic_segmenter
 
 - [Common commands | tldr InBrowser.App](https://tldr.inbrowser.app/pages/common)
-
-- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 - [Getting started - Spectrum CSS](https://opensource.adobe.com/spectrum-css/get-started.html)
 
@@ -67,13 +75,7 @@
 
 - [Generate TOC Table of Contents from GitHub Markdown or Wiki Online](https://ecotrust-canada.github.io/markdown-toc/)
 
-- [Robert Heaton | Blog](https://robertheaton.com) - Software engineer. One-track lover down a two-way lane
-
 - [Quick Sort - Sorting Algorithm Animations](https://www.toptal.com/developers/sorting-algorithms/quick-sort) - Animation, code, analysis, and discussion of quick sort on 4 initial conditions.
-
-- [Julia Evans](https://jvns.ca/) - Julia Evans
-
-- [explainshell.com - match command-line arguments to their help text](https://explainshell.com/)
 
 - [Steganography Online](https://stylesuxx.github.io/steganography/)
 
@@ -92,8 +94,6 @@
 - [Server-side sandboxing: An introduction | Figma Blog](https://www.figma.com/blog/server-side-sandboxing-an-introduction/) - The first of our three-part series on deploying and operating sandboxing techniques
 
 - [NSA Codebreaker Challenge](https://nsa-codebreaker.org/resources)
-
-- [Bash best practices](https://bertvv.github.io/cheat-sheets/Bash.html) - Cheat sheets for various stuff
 
 - [CLARK | Browse Learning Objects](https://clark.center/browse?currPage=8&limit=10&orderBy=date&sortType=-1&collection=nccp&status=released)
 

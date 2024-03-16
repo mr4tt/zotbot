@@ -1,4 +1,12 @@
 # news
+- [These Kids Made Their Influencer Parents Wealthy. Will They See a Dime of That Money?](https://www.cosmopolitan.com/lifestyle/a60125272/sharenting-parenting-influencer-cost-children/) - In the unregulated world of vloggers, children are, for the most part, not entitled to a single cent they help earn. We spoke to creators—and the child of a mommy blogger—to understand how this unusual family business actually works.
+
+- [An engineer bought a prison laptop on eBay. Then 1,200 incarcerated students lost their devices.](https://www.opencampusmedia.org/2024/03/04/an-engineer-bought-a-prison-laptop-on-ebay-then-1200-incarcerated-students-lost-their-devices/) - Students said they were given little information about when and if the devices would be returned, and many wondered if they’d lose access to the work they saved.
+
+- [The job applicants shut out by AI: ‘The interviewer sounded like Siri’](https://www.theguardian.com/technology/2024/mar/06/ai-interviews-job-applications) - Employers are letting artificial intelligence conduct job interviews. Candidates are trying to beat the system
+
+- [How Casinos Enable Gambling Addicts](https://www.theatlantic.com/magazine/archive/2016/12/losing-it-all/505814/) - Modern slot machines develop an unbreakable hold on many players—some of whom wind up losing their jobs, their families, and even, as in the case of Scott Stevens, their lives.
+
 - [Before There Was Tinder](https://www.thecut.com/2022/09/computer-dating-love-stories.html) - Five people on finding their life partners through 1960s “computer dating.”
 
 - [Two of four stolen giant tortoises found in Dorset](https://www.bbc.com/news/uk-england-dorset-45314157) - Blastoise and Jeffery were found, but the other two - Squirtle and Wartortle - are still missing.

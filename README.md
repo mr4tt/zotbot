@@ -185,9 +185,31 @@ To view a single category, check the files/ folder.
 # design_resources
 - [Typescale - Create stunning typography, generate CSS, and find inspiration.](https://typescale.com/)
 
-- [Building a Visual Language](https://airbnb.design/building-a-visual-language/) - Behind the scenes of our new design system
+- [Typography 101: A crash course of terms to know. | Create](https://creativecloud.adobe.com/discover/article/typography-101-a-crash-course-of-terms-to-know) - Talking about typography can be a daunting task. Don’t fret: We’ve put together a visual glossary of the essential type typography terms to know, with a little help from our friends at Adobe Fonts and Letterform Archive.
 
 - [Xiaohan Zou's Portfolio](https://portfolio.zxh.io/)
+
+- [Color is a four letter word](https://pjonori.blog/posts/color-is-a-four-letter-word/)
+
+- [How to Get Out of Ontological Debt](https://jarango.com/2024/03/03/how-to-get-out-of-ontological-debt/) - Inconsistent product terminology leads to “ontological debt,” negatively affecting UX — but you can pay it down.
+
+- [Palettte App](https://palettte.app/)
+
+- [Ohno Type School: A](https://ohnotype.co/blog/ohno-type-school-a) - OH no Type Co. Retail and custom typefaces. Life’s a thrill, fonts are chill!
+
+- [Kern Type](http://type.method.ac) - A game to learn how to kern type
+
+- [Butterick’s Practical Typography](https://practicaltypography.com/)
+
+- [Essays](https://jonathanhoefler.com/writing) - Articles by Jonathan Hoefler
+
+- [Color Picker - Coolors](https://coolors.co/c1cc83)
+
+- [Color and Contrast.com](https://colorandcontrast.com/) - Color & Contrast is an interactive guide to color for designers.
+
+- [Adobe Color | Color palette generator](https://color.adobe.com/)
+
+- [Building a Visual Language](https://airbnb.design/building-a-visual-language/) - Behind the scenes of our new design system
 
 - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines) - The HIG contains guidance and best practices that can help you design a great experience for any Apple platform.
 
@@ -199,8 +221,6 @@ To view a single category, check the files/ folder.
 
 - [RUBBISH!](https://www.wweek.com/portland/article-1616-rubbish.html-2) - It's past midnight. Over the whump of the wipers and the screech of the fan   belt, we lurch through the side streets of Southeast Portland in a battered   white van, double-checking our toolkit: flas ...,News
 
-- [Essays](https://jonathanhoefler.com/writing) - Articles by Jonathan Hoefler
-
 - [Brutalist Websites](https://brutalistwebsites.com/)
 
 - [Stack Sorted.](https://stacksorted.com) - Find Inspiration in Design Elements.
@@ -211,29 +231,17 @@ To view a single category, check the files/ folder.
 
 - [The Bézier Game](http://bezier.method.ac) - A game to help you master the pen tool
 
-- [Kern Type](http://type.method.ac) - A game to learn how to kern type
-
 - [Humaaans: Mix-&-Match illustration library](https://www.humaaans.com/) - Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.
-
-- [Ohno Type School: A](https://ohnotype.co/blog/ohno-type-school-a) - OH no Type Co. Retail and custom typefaces. Life’s a thrill, fonts are chill!
-
-- [Butterick’s Practical Typography](https://practicaltypography.com/)
-
-- [Typography 101: A crash course of terms to know. | Create](https://creativecloud.adobe.com/discover/article/typography-101-a-crash-course-of-terms-to-know) - Talking about typography can be a daunting task. Don’t fret: We’ve put together a visual glossary of the essential type typography terms to know, with a little help from our friends at Adobe Fonts and Letterform Archive.
 
 - [UX Coffee Hours](https://storage.googleapis.com/uxcoffeehours.com/site/index.html)
 
 - [POSEMANIACS - Royalty free 3d pose reference for all artists](https://posemaniacs.com) - Posemaniacs.com is a royalty free pose reference for all artists. Our mission is “to create free learning materials for all people who want to be an artist.” We are small teams it would be great if you are happy to help us.
-
-- [Color Picker - Coolors](https://coolors.co/c1cc83)
 
 - [Grids](https://grids.obys.agency/)
 
 - [Bret Victor, beast of burden](http://worrydream.com/#!/ABriefRantOnTheFutureOfInteractionDesign)
 
 - [Miranda — Paper Portfolio](https://www.niccolomiranda.com/) - Niccolò Miranda is an award-winning designer & developer who’s passionate about creating iconic digital experiences through motion, typography and creative coding.
-
-- [Color and Contrast.com](https://colorandcontrast.com/) - Color & Contrast is an interactive guide to color for designers.
 
 - [In the file: The first 90 days of the Head of DesignOps](https://www.youtube.com/watch?v=mjRPk2faqKw) - Figma is free to use. Sign up here: https://bit.ly/3msp0OVSalome Mortazavi, Head of DesignOps at SiriusXM Listener, and Adam Fry-Pierce, Chief of Staff at Go...
 
@@ -242,6 +250,24 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [Julia Evans](https://jvns.ca/) - Julia Evans
+
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
+- [wizard zines](https://wizardzines.com/)
+
+- [Robert Heaton | Blog](https://robertheaton.com) - Software engineer. One-track lover down a two-way lane
+
+- [explainshell.com - match command-line arguments to their help text](https://explainshell.com/)
+
+- [BashPitfalls - Greg's Wiki](https://mywiki.wooledge.org/BashPitfalls#for_f_in_.24.28ls_.2A.mp3.29)
+
+- [bash keyboard shortcuts - Linux - SS64.com](https://ss64.com/bash/syntax-keyboard.html)
+
+- [Bash best practices](https://bertvv.github.io/cheat-sheets/Bash.html) - Cheat sheets for various stuff
+
+- [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) - CSS Grid is an incredibly powerful tool for building layouts on the web, but like all powerful tools, there's a significant learning curve. In this tutorial, we'll build a mental model for how CSS Grid works and how we can use it effectively. I'll share the biggest 💡 lightbulb moments I've had in my own learning journey.
+
 - [A CRITICAL FIELD GUIDE FOR WORKING WITH MACHINE LEARNING DATASETS](https://knowingmachines.org/critical-field-guide) - Maybe you’re an engineer creating a new machine vision system to track birds. You might be a journalist using social media data to research Costa Rican households. You could be a researcher who stumbled upon your university’s archive of handwritten census cards from 1939. Or a designer creating a chatbot that relies on large language models like GPT...
 
 - [Learn VIM while playing a game - VIM Adventures](https://vim-adventures.com/) - VIM Adventures is an online game based on VIM's keyboard shortcuts. It's the "Zelda meets text editing" game. So come have some fun and learn some VIM!
@@ -254,11 +280,7 @@ To view a single category, check the files/ folder.
 
 - [How does Tor work?](https://robertheaton.com/2019/04/06/how-does-tor-work/) - The internet is a dangerous place for Person X.
 
-- [BashPitfalls - Greg's Wiki](https://mywiki.wooledge.org/BashPitfalls#for_f_in_.24.28ls_.2A.mp3.29)
-
 - [Floating Point Math](https://0.30000000000000004.com/)
-
-- [bash keyboard shortcuts - Linux - SS64.com](https://ss64.com/bash/syntax-keyboard.html)
 
 - [Creating a Culture of Observability](https://onemogin.com/observability/stripe/culture/monitoring/monitorama/creating-a-culture-of-observability.html)
 
@@ -274,8 +296,6 @@ To view a single category, check the files/ folder.
 
 - [discord.js Guide](https://discordjs.guide/) - Imagine a guide... that explores the many possibilities for your discord.js bot.
 
-- [wizard zines](https://wizardzines.com/)
-
 - [benbjohnson/wtf](https://github.com/benbjohnson/wtf) - WTF Dial is an example web application written in Go.
 
 - [I heard you like polyrhythms](https://www.youtube.com/watch?v=SthcxWPXG_E) - I've been watching this YouTube channel called ProjectJDM with these oddly satisfying pendulum-like sequences and I thought it would be cool if someone made a full song out of that concept :)  Project file available on Patreon   / virtualriot    Inspiration: https://www.youtube.com/@project_jdm/...
@@ -286,15 +306,11 @@ To view a single category, check the files/ folder.
 
 - [Glaze - What is Glaze](https://glaze.cs.uchicago.edu/what-is-glaze.html)
 
-- [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) - CSS Grid is an incredibly powerful tool for building layouts on the web, but like all powerful tools, there's a significant learning curve. In this tutorial, we'll build a mental model for how CSS Grid works and how we can use it effectively. I'll share the biggest 💡 lightbulb moments I've had in my own learning journey.
-
 - [dbdiagram.io - Database Relationship Diagrams Design Tool](https://dbdiagram.io/home) - Quick and simple free tool to help you draw your database relationship diagrams and flow quickly using simple DSL language.
 
 - [pragmatic_segmenter/README.md at master · diasks2/pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter/blob/master/README.md) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages. - diasks2/pragmatic_segmenter
 
 - [Common commands | tldr InBrowser.App](https://tldr.inbrowser.app/pages/common)
-
-- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 - [Getting started - Spectrum CSS](https://opensource.adobe.com/spectrum-css/get-started.html)
 
@@ -310,13 +326,7 @@ To view a single category, check the files/ folder.
 
 - [Generate TOC Table of Contents from GitHub Markdown or Wiki Online](https://ecotrust-canada.github.io/markdown-toc/)
 
-- [Robert Heaton | Blog](https://robertheaton.com) - Software engineer. One-track lover down a two-way lane
-
 - [Quick Sort - Sorting Algorithm Animations](https://www.toptal.com/developers/sorting-algorithms/quick-sort) - Animation, code, analysis, and discussion of quick sort on 4 initial conditions.
-
-- [Julia Evans](https://jvns.ca/) - Julia Evans
-
-- [explainshell.com - match command-line arguments to their help text](https://explainshell.com/)
 
 - [Steganography Online](https://stylesuxx.github.io/steganography/)
 
@@ -335,8 +345,6 @@ To view a single category, check the files/ folder.
 - [Server-side sandboxing: An introduction | Figma Blog](https://www.figma.com/blog/server-side-sandboxing-an-introduction/) - The first of our three-part series on deploying and operating sandboxing techniques
 
 - [NSA Codebreaker Challenge](https://nsa-codebreaker.org/resources)
-
-- [Bash best practices](https://bertvv.github.io/cheat-sheets/Bash.html) - Cheat sheets for various stuff
 
 - [CLARK | Browse Learning Objects](https://clark.center/browse?currPage=8&limit=10&orderBy=date&sortType=-1&collection=nccp&status=released)
 
@@ -430,6 +438,14 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [These Kids Made Their Influencer Parents Wealthy. Will They See a Dime of That Money?](https://www.cosmopolitan.com/lifestyle/a60125272/sharenting-parenting-influencer-cost-children/) - In the unregulated world of vloggers, children are, for the most part, not entitled to a single cent they help earn. We spoke to creators—and the child of a mommy blogger—to understand how this unusual family business actually works.
+
+- [An engineer bought a prison laptop on eBay. Then 1,200 incarcerated students lost their devices.](https://www.opencampusmedia.org/2024/03/04/an-engineer-bought-a-prison-laptop-on-ebay-then-1200-incarcerated-students-lost-their-devices/) - Students said they were given little information about when and if the devices would be returned, and many wondered if they’d lose access to the work they saved.
+
+- [The job applicants shut out by AI: ‘The interviewer sounded like Siri’](https://www.theguardian.com/technology/2024/mar/06/ai-interviews-job-applications) - Employers are letting artificial intelligence conduct job interviews. Candidates are trying to beat the system
+
+- [How Casinos Enable Gambling Addicts](https://www.theatlantic.com/magazine/archive/2016/12/losing-it-all/505814/) - Modern slot machines develop an unbreakable hold on many players—some of whom wind up losing their jobs, their families, and even, as in the case of Scott Stevens, their lives.
+
 - [Before There Was Tinder](https://www.thecut.com/2022/09/computer-dating-love-stories.html) - Five people on finding their life partners through 1960s “computer dating.”
 
 - [Two of four stolen giant tortoises found in Dorset](https://www.bbc.com/news/uk-england-dorset-45314157) - Blastoise and Jeffery were found, but the other two - Squirtle and Wartortle - are still missing.
@@ -593,6 +609,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [John Rabe](https://en.wikipedia.org/w/index.php?title=John_Rabe&oldid=1207822865) - John Heinrich Detlef Rabe (23 November 1882 – 5 January 1950) was a German businessman and Nazi Party member best known for his efforts to stop war crimes during the Japanese Nanjing Massacre (also romanized as Nanking) and his work to protect and help Chinese civilians during the massacre that ensued. The Nanking Safety Zone, which he helped to est...
+
 - [Pirahã people](https://en.wikipedia.org/w/index.php?title=Pirah%C3%A3_people&oldid=1209357592) - The Pirahã (pronounced [piɾaˈhɐ̃]) are an indigenous people of the Amazon Rainforest in Brazil. They are the sole surviving subgroup of the Mura people, and are hunter-gatherers. They live mainly on the banks of the Maici River in Humaitá and Manicoré in the state of Amazonas. As of 2018, they number 800 individuals. The Pirahã people do not call th...
 
 - [Chicken gun](https://en.wikipedia.org/w/index.php?title=Chicken_gun&oldid=1194769968) - A chicken gun or flight impact simulator is a large-diameter, compressed-air gun used to fire bird carcasses at aircraft components in order to simulate high-speed bird strikes during the aircraft's flight. Jet engines and aircraft windshields are particularly vulnerable to damage from such strikes, and are the most common target in such tests. Alth...
@@ -791,9 +809,9 @@ To view a single category, check the files/ folder.
 
 - [List of notable people banned from entering the United States](https://en.wikipedia.org/w/index.php?title=List_of_notable_people_banned_from_entering_the_United_States&oldid=1154343340) - The following is a list of notable people who are or were barred from entering the United States. The Bureau of Immigration and Customs Enforcement (ICE) of the United States Department of Homeland Security (DHS) handles deportation in the United States, often in conjunction with advice from the U.S. Department of State. Such bans are often temporar...
 
-- [<i>Zeitpyramide</i>](https://en.wikipedia.org/w/index.php?title=Zeitpyramide&oldid=1160430743) - The Zeitpyramide (lit. 'time pyramid') is a work of public art by Manfred Laber under construction in Wemding, Germany. The pyramid was begun in 1993 – the 1,200 year anniversary of the town. It will take another 1,160 years to complete and is scheduled to be finished in the year 3183. The project at the end of 2023 will be 3.3% complete with the fi...
-
 # misc
+- [Kruschiki Supply Company](https://kruschiki.com/) - Kruschiki Supply Company
+
 - [How different languages laugh online](https://restofworld.org/2023/how-people-laugh-online/) - Laughter is universal, but lol is not.
 
 - [Tails](https://tails.net/index.en.html)

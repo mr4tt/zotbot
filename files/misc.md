@@ -1,4 +1,6 @@
 # misc
+- [Kruschiki Supply Company](https://kruschiki.com/) - Kruschiki Supply Company
+
 - [How different languages laugh online](https://restofworld.org/2023/how-people-laugh-online/) - Laughter is universal, but lol is not.
 
 - [Tails](https://tails.net/index.en.html)

@@ -1,9 +1,31 @@
 # design_resources
 - [Typescale - Create stunning typography, generate CSS, and find inspiration.](https://typescale.com/)
 
-- [Building a Visual Language](https://airbnb.design/building-a-visual-language/) - Behind the scenes of our new design system
+- [Typography 101: A crash course of terms to know. | Create](https://creativecloud.adobe.com/discover/article/typography-101-a-crash-course-of-terms-to-know) - Talking about typography can be a daunting task. Don’t fret: We’ve put together a visual glossary of the essential type typography terms to know, with a little help from our friends at Adobe Fonts and Letterform Archive.
 
 - [Xiaohan Zou's Portfolio](https://portfolio.zxh.io/)
+
+- [Color is a four letter word](https://pjonori.blog/posts/color-is-a-four-letter-word/)
+
+- [How to Get Out of Ontological Debt](https://jarango.com/2024/03/03/how-to-get-out-of-ontological-debt/) - Inconsistent product terminology leads to “ontological debt,” negatively affecting UX — but you can pay it down.
+
+- [Palettte App](https://palettte.app/)
+
+- [Ohno Type School: A](https://ohnotype.co/blog/ohno-type-school-a) - OH no Type Co. Retail and custom typefaces. Life’s a thrill, fonts are chill!
+
+- [Kern Type](http://type.method.ac) - A game to learn how to kern type
+
+- [Butterick’s Practical Typography](https://practicaltypography.com/)
+
+- [Essays](https://jonathanhoefler.com/writing) - Articles by Jonathan Hoefler
+
+- [Color Picker - Coolors](https://coolors.co/c1cc83)
+
+- [Color and Contrast.com](https://colorandcontrast.com/) - Color & Contrast is an interactive guide to color for designers.
+
+- [Adobe Color | Color palette generator](https://color.adobe.com/)
+
+- [Building a Visual Language](https://airbnb.design/building-a-visual-language/) - Behind the scenes of our new design system
 
 - [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines) - The HIG contains guidance and best practices that can help you design a great experience for any Apple platform.
 
@@ -15,8 +37,6 @@
 
 - [RUBBISH!](https://www.wweek.com/portland/article-1616-rubbish.html-2) - It's past midnight. Over the whump of the wipers and the screech of the fan   belt, we lurch through the side streets of Southeast Portland in a battered   white van, double-checking our toolkit: flas ...,News
 
-- [Essays](https://jonathanhoefler.com/writing) - Articles by Jonathan Hoefler
-
 - [Brutalist Websites](https://brutalistwebsites.com/)
 
 - [Stack Sorted.](https://stacksorted.com) - Find Inspiration in Design Elements.
@@ -27,29 +47,17 @@
 
 - [The Bézier Game](http://bezier.method.ac) - A game to help you master the pen tool
 
-- [Kern Type](http://type.method.ac) - A game to learn how to kern type
-
 - [Humaaans: Mix-&-Match illustration library](https://www.humaaans.com/) - Mix-&-match illustrations of people with a design library for InVIsion Studio and Sketch.
-
-- [Ohno Type School: A](https://ohnotype.co/blog/ohno-type-school-a) - OH no Type Co. Retail and custom typefaces. Life’s a thrill, fonts are chill!
-
-- [Butterick’s Practical Typography](https://practicaltypography.com/)
-
-- [Typography 101: A crash course of terms to know. | Create](https://creativecloud.adobe.com/discover/article/typography-101-a-crash-course-of-terms-to-know) - Talking about typography can be a daunting task. Don’t fret: We’ve put together a visual glossary of the essential type typography terms to know, with a little help from our friends at Adobe Fonts and Letterform Archive.
 
 - [UX Coffee Hours](https://storage.googleapis.com/uxcoffeehours.com/site/index.html)
 
 - [POSEMANIACS - Royalty free 3d pose reference for all artists](https://posemaniacs.com) - Posemaniacs.com is a royalty free pose reference for all artists. Our mission is “to create free learning materials for all people who want to be an artist.” We are small teams it would be great if you are happy to help us.
-
-- [Color Picker - Coolors](https://coolors.co/c1cc83)
 
 - [Grids](https://grids.obys.agency/)
 
 - [Bret Victor, beast of burden](http://worrydream.com/#!/ABriefRantOnTheFutureOfInteractionDesign)
 
 - [Miranda — Paper Portfolio](https://www.niccolomiranda.com/) - Niccolò Miranda is an award-winning designer & developer who’s passionate about creating iconic digital experiences through motion, typography and creative coding.
-
-- [Color and Contrast.com](https://colorandcontrast.com/) - Color & Contrast is an interactive guide to color for designers.
 
 - [In the file: The first 90 days of the Head of DesignOps](https://www.youtube.com/watch?v=mjRPk2faqKw) - Figma is free to use. Sign up here: https://bit.ly/3msp0OVSalome Mortazavi, Head of DesignOps at SiriusXM Listener, and Adam Fry-Pierce, Chief of Staff at Go...
 
