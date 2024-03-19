@@ -438,6 +438,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The Danger of the President’s Nuclear Powers | Opinion](https://www.nytimes.com/interactive/2024/03/07/opinion/nuclear-weapons-president.html) - In the United States, it’s up to one person to decide whether the world becomes engulfed in nuclear war.
+
+- [Google Used a Black, Deaf Worker to Tout Its Diversity. Now She’s Suing for Discrimination](https://www.wired.com/story/google-black-deaf-worker-diversity-suing-discrimination/) - Jalon Hall was featured on Google’s corporate social media accounts “for making #LifeAtGoogle more inclusive!” She says the company discriminated against her on the basis of her disability and race.
+
 - [These Kids Made Their Influencer Parents Wealthy. Will They See a Dime of That Money?](https://www.cosmopolitan.com/lifestyle/a60125272/sharenting-parenting-influencer-cost-children/) - In the unregulated world of vloggers, children are, for the most part, not entitled to a single cent they help earn. We spoke to creators—and the child of a mommy blogger—to understand how this unusual family business actually works.
 
 - [An engineer bought a prison laptop on eBay. Then 1,200 incarcerated students lost their devices.](https://www.opencampusmedia.org/2024/03/04/an-engineer-bought-a-prison-laptop-on-ebay-then-1200-incarcerated-students-lost-their-devices/) - Students said they were given little information about when and if the devices would be returned, and many wondered if they’d lose access to the work they saved.
@@ -810,6 +814,8 @@ To view a single category, check the files/ folder.
 - [List of notable people banned from entering the United States](https://en.wikipedia.org/w/index.php?title=List_of_notable_people_banned_from_entering_the_United_States&oldid=1154343340) - The following is a list of notable people who are or were barred from entering the United States. The Bureau of Immigration and Customs Enforcement (ICE) of the United States Department of Homeland Security (DHS) handles deportation in the United States, often in conjunction with advice from the U.S. Department of State. Such bans are often temporar...
 
 # misc
+- [Deck CSS Grid template by Hi. Creative Agency](http://www.hi.agency/deck/#p1)
+
 - [Kruschiki Supply Company](https://kruschiki.com/) - Kruschiki Supply Company
 
 - [How different languages laugh online](https://restofworld.org/2023/how-people-laugh-online/) - Laughter is universal, but lol is not.
