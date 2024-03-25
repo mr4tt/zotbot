@@ -1,4 +1,6 @@
 # computing_resources
+- [Effective Go - The Go Programming Language](https://go.dev/doc/effective_go)
+
 - [Julia Evans](https://jvns.ca/) - Julia Evans
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)

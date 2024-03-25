@@ -1,4 +1,8 @@
 # design_resources
+- [Generate unique SVG design assets | Haikei](https://haikei.app/) - A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more! Our generators let you discover, customize, randomize, and export generative SVG design assets ready to use with your favorite design tools.
+
+- [Blobmaker - Make organic SVG shapes for your next design](https://www.blobmaker.app) - Make organic SVG shapes for your next design. Modify the complexity, contrast, and color, to generate unique SVG blobs every time.
+
 - [Typescale - Create stunning typography, generate CSS, and find inspiration.](https://typescale.com/)
 
 - [Typography 101: A crash course of terms to know. | Create](https://creativecloud.adobe.com/discover/article/typography-101-a-crash-course-of-terms-to-know) - Talking about typography can be a daunting task. Don’t fret: We’ve put together a visual glossary of the essential type typography terms to know, with a little help from our friends at Adobe Fonts and Letterform Archive.

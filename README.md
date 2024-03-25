@@ -66,6 +66,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [Great Impractical Ideas in Computer Science: PowerPoint Programming](https://www.youtube.com/watch?v=_3loq22TxSc)
+
 - [Prison Tech](https://www.youtube.com/watch?v=O3PfsndsihY)
 
 - [Simba is Stupid in School (Parody)](https://www.youtube.com/watch?v=dkmweTykUcw)
@@ -158,6 +160,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [How to win friends and influence repos](https://robertheaton.com/2014/07/21/how-to-win-friends-and-influence-repos/) - In my last post, I wrote about the breathless highs I experienced whilst discovering productivity systems for the first time, and the subsequent crushing lows of realising that I was just another prick with a Dymo labeller. I also alluded to an ingenious framework that I have been evolving over the last year, which is obviously totally different to ...
+
 - [2024 Habit Calendar](https://habitcalendar.co/)
 
 - [FutureMe: Write a Letter to your Future Self](https://www.futureme.org) - Write a letter to the future and read the public (but anonymous) letters from others. FutureMe has been delivering letters to the future for millions of people since 2002.
@@ -185,6 +189,10 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Generate unique SVG design assets | Haikei](https://haikei.app/) - A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more! Our generators let you discover, customize, randomize, and export generative SVG design assets ready to use with your favorite design tools.
+
+- [Blobmaker - Make organic SVG shapes for your next design](https://www.blobmaker.app) - Make organic SVG shapes for your next design. Modify the complexity, contrast, and color, to generate unique SVG blobs every time.
+
 - [Typescale - Create stunning typography, generate CSS, and find inspiration.](https://typescale.com/)
 
 - [Typography 101: A crash course of terms to know. | Create](https://creativecloud.adobe.com/discover/article/typography-101-a-crash-course-of-terms-to-know) - Talking about typography can be a daunting task. Don’t fret: We’ve put together a visual glossary of the essential type typography terms to know, with a little help from our friends at Adobe Fonts and Letterform Archive.
@@ -252,6 +260,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [Effective Go - The Go Programming Language](https://go.dev/doc/effective_go)
+
 - [Julia Evans](https://jvns.ca/) - Julia Evans
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
@@ -440,6 +450,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The IRS Finally Has an Answer to TurboTax](https://www.theatlantic.com/technology/archive/2024/03/irs-direct-file/677818/) - Against all odds, the government has created an actually good piece of technology.
+
+- [DNA Tests Are Uncovering the True Prevalence of Incest](https://www.theatlantic.com/health/archive/2024/03/dna-tests-incest/677791/) - People are discovering the truth about their biological parents with DNA—and learning that incest is far more common than many think.
+
 - [The Danger of the President’s Nuclear Powers | Opinion](https://www.nytimes.com/interactive/2024/03/07/opinion/nuclear-weapons-president.html) - In the United States, it’s up to one person to decide whether the world becomes engulfed in nuclear war.
 
 - [Google Used a Black, Deaf Worker to Tout Its Diversity. Now She’s Suing for Discrimination](https://www.wired.com/story/google-black-deaf-worker-diversity-suing-discrimination/) - Jalon Hall was featured on Google’s corporate social media accounts “for making #LifeAtGoogle more inclusive!” She says the company discriminated against her on the basis of her disability and race.
@@ -816,6 +830,8 @@ To view a single category, check the files/ folder.
 - [List of notable people banned from entering the United States](https://en.wikipedia.org/w/index.php?title=List_of_notable_people_banned_from_entering_the_United_States&oldid=1154343340) - The following is a list of notable people who are or were barred from entering the United States. The Bureau of Immigration and Customs Enforcement (ICE) of the United States Department of Homeland Security (DHS) handles deportation in the United States, often in conjunction with advice from the U.S. Department of State. Such bans are often temporar...
 
 # misc
+- [analytics.usa.gov | The US government's web traffic.](https://analytics.usa.gov) - Official data on web traffic to thousands of US federal government websites. Published by the Digital Analytics Program.
+
 - [Deck CSS Grid template by Hi. Creative Agency](http://www.hi.agency/deck/#p1)
 
 - [Kruschiki Supply Company](https://kruschiki.com/) - Kruschiki Supply Company

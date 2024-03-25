@@ -1,4 +1,6 @@
 # videos
+- [Great Impractical Ideas in Computer Science: PowerPoint Programming](https://www.youtube.com/watch?v=_3loq22TxSc)
+
 - [Prison Tech](https://www.youtube.com/watch?v=O3PfsndsihY)
 
 - [Simba is Stupid in School (Parody)](https://www.youtube.com/watch?v=dkmweTykUcw)

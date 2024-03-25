@@ -1,4 +1,8 @@
 # news
+- [The IRS Finally Has an Answer to TurboTax](https://www.theatlantic.com/technology/archive/2024/03/irs-direct-file/677818/) - Against all odds, the government has created an actually good piece of technology.
+
+- [DNA Tests Are Uncovering the True Prevalence of Incest](https://www.theatlantic.com/health/archive/2024/03/dna-tests-incest/677791/) - People are discovering the truth about their biological parents with DNA—and learning that incest is far more common than many think.
+
 - [The Danger of the President’s Nuclear Powers | Opinion](https://www.nytimes.com/interactive/2024/03/07/opinion/nuclear-weapons-president.html) - In the United States, it’s up to one person to decide whether the world becomes engulfed in nuclear war.
 
 - [Google Used a Black, Deaf Worker to Tout Its Diversity. Now She’s Suing for Discrimination](https://www.wired.com/story/google-black-deaf-worker-diversity-suing-discrimination/) - Jalon Hall was featured on Google’s corporate social media accounts “for making #LifeAtGoogle more inclusive!” She says the company discriminated against her on the basis of her disability and race.
