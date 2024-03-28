@@ -450,6 +450,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [AI learned how to sway humans by watching a cooperative cooking game](https://www.sciencenews.org/article/ai-learning-cooperative-cooking-game-artifical-intelligence-overcooked) - New research used the game Overcooked to show how offline reinforcement learning algorithms could teach bots to collaborate with — or manipulate — us.
+
+- [Students who grew up with search engines might change STEM education forever](https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z) - Professors are struggling to teach Gen Z
+
 - [The IRS Finally Has an Answer to TurboTax](https://www.theatlantic.com/technology/archive/2024/03/irs-direct-file/677818/) - Against all odds, the government has created an actually good piece of technology.
 
 - [DNA Tests Are Uncovering the True Prevalence of Incest](https://www.theatlantic.com/health/archive/2024/03/dna-tests-incest/677791/) - People are discovering the truth about their biological parents with DNA—and learning that incest is far more common than many think.
@@ -830,6 +834,8 @@ To view a single category, check the files/ folder.
 - [List of notable people banned from entering the United States](https://en.wikipedia.org/w/index.php?title=List_of_notable_people_banned_from_entering_the_United_States&oldid=1154343340) - The following is a list of notable people who are or were barred from entering the United States. The Bureau of Immigration and Customs Enforcement (ICE) of the United States Department of Homeland Security (DHS) handles deportation in the United States, often in conjunction with advice from the U.S. Department of State. Such bans are often temporar...
 
 # misc
+- [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
+
 - [analytics.usa.gov | The US government's web traffic.](https://analytics.usa.gov) - Official data on web traffic to thousands of US federal government websites. Published by the Digital Analytics Program.
 
 - [Deck CSS Grid template by Hi. Creative Agency](http://www.hi.agency/deck/#p1)
