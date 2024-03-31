@@ -1,4 +1,6 @@
 # design_resources
+- [Website Color Schemes to Inspire Creativity | Spectrum.Art 💎](https://spectrum.art/) - Immerse yourself in our collection of website color schemes. Find a trending color scheme for your site using the real examples.
+
 - [Generate unique SVG design assets | Haikei](https://haikei.app/) - A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more! Our generators let you discover, customize, randomize, and export generative SVG design assets ready to use with your favorite design tools.
 
 - [Blobmaker - Make organic SVG shapes for your next design](https://www.blobmaker.app) - Make organic SVG shapes for your next design. Modify the complexity, contrast, and color, to generate unique SVG blobs every time.

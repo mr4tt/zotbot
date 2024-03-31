@@ -189,6 +189,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Website Color Schemes to Inspire Creativity | Spectrum.Art 💎](https://spectrum.art/) - Immerse yourself in our collection of website color schemes. Find a trending color scheme for your site using the real examples.
+
 - [Generate unique SVG design assets | Haikei](https://haikei.app/) - A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more! Our generators let you discover, customize, randomize, and export generative SVG design assets ready to use with your favorite design tools.
 
 - [Blobmaker - Make organic SVG shapes for your next design](https://www.blobmaker.app) - Make organic SVG shapes for your next design. Modify the complexity, contrast, and color, to generate unique SVG blobs every time.
@@ -260,6 +262,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [guide/style.md at master · uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md) - The Uber Go Style Guide. Contribute to uber-go/guide development by creating an account on GitHub.
+
 - [Effective Go - The Go Programming Language](https://go.dev/doc/effective_go)
 
 - [Julia Evans](https://jvns.ca/) - Julia Evans
@@ -450,6 +454,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Hackers Behind the Change Healthcare Ransomware Attack Just Received a $22 Million Payment](https://www.wired.com/story/alphv-change-healthcare-ransomware-payment/) - The transaction, visible on Bitcoin's blockchain, suggests the victim of one of the worst ransomware attacks in years may have paid a very large ransom.
+
 - [AI learned how to sway humans by watching a cooperative cooking game](https://www.sciencenews.org/article/ai-learning-cooperative-cooking-game-artifical-intelligence-overcooked) - New research used the game Overcooked to show how offline reinforcement learning algorithms could teach bots to collaborate with — or manipulate — us.
 
 - [Students who grew up with search engines might change STEM education forever](https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z) - Professors are struggling to teach Gen Z
@@ -834,6 +840,10 @@ To view a single category, check the files/ folder.
 - [List of notable people banned from entering the United States](https://en.wikipedia.org/w/index.php?title=List_of_notable_people_banned_from_entering_the_United_States&oldid=1154343340) - The following is a list of notable people who are or were barred from entering the United States. The Bureau of Immigration and Customs Enforcement (ICE) of the United States Department of Homeland Security (DHS) handles deportation in the United States, often in conjunction with advice from the U.S. Department of State. Such bans are often temporar...
 
 # misc
+- [Everything I know about the XZ backdoor](https://boehs.org/node/everything-i-know-about-the-xz-backdoor) - Please note: This is being updated in real time. The intent is to make sense of lots of simultaneous discoveries
+
+- [The Cave of Dragonflies](https://www.dragonflycave.com/)
+
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 
 - [analytics.usa.gov | The US government's web traffic.](https://analytics.usa.gov) - Official data on web traffic to thousands of US federal government websites. Published by the Digital Analytics Program.
