@@ -49,8 +49,6 @@
 
 - [papercraft library](https://sneepsnorp3d.com/papercraft-library)
 
-- [Radium Girls](https://www.emigennis.com/radium-girls)
-
 - [Home | The Bulwer-Lytton Fiction Contest](https://www.bulwer-lytton.com) - A whimsical literary competition for the worst possible opening sentences to novels never written.
 
 - [Baking a Hello World Cake](https://www.mike-worth.com/2013/03/31/baking-a-hello-world-cake/) - I have a soft spot for esoteric programming languages. They are (usually) perfectly functional languages, in the rather loose sense that they are Turing complete and thus capable of solving all the…

@@ -160,6 +160,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Todepond dot com](https://www.todepond.com/wikiblogarden/better-computing/just/)
+
 - [How to win friends and influence repos](https://robertheaton.com/2014/07/21/how-to-win-friends-and-influence-repos/) - In my last post, I wrote about the breathless highs I experienced whilst discovering productivity systems for the first time, and the subsequent crushing lows of realising that I was just another prick with a Dymo labeller. I also alluded to an ingenious framework that I have been evolving over the last year, which is obviously totally different to ...
 
 - [2024 Habit Calendar](https://habitcalendar.co/)
@@ -189,6 +191,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Home](https://lawsofux.com/) - Laws of UX is a collection of best practices that designers can consider when building user interfaces.
+
 - [Website Color Schemes to Inspire Creativity | Spectrum.Art 💎](https://spectrum.art/) - Immerse yourself in our collection of website color schemes. Find a trending color scheme for your site using the real examples.
 
 - [Generate unique SVG design assets | Haikei](https://haikei.app/) - A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more! Our generators let you discover, customize, randomize, and export generative SVG design assets ready to use with your favorite design tools.
@@ -396,6 +400,8 @@ To view a single category, check the files/ folder.
 - [Love at the Event Horizon](https://www.uncannymagazine.com/article/love-at-the-event-horizon/) - I never thought I’d want to make a film about the Lost Countrymen and the ghosts that haunt their ship. It’s been years since my brief time with them, but how could I forget them, the ghosts muttering to themselves about worlds long gone? Eyes starry wide, dreaming of a future Earth that would receive […]
 
 - [On the Fox Roads](https://reactormag.com/on-the-fox-roads-nghi-vo-2/) - While learning the ropes from a crafty Jazz Age bank robber, a young stowaway discovers their authentic self, a hidden gift, and that there are no straight lines when you run the fox roads...
+
+- [Radium Girls](https://www.emigennis.com/radium-girls)
 
 - [Bad Doors](https://www.uncannymagazine.com/article/bad-doors/) - The country was at just over ten thousand deaths the morning that the door appeared. On Kosmo’s phone NPR was interviewing a doctor with a nasal voice about the need for social distancing, while Kosmo himself collected empty cans from around his home office. They were everywhere. Walls of recyclable cans dominated his room. Just […]
 
@@ -889,8 +895,6 @@ To view a single category, check the files/ folder.
 - ["Apocryphal Inventions," an exploration of Generative AI](https://jonathanhoefler.com/inventions) - "Apocryphal Inventions" by Jonathan Hoefler: An exploration of Generative AI
 
 - [papercraft library](https://sneepsnorp3d.com/papercraft-library)
-
-- [Radium Girls](https://www.emigennis.com/radium-girls)
 
 - [Home | The Bulwer-Lytton Fiction Contest](https://www.bulwer-lytton.com) - A whimsical literary competition for the worst possible opening sentences to novels never written.
 
