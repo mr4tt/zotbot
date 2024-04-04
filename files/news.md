@@ -1,4 +1,6 @@
 # news
+- [A US town only reached through Canada](https://www.bbc.com/travel/article/20191201-a-us-town-only-reached-through-canada) - Visitors to the exclave of Point Roberts must drive through Canada to enter the United States. It’s a tiny town with empty beaches, pods of orcas and dozens of gas pumps.
+
 - [Hackers Behind the Change Healthcare Ransomware Attack Just Received a $22 Million Payment](https://www.wired.com/story/alphv-change-healthcare-ransomware-payment/) - The transaction, visible on Bitcoin's blockchain, suggests the victim of one of the worst ransomware attacks in years may have paid a very large ransom.
 
 - [AI learned how to sway humans by watching a cooperative cooking game](https://www.sciencenews.org/article/ai-learning-cooperative-cooking-game-artifical-intelligence-overcooked) - New research used the game Overcooked to show how offline reinforcement learning algorithms could teach bots to collaborate with — or manipulate — us.

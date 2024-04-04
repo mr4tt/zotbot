@@ -160,6 +160,10 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [How To Explain Things Real Good (Stanford mini-talk) - YouTube](https://www.youtube.com/watch?v=b-M2U3Jl1Cg)
+
+- [Mental Health Tips feat. Anxiety Wolf](https://ncase.me/mental-health/) - My mental health journey, with some science + practical tips.
+
 - [Todepond dot com](https://www.todepond.com/wikiblogarden/better-computing/just/)
 
 - [How to win friends and influence repos](https://robertheaton.com/2014/07/21/how-to-win-friends-and-influence-repos/) - In my last post, I wrote about the breathless highs I experienced whilst discovering productivity systems for the first time, and the subsequent crushing lows of realising that I was just another prick with a Dymo labeller. I also alluded to an ingenious framework that I have been evolving over the last year, which is obviously totally different to ...
@@ -387,11 +391,9 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # stories
-- [Fandom for Robots](https://www.uncannymagazine.com/article/fandom-for-robots/) - Computron feels no emotion towards the animated television show titled Hyperdimension Warp Record (超次元 ワープ レコード). After all, Computron does not have any emotion circuits installed, and is thus constitutionally incapable of experiencing “excitement,” “hatred,” or “frustration.” It is completely impossible for Computron to experience emotions such as ...
-
 - [The Venus Effect](https://www.lightspeedmagazine.com/fiction/the-venus-effect/) - This is 2015. A party on a westside roof, just before midnight. Some Mia or Mina or throwing it, the white girl with the jean jacket and the headband and the two-bumps-of-molly grin, flitting from friend circle to friend circle, laughing loudly and refilling any empty cup in her eyeline from a bottomless jug of sangria, Maenad Sicagi. There are thre...
 
-- [https://www.lightspeedmagazine.com/fiction/the-venus-effect/](https://www.lightspeedmagazine.com/fiction/the-venus-effect/)
+- [Fandom for Robots](https://www.uncannymagazine.com/article/fandom-for-robots/) - Computron feels no emotion towards the animated television show titled Hyperdimension Warp Record (超次元 ワープ レコード). After all, Computron does not have any emotion circuits installed, and is thus constitutionally incapable of experiencing “excitement,” “hatred,” or “frustration.” It is completely impossible for Computron to experience emotions such as ...
 
 - [maia :3](https://maia.crimew.gay/) - meow
 
@@ -460,6 +462,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [A US town only reached through Canada](https://www.bbc.com/travel/article/20191201-a-us-town-only-reached-through-canada) - Visitors to the exclave of Point Roberts must drive through Canada to enter the United States. It’s a tiny town with empty beaches, pods of orcas and dozens of gas pumps.
+
 - [Hackers Behind the Change Healthcare Ransomware Attack Just Received a $22 Million Payment](https://www.wired.com/story/alphv-change-healthcare-ransomware-payment/) - The transaction, visible on Bitcoin's blockchain, suggests the victim of one of the worst ransomware attacks in years may have paid a very large ransom.
 
 - [AI learned how to sway humans by watching a cooperative cooking game](https://www.sciencenews.org/article/ai-learning-cooperative-cooking-game-artifical-intelligence-overcooked) - New research used the game Overcooked to show how offline reinforcement learning algorithms could teach bots to collaborate with — or manipulate — us.

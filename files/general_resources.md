@@ -1,4 +1,8 @@
 # general_resources
+- [How To Explain Things Real Good (Stanford mini-talk) - YouTube](https://www.youtube.com/watch?v=b-M2U3Jl1Cg)
+
+- [Mental Health Tips feat. Anxiety Wolf](https://ncase.me/mental-health/) - My mental health journey, with some science + practical tips.
+
 - [Todepond dot com](https://www.todepond.com/wikiblogarden/better-computing/just/)
 
 - [How to win friends and influence repos](https://robertheaton.com/2014/07/21/how-to-win-friends-and-influence-repos/) - In my last post, I wrote about the breathless highs I experienced whilst discovering productivity systems for the first time, and the subsequent crushing lows of realising that I was just another prick with a Dymo labeller. I also alluded to an ingenious framework that I have been evolving over the last year, which is obviously totally different to ...
