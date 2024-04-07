@@ -145,6 +145,8 @@ To view a single category, check the files/ folder.
 - [EMESIS BLUE [SFM]](https://www.youtube.com/watch?v=V0ODG8bFme0)
 
 # tweets
+- [I put Porter Robinson's Cheerleader in Heaven Studio https://t.co/BJ6Ps03QA8](https://twitter.com/BobaPup/status/1772303601307717847)
+
 - [I fucking hate when Mario gets burned and starts hopping and jumping around like can you fucking grow up and focus on the situation at hand](https://twitter.com/andy_sidecake/status/1311926569359695872)
 
 - [Maybe you feel like I do? 1/5 https://t.co/NGix4M7Xpi](https://twitter.com/RianSygh/status/1535503387235536896)
@@ -198,6 +200,8 @@ To view a single category, check the files/ folder.
 - [Home](https://lawsofux.com/) - Laws of UX is a collection of best practices that designers can consider when building user interfaces.
 
 - [Website Color Schemes to Inspire Creativity | Spectrum.Art 💎](https://spectrum.art/) - Immerse yourself in our collection of website color schemes. Find a trending color scheme for your site using the real examples.
+
+- [8 more micro tips for remarkably better typography](https://betterwebtype.com/8-more-tips-for-remarkably-better-typography/) - 8 more micro tips in less than 8 minutes to make your typography stand out in excellence.
 
 - [Generate unique SVG design assets | Haikei](https://haikei.app/) - A web-based design tool to generate unique SVG design assets for websites, social media, blog posts, desktop and mobile wallpapers, posters, and more! Our generators let you discover, customize, randomize, and export generative SVG design assets ready to use with your favorite design tools.
 
@@ -270,6 +274,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [A basic tutorial on "How to get the most out of embeds?" for a discord-friendly website!](www.reddit.com/r/discordapp/comments/82p8i6/a_basic_tutorial_on_how_to_get_the_most_out_of/)
+
 - [guide/style.md at master · uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md) - The Uber Go Style Guide. Contribute to uber-go/guide development by creating an account on GitHub.
 
 - [Effective Go - The Go Programming Language](https://go.dev/doc/effective_go)
@@ -391,6 +397,8 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # stories
+- [Lena @ Things Of Interest](https://qntm.org/mmacevedo)
+
 - [The Venus Effect](https://www.lightspeedmagazine.com/fiction/the-venus-effect/) - This is 2015. A party on a westside roof, just before midnight. Some Mia or Mina or throwing it, the white girl with the jean jacket and the headband and the two-bumps-of-molly grin, flitting from friend circle to friend circle, laughing loudly and refilling any empty cup in her eyeline from a bottomless jug of sangria, Maenad Sicagi. There are thre...
 
 - [Fandom for Robots](https://www.uncannymagazine.com/article/fandom-for-robots/) - Computron feels no emotion towards the animated television show titled Hyperdimension Warp Record (超次元 ワープ レコード). After all, Computron does not have any emotion circuits installed, and is thus constitutionally incapable of experiencing “excitement,” “hatred,” or “frustration.” It is completely impossible for Computron to experience emotions such as ...
@@ -462,9 +470,19 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [How Hidden Nazi Symbols Were the Tip of a Toxic Iceberg at Life Is Strange Developer Deck Nine](https://sea.ign.com/life-is-strange-2/214159/news/how-hidden-nazi-symbols-were-the-tip-of-a-toxic-iceberg-at-life-is-strange-developer-deck-nine) - Inside the developer of Life Is Strange's internal struggles with toxicity, hate speech, crunch, and more.
+
+- [The Mysterious Printer Code That Could Have Led the FBI to Reality Winner](https://www.theatlantic.com/technology/archive/2017/06/the-mysterious-printer-code-that-could-have-led-the-fbi-to-reality-winner/529350/) - Many color printers embed grids of dots that allow law enforcement to track every document they output.
+
+- [A Vigilante Hacker Took Down North Korea’s Internet. Now He’s Taking Off His Mask](https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/) - As “P4x,” Alejandro Caceres single-handedly disrupted the internet of an entire country. Then he tried to show the US military how it can—and should—adopt his methods.
+
+- [What time is it on the moon? White House tells NASA to decide.](https://www.washingtonpost.com/nation/2024/04/03/moon-time-nasa-space-white-house/) - The White House has instructed NASA to standardize time on the moon by 2026, to be known as Coordinated Lunar Time (LTC), as the U.S. continues its presence there.
+
 - [A US town only reached through Canada](https://www.bbc.com/travel/article/20191201-a-us-town-only-reached-through-canada) - Visitors to the exclave of Point Roberts must drive through Canada to enter the United States. It’s a tiny town with empty beaches, pods of orcas and dozens of gas pumps.
 
 - [Hackers Behind the Change Healthcare Ransomware Attack Just Received a $22 Million Payment](https://www.wired.com/story/alphv-change-healthcare-ransomware-payment/) - The transaction, visible on Bitcoin's blockchain, suggests the victim of one of the worst ransomware attacks in years may have paid a very large ransom.
+
+- [Suicide Mission](https://prospect.org/api/content/fc3949f4-ec8b-11ee-a737-12163087a831/) - What Boeing did to all the guys who remember how to build a plane
 
 - [AI learned how to sway humans by watching a cooperative cooking game](https://www.sciencenews.org/article/ai-learning-cooperative-cooking-game-artifical-intelligence-overcooked) - New research used the game Overcooked to show how offline reinforcement learning algorithms could teach bots to collaborate with — or manipulate — us.
 
@@ -649,6 +667,12 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Speakers' Corner](https://en.wikipedia.org/w/index.php?title=Speakers%27_Corner&oldid=1201953157) - A Speakers' Corner is an area where free speech open-air public speaking, debate, and discussion are allowed. The original and best known is in the north-east corner of Hyde Park in London, England.  Historically there were a number of other areas designated as Speakers' Corners in other parks in London, such as Lincoln's Inn Fields, Finsbury Park, ...
+
+- [Montreal–Philippines cutlery controversy](https://en.wikipedia.org/w/index.php?title=Montreal%E2%80%93Philippines_cutlery_controversy&oldid=1190316846) - The Montreal–Philippines cutlery controversy was an incident in 2006 in which a Filipino-born Canadian boy was punished by his school in Roxboro, Montreal, for following traditional Filipino etiquette and eating his lunch with a fork and a spoon, rather than the Canadian tradition of a knife and fork. In response to the media coverage of the affair,...
+
+- [Santiago Calatrava](https://en.wikipedia.org/w/index.php?title=Santiago_Calatrava&oldid=1212342176) - Santiago Calatrava Valls (born 28 July 1951) is a Spanish architect, structural engineer, sculptor and painter, particularly known for his bridges supported by single leaning pylons, and his railway stations, stadiums, and museums, whose sculptural forms often resemble living organisms. His best-known works include the Olympic Sports Complex of Athe...
+
 - [John Rabe](https://en.wikipedia.org/w/index.php?title=John_Rabe&oldid=1207822865) - John Heinrich Detlef Rabe (23 November 1882 – 5 January 1950) was a German businessman and Nazi Party member best known for his efforts to stop war crimes during the Japanese Nanjing Massacre (also romanized as Nanking) and his work to protect and help Chinese civilians during the massacre that ensued. The Nanking Safety Zone, which he helped to est...
 
 - [Pirahã people](https://en.wikipedia.org/w/index.php?title=Pirah%C3%A3_people&oldid=1209357592) - The Pirahã (pronounced [piɾaˈhɐ̃]) are an indigenous people of the Amazon Rainforest in Brazil. They are the sole surviving subgroup of the Mura people, and are hunter-gatherers. They live mainly on the banks of the Maici River in Humaitá and Manicoré in the state of Amazonas. As of 2018, they number 800 individuals. The Pirahã people do not call th...
@@ -843,13 +867,9 @@ To view a single category, check the files/ folder.
 
 - [First Lady Bake-Off](https://en.wikipedia.org/w/index.php?title=First_Lady_Bake-Off&oldid=1163430199) - The First Lady Bake-Off, renamed the Presidential Cookie Poll in 2016, was a baking competition held by Family Circle from 1992 until 2016 between the spouses of leading presidential candidates. It originated after Hillary Clinton made a political gaffe which was interpreted by some as disparaging baking or housewives. The competition later became k...
 
-- [Diesel therapy](https://en.wikipedia.org/w/index.php?title=Diesel_therapy&oldid=1162966182) - Diesel therapy is a form of punishment in the United States in which prisoners are shackled and then transported for days or weeks; the term refers to the diesel fuel used in prisoner transport vehicles.It has been alleged that some inmates are deliberately sent to incorrect destinations as an exercise of diesel therapy. Voluntary surrender at the p...
-
-- [Norfolk Southern–Gregson Street Overpass](https://en.wikipedia.org/w/index.php?title=Norfolk_Southern%E2%80%93Gregson_Street_Overpass&oldid=1161221991) - The Norfolk Southern–Gregson Street Overpass, also known as the 11-foot-8 Bridge, is a railroad bridge in Durham, North Carolina, United States. Built in 1940, the bridge allows passenger and freight trains to cross over South Gregson Street in downtown Durham. The bridge was designed in the 1920s, with a clearance for vehicles of 11 feet 8 inches (...
-
-- [List of notable people banned from entering the United States](https://en.wikipedia.org/w/index.php?title=List_of_notable_people_banned_from_entering_the_United_States&oldid=1154343340) - The following is a list of notable people who are or were barred from entering the United States. The Bureau of Immigration and Customs Enforcement (ICE) of the United States Department of Homeland Security (DHS) handles deportation in the United States, often in conjunction with advice from the U.S. Department of State. Such bans are often temporar...
-
 # misc
+- [MSCHF](https://mschf.com) - AMERICAN ART COLLECTIVE. NOTHING IS SACRED.
+
 - [Everything I know about the XZ backdoor](https://boehs.org/node/everything-i-know-about-the-xz-backdoor) - Please note: This is being updated in real time. The intent is to make sense of lots of simultaneous discoveries
 
 - [The Cave of Dragonflies](https://www.dragonflycave.com/)

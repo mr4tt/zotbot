@@ -1,4 +1,6 @@
 # misc
+- [MSCHF](https://mschf.com) - AMERICAN ART COLLECTIVE. NOTHING IS SACRED.
+
 - [Everything I know about the XZ backdoor](https://boehs.org/node/everything-i-know-about-the-xz-backdoor) - Please note: This is being updated in real time. The intent is to make sense of lots of simultaneous discoveries
 
 - [The Cave of Dragonflies](https://www.dragonflycave.com/)

@@ -1,7 +1,17 @@
 # news
+- [How Hidden Nazi Symbols Were the Tip of a Toxic Iceberg at Life Is Strange Developer Deck Nine](https://sea.ign.com/life-is-strange-2/214159/news/how-hidden-nazi-symbols-were-the-tip-of-a-toxic-iceberg-at-life-is-strange-developer-deck-nine) - Inside the developer of Life Is Strange's internal struggles with toxicity, hate speech, crunch, and more.
+
+- [The Mysterious Printer Code That Could Have Led the FBI to Reality Winner](https://www.theatlantic.com/technology/archive/2017/06/the-mysterious-printer-code-that-could-have-led-the-fbi-to-reality-winner/529350/) - Many color printers embed grids of dots that allow law enforcement to track every document they output.
+
+- [A Vigilante Hacker Took Down North Korea’s Internet. Now He’s Taking Off His Mask](https://www.wired.com/story/p4x-north-korea-internet-hacker-identity-reveal/) - As “P4x,” Alejandro Caceres single-handedly disrupted the internet of an entire country. Then he tried to show the US military how it can—and should—adopt his methods.
+
+- [What time is it on the moon? White House tells NASA to decide.](https://www.washingtonpost.com/nation/2024/04/03/moon-time-nasa-space-white-house/) - The White House has instructed NASA to standardize time on the moon by 2026, to be known as Coordinated Lunar Time (LTC), as the U.S. continues its presence there.
+
 - [A US town only reached through Canada](https://www.bbc.com/travel/article/20191201-a-us-town-only-reached-through-canada) - Visitors to the exclave of Point Roberts must drive through Canada to enter the United States. It’s a tiny town with empty beaches, pods of orcas and dozens of gas pumps.
 
 - [Hackers Behind the Change Healthcare Ransomware Attack Just Received a $22 Million Payment](https://www.wired.com/story/alphv-change-healthcare-ransomware-payment/) - The transaction, visible on Bitcoin's blockchain, suggests the victim of one of the worst ransomware attacks in years may have paid a very large ransom.
+
+- [Suicide Mission](https://prospect.org/api/content/fc3949f4-ec8b-11ee-a737-12163087a831/) - What Boeing did to all the guys who remember how to build a plane
 
 - [AI learned how to sway humans by watching a cooperative cooking game](https://www.sciencenews.org/article/ai-learning-cooperative-cooking-game-artifical-intelligence-overcooked) - New research used the game Overcooked to show how offline reinforcement learning algorithms could teach bots to collaborate with — or manipulate — us.
 
