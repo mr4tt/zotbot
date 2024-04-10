@@ -1,4 +1,6 @@
 # misc
+- [A framework for building Open Graph images](https://github.blog/2021-06-22-framework-building-open-graph-images/) - We recently set about creating a framework and service for automatically generating social sharing images for repositories and other resources on GitHub.
+
 - [MSCHF](https://mschf.com) - AMERICAN ART COLLECTIVE. NOTHING IS SACRED.
 
 - [Everything I know about the XZ backdoor](https://boehs.org/node/everything-i-know-about-the-xz-backdoor) - Please note: This is being updated in real time. The intent is to make sense of lots of simultaneous discoveries

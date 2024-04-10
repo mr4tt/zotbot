@@ -868,6 +868,8 @@ To view a single category, check the files/ folder.
 - [First Lady Bake-Off](https://en.wikipedia.org/w/index.php?title=First_Lady_Bake-Off&oldid=1163430199) - The First Lady Bake-Off, renamed the Presidential Cookie Poll in 2016, was a baking competition held by Family Circle from 1992 until 2016 between the spouses of leading presidential candidates. It originated after Hillary Clinton made a political gaffe which was interpreted by some as disparaging baking or housewives. The competition later became k...
 
 # misc
+- [A framework for building Open Graph images](https://github.blog/2021-06-22-framework-building-open-graph-images/) - We recently set about creating a framework and service for automatically generating social sharing images for repositories and other resources on GitHub.
+
 - [MSCHF](https://mschf.com) - AMERICAN ART COLLECTIVE. NOTHING IS SACRED.
 
 - [Everything I know about the XZ backdoor](https://boehs.org/node/everything-i-know-about-the-xz-backdoor) - Please note: This is being updated in real time. The intent is to make sense of lots of simultaneous discoveries
