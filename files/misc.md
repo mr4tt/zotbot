@@ -1,4 +1,6 @@
 # misc
+- [Complete bathroom overhaul - a sad, builder-grade sack of tears](https://forums.somethingawful.com/showthread.php?threadid=3813464&userid=0&perpage=40&pagenumber=1) - Complete bathroom overhaul - a sad, builder-grade sack of tears
+
 - [A framework for building Open Graph images](https://github.blog/2021-06-22-framework-building-open-graph-images/) - We recently set about creating a framework and service for automatically generating social sharing images for repositories and other resources on GitHub.
 
 - [MSCHF](https://mschf.com) - AMERICAN ART COLLECTIVE. NOTHING IS SACRED.

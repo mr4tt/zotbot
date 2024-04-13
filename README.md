@@ -197,6 +197,16 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Design Systems Database: Surf among top‑notch Design Systems](https://designsystems.surf/) - Best-in-class Design Systems with components and foundations references from top-tier tech companies and leading UI teams.
+
+- [Randoma11y](https://randoma11y.com) - Get random, accessible color combinations
+
+- [Tokenbase](https://token-base.com/)
+
+- [The Good Line-Height](https://www.thegoodlineheight.com/)
+
+- [Scroll-driven Animations](https://scroll-driven-animations.style) - A bunch of demos and tools to show off Scroll-driven Animations
+
 - [Home](https://lawsofux.com/) - Laws of UX is a collection of best practices that designers can consider when building user interfaces.
 
 - [Website Color Schemes to Inspire Creativity | Spectrum.Art 💎](https://spectrum.art/) - Immerse yourself in our collection of website color schemes. Find a trending color scheme for your site using the real examples.
@@ -274,6 +284,10 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/) - Learn how to use CSS container queries today.
+
+- [Convert JSON to Graph Diagram : Online JSON Graph Editor](https://www.jsonviewer.tools/editor)
+
 - [A basic tutorial on "How to get the most out of embeds?" for a discord-friendly website!](www.reddit.com/r/discordapp/comments/82p8i6/a_basic_tutorial_on_how_to_get_the_most_out_of/)
 
 - [guide/style.md at master · uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md) - The Uber Go Style Guide. Contribute to uber-go/guide development by creating an account on GitHub.
@@ -868,6 +882,8 @@ To view a single category, check the files/ folder.
 - [First Lady Bake-Off](https://en.wikipedia.org/w/index.php?title=First_Lady_Bake-Off&oldid=1163430199) - The First Lady Bake-Off, renamed the Presidential Cookie Poll in 2016, was a baking competition held by Family Circle from 1992 until 2016 between the spouses of leading presidential candidates. It originated after Hillary Clinton made a political gaffe which was interpreted by some as disparaging baking or housewives. The competition later became k...
 
 # misc
+- [Complete bathroom overhaul - a sad, builder-grade sack of tears](https://forums.somethingawful.com/showthread.php?threadid=3813464&userid=0&perpage=40&pagenumber=1) - Complete bathroom overhaul - a sad, builder-grade sack of tears
+
 - [A framework for building Open Graph images](https://github.blog/2021-06-22-framework-building-open-graph-images/) - We recently set about creating a framework and service for automatically generating social sharing images for repositories and other resources on GitHub.
 
 - [MSCHF](https://mschf.com) - AMERICAN ART COLLECTIVE. NOTHING IS SACRED.

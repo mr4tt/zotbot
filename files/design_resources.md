@@ -1,4 +1,14 @@
 # design_resources
+- [Design Systems Database: Surf among top‑notch Design Systems](https://designsystems.surf/) - Best-in-class Design Systems with components and foundations references from top-tier tech companies and leading UI teams.
+
+- [Randoma11y](https://randoma11y.com) - Get random, accessible color combinations
+
+- [Tokenbase](https://token-base.com/)
+
+- [The Good Line-Height](https://www.thegoodlineheight.com/)
+
+- [Scroll-driven Animations](https://scroll-driven-animations.style) - A bunch of demos and tools to show off Scroll-driven Animations
+
 - [Home](https://lawsofux.com/) - Laws of UX is a collection of best practices that designers can consider when building user interfaces.
 
 - [Website Color Schemes to Inspire Creativity | Spectrum.Art 💎](https://spectrum.art/) - Immerse yourself in our collection of website color schemes. Find a trending color scheme for your site using the real examples.

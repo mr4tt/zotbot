@@ -1,4 +1,8 @@
 # computing_resources
+- [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/) - Learn how to use CSS container queries today.
+
+- [Convert JSON to Graph Diagram : Online JSON Graph Editor](https://www.jsonviewer.tools/editor)
+
 - [A basic tutorial on "How to get the most out of embeds?" for a discord-friendly website!](www.reddit.com/r/discordapp/comments/82p8i6/a_basic_tutorial_on_how_to_get_the_most_out_of/)
 
 - [guide/style.md at master · uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md) - The Uber Go Style Guide. Contribute to uber-go/guide development by creating an account on GitHub.
