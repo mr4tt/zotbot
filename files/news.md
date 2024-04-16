@@ -1,4 +1,10 @@
 # news
+- [Elon Musk Didn’t Want His Latest Deposition Released. Here It Is.](https://www.huffpost.com/entry/elon-musk-didnt-want-his-latest-deposition-released-here-it-is_n_66133d2ce4b0d81853f9a766) - Musk is being sued for falsely suggesting a 22-year-old Jewish man was part of a neo-Nazi brawl.
+
+- [The Secret Startup That Saved the Worst Website in America](https://www.theatlantic.com/technology/archive/2015/07/the-secret-startup-saved-healthcare-gov-the-worst-website-in-america/397784/) - How a team of young people, living in a repurposed McMansion in Maryland, helped fix Healthcare.gov
+
+- [Why do some people always get lost?](https://arstechnica.com/science/2024/04/why-do-some-people-always-get-lost/) - Experience may matter more than innate ability when it comes to sense of direction.
+
 - [How Hidden Nazi Symbols Were the Tip of a Toxic Iceberg at Life Is Strange Developer Deck Nine](https://sea.ign.com/life-is-strange-2/214159/news/how-hidden-nazi-symbols-were-the-tip-of-a-toxic-iceberg-at-life-is-strange-developer-deck-nine) - Inside the developer of Life Is Strange's internal struggles with toxicity, hate speech, crunch, and more.
 
 - [The Mysterious Printer Code That Could Have Led the FBI to Reality Winner](https://www.theatlantic.com/technology/archive/2017/06/the-mysterious-printer-code-that-could-have-led-the-fbi-to-reality-winner/529350/) - Many color printers embed grids of dots that allow law enforcement to track every document they output.
@@ -192,6 +198,4 @@
 - [Google has gotten so cheap, employees now have to share desks](https://arstechnica.com/gadgets/2023/02/google-has-gotten-so-cheap-employees-now-have-to-share-desks/) - Google's cost-cutters take aim at the company's office space and workspace culture.
 
 - [The US Supreme Court Doesn’t Understand the Internet](https://www.wired.com/story/the-supreme-court-section-230-the-internet/) - A case before the court is challenging social media platforms’ legal protections. The outcome could be huge for the future of the web.
-
-- [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 

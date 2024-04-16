@@ -1,4 +1,6 @@
 # design_resources
+- [Site of Sites](https://www.siteofsites.co) - Explore the best in web design at Site of Sites. Find inspiration, trends, and insights to elevate your own projects. Submit your website for consideration and be part of our growing collection.
+
 - [Design Systems Database: Surf among top‑notch Design Systems](https://designsystems.surf/) - Best-in-class Design Systems with components and foundations references from top-tier tech companies and leading UI teams.
 
 - [Randoma11y](https://randoma11y.com) - Get random, accessible color combinations

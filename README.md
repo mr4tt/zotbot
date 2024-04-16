@@ -47,6 +47,8 @@ To view a single category, check the files/ folder.
 - [How to make a Baby Seal - BEGINNER FRIENDLY - ALMOST NO SEW](https://www.youtube.com/watch?v=hlPHXrA2Qqg)
 
 # papers
+- [Body Design and Gait Generation of Chair-Type Asymmetrical Tripedal Low-rigidity Robot](http://arxiv.org/abs/2404.05932) - In this study, a chair-type asymmetric tripedal low-rigidity robot was designed based on the three-legged chair character in the movie "Suzume" and its gait was generated. Its body structure consists of three legs that are asymmetric to the body, so it cannot be easily balanced. In addition, the actuator is a servo motor that can only feed-forward r...
+
 - [How To Break Anonymity of the Netflix Prize Dataset](http://arxiv.org/abs/cs/0610105) - We present a new class of statistical de-anonymization attacks against high-dimensional micro-data, such as individual preferences, recommendations, transaction records and so on. Our techniques are robust to perturbation in the data and tolerate some mistakes in the adversary's background knowledge. We apply our de-anonymization methodology to the ...
 
 - [Chinese woman stuck in blind date's house after city lockdown](https://www.straitstimes.com/asia/east-asia/chinese-woman-stuck-in-blind-dates-house-after-city-lockdown?mc_cid=53f6a0baaa) - BEIJING (AFP) - Imagine being on a first date you couldn't end? Read more at straitstimes.com.
@@ -197,6 +199,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Site of Sites](https://www.siteofsites.co) - Explore the best in web design at Site of Sites. Find inspiration, trends, and insights to elevate your own projects. Submit your website for consideration and be part of our growing collection.
+
 - [Design Systems Database: Surf among top‑notch Design Systems](https://designsystems.surf/) - Best-in-class Design Systems with components and foundations references from top-tier tech companies and leading UI teams.
 
 - [Randoma11y](https://randoma11y.com) - Get random, accessible color combinations
@@ -484,6 +488,12 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Elon Musk Didn’t Want His Latest Deposition Released. Here It Is.](https://www.huffpost.com/entry/elon-musk-didnt-want-his-latest-deposition-released-here-it-is_n_66133d2ce4b0d81853f9a766) - Musk is being sued for falsely suggesting a 22-year-old Jewish man was part of a neo-Nazi brawl.
+
+- [The Secret Startup That Saved the Worst Website in America](https://www.theatlantic.com/technology/archive/2015/07/the-secret-startup-saved-healthcare-gov-the-worst-website-in-america/397784/) - How a team of young people, living in a repurposed McMansion in Maryland, helped fix Healthcare.gov
+
+- [Why do some people always get lost?](https://arstechnica.com/science/2024/04/why-do-some-people-always-get-lost/) - Experience may matter more than innate ability when it comes to sense of direction.
+
 - [How Hidden Nazi Symbols Were the Tip of a Toxic Iceberg at Life Is Strange Developer Deck Nine](https://sea.ign.com/life-is-strange-2/214159/news/how-hidden-nazi-symbols-were-the-tip-of-a-toxic-iceberg-at-life-is-strange-developer-deck-nine) - Inside the developer of Life Is Strange's internal struggles with toxicity, hate speech, crunch, and more.
 
 - [The Mysterious Printer Code That Could Have Led the FBI to Reality Winner](https://www.theatlantic.com/technology/archive/2017/06/the-mysterious-printer-code-that-could-have-led-the-fbi-to-reality-winner/529350/) - Many color printers embed grids of dots that allow law enforcement to track every document they output.
@@ -678,9 +688,9 @@ To view a single category, check the files/ folder.
 
 - [The US Supreme Court Doesn’t Understand the Internet](https://www.wired.com/story/the-supreme-court-section-230-the-internet/) - A case before the court is challenging social media platforms’ legal protections. The outcome could be huge for the future of the web.
 
-- [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
-
 # wikipedia
+- [DVD region code](https://en.wikipedia.org/w/index.php?title=DVD_region_code&oldid=1214139533) - DVD region codes are a digital rights management technique introduced in 1997. It is designed to allow rights holders to control the international distribution of a DVD release, including its content, release date, and price, all according to the appropriate region. This is achieved by way of region-locked DVD players, which will play back only DVDs...
+
 - [Speakers' Corner](https://en.wikipedia.org/w/index.php?title=Speakers%27_Corner&oldid=1201953157) - A Speakers' Corner is an area where free speech open-air public speaking, debate, and discussion are allowed. The original and best known is in the north-east corner of Hyde Park in London, England.  Historically there were a number of other areas designated as Speakers' Corners in other parks in London, such as Lincoln's Inn Fields, Finsbury Park, ...
 
 - [Montreal–Philippines cutlery controversy](https://en.wikipedia.org/w/index.php?title=Montreal%E2%80%93Philippines_cutlery_controversy&oldid=1190316846) - The Montreal–Philippines cutlery controversy was an incident in 2006 in which a Filipino-born Canadian boy was punished by his school in Roxboro, Montreal, for following traditional Filipino etiquette and eating his lunch with a fork and a spoon, rather than the Canadian tradition of a knife and fork. In response to the media coverage of the affair,...
@@ -879,9 +889,11 @@ To view a single category, check the files/ folder.
 
 - [Vanity sizing](https://en.wikipedia.org/w/index.php?title=Vanity_sizing&oldid=1133337064) - Vanity sizing, or size inflation, is the phenomenon of ready-to-wear clothing of the same nominal size becoming bigger in physical size over time. This has been documented primarily in the United States and the United Kingdom. The use of US standard clothing sizes by manufacturers as the official guidelines for clothing sizes was abandoned in 1983. ...
 
-- [First Lady Bake-Off](https://en.wikipedia.org/w/index.php?title=First_Lady_Bake-Off&oldid=1163430199) - The First Lady Bake-Off, renamed the Presidential Cookie Poll in 2016, was a baking competition held by Family Circle from 1992 until 2016 between the spouses of leading presidential candidates. It originated after Hillary Clinton made a political gaffe which was interpreted by some as disparaging baking or housewives. The competition later became k...
-
 # misc
+- [Elon Musk Deposed In Lawsuit For Falsely Linking Jewish Man To Neo-Nazi Brawl | PDF | Deposition (Law) | Lawsuit](https://www.scribd.com/document/721193667/Elon-Musk-Deposed-In-Lawsuit-For-Falsely-Linking-Jewish-Man-To-Neo-Nazi-Brawl) - Elon Musk was deposed in a recent lawsuit for falsely linking a 22-year-old Jewish man to a neo-Nazi brawl. Musk, who attempted to keep the deposition from the public, admits he did no research into his false claim, among other revelations.
+
+- [Every Fucking Bootstrap Website Ever](https://www.dagusa.com/)
+
 - [Complete bathroom overhaul - a sad, builder-grade sack of tears](https://forums.somethingawful.com/showthread.php?threadid=3813464&userid=0&perpage=40&pagenumber=1) - Complete bathroom overhaul - a sad, builder-grade sack of tears
 
 - [A framework for building Open Graph images](https://github.blog/2021-06-22-framework-building-open-graph-images/) - We recently set about creating a framework and service for automatically generating social sharing images for repositories and other resources on GitHub.

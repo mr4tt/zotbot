@@ -1,4 +1,6 @@
 # papers
+- [Body Design and Gait Generation of Chair-Type Asymmetrical Tripedal Low-rigidity Robot](http://arxiv.org/abs/2404.05932) - In this study, a chair-type asymmetric tripedal low-rigidity robot was designed based on the three-legged chair character in the movie "Suzume" and its gait was generated. Its body structure consists of three legs that are asymmetric to the body, so it cannot be easily balanced. In addition, the actuator is a servo motor that can only feed-forward r...
+
 - [How To Break Anonymity of the Netflix Prize Dataset](http://arxiv.org/abs/cs/0610105) - We present a new class of statistical de-anonymization attacks against high-dimensional micro-data, such as individual preferences, recommendations, transaction records and so on. Our techniques are robust to perturbation in the data and tolerate some mistakes in the adversary's background knowledge. We apply our de-anonymization methodology to the ...
 
 - [Chinese woman stuck in blind date's house after city lockdown](https://www.straitstimes.com/asia/east-asia/chinese-woman-stuck-in-blind-dates-house-after-city-lockdown?mc_cid=53f6a0baaa) - BEIJING (AFP) - Imagine being on a first date you couldn't end? Read more at straitstimes.com.

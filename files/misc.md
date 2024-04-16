@@ -1,4 +1,8 @@
 # misc
+- [Elon Musk Deposed In Lawsuit For Falsely Linking Jewish Man To Neo-Nazi Brawl | PDF | Deposition (Law) | Lawsuit](https://www.scribd.com/document/721193667/Elon-Musk-Deposed-In-Lawsuit-For-Falsely-Linking-Jewish-Man-To-Neo-Nazi-Brawl) - Elon Musk was deposed in a recent lawsuit for falsely linking a 22-year-old Jewish man to a neo-Nazi brawl. Musk, who attempted to keep the deposition from the public, admits he did no research into his false claim, among other revelations.
+
+- [Every Fucking Bootstrap Website Ever](https://www.dagusa.com/)
+
 - [Complete bathroom overhaul - a sad, builder-grade sack of tears](https://forums.somethingawful.com/showthread.php?threadid=3813464&userid=0&perpage=40&pagenumber=1) - Complete bathroom overhaul - a sad, builder-grade sack of tears
 
 - [A framework for building Open Graph images](https://github.blog/2021-06-22-framework-building-open-graph-images/) - We recently set about creating a framework and service for automatically generating social sharing images for repositories and other resources on GitHub.
