@@ -1,9 +1,19 @@
 # news
+- [A Vast New Data Set Could Supercharge the AI Hunt for Crypto Money Laundering](https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/) - Blockchain analysis firm Elliptic, MIT, and IBM have released a new AI model—and the 200-million-transaction dataset it's trained on—that aims to spot the “shape” of bitcoin money laundering.
+
+- [These Women Came to Antarctica for Science. Then the Predators Emerged](https://www.wired.com/story/women-antarctica-science-predators-whistleblower/) - Jane Willenbring was the first to blow the whistle on sexual harassment and assault in Antarctica. Years later, women are still coming forward with tales of horror as a government investigation unfolds.
+
+- [5.25-inch floppy disks expected to help run San Francisco trains until 2030](https://arstechnica.com/gadgets/2024/04/5-25-inch-floppy-disks-expected-to-help-run-san-francisco-trains-until-2030/) - "We have a technical debt that stretches back many decades."
+
 - [Elon Musk Didn’t Want His Latest Deposition Released. Here It Is.](https://www.huffpost.com/entry/elon-musk-didnt-want-his-latest-deposition-released-here-it-is_n_66133d2ce4b0d81853f9a766) - Musk is being sued for falsely suggesting a 22-year-old Jewish man was part of a neo-Nazi brawl.
 
 - [The Secret Startup That Saved the Worst Website in America](https://www.theatlantic.com/technology/archive/2015/07/the-secret-startup-saved-healthcare-gov-the-worst-website-in-america/397784/) - How a team of young people, living in a repurposed McMansion in Maryland, helped fix Healthcare.gov
 
 - [Why do some people always get lost?](https://arstechnica.com/science/2024/04/why-do-some-people-always-get-lost/) - Experience may matter more than innate ability when it comes to sense of direction.
+
+- [Price of zero-day exploits rises as companies harden products against hackers](https://techcrunch.com/2024/04/06/price-of-zero-day-exploits-rises-as-companies-harden-products-against-hackers/) - Tools that allow government hackers to break into iPhones and Android phones, popular software like the Chrome and Safari browsers, and chat apps like
+
+- [NASA knows what knocked Voyager 1 offline, but it will take a while to fix](https://arstechnica.com/space/2024/04/the-diagnosis-is-in-bad-memory-knocked-nasas-aging-voyager-1-offline/) - "Engineers are optimistic they can find a way for the FDS to operate normally."
 
 - [How Hidden Nazi Symbols Were the Tip of a Toxic Iceberg at Life Is Strange Developer Deck Nine](https://sea.ign.com/life-is-strange-2/214159/news/how-hidden-nazi-symbols-were-the-tip-of-a-toxic-iceberg-at-life-is-strange-developer-deck-nine) - Inside the developer of Life Is Strange's internal struggles with toxicity, hate speech, crunch, and more.
 
@@ -188,14 +198,4 @@
 - [New research into why woodpeckers don’t get concussions busts a popular myth](https://arstechnica.com/science/2022/07/study-woodpeckers-heads-behave-more-like-hammers-than-shock-absorbers/) - Absorption of the head's kinetic energy would actually impair the bird's pecking ability.
 
 - [I disconnected from the electric grid for 8 months—in Manhattan](https://arstechnica.com/science/2023/01/i-disconnected-from-the-electric-grid-for-8-months-in-manhattan/) - What started as an experiment has turned into a habit I hope will inspire others.
-
-- [Rats love driving tiny cars, even when they don’t get treats | Ars Technica](https://arstechnica.com/science/2019/11/these-rats-learned-to-drive-tiny-cars-for-science/?utm_medium=social&utm_social-type=owned&utm_brand=ars&utm_source=twitter)
-
-- [What the first look at the genetics of Chernobyl's dogs revealed](//www.sciencenews.org/article/genetics-chernobyl-dogs-revealed) - Dogs living in the Chernobyl Nuclear Power Plant industrial area are genetically distinct from other dogs, but scientists don’t yet know if radiation is the reason.
-
-- [VW wouldn’t help locate car with abducted child because GPS subscription expired](https://arstechnica.com/tech-policy/2023/02/vw-wouldnt-help-locate-car-with-abducted-child-because-gps-subscription-expired/) - VW says its Car-Net service shouldn't have demanded $150 payment from detective.
-
-- [Google has gotten so cheap, employees now have to share desks](https://arstechnica.com/gadgets/2023/02/google-has-gotten-so-cheap-employees-now-have-to-share-desks/) - Google's cost-cutters take aim at the company's office space and workspace culture.
-
-- [The US Supreme Court Doesn’t Understand the Internet](https://www.wired.com/story/the-supreme-court-section-230-the-internet/) - A case before the court is challenging social media platforms’ legal protections. The outcome could be huge for the future of the web.
 

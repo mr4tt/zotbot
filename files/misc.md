@@ -1,4 +1,8 @@
 # misc
+- [Depth Of Field Simulator](https://jherr.github.io/depth-of-field/)
+
+- [Saturday Morning Breakfast Cereal - Commute](https://www.smbc-comics.com/index.php?db=comics&id=1543) - Saturday Morning Breakfast Cereal - Commute
+
 - [Elon Musk Deposed In Lawsuit For Falsely Linking Jewish Man To Neo-Nazi Brawl | PDF | Deposition (Law) | Lawsuit](https://www.scribd.com/document/721193667/Elon-Musk-Deposed-In-Lawsuit-For-Falsely-Linking-Jewish-Man-To-Neo-Nazi-Brawl) - Elon Musk was deposed in a recent lawsuit for falsely linking a 22-year-old Jewish man to a neo-Nazi brawl. Musk, who attempted to keep the deposition from the public, admits he did no research into his false claim, among other revelations.
 
 - [Every Fucking Bootstrap Website Ever](https://www.dagusa.com/)
@@ -18,6 +22,8 @@
 - [analytics.usa.gov | The US government's web traffic.](https://analytics.usa.gov) - Official data on web traffic to thousands of US federal government websites. Published by the Digital Analytics Program.
 
 - [Deck CSS Grid template by Hi. Creative Agency](http://www.hi.agency/deck/#p1)
+
+- [Todepond dot com](https://www.todepond.com/wikiblogarden/better-computing/just/)
 
 - [Kruschiki Supply Company](https://kruschiki.com/) - Kruschiki Supply Company
 

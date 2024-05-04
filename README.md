@@ -68,6 +68,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [Make Your Renders Unnecessarily Complicated](https://www.youtube.com/watch?v=YE9rEQAGpLw)
+
 - [Great Impractical Ideas in Computer Science: PowerPoint Programming](https://www.youtube.com/watch?v=_3loq22TxSc)
 
 - [Prison Tech](https://www.youtube.com/watch?v=O3PfsndsihY)
@@ -292,11 +294,15 @@ To view a single category, check the files/ folder.
 
 - [Convert JSON to Graph Diagram : Online JSON Graph Editor](https://www.jsonviewer.tools/editor)
 
+- [The UX of UUIDs | Unkey](https://unkey.dev/blog/uuid-ux) - Unique identifiers play a crucial role in all applications, from user authentication to resource management. While using a standard UUID will satisfy all your security concerns, there’s a lot we can improve for our users.
+
 - [A basic tutorial on "How to get the most out of embeds?" for a discord-friendly website!](www.reddit.com/r/discordapp/comments/82p8i6/a_basic_tutorial_on_how_to_get_the_most_out_of/)
 
 - [guide/style.md at master · uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md) - The Uber Go Style Guide. Contribute to uber-go/guide development by creating an account on GitHub.
 
 - [Effective Go - The Go Programming Language](https://go.dev/doc/effective_go)
+
+- [How to help someone use a computer](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
 
 - [Julia Evans](https://jvns.ca/) - Julia Evans
 
@@ -488,11 +494,21 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [A Vast New Data Set Could Supercharge the AI Hunt for Crypto Money Laundering](https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/) - Blockchain analysis firm Elliptic, MIT, and IBM have released a new AI model—and the 200-million-transaction dataset it's trained on—that aims to spot the “shape” of bitcoin money laundering.
+
+- [These Women Came to Antarctica for Science. Then the Predators Emerged](https://www.wired.com/story/women-antarctica-science-predators-whistleblower/) - Jane Willenbring was the first to blow the whistle on sexual harassment and assault in Antarctica. Years later, women are still coming forward with tales of horror as a government investigation unfolds.
+
+- [5.25-inch floppy disks expected to help run San Francisco trains until 2030](https://arstechnica.com/gadgets/2024/04/5-25-inch-floppy-disks-expected-to-help-run-san-francisco-trains-until-2030/) - "We have a technical debt that stretches back many decades."
+
 - [Elon Musk Didn’t Want His Latest Deposition Released. Here It Is.](https://www.huffpost.com/entry/elon-musk-didnt-want-his-latest-deposition-released-here-it-is_n_66133d2ce4b0d81853f9a766) - Musk is being sued for falsely suggesting a 22-year-old Jewish man was part of a neo-Nazi brawl.
 
 - [The Secret Startup That Saved the Worst Website in America](https://www.theatlantic.com/technology/archive/2015/07/the-secret-startup-saved-healthcare-gov-the-worst-website-in-america/397784/) - How a team of young people, living in a repurposed McMansion in Maryland, helped fix Healthcare.gov
 
 - [Why do some people always get lost?](https://arstechnica.com/science/2024/04/why-do-some-people-always-get-lost/) - Experience may matter more than innate ability when it comes to sense of direction.
+
+- [Price of zero-day exploits rises as companies harden products against hackers](https://techcrunch.com/2024/04/06/price-of-zero-day-exploits-rises-as-companies-harden-products-against-hackers/) - Tools that allow government hackers to break into iPhones and Android phones, popular software like the Chrome and Safari browsers, and chat apps like
+
+- [NASA knows what knocked Voyager 1 offline, but it will take a while to fix](https://arstechnica.com/space/2024/04/the-diagnosis-is-in-bad-memory-knocked-nasas-aging-voyager-1-offline/) - "Engineers are optimistic they can find a way for the FDS to operate normally."
 
 - [How Hidden Nazi Symbols Were the Tip of a Toxic Iceberg at Life Is Strange Developer Deck Nine](https://sea.ign.com/life-is-strange-2/214159/news/how-hidden-nazi-symbols-were-the-tip-of-a-toxic-iceberg-at-life-is-strange-developer-deck-nine) - Inside the developer of Life Is Strange's internal struggles with toxicity, hate speech, crunch, and more.
 
@@ -678,17 +694,13 @@ To view a single category, check the files/ folder.
 
 - [I disconnected from the electric grid for 8 months—in Manhattan](https://arstechnica.com/science/2023/01/i-disconnected-from-the-electric-grid-for-8-months-in-manhattan/) - What started as an experiment has turned into a habit I hope will inspire others.
 
-- [Rats love driving tiny cars, even when they don’t get treats | Ars Technica](https://arstechnica.com/science/2019/11/these-rats-learned-to-drive-tiny-cars-for-science/?utm_medium=social&utm_social-type=owned&utm_brand=ars&utm_source=twitter)
-
-- [What the first look at the genetics of Chernobyl's dogs revealed](//www.sciencenews.org/article/genetics-chernobyl-dogs-revealed) - Dogs living in the Chernobyl Nuclear Power Plant industrial area are genetically distinct from other dogs, but scientists don’t yet know if radiation is the reason.
-
-- [VW wouldn’t help locate car with abducted child because GPS subscription expired](https://arstechnica.com/tech-policy/2023/02/vw-wouldnt-help-locate-car-with-abducted-child-because-gps-subscription-expired/) - VW says its Car-Net service shouldn't have demanded $150 payment from detective.
-
-- [Google has gotten so cheap, employees now have to share desks](https://arstechnica.com/gadgets/2023/02/google-has-gotten-so-cheap-employees-now-have-to-share-desks/) - Google's cost-cutters take aim at the company's office space and workspace culture.
-
-- [The US Supreme Court Doesn’t Understand the Internet](https://www.wired.com/story/the-supreme-court-section-230-the-internet/) - A case before the court is challenging social media platforms’ legal protections. The outcome could be huge for the future of the web.
-
 # wikipedia
+- [No one likes us, we don't care](https://en.wikipedia.org/w/index.php?title=No_one_likes_us,_we_don%27t_care&oldid=1195704256) - "No one likes us, we don't care" is a sports chant that originated as a football chant sung by supporters of the English football club Millwall in the late 1970s. It is sung to the tune of "(We Are) Sailing" by Rod Stewart.  The late 1960s saw the rise of fan violence and football hooliganism throughout England; Millwall was one of several English t...
+
+- [CONOP 8888](https://en.wikipedia.org/w/index.php?title=CONOP_8888&oldid=1204685566) - CONPLAN 8888, also known as Counter-Zombie Dominance, is a U.S. Department of Defense Strategic Command CONOP document  that describes a plan for the United States and its military defending against zombies. It was initially classified by the United States Intelligence Community, but was eventually declassified following a Freedom of Information Act...
+
+- [Zheng Pingru](https://en.wikipedia.org/w/index.php?title=Zheng_Pingru&oldid=1186918163) - Zheng Pingru (1918 – February 1940) was a Chinese socialite and spy who gathered intelligence on the Imperial Japanese Army during the Second Sino-Japanese War. She was executed after an unsuccessful attempt to assassinate Ding Mocun, the security chief of the Wang Jingwei regime, a puppet government for the Japanese. Her life is believed to be the ...
+
 - [DVD region code](https://en.wikipedia.org/w/index.php?title=DVD_region_code&oldid=1214139533) - DVD region codes are a digital rights management technique introduced in 1997. It is designed to allow rights holders to control the international distribution of a DVD release, including its content, release date, and price, all according to the appropriate region. This is achieved by way of region-locked DVD players, which will play back only DVDs...
 
 - [Speakers' Corner](https://en.wikipedia.org/w/index.php?title=Speakers%27_Corner&oldid=1201953157) - A Speakers' Corner is an area where free speech open-air public speaking, debate, and discussion are allowed. The original and best known is in the north-east corner of Hyde Park in London, England.  Historically there were a number of other areas designated as Speakers' Corners in other parks in London, such as Lincoln's Inn Fields, Finsbury Park, ...
@@ -883,13 +895,11 @@ To view a single category, check the files/ folder.
 
 - [Children (composition)](https://en.wikipedia.org/w/index.php?title=Children_(composition)&oldid=1164899634) - "Children" is an instrumental composition by Italian composer Robert Miles. It was first released in Italy in January 1995 as part of the EP Soundtracks on Joe Vannelli's DBX label, but it did not chart. Vannelli brought the track to a nightclub in Miami where it was heard by Simon Berry of Platipus Records. Berry worked with Vannelli and James Bart...
 
-- [Irish road bowling](https://en.wikipedia.org/w/index.php?title=Irish_road_bowling&oldid=1161380125) - Road bowling (Irish: Ból an bhóthair; also called [long] bullets) is an Irish  sport in which competitors attempt to take the fewest throws to propel a metal ball along a predetermined course of country roads. The sport originated in Ireland and is mainly played in counties Armagh and Cork. Road bowling in Ireland is governed by the voluntary Irish ...
-
-- [Animals taking public transportation](https://en.wikipedia.org/w/index.php?title=Animals_taking_public_transportation&oldid=1165310352) - Some domestic pets, feral animals and wild animals have learned to use human public transportation to travel independently. This is tolerated or even celebrated by passengers, although most public transportation systems only allow service animals and forbid pets. According to urban wildlife specialist Suzanne MacDonald, animal "commuters" are usuall...
-
-- [Vanity sizing](https://en.wikipedia.org/w/index.php?title=Vanity_sizing&oldid=1133337064) - Vanity sizing, or size inflation, is the phenomenon of ready-to-wear clothing of the same nominal size becoming bigger in physical size over time. This has been documented primarily in the United States and the United Kingdom. The use of US standard clothing sizes by manufacturers as the official guidelines for clothing sizes was abandoned in 1983. ...
-
 # misc
+- [Depth Of Field Simulator](https://jherr.github.io/depth-of-field/)
+
+- [Saturday Morning Breakfast Cereal - Commute](https://www.smbc-comics.com/index.php?db=comics&id=1543) - Saturday Morning Breakfast Cereal - Commute
+
 - [Elon Musk Deposed In Lawsuit For Falsely Linking Jewish Man To Neo-Nazi Brawl | PDF | Deposition (Law) | Lawsuit](https://www.scribd.com/document/721193667/Elon-Musk-Deposed-In-Lawsuit-For-Falsely-Linking-Jewish-Man-To-Neo-Nazi-Brawl) - Elon Musk was deposed in a recent lawsuit for falsely linking a 22-year-old Jewish man to a neo-Nazi brawl. Musk, who attempted to keep the deposition from the public, admits he did no research into his false claim, among other revelations.
 
 - [Every Fucking Bootstrap Website Ever](https://www.dagusa.com/)
@@ -909,6 +919,8 @@ To view a single category, check the files/ folder.
 - [analytics.usa.gov | The US government's web traffic.](https://analytics.usa.gov) - Official data on web traffic to thousands of US federal government websites. Published by the Digital Analytics Program.
 
 - [Deck CSS Grid template by Hi. Creative Agency](http://www.hi.agency/deck/#p1)
+
+- [Todepond dot com](https://www.todepond.com/wikiblogarden/better-computing/just/)
 
 - [Kruschiki Supply Company](https://kruschiki.com/) - Kruschiki Supply Company
 

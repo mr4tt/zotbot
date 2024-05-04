@@ -3,11 +3,15 @@
 
 - [Convert JSON to Graph Diagram : Online JSON Graph Editor](https://www.jsonviewer.tools/editor)
 
+- [The UX of UUIDs | Unkey](https://unkey.dev/blog/uuid-ux) - Unique identifiers play a crucial role in all applications, from user authentication to resource management. While using a standard UUID will satisfy all your security concerns, there’s a lot we can improve for our users.
+
 - [A basic tutorial on "How to get the most out of embeds?" for a discord-friendly website!](www.reddit.com/r/discordapp/comments/82p8i6/a_basic_tutorial_on_how_to_get_the_most_out_of/)
 
 - [guide/style.md at master · uber-go/guide](https://github.com/uber-go/guide/blob/master/style.md) - The Uber Go Style Guide. Contribute to uber-go/guide development by creating an account on GitHub.
 
 - [Effective Go - The Go Programming Language](https://go.dev/doc/effective_go)
+
+- [How to help someone use a computer](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
 
 - [Julia Evans](https://jvns.ca/) - Julia Evans
 
