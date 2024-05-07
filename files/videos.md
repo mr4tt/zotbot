@@ -1,4 +1,6 @@
 # videos
+- [A Breakthrough Discovery In Pokémon](https://www.youtube.com/watch?v=Qil4OpfOufU)
+
 - [Make Your Renders Unnecessarily Complicated](https://www.youtube.com/watch?v=YE9rEQAGpLw)
 
 - [Great Impractical Ideas in Computer Science: PowerPoint Programming](https://www.youtube.com/watch?v=_3loq22TxSc)

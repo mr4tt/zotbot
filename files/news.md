@@ -1,4 +1,6 @@
 # news
+- [Thousands Believe Covid Vaccines Harmed Them. Is Anyone Listening?](https://www.nytimes.com/2024/05/03/health/covid-vaccines-side-effects.html) - All vaccines have at least occasional side effects. But people who say they were injured by Covid vaccines believe their cases have been ignored.
+
 - [A Vast New Data Set Could Supercharge the AI Hunt for Crypto Money Laundering](https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/) - Blockchain analysis firm Elliptic, MIT, and IBM have released a new AI model—and the 200-million-transaction dataset it's trained on—that aims to spot the “shape” of bitcoin money laundering.
 
 - [These Women Came to Antarctica for Science. Then the Predators Emerged](https://www.wired.com/story/women-antarctica-science-predators-whistleblower/) - Jane Willenbring was the first to blow the whistle on sexual harassment and assault in Antarctica. Years later, women are still coming forward with tales of horror as a government investigation unfolds.
@@ -196,6 +198,4 @@
 - [Phosphorus Saved Our Way of Life—and Now Threatens to End It](https://www.newyorker.com/magazine/2023/03/06/phosphorus-saved-our-way-of-life-and-now-threatens-to-end-it) - Fertilizers filled with the nutrient boosted our ability to feed the planet. Today, they’re creating vast and growing dead zones in our lakes and seas.
 
 - [New research into why woodpeckers don’t get concussions busts a popular myth](https://arstechnica.com/science/2022/07/study-woodpeckers-heads-behave-more-like-hammers-than-shock-absorbers/) - Absorption of the head's kinetic energy would actually impair the bird's pecking ability.
-
-- [I disconnected from the electric grid for 8 months—in Manhattan](https://arstechnica.com/science/2023/01/i-disconnected-from-the-electric-grid-for-8-months-in-manhattan/) - What started as an experiment has turned into a habit I hope will inspire others.
 
