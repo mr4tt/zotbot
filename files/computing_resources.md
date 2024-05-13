@@ -1,4 +1,8 @@
 # computing_resources
+- [Scroll-driven Animations](https://scroll-driven-animations.style) - A bunch of demos and tools to show off Scroll-driven Animations
+
+- [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+
 - [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/) - Learn how to use CSS container queries today.
 
 - [Convert JSON to Graph Diagram : Online JSON Graph Editor](https://www.jsonviewer.tools/editor)

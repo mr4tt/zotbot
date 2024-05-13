@@ -292,6 +292,10 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [Scroll-driven Animations](https://scroll-driven-animations.style) - A bunch of demos and tools to show off Scroll-driven Animations
+
+- [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+
 - [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/) - Learn how to use CSS container queries today.
 
 - [Convert JSON to Graph Diagram : Online JSON Graph Editor](https://www.jsonviewer.tools/editor)
@@ -697,6 +701,8 @@ To view a single category, check the files/ folder.
 - [New research into why woodpeckers don’t get concussions busts a popular myth](https://arstechnica.com/science/2022/07/study-woodpeckers-heads-behave-more-like-hammers-than-shock-absorbers/) - Absorption of the head's kinetic energy would actually impair the bird's pecking ability.
 
 # wikipedia
+- [National conventions for writing telephone numbers](https://en.wikipedia.org/w/index.php?title=National_conventions_for_writing_telephone_numbers&oldid=1217990549) - National conventions for writing telephone numbers vary by country. The International Telecommunication Union (ITU) publishes a recommendation entitled Notation for national and international telephone numbers, e-mail addresses and Web addresses. Recommendation E.123 specifies the format of telephone numbers assigned to telephones and similar commun...
+
 - [No one likes us, we don't care](https://en.wikipedia.org/w/index.php?title=No_one_likes_us,_we_don%27t_care&oldid=1195704256) - "No one likes us, we don't care" is a sports chant that originated as a football chant sung by supporters of the English football club Millwall in the late 1970s. It is sung to the tune of "(We Are) Sailing" by Rod Stewart.  The late 1960s saw the rise of fan violence and football hooliganism throughout England; Millwall was one of several English t...
 
 - [CONOP 8888](https://en.wikipedia.org/w/index.php?title=CONOP_8888&oldid=1204685566) - CONPLAN 8888, also known as Counter-Zombie Dominance, is a U.S. Department of Defense Strategic Command CONOP document  that describes a plan for the United States and its military defending against zombies. It was initially classified by the United States Intelligence Community, but was eventually declassified following a Freedom of Information Act...
@@ -894,8 +900,6 @@ To view a single category, check the files/ folder.
 - [Timothy Dexter](https://en.wikipedia.org/w/index.php?title=Timothy_Dexter&oldid=1162124222) - Timothy Dexter (January 22, 1747 – October 23, 1806) was an American businessman noted for his eccentric behavior and writings. He became wealthy through marriage and a series of improbably successful investments, and spent his fortune lavishly. Though barely educated or literate, Dexter considered himself "the greatest philosopher in the Western Wo...
 
 - [Joan of Leeds](https://en.wikipedia.org/w/index.php?title=Joan_of_Leeds&oldid=1094155891) - Joan of Leeds or Johannas de Ledes (fl. early 14th century) was an English nun, who, bored with her monastic and enclosed life, at some point in 1318 escaped from St Clement's by York priory to journey to Beverley, where she was accused of living with a man. To escape, she feigned mortal illness and constructed a dummy of herself, which her colleagu...
-
-- [Children (composition)](https://en.wikipedia.org/w/index.php?title=Children_(composition)&oldid=1164899634) - "Children" is an instrumental composition by Italian composer Robert Miles. It was first released in Italy in January 1995 as part of the EP Soundtracks on Joe Vannelli's DBX label, but it did not chart. Vannelli brought the track to a nightclub in Miami where it was heard by Simon Berry of Platipus Records. Berry worked with Vannelli and James Bart...
 
 # misc
 - [Depth Of Field Simulator](https://jherr.github.io/depth-of-field/)
