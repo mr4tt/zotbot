@@ -504,7 +504,13 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [These Flies Age Faster After Witnessing Death](https://www.nytimes.com/2023/06/13/science/fruit-flies-death-aging.html) - A study offers clues to the link between what the brain of an organism perceives and physical reactions in its body.
+
 - [What it’s like to watch AI colonize your old job](https://www.sfchronicle.com/opinion/article/ai-journalism-news-job-19449571.php) - From community journalism to farmed AI content, Hoodline’s devolution raises existential questions about news, and how we receive it.
+
+- [A wave of retractions is shaking physics](https://www.technologyreview.com/2024/05/15/1092535/a-wave-of-retractions-is-shaking-physics/) - Grappling with problematic papers and poorly documented data, researchers and journal editors gathered in Pittsburgh to hash out the best way forward.
+
+- [Indians who pre-ordered Teslas in 2016 are giving up and chasing refunds](https://restofworld.org/2024/tesla-india-refund/) - Elon Musk dodged another India visit, and many who placed $1,000 Tesla deposits admit the dream is over, while fanboys keep the faith.
 
 - [Thousands Believe Covid Vaccines Harmed Them. Is Anyone Listening?](https://www.nytimes.com/2024/05/03/health/covid-vaccines-side-effects.html) - All vaccines have at least occasional side effects. But people who say they were injured by Covid vaccines believe their cases have been ignored.
 
@@ -698,13 +704,9 @@ To view a single category, check the files/ folder.
 
 - [Rare Jurassic-era bug found at Arkansas Walmart](https://www.bbc.com/news/world-us-canada-64814931) - A teacher who spotted the bug took it home - then realised during a class how unusual it was.
 
-- [Honeybees waggle to communicate. But to do it well, they need dance lessons](https://www.sciencenews.org/article/bee-honeybees-waggle-dance-communicate-lessons-learn-hive) - Young honeybees can’t perfect waggling on their own after all. Without older sisters to practice with, youngsters fail to nail distances.
-
-- [What HBO’s “Chernobyl” Got Right, and What It Got Terribly Wrong | The New Yorker](https://www.newyorker.com/news/our-columnists/what-hbos-chernobyl-got-right-and-what-it-got-terribly-wrong)
-
-- [Phosphorus Saved Our Way of Life—and Now Threatens to End It](https://www.newyorker.com/magazine/2023/03/06/phosphorus-saved-our-way-of-life-and-now-threatens-to-end-it) - Fertilizers filled with the nutrient boosted our ability to feed the planet. Today, they’re creating vast and growing dead zones in our lakes and seas.
-
 # wikipedia
+- [Snake wine](https://en.wikipedia.org/w/index.php?title=Snake_wine&oldid=1191756310) - Snake wine (Chinese: 蛇酒; pinyin: shé-jiǔ; Vietnamese: rượu rắn; Khmer: ស្រាពស់, sra poas) is an alcoholic beverage produced by infusing whole snakes in rice wine or grain alcohol. The drink was first recorded to have been consumed in China during the Western Zhou dynasty (c. 1040–770 BC) and believed in folklore to reinvigorate a person according to...
+
 - [National conventions for writing telephone numbers](https://en.wikipedia.org/w/index.php?title=National_conventions_for_writing_telephone_numbers&oldid=1217990549) - National conventions for writing telephone numbers vary by country. The International Telecommunication Union (ITU) publishes a recommendation entitled Notation for national and international telephone numbers, e-mail addresses and Web addresses. Recommendation E.123 specifies the format of telephone numbers assigned to telephones and similar commun...
 
 - [No one likes us, we don't care](https://en.wikipedia.org/w/index.php?title=No_one_likes_us,_we_don%27t_care&oldid=1195704256) - "No one likes us, we don't care" is a sports chant that originated as a football chant sung by supporters of the English football club Millwall in the late 1970s. It is sung to the tune of "(We Are) Sailing" by Rod Stewart.  The late 1960s saw the rise of fan violence and football hooliganism throughout England; Millwall was one of several English t...
@@ -902,8 +904,6 @@ To view a single category, check the files/ folder.
 - [Netflix Prize](https://en.wikipedia.org/w/index.php?title=Netflix_Prize&oldid=1167025855) - The Netflix Prize was an open competition for the best collaborative filtering algorithm to predict user ratings for films, based on previous ratings without any other information about the users or films, i.e. without the users being identified except by numbers assigned for the contest. The competition was held by Netflix, a video streaming servic...
 
 - [Timothy Dexter](https://en.wikipedia.org/w/index.php?title=Timothy_Dexter&oldid=1162124222) - Timothy Dexter (January 22, 1747 – October 23, 1806) was an American businessman noted for his eccentric behavior and writings. He became wealthy through marriage and a series of improbably successful investments, and spent his fortune lavishly. Though barely educated or literate, Dexter considered himself "the greatest philosopher in the Western Wo...
-
-- [Joan of Leeds](https://en.wikipedia.org/w/index.php?title=Joan_of_Leeds&oldid=1094155891) - Joan of Leeds or Johannas de Ledes (fl. early 14th century) was an English nun, who, bored with her monastic and enclosed life, at some point in 1318 escaped from St Clement's by York priory to journey to Beverley, where she was accused of living with a man. To escape, she feigned mortal illness and constructed a dummy of herself, which her colleagu...
 
 # misc
 - [Nick Land-Meltdown](http://www.ccru.net/swarm1/1_melt.htm)

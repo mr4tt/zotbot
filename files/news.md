@@ -1,5 +1,11 @@
 # news
+- [These Flies Age Faster After Witnessing Death](https://www.nytimes.com/2023/06/13/science/fruit-flies-death-aging.html) - A study offers clues to the link between what the brain of an organism perceives and physical reactions in its body.
+
 - [What it’s like to watch AI colonize your old job](https://www.sfchronicle.com/opinion/article/ai-journalism-news-job-19449571.php) - From community journalism to farmed AI content, Hoodline’s devolution raises existential questions about news, and how we receive it.
+
+- [A wave of retractions is shaking physics](https://www.technologyreview.com/2024/05/15/1092535/a-wave-of-retractions-is-shaking-physics/) - Grappling with problematic papers and poorly documented data, researchers and journal editors gathered in Pittsburgh to hash out the best way forward.
+
+- [Indians who pre-ordered Teslas in 2016 are giving up and chasing refunds](https://restofworld.org/2024/tesla-india-refund/) - Elon Musk dodged another India visit, and many who placed $1,000 Tesla deposits admit the dream is over, while fanboys keep the faith.
 
 - [Thousands Believe Covid Vaccines Harmed Them. Is Anyone Listening?](https://www.nytimes.com/2024/05/03/health/covid-vaccines-side-effects.html) - All vaccines have at least occasional side effects. But people who say they were injured by Covid vaccines believe their cases have been ignored.
 
@@ -192,10 +198,4 @@
 - [This mutant Venus flytrap mysteriously lost its ability to “count”](https://arstechnica.com/science/2023/01/this-mutant-venus-flytrap-mysteriously-lost-its-ability-to-count-to-5/) - The mutant can no longer decode calcium signature that causes trap to shut quickly.
 
 - [Rare Jurassic-era bug found at Arkansas Walmart](https://www.bbc.com/news/world-us-canada-64814931) - A teacher who spotted the bug took it home - then realised during a class how unusual it was.
-
-- [Honeybees waggle to communicate. But to do it well, they need dance lessons](https://www.sciencenews.org/article/bee-honeybees-waggle-dance-communicate-lessons-learn-hive) - Young honeybees can’t perfect waggling on their own after all. Without older sisters to practice with, youngsters fail to nail distances.
-
-- [What HBO’s “Chernobyl” Got Right, and What It Got Terribly Wrong | The New Yorker](https://www.newyorker.com/news/our-columnists/what-hbos-chernobyl-got-right-and-what-it-got-terribly-wrong)
-
-- [Phosphorus Saved Our Way of Life—and Now Threatens to End It](https://www.newyorker.com/magazine/2023/03/06/phosphorus-saved-our-way-of-life-and-now-threatens-to-end-it) - Fertilizers filled with the nutrient boosted our ability to feed the planet. Today, they’re creating vast and growing dead zones in our lakes and seas.
 
