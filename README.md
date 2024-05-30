@@ -168,6 +168,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Things I Keep Repeating About Writing](https://www.clairelegoues.com/posts/clg-writing-rules.html) - I often write papers with students, or read students’ papers to provide comments, and I find myself saying the same things over and over, especially the first time out.*  So: here’s a blog post I can point them to to (hopefully!) save us all some time and trouble. I plan to update it as I remember more things I say repeatedly.
+
 - [How To Explain Things Real Good (Stanford mini-talk) - YouTube](https://www.youtube.com/watch?v=b-M2U3Jl1Cg)
 
 - [Mental Health Tips feat. Anxiety Wolf](https://ncase.me/mental-health/) - My mental health journey, with some science + practical tips.
@@ -502,6 +504,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [What it’s like to watch AI colonize your old job](https://www.sfchronicle.com/opinion/article/ai-journalism-news-job-19449571.php) - From community journalism to farmed AI content, Hoodline’s devolution raises existential questions about news, and how we receive it.
+
 - [Thousands Believe Covid Vaccines Harmed Them. Is Anyone Listening?](https://www.nytimes.com/2024/05/03/health/covid-vaccines-side-effects.html) - All vaccines have at least occasional side effects. But people who say they were injured by Covid vaccines believe their cases have been ignored.
 
 - [A Vast New Data Set Could Supercharge the AI Hunt for Crypto Money Laundering](https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/) - Blockchain analysis firm Elliptic, MIT, and IBM have released a new AI model—and the 200-million-transaction dataset it's trained on—that aims to spot the “shape” of bitcoin money laundering.
@@ -699,8 +703,6 @@ To view a single category, check the files/ folder.
 - [What HBO’s “Chernobyl” Got Right, and What It Got Terribly Wrong | The New Yorker](https://www.newyorker.com/news/our-columnists/what-hbos-chernobyl-got-right-and-what-it-got-terribly-wrong)
 
 - [Phosphorus Saved Our Way of Life—and Now Threatens to End It](https://www.newyorker.com/magazine/2023/03/06/phosphorus-saved-our-way-of-life-and-now-threatens-to-end-it) - Fertilizers filled with the nutrient boosted our ability to feed the planet. Today, they’re creating vast and growing dead zones in our lakes and seas.
-
-- [New research into why woodpeckers don’t get concussions busts a popular myth](https://arstechnica.com/science/2022/07/study-woodpeckers-heads-behave-more-like-hammers-than-shock-absorbers/) - Absorption of the head's kinetic energy would actually impair the bird's pecking ability.
 
 # wikipedia
 - [National conventions for writing telephone numbers](https://en.wikipedia.org/w/index.php?title=National_conventions_for_writing_telephone_numbers&oldid=1217990549) - National conventions for writing telephone numbers vary by country. The International Telecommunication Union (ITU) publishes a recommendation entitled Notation for national and international telephone numbers, e-mail addresses and Web addresses. Recommendation E.123 specifies the format of telephone numbers assigned to telephones and similar commun...
@@ -904,6 +906,8 @@ To view a single category, check the files/ folder.
 - [Joan of Leeds](https://en.wikipedia.org/w/index.php?title=Joan_of_Leeds&oldid=1094155891) - Joan of Leeds or Johannas de Ledes (fl. early 14th century) was an English nun, who, bored with her monastic and enclosed life, at some point in 1318 escaped from St Clement's by York priory to journey to Beverley, where she was accused of living with a man. To escape, she feigned mortal illness and constructed a dummy of herself, which her colleagu...
 
 # misc
+- [Nick Land-Meltdown](http://www.ccru.net/swarm1/1_melt.htm)
+
 - [Depth Of Field Simulator](https://jherr.github.io/depth-of-field/)
 
 - [Saturday Morning Breakfast Cereal - Commute](https://www.smbc-comics.com/index.php?db=comics&id=1543) - Saturday Morning Breakfast Cereal - Commute

@@ -1,4 +1,6 @@
 # general_resources
+- [Things I Keep Repeating About Writing](https://www.clairelegoues.com/posts/clg-writing-rules.html) - I often write papers with students, or read students’ papers to provide comments, and I find myself saying the same things over and over, especially the first time out.*  So: here’s a blog post I can point them to to (hopefully!) save us all some time and trouble. I plan to update it as I remember more things I say repeatedly.
+
 - [How To Explain Things Real Good (Stanford mini-talk) - YouTube](https://www.youtube.com/watch?v=b-M2U3Jl1Cg)
 
 - [Mental Health Tips feat. Anxiety Wolf](https://ncase.me/mental-health/) - My mental health journey, with some science + practical tips.
