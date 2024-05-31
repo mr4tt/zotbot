@@ -1,11 +1,11 @@
 # general_resources
+- [Todepond dot com](https://www.todepond.com/wikiblogarden/better-computing/just/)
+
 - [Things I Keep Repeating About Writing](https://www.clairelegoues.com/posts/clg-writing-rules.html) - I often write papers with students, or read students’ papers to provide comments, and I find myself saying the same things over and over, especially the first time out.*  So: here’s a blog post I can point them to to (hopefully!) save us all some time and trouble. I plan to update it as I remember more things I say repeatedly.
 
 - [How To Explain Things Real Good (Stanford mini-talk) - YouTube](https://www.youtube.com/watch?v=b-M2U3Jl1Cg)
 
 - [Mental Health Tips feat. Anxiety Wolf](https://ncase.me/mental-health/) - My mental health journey, with some science + practical tips.
-
-- [Todepond dot com](https://www.todepond.com/wikiblogarden/better-computing/just/)
 
 - [How to win friends and influence repos](https://robertheaton.com/2014/07/21/how-to-win-friends-and-influence-repos/) - In my last post, I wrote about the breathless highs I experienced whilst discovering productivity systems for the first time, and the subsequent crushing lows of realising that I was just another prick with a Dymo labeller. I also alluded to an ingenious framework that I have been evolving over the last year, which is obviously totally different to ...
 

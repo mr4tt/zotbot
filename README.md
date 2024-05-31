@@ -168,13 +168,13 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Todepond dot com](https://www.todepond.com/wikiblogarden/better-computing/just/)
+
 - [Things I Keep Repeating About Writing](https://www.clairelegoues.com/posts/clg-writing-rules.html) - I often write papers with students, or read students’ papers to provide comments, and I find myself saying the same things over and over, especially the first time out.*  So: here’s a blog post I can point them to to (hopefully!) save us all some time and trouble. I plan to update it as I remember more things I say repeatedly.
 
 - [How To Explain Things Real Good (Stanford mini-talk) - YouTube](https://www.youtube.com/watch?v=b-M2U3Jl1Cg)
 
 - [Mental Health Tips feat. Anxiety Wolf](https://ncase.me/mental-health/) - My mental health journey, with some science + practical tips.
-
-- [Todepond dot com](https://www.todepond.com/wikiblogarden/better-computing/just/)
 
 - [How to win friends and influence repos](https://robertheaton.com/2014/07/21/how-to-win-friends-and-influence-repos/) - In my last post, I wrote about the breathless highs I experienced whilst discovering productivity systems for the first time, and the subsequent crushing lows of realising that I was just another prick with a Dymo labeller. I also alluded to an ingenious framework that I have been evolving over the last year, which is obviously totally different to ...
 
@@ -205,6 +205,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Scroll-driven Animations](https://scroll-driven-animations.style) - A bunch of demos and tools to show off Scroll-driven Animations
+
 - [Site of Sites](https://www.siteofsites.co) - Explore the best in web design at Site of Sites. Find inspiration, trends, and insights to elevate your own projects. Submit your website for consideration and be part of our growing collection.
 
 - [Design Systems Database: Surf among top‑notch Design Systems](https://designsystems.surf/) - Best-in-class Design Systems with components and foundations references from top-tier tech companies and leading UI teams.
@@ -214,8 +216,6 @@ To view a single category, check the files/ folder.
 - [Tokenbase](https://token-base.com/)
 
 - [The Good Line-Height](https://www.thegoodlineheight.com/)
-
-- [Scroll-driven Animations](https://scroll-driven-animations.style) - A bunch of demos and tools to show off Scroll-driven Animations
 
 - [Home](https://lawsofux.com/) - Laws of UX is a collection of best practices that designers can consider when building user interfaces.
 
@@ -906,6 +906,10 @@ To view a single category, check the files/ folder.
 - [Timothy Dexter](https://en.wikipedia.org/w/index.php?title=Timothy_Dexter&oldid=1162124222) - Timothy Dexter (January 22, 1747 – October 23, 1806) was an American businessman noted for his eccentric behavior and writings. He became wealthy through marriage and a series of improbably successful investments, and spent his fortune lavishly. Though barely educated or literate, Dexter considered himself "the greatest philosopher in the Western Wo...
 
 # misc
+- [Todepond dot com](https://www.todepond.com/wikiblogarden/better-computing/just/)
+
+- [The Cave of Dragonflies](https://www.dragonflycave.com/)
+
 - [Nick Land-Meltdown](http://www.ccru.net/swarm1/1_melt.htm)
 
 - [Depth Of Field Simulator](https://jherr.github.io/depth-of-field/)
@@ -924,15 +928,11 @@ To view a single category, check the files/ folder.
 
 - [Everything I know about the XZ backdoor](https://boehs.org/node/everything-i-know-about-the-xz-backdoor) - Please note: This is being updated in real time. The intent is to make sense of lots of simultaneous discoveries
 
-- [The Cave of Dragonflies](https://www.dragonflycave.com/)
-
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 
 - [analytics.usa.gov | The US government's web traffic.](https://analytics.usa.gov) - Official data on web traffic to thousands of US federal government websites. Published by the Digital Analytics Program.
 
 - [Deck CSS Grid template by Hi. Creative Agency](http://www.hi.agency/deck/#p1)
-
-- [Todepond dot com](https://www.todepond.com/wikiblogarden/better-computing/just/)
 
 - [Kruschiki Supply Company](https://kruschiki.com/) - Kruschiki Supply Company
 
@@ -1007,8 +1007,6 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 - [Element Speller](https://www.bgreco.net/periodic/)
-
-- [The Cave of Dragonflies](https://www.dragonflycave.com/)
 
 - [ZType – Typing Game - Type to Shoot](https://zty.pe/)
 

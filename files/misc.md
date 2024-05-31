@@ -1,4 +1,8 @@
 # misc
+- [Todepond dot com](https://www.todepond.com/wikiblogarden/better-computing/just/)
+
+- [The Cave of Dragonflies](https://www.dragonflycave.com/)
+
 - [Nick Land-Meltdown](http://www.ccru.net/swarm1/1_melt.htm)
 
 - [Depth Of Field Simulator](https://jherr.github.io/depth-of-field/)
@@ -17,15 +21,11 @@
 
 - [Everything I know about the XZ backdoor](https://boehs.org/node/everything-i-know-about-the-xz-backdoor) - Please note: This is being updated in real time. The intent is to make sense of lots of simultaneous discoveries
 
-- [The Cave of Dragonflies](https://www.dragonflycave.com/)
-
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs!
 
 - [analytics.usa.gov | The US government's web traffic.](https://analytics.usa.gov) - Official data on web traffic to thousands of US federal government websites. Published by the Digital Analytics Program.
 
 - [Deck CSS Grid template by Hi. Creative Agency](http://www.hi.agency/deck/#p1)
-
-- [Todepond dot com](https://www.todepond.com/wikiblogarden/better-computing/just/)
 
 - [Kruschiki Supply Company](https://kruschiki.com/) - Kruschiki Supply Company
 
@@ -100,8 +100,6 @@
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 - [Element Speller](https://www.bgreco.net/periodic/)
-
-- [The Cave of Dragonflies](https://www.dragonflycave.com/)
 
 - [ZType – Typing Game - Type to Shoot](https://zty.pe/)
 
