@@ -906,6 +906,10 @@ To view a single category, check the files/ folder.
 - [Timothy Dexter](https://en.wikipedia.org/w/index.php?title=Timothy_Dexter&oldid=1162124222) - Timothy Dexter (January 22, 1747 – October 23, 1806) was an American businessman noted for his eccentric behavior and writings. He became wealthy through marriage and a series of improbably successful investments, and spent his fortune lavishly. Though barely educated or literate, Dexter considered himself "the greatest philosopher in the Western Wo...
 
 # misc
+- [Listen to live air traffic control radio mixed with lofi hip hop](http://www.lofiatc.com/) - Live radio from SFO, LAX, and other airports...
+
+- [Listen To The Clouds - Live as the world flies](https://listentothe.cloud/) - Background noise while you work or relax. Listen to live streamed air traffic radio chatter.
+
 - [Todepond dot com](https://www.todepond.com/wikiblogarden/better-computing/just/)
 
 - [The Cave of Dragonflies](https://www.dragonflycave.com/)
@@ -1101,6 +1105,4 @@ To view a single category, check the files/ folder.
 - [Programming as Driving: Unsafe at Any Speed?](https://web.media.mit.edu/~lieber/Lieberary/ZStep/57-Chevy/57-Chevy.html)
 
 - [The Bobbit Worm Chronicles](https://www.michiganreefers.com/threads/the-bobbit-worm-chronicles.84173/) - So I have discovered that I have a Bobbit Worm. He is through my main piece of lace rock (90 lbs dry) so I can not remove the rock. He has polished off a beautiful rock anemone and I fear for my Rics, and well, everything else. Here is my plan.  I am looking for alternatives or a better way...
-
-- [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
