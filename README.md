@@ -68,6 +68,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [27](https://www.youtube.com/watch?v=dLRLYPiaAoA)
+
 - [A Breakthrough Discovery In Pokémon](https://www.youtube.com/watch?v=Qil4OpfOufU)
 
 - [Make Your Renders Unnecessarily Complicated](https://www.youtube.com/watch?v=YE9rEQAGpLw)
@@ -504,6 +506,12 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Something Strange Happens to Wolves Infected by an Infamous Mind-Altering Parasite](https://www.sciencealert.com/something-strange-happens-to-wolves-infected-by-an-infamous-mind-altering-parasite) - A study of 26 years' worth of wolf behavioral data, and an analysis of the blood of 229 wolves, has shown that infection with the parasite Toxoplasma gondii makes wolves 46 times more likely to become a pack leader.
+
+- [The Low-Paid Humans Behind AI’s Smarts Ask Biden to Free Them From ‘Modern Day Slavery’](https://www.wired.com/story/low-paid-humans-ai-biden-modern-day-slavery/) - African workers who label AI data or screen social posts for US tech giants are calling on President Biden to raise their plight with Kenya's president, William Ruto, who visits the US this week.
+
+- [I Got Access to My Secret Consumer Score. Now You Can Get Yours, Too.](https://www.nytimes.com/2019/11/04/business/secret-consumer-score-access.html) - Little-known companies are amassing your data — like food orders and Airbnb messages — and selling the analysis to clients. Here’s how to get a copy of what they have on you.
+
 - [These Flies Age Faster After Witnessing Death](https://www.nytimes.com/2023/06/13/science/fruit-flies-death-aging.html) - A study offers clues to the link between what the brain of an organism perceives and physical reactions in its body.
 
 - [What it’s like to watch AI colonize your old job](https://www.sfchronicle.com/opinion/article/ai-journalism-news-job-19449571.php) - From community journalism to farmed AI content, Hoodline’s devolution raises existential questions about news, and how we receive it.
@@ -697,12 +705,6 @@ To view a single category, check the files/ folder.
 - [What cats’ love of boxes and squares can tell us about their visual perception](https://arstechnica.com/science/2021/05/what-cats-love-of-boxes-and-squares-can-tell-us-about-their-visual-perception/) - "Vision has evolved to answer questions having to do with boundaries and contours."
 
 - [A US Agency Rejected Face Recognition—and Landed in Big Trouble](https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/) - Officials working on Login.gov, used to access dozens of government sites, worried about algorithmic bias. Their decision breached federal security rules.
-
-- [Scientists have now recorded brain waves from freely moving octopuses](https://www.sciencenews.org/article/scientists-recorded-brain-waves-free-octopus) - The data reveal some unexpected patterns, though it’s too early to know how octopus brains control the animals’ behavior, a new study finds.
-
-- [This mutant Venus flytrap mysteriously lost its ability to “count”](https://arstechnica.com/science/2023/01/this-mutant-venus-flytrap-mysteriously-lost-its-ability-to-count-to-5/) - The mutant can no longer decode calcium signature that causes trap to shut quickly.
-
-- [Rare Jurassic-era bug found at Arkansas Walmart](https://www.bbc.com/news/world-us-canada-64814931) - A teacher who spotted the bug took it home - then realised during a class how unusual it was.
 
 # wikipedia
 - [Graffiti (Palm OS)](https://en.wikipedia.org/w/index.php?title=Graffiti_(Palm_OS)&oldid=1211852576) - Graffiti is an essentially single-stroke shorthand handwriting recognition system used in PDAs based on the Palm OS. Graffiti was originally written by Palm, Inc. as the recognition system for GEOS-based devices such as HP's OmniGo 100 and 120 or the Magic Cap-line and was available as an alternate recognition system for the Apple Newton MessagePad,...
