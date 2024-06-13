@@ -1,4 +1,6 @@
 # misc
+- [archive.today: On the trail of the mysterious guerrilla archivist of the Internet](https://gyrovague.com/2023/08/05/archive-today-on-the-trail-of-the-mysterious-guerrilla-archivist-of-the-internet/) - Do you like reading articles in publications like Bloomberg, the Wall Street Journal or the Economist, but can’t afford to pay what can be hundreds of dollars a year in subscriptions? If so, …
+
 - [Listen to live air traffic control radio mixed with lofi hip hop](http://www.lofiatc.com/) - Live radio from SFO, LAX, and other airports...
 
 - [Listen To The Clouds - Live as the world flies](https://listentothe.cloud/) - Background noise while you work or relax. Listen to live streamed air traffic radio chatter.
@@ -186,8 +188,6 @@
 - [Feynman's Nobel Ambition](https://www.asc.ohio-state.edu/kilcup.1//262/feynman.html)
 
 - [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
-
-- [Los Angeles Is a Fantastic Walking City. No, Really.](https://www.nytimes.com/2023/03/07/magazine/los-angeles-walking-rosecrans-avenue.html) - A stroll down Rosecrans Avenue is not a pleasure. But it does offer a 27-mile canvas of the city’s vastness and its diverse communities coexisting.
 
 - [Unbundling Tools for Thought](https://borretti.me/article/unbundling-tools-for-thought) - Disparate thoughts on personal information management after traversing the hype cycle.
 

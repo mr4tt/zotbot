@@ -1,4 +1,6 @@
 # news
+- [Silicon Valley’s Fanciest Stolen Bikes Are Getting Trafficked by One Mastermind in Jalisco, Mexico](https://www.wired.com/story/silicon-valleys-fanciest-stolen-bikes-trafficked-mastermind-jalisco-mexico/) - “We have people stealing all over the world.” A digital sleuth named Bryan Hance has spent the past four years obsessively uncovering a bicycle-theft pipeline of astonishing scale.
+
 - [Something Strange Happens to Wolves Infected by an Infamous Mind-Altering Parasite](https://www.sciencealert.com/something-strange-happens-to-wolves-infected-by-an-infamous-mind-altering-parasite) - A study of 26 years' worth of wolf behavioral data, and an analysis of the blood of 229 wolves, has shown that infection with the parasite Toxoplasma gondii makes wolves 46 times more likely to become a pack leader.
 
 - [The Low-Paid Humans Behind AI’s Smarts Ask Biden to Free Them From ‘Modern Day Slavery’](https://www.wired.com/story/low-paid-humans-ai-biden-modern-day-slavery/) - African workers who label AI data or screen social posts for US tech giants are calling on President Biden to raise their plight with Kenya's president, William Ruto, who visits the US this week.
@@ -196,6 +198,4 @@
 - [Astronaut Sultan Alneyadi sees 16 sunsets daily on the space station. How will he observe Ramadan?](https://www.cnn.com/2023/03/22/world/ramadan-astronauts-space-station-scn/index.html) - Observance of Muslim or Jewish holidays often depends on the sunset, but that can be hard for astronauts on board the International Space Station. They see 16 sunrises and sunsets daily. As Ramadan starts March 22, here's what astronaut Sultan Alneyadi plans to do.
 
 - [What cats’ love of boxes and squares can tell us about their visual perception](https://arstechnica.com/science/2021/05/what-cats-love-of-boxes-and-squares-can-tell-us-about-their-visual-perception/) - "Vision has evolved to answer questions having to do with boundaries and contours."
-
-- [A US Agency Rejected Face Recognition—and Landed in Big Trouble](https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/) - Officials working on Login.gov, used to access dozens of government sites, worried about algorithmic bias. Their decision breached federal security rules.
 
