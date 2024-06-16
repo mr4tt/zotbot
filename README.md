@@ -209,6 +209,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Likert Scale Examples for Surveys]()
+
 - [Scroll-driven Animations](https://scroll-driven-animations.style) - A bunch of demos and tools to show off Scroll-driven Animations
 
 - [Site of Sites](https://www.siteofsites.co) - Explore the best in web design at Site of Sites. Find inspiration, trends, and insights to elevate your own projects. Submit your website for consideration and be part of our growing collection.
@@ -435,6 +437,10 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # stories
+- [Loneliness Universe](https://www.uncannymagazine.com/article/loneliness-universe/) - From: Nefnef_baby@lyons-edu.org To: Cara Hasani CaraMia1990@mailbuddy.gr September 18, 2015, 5:36 am Subject: I am drifting, but thank you for the photos My dear Cara, Thank you for sending me the photos, I never thought I’d feel this way again. But the pictures help. They really do. I can’t stop looking at them. Thank you for […]
+
+- [They're Made out of Meat](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
+
 - [The Year Without Sunshine](https://www.uncannymagazine.com/article/the-year-without-sunshine/) - During one of the much smaller disasters that preceded the really big disaster, I met a lot of my neighbors online. I can’t remember if we set up the WhatsApp group because of the pandemic or the civil disorder or both. My Minneapolis block had always been reasonably friendly—people would take their kids around on […]
 
 - [Lena @ Things Of Interest](https://qntm.org/mmacevedo)

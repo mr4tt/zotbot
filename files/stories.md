@@ -1,4 +1,8 @@
 # stories
+- [Loneliness Universe](https://www.uncannymagazine.com/article/loneliness-universe/) - From: Nefnef_baby@lyons-edu.org To: Cara Hasani CaraMia1990@mailbuddy.gr September 18, 2015, 5:36 am Subject: I am drifting, but thank you for the photos My dear Cara, Thank you for sending me the photos, I never thought I’d feel this way again. But the pictures help. They really do. I can’t stop looking at them. Thank you for […]
+
+- [They're Made out of Meat](https://www.mit.edu/people/dpolicar/writing/prose/text/thinkingMeat.html)
+
 - [The Year Without Sunshine](https://www.uncannymagazine.com/article/the-year-without-sunshine/) - During one of the much smaller disasters that preceded the really big disaster, I met a lot of my neighbors online. I can’t remember if we set up the WhatsApp group because of the pandemic or the civil disorder or both. My Minneapolis block had always been reasonably friendly—people would take their kids around on […]
 
 - [Lena @ Things Of Interest](https://qntm.org/mmacevedo)

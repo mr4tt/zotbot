@@ -1,4 +1,6 @@
 # design_resources
+- [Likert Scale Examples for Surveys]()
+
 - [Scroll-driven Animations](https://scroll-driven-animations.style) - A bunch of demos and tools to show off Scroll-driven Animations
 
 - [Site of Sites](https://www.siteofsites.co) - Explore the best in web design at Site of Sites. Find inspiration, trends, and insights to elevate your own projects. Submit your website for consideration and be part of our growing collection.
