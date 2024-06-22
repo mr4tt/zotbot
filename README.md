@@ -516,6 +516,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Perplexity Plagiarized Our Story About How Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-plagiarized-our-story-about-how-perplexity-is-a-bullshit-machine/) - Experts aren’t unanimous about whether the AI-powered search startup’s practices could expose it to legal claims ranging from infringement to defamation—but some say plaintiffs would have strong cases.
+
 - [Silicon Valley’s Fanciest Stolen Bikes Are Getting Trafficked by One Mastermind in Jalisco, Mexico](https://www.wired.com/story/silicon-valleys-fanciest-stolen-bikes-trafficked-mastermind-jalisco-mexico/) - “We have people stealing all over the world.” A digital sleuth named Bryan Hance has spent the past four years obsessively uncovering a bicycle-theft pipeline of astonishing scale.
 
 - [Something Strange Happens to Wolves Infected by an Infamous Mind-Altering Parasite](https://www.sciencealert.com/something-strange-happens-to-wolves-infected-by-an-infamous-mind-altering-parasite) - A study of 26 years' worth of wolf behavioral data, and an analysis of the blood of 229 wolves, has shown that infection with the parasite Toxoplasma gondii makes wolves 46 times more likely to become a pack leader.
@@ -713,8 +715,6 @@ To view a single category, check the files/ folder.
 - [A Shark Discovery ‘Didn’t Look Right.’ It Might Have Been a Plastic Toy.](https://www.nytimes.com/2023/03/24/science/goblin-shark-plastic-toy.html) - Scientists have retracted a study that showed a rare goblin shark washed up on a Greek beach after other researchers voiced doubts about the find.
 
 - [Astronaut Sultan Alneyadi sees 16 sunsets daily on the space station. How will he observe Ramadan?](https://www.cnn.com/2023/03/22/world/ramadan-astronauts-space-station-scn/index.html) - Observance of Muslim or Jewish holidays often depends on the sunset, but that can be hard for astronauts on board the International Space Station. They see 16 sunrises and sunsets daily. As Ramadan starts March 22, here's what astronaut Sultan Alneyadi plans to do.
-
-- [What cats’ love of boxes and squares can tell us about their visual perception](https://arstechnica.com/science/2021/05/what-cats-love-of-boxes-and-squares-can-tell-us-about-their-visual-perception/) - "Vision has evolved to answer questions having to do with boundaries and contours."
 
 # wikipedia
 - [Graffiti (Palm OS)](https://en.wikipedia.org/w/index.php?title=Graffiti_(Palm_OS)&oldid=1211852576) - Graffiti is an essentially single-stroke shorthand handwriting recognition system used in PDAs based on the Palm OS. Graffiti was originally written by Palm, Inc. as the recognition system for GEOS-based devices such as HP's OmniGo 100 and 120 or the Magic Cap-line and was available as an alternate recognition system for the Apple Newton MessagePad,...
