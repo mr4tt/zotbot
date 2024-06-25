@@ -1,4 +1,6 @@
 # computing_resources
+- [Lightning Talk: Git add -p](https://gist.github.com/mattlewissf/9958704) - Lightning Talk: Git add -p . GitHub Gist: instantly share code, notes, and snippets.
+
 - [Developer Roadmaps](https://roadmap.sh/) - Community driven roadmaps, articles and guides for developers to grow in their career.
 
 - [Scroll-driven Animations](https://scroll-driven-animations.style) - A bunch of demos and tools to show off Scroll-driven Animations

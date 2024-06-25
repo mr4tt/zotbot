@@ -300,6 +300,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [Lightning Talk: Git add -p](https://gist.github.com/mattlewissf/9958704) - Lightning Talk: Git add -p . GitHub Gist: instantly share code, notes, and snippets.
+
 - [Developer Roadmaps](https://roadmap.sh/) - Community driven roadmaps, articles and guides for developers to grow in their career.
 
 - [Scroll-driven Animations](https://scroll-driven-animations.style) - A bunch of demos and tools to show off Scroll-driven Animations
@@ -918,6 +920,10 @@ To view a single category, check the files/ folder.
 - [Netflix Prize](https://en.wikipedia.org/w/index.php?title=Netflix_Prize&oldid=1167025855) - The Netflix Prize was an open competition for the best collaborative filtering algorithm to predict user ratings for films, based on previous ratings without any other information about the users or films, i.e. without the users being identified except by numbers assigned for the contest. The competition was held by Netflix, a video streaming servic...
 
 # misc
+- [How the UEFA Euro 2024 football games are impacting local Internet traffic](https://blog.cloudflare.com/how-uefa-euro-2024-football-games-impact-internet-traffic) - Discover how UEFA Euro 2024 is shifting Internet traffic patterns during games across Europe with insights into traffic drops and cybersecurity concerns during national team games
+
+- [dropofahat.zone](https://dropofahat.zone/dropofahat.zone)
+
 - [archive.today: On the trail of the mysterious guerrilla archivist of the Internet](https://gyrovague.com/2023/08/05/archive-today-on-the-trail-of-the-mysterious-guerrilla-archivist-of-the-internet/) - Do you like reading articles in publications like Bloomberg, the Wall Street Journal or the Economist, but can’t afford to pay what can be hundreds of dollars a year in subscriptions? If so, …
 
 - [Listen to live air traffic control radio mixed with lofi hip hop](http://www.lofiatc.com/) - Live radio from SFO, LAX, and other airports...
@@ -1113,8 +1119,4 @@ To view a single category, check the files/ folder.
 - [An Introduction to Extratone: The World’s Fastest Music Genre](https://daily.bandcamp.com/features/an-introduction-to-extratone-the-worlds-fastest-music-genre) - Meet the extreme artists creating music that range from 1,000 to 10,000 BPM.
 
 - [🐌 The 7 types of rest you need](https://mailchi.mp/slowgrowth/the-7-types-of-rest-you-need?e=c5d64f9413)
-
-- [Programming as Driving: Unsafe at Any Speed?](https://web.media.mit.edu/~lieber/Lieberary/ZStep/57-Chevy/57-Chevy.html)
-
-- [The Bobbit Worm Chronicles](https://www.michiganreefers.com/threads/the-bobbit-worm-chronicles.84173/) - So I have discovered that I have a Bobbit Worm. He is through my main piece of lace rock (90 lbs dry) so I can not remove the rock. He has polished off a beautiful rock anemone and I fear for my Rics, and well, everything else. Here is my plan.  I am looking for alternatives or a better way...
 

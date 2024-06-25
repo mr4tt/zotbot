@@ -1,4 +1,8 @@
 # misc
+- [How the UEFA Euro 2024 football games are impacting local Internet traffic](https://blog.cloudflare.com/how-uefa-euro-2024-football-games-impact-internet-traffic) - Discover how UEFA Euro 2024 is shifting Internet traffic patterns during games across Europe with insights into traffic drops and cybersecurity concerns during national team games
+
+- [dropofahat.zone](https://dropofahat.zone/dropofahat.zone)
+
 - [archive.today: On the trail of the mysterious guerrilla archivist of the Internet](https://gyrovague.com/2023/08/05/archive-today-on-the-trail-of-the-mysterious-guerrilla-archivist-of-the-internet/) - Do you like reading articles in publications like Bloomberg, the Wall Street Journal or the Economist, but can’t afford to pay what can be hundreds of dollars a year in subscriptions? If so, …
 
 - [Listen to live air traffic control radio mixed with lofi hip hop](http://www.lofiatc.com/) - Live radio from SFO, LAX, and other airports...
@@ -194,8 +198,4 @@
 - [An Introduction to Extratone: The World’s Fastest Music Genre](https://daily.bandcamp.com/features/an-introduction-to-extratone-the-worlds-fastest-music-genre) - Meet the extreme artists creating music that range from 1,000 to 10,000 BPM.
 
 - [🐌 The 7 types of rest you need](https://mailchi.mp/slowgrowth/the-7-types-of-rest-you-need?e=c5d64f9413)
-
-- [Programming as Driving: Unsafe at Any Speed?](https://web.media.mit.edu/~lieber/Lieberary/ZStep/57-Chevy/57-Chevy.html)
-
-- [The Bobbit Worm Chronicles](https://www.michiganreefers.com/threads/the-bobbit-worm-chronicles.84173/) - So I have discovered that I have a Bobbit Worm. He is through my main piece of lace rock (90 lbs dry) so I can not remove the rock. He has polished off a beautiful rock anemone and I fear for my Rics, and well, everything else. Here is my plan.  I am looking for alternatives or a better way...
 
