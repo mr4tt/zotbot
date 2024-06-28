@@ -68,6 +68,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [ＬＯＣＡＬ５８ＴＶ -  Weather Service](https://www.youtube.com/watch?v=M75VLQuFPrY)
+
 - [27](https://www.youtube.com/watch?v=dLRLYPiaAoA)
 
 - [A Breakthrough Discovery In Pokémon](https://www.youtube.com/watch?v=Qil4OpfOufU)
@@ -518,6 +520,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [I ordered a bubble tea by drone in Shenzhen](https://www.technologyreview.com/2023/05/24/1073554/ordering-bubble-tea-by-drone/) - Chinese company Meituan made drone food delivery possible—but the process is still not seamless.
+
 - [Perplexity Plagiarized Our Story About How Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-plagiarized-our-story-about-how-perplexity-is-a-bullshit-machine/) - Experts aren’t unanimous about whether the AI-powered search startup’s practices could expose it to legal claims ranging from infringement to defamation—but some say plaintiffs would have strong cases.
 
 - [Silicon Valley’s Fanciest Stolen Bikes Are Getting Trafficked by One Mastermind in Jalisco, Mexico](https://www.wired.com/story/silicon-valleys-fanciest-stolen-bikes-trafficked-mastermind-jalisco-mexico/) - “We have people stealing all over the world.” A digital sleuth named Bryan Hance has spent the past four years obsessively uncovering a bicycle-theft pipeline of astonishing scale.
@@ -715,8 +719,6 @@ To view a single category, check the files/ folder.
 - [How Roblox ‘Beamers’ Get Rich Stealing from Children](https://www.vice.com/en/article/88gd4a/roblox-beaming-hackers) - Underneath the gaming platform worth $68 billion and used by over half of all children in America is a ballooning and highly profitable ecosystem of hackers and traders.
 
 - [A Shark Discovery ‘Didn’t Look Right.’ It Might Have Been a Plastic Toy.](https://www.nytimes.com/2023/03/24/science/goblin-shark-plastic-toy.html) - Scientists have retracted a study that showed a rare goblin shark washed up on a Greek beach after other researchers voiced doubts about the find.
-
-- [Astronaut Sultan Alneyadi sees 16 sunsets daily on the space station. How will he observe Ramadan?](https://www.cnn.com/2023/03/22/world/ramadan-astronauts-space-station-scn/index.html) - Observance of Muslim or Jewish holidays often depends on the sunset, but that can be hard for astronauts on board the International Space Station. They see 16 sunrises and sunsets daily. As Ramadan starts March 22, here's what astronaut Sultan Alneyadi plans to do.
 
 # wikipedia
 - [Graffiti (Palm OS)](https://en.wikipedia.org/w/index.php?title=Graffiti_(Palm_OS)&oldid=1211852576) - Graffiti is an essentially single-stroke shorthand handwriting recognition system used in PDAs based on the Palm OS. Graffiti was originally written by Palm, Inc. as the recognition system for GEOS-based devices such as HP's OmniGo 100 and 120 or the Magic Cap-line and was available as an alternate recognition system for the Apple Newton MessagePad,...
@@ -920,6 +922,8 @@ To view a single category, check the files/ folder.
 - [Netflix Prize](https://en.wikipedia.org/w/index.php?title=Netflix_Prize&oldid=1167025855) - The Netflix Prize was an open competition for the best collaborative filtering algorithm to predict user ratings for films, based on previous ratings without any other information about the users or films, i.e. without the users being identified except by numbers assigned for the contest. The competition was held by Netflix, a video streaming servic...
 
 # misc
+- [Collection of U.S. diaries](https://americandiaryproject.com/collection/) - The American Diary Project collection spans over 16 decades and 2 centuries, with many diaries available to read online.
+
 - [How the UEFA Euro 2024 football games are impacting local Internet traffic](https://blog.cloudflare.com/how-uefa-euro-2024-football-games-impact-internet-traffic) - Discover how UEFA Euro 2024 is shifting Internet traffic patterns during games across Europe with insights into traffic drops and cybersecurity concerns during national team games
 
 - [dropofahat.zone](https://dropofahat.zone/dropofahat.zone)
@@ -1117,6 +1121,4 @@ To view a single category, check the files/ folder.
 - [Unbundling Tools for Thought](https://borretti.me/article/unbundling-tools-for-thought) - Disparate thoughts on personal information management after traversing the hype cycle.
 
 - [An Introduction to Extratone: The World’s Fastest Music Genre](https://daily.bandcamp.com/features/an-introduction-to-extratone-the-worlds-fastest-music-genre) - Meet the extreme artists creating music that range from 1,000 to 10,000 BPM.
-
-- [🐌 The 7 types of rest you need](https://mailchi.mp/slowgrowth/the-7-types-of-rest-you-need?e=c5d64f9413)
 

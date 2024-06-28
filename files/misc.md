@@ -1,4 +1,6 @@
 # misc
+- [Collection of U.S. diaries](https://americandiaryproject.com/collection/) - The American Diary Project collection spans over 16 decades and 2 centuries, with many diaries available to read online.
+
 - [How the UEFA Euro 2024 football games are impacting local Internet traffic](https://blog.cloudflare.com/how-uefa-euro-2024-football-games-impact-internet-traffic) - Discover how UEFA Euro 2024 is shifting Internet traffic patterns during games across Europe with insights into traffic drops and cybersecurity concerns during national team games
 
 - [dropofahat.zone](https://dropofahat.zone/dropofahat.zone)
@@ -196,6 +198,4 @@
 - [Unbundling Tools for Thought](https://borretti.me/article/unbundling-tools-for-thought) - Disparate thoughts on personal information management after traversing the hype cycle.
 
 - [An Introduction to Extratone: The World’s Fastest Music Genre](https://daily.bandcamp.com/features/an-introduction-to-extratone-the-worlds-fastest-music-genre) - Meet the extreme artists creating music that range from 1,000 to 10,000 BPM.
-
-- [🐌 The 7 types of rest you need](https://mailchi.mp/slowgrowth/the-7-types-of-rest-you-need?e=c5d64f9413)
 
