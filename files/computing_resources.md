@@ -1,4 +1,6 @@
 # computing_resources
+- [Welcome to ReadMe!](https://docs.readme.com/main/docs/turn-off-cloudflare-proxy) - 🦉 The Basics ReadMe is here to help you create an interactive developer hub that makes your APIs easy to use — and gives you visibility into API usage for better developer support. With ReadMe, your developers have the guidance they need to get started with your API quickly and easily troubleshoot ...
+
 - [Lightning Talk: Git add -p](https://gist.github.com/mattlewissf/9958704) - Lightning Talk: Git add -p . GitHub Gist: instantly share code, notes, and snippets.
 
 - [Developer Roadmaps](https://roadmap.sh/) - Community driven roadmaps, articles and guides for developers to grow in their career.
