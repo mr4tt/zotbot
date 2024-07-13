@@ -1,4 +1,6 @@
 # news
+- [The $11 Billion Marketplace Enabling the Crypto Scam Economy](https://www.wired.com/story/pig-butchering-scam-crypto-huione-guarantee/) - Deepfake scam services. Victim data. Electrified shackles for human trafficking. Crypto tracing firm Elliptic found all were available for sale on an online marketplace linked to Cambodia’s ruling family.
+
 - [I ordered a bubble tea by drone in Shenzhen](https://www.technologyreview.com/2023/05/24/1073554/ordering-bubble-tea-by-drone/) - Chinese company Meituan made drone food delivery possible—but the process is still not seamless.
 
 - [Perplexity Plagiarized Our Story About How Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-plagiarized-our-story-about-how-perplexity-is-a-bullshit-machine/) - Experts aren’t unanimous about whether the AI-powered search startup’s practices could expose it to legal claims ranging from infringement to defamation—but some say plaintiffs would have strong cases.
@@ -196,6 +198,4 @@
 - [My journey down the rabbit hole of every journalist’s favorite app](https://www.politico.com/news/2022/02/16/my-journey-down-the-rabbit-hole-of-every-journalists-favorite-app-00009216) - Otter.ai has saved reporters countless hours transcribing interviews. Caveat emptor.
 
 - [How Roblox ‘Beamers’ Get Rich Stealing from Children](https://www.vice.com/en/article/88gd4a/roblox-beaming-hackers) - Underneath the gaming platform worth $68 billion and used by over half of all children in America is a ballooning and highly profitable ecosystem of hackers and traders.
-
-- [A Shark Discovery ‘Didn’t Look Right.’ It Might Have Been a Plastic Toy.](https://www.nytimes.com/2023/03/24/science/goblin-shark-plastic-toy.html) - Scientists have retracted a study that showed a rare goblin shark washed up on a Greek beach after other researchers voiced doubts about the find.
 

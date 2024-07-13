@@ -47,6 +47,8 @@ To view a single category, check the files/ folder.
 - [How to make a Baby Seal - BEGINNER FRIENDLY - ALMOST NO SEW](https://www.youtube.com/watch?v=hlPHXrA2Qqg)
 
 # papers
+- [An Abundance of Katherines: The Game Theory of Baby Naming](http://arxiv.org/abs/2404.00732) - In this paper, we study the highly competitive arena of baby naming. Through making several Extremely Reasonable Assumptions (namely, that parents are myopic, perfectly knowledgeable agents who pick a name based solely on its uniquness), we create a model which is not only tractable and clean, but also perfectly captures the real world. We then exte...
+
 - [Body Design and Gait Generation of Chair-Type Asymmetrical Tripedal Low-rigidity Robot](http://arxiv.org/abs/2404.05932) - In this study, a chair-type asymmetric tripedal low-rigidity robot was designed based on the three-legged chair character in the movie "Suzume" and its gait was generated. Its body structure consists of three legs that are asymmetric to the body, so it cannot be easily balanced. In addition, the actuator is a servo motor that can only feed-forward r...
 
 - [How To Break Anonymity of the Netflix Prize Dataset](http://arxiv.org/abs/cs/0610105) - We present a new class of statistical de-anonymization attacks against high-dimensional micro-data, such as individual preferences, recommendations, transaction records and so on. Our techniques are robust to perturbation in the data and tolerate some mistakes in the adversary's background knowledge. We apply our de-anonymization methodology to the ...
@@ -302,6 +304,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [The Valley of Code](https://thevalleyofcode.com) - The Valley of Code, Your Web Development Manual
+
 - [Welcome to ReadMe!](https://docs.readme.com/main/docs/turn-off-cloudflare-proxy) - 🦉 The Basics ReadMe is here to help you create an interactive developer hub that makes your APIs easy to use — and gives you visibility into API usage for better developer support. With ReadMe, your developers have the guidance they need to get started with your API quickly and easily troubleshoot ...
 
 - [Lightning Talk: Git add -p](https://gist.github.com/mattlewissf/9958704) - Lightning Talk: Git add -p . GitHub Gist: instantly share code, notes, and snippets.
@@ -522,6 +526,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The $11 Billion Marketplace Enabling the Crypto Scam Economy](https://www.wired.com/story/pig-butchering-scam-crypto-huione-guarantee/) - Deepfake scam services. Victim data. Electrified shackles for human trafficking. Crypto tracing firm Elliptic found all were available for sale on an online marketplace linked to Cambodia’s ruling family.
+
 - [I ordered a bubble tea by drone in Shenzhen](https://www.technologyreview.com/2023/05/24/1073554/ordering-bubble-tea-by-drone/) - Chinese company Meituan made drone food delivery possible—but the process is still not seamless.
 
 - [Perplexity Plagiarized Our Story About How Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-plagiarized-our-story-about-how-perplexity-is-a-bullshit-machine/) - Experts aren’t unanimous about whether the AI-powered search startup’s practices could expose it to legal claims ranging from infringement to defamation—but some say plaintiffs would have strong cases.
@@ -719,8 +725,6 @@ To view a single category, check the files/ folder.
 - [My journey down the rabbit hole of every journalist’s favorite app](https://www.politico.com/news/2022/02/16/my-journey-down-the-rabbit-hole-of-every-journalists-favorite-app-00009216) - Otter.ai has saved reporters countless hours transcribing interviews. Caveat emptor.
 
 - [How Roblox ‘Beamers’ Get Rich Stealing from Children](https://www.vice.com/en/article/88gd4a/roblox-beaming-hackers) - Underneath the gaming platform worth $68 billion and used by over half of all children in America is a ballooning and highly profitable ecosystem of hackers and traders.
-
-- [A Shark Discovery ‘Didn’t Look Right.’ It Might Have Been a Plastic Toy.](https://www.nytimes.com/2023/03/24/science/goblin-shark-plastic-toy.html) - Scientists have retracted a study that showed a rare goblin shark washed up on a Greek beach after other researchers voiced doubts about the find.
 
 # wikipedia
 - [Graffiti (Palm OS)](https://en.wikipedia.org/w/index.php?title=Graffiti_(Palm_OS)&oldid=1211852576) - Graffiti is an essentially single-stroke shorthand handwriting recognition system used in PDAs based on the Palm OS. Graffiti was originally written by Palm, Inc. as the recognition system for GEOS-based devices such as HP's OmniGo 100 and 120 or the Magic Cap-line and was available as an alternate recognition system for the Apple Newton MessagePad,...
