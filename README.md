@@ -526,6 +526,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Looks That Quill: The Dark Side of Hedgehog Instagram](https://www.wired.com/story/unbearable-cuteness-instagram-hedgehog-influencers/) - Beneath the tiny top hats and GIF-able snuggle sessions, I found a sad tale of internet virality.
+
 - [The $11 Billion Marketplace Enabling the Crypto Scam Economy](https://www.wired.com/story/pig-butchering-scam-crypto-huione-guarantee/) - Deepfake scam services. Victim data. Electrified shackles for human trafficking. Crypto tracing firm Elliptic found all were available for sale on an online marketplace linked to Cambodia’s ruling family.
 
 - [I ordered a bubble tea by drone in Shenzhen](https://www.technologyreview.com/2023/05/24/1073554/ordering-bubble-tea-by-drone/) - Chinese company Meituan made drone food delivery possible—but the process is still not seamless.
@@ -723,8 +725,6 @@ To view a single category, check the files/ folder.
 - [The Landlord, the Tenant and a House Fire in Milwaukee](https://www.propublica.org/article/milwaukee-fire-brunner-belen-landlord-tenant) - A young mother rents a house near Milwaukee. The previous tenant tells her, “Baby, they shouldn’t have let you move in.”
 
 - [My journey down the rabbit hole of every journalist’s favorite app](https://www.politico.com/news/2022/02/16/my-journey-down-the-rabbit-hole-of-every-journalists-favorite-app-00009216) - Otter.ai has saved reporters countless hours transcribing interviews. Caveat emptor.
-
-- [How Roblox ‘Beamers’ Get Rich Stealing from Children](https://www.vice.com/en/article/88gd4a/roblox-beaming-hackers) - Underneath the gaming platform worth $68 billion and used by over half of all children in America is a ballooning and highly profitable ecosystem of hackers and traders.
 
 # wikipedia
 - [Graffiti (Palm OS)](https://en.wikipedia.org/w/index.php?title=Graffiti_(Palm_OS)&oldid=1211852576) - Graffiti is an essentially single-stroke shorthand handwriting recognition system used in PDAs based on the Palm OS. Graffiti was originally written by Palm, Inc. as the recognition system for GEOS-based devices such as HP's OmniGo 100 and 120 or the Magic Cap-line and was available as an alternate recognition system for the Apple Newton MessagePad,...
