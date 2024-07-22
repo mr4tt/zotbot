@@ -1,4 +1,6 @@
 # misc
+- [I Won a $5,000 <i>Magic: The Gathering</i> Tournament on Shrooms](https://web.archive.org/web/20230802214712/https://www.gawker.com/i-won-a-5-000-magic-the-gathering-tournament-on-shroo-1705333524)
+
 - [Collection of U.S. diaries](https://americandiaryproject.com/collection/) - The American Diary Project collection spans over 16 decades and 2 centuries, with many diaries available to read online.
 
 - [How the UEFA Euro 2024 football games are impacting local Internet traffic](https://blog.cloudflare.com/how-uefa-euro-2024-football-games-impact-internet-traffic) - Discover how UEFA Euro 2024 is shifting Internet traffic patterns during games across Europe with insights into traffic drops and cybersecurity concerns during national team games
@@ -196,6 +198,4 @@
 - [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
 - [Unbundling Tools for Thought](https://borretti.me/article/unbundling-tools-for-thought) - Disparate thoughts on personal information management after traversing the hype cycle.
-
-- [An Introduction to Extratone: The World’s Fastest Music Genre](https://daily.bandcamp.com/features/an-introduction-to-extratone-the-worlds-fastest-music-genre) - Meet the extreme artists creating music that range from 1,000 to 10,000 BPM.
 

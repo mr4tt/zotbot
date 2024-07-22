@@ -1,4 +1,8 @@
 # computing_resources
+- [Church encoding](https://blog.ploeh.dk/2018/05/22/church-encoding/) - Church encoding is a unified way to model data and functions. An introduction for object-oriented developers.
+
+- [What does it mean to listen on a port?](https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/)
+
 - [The Valley of Code](https://thevalleyofcode.com) - The Valley of Code, Your Web Development Manual
 
 - [Welcome to ReadMe!](https://docs.readme.com/main/docs/turn-off-cloudflare-proxy) - 🦉 The Basics ReadMe is here to help you create an interactive developer hub that makes your APIs easy to use — and gives you visibility into API usage for better developer support. With ReadMe, your developers have the guidance they need to get started with your API quickly and easily troubleshoot ...
