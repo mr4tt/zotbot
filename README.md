@@ -731,6 +731,8 @@ To view a single category, check the files/ folder.
 - [My journey down the rabbit hole of every journalist’s favorite app](https://www.politico.com/news/2022/02/16/my-journey-down-the-rabbit-hole-of-every-journalists-favorite-app-00009216) - Otter.ai has saved reporters countless hours transcribing interviews. Caveat emptor.
 
 # wikipedia
+- [Alan MacMasters hoax](https://en.wikipedia.org/w/index.php?title=Alan_MacMasters_hoax&oldid=1236066379) - On 10 February 2012, photography and ICT student Alan MacMasters attended a university lecture where the class was cautioned against using Wikipedia as a source. The lecturer mentioned that his friend had falsely claimed to be the inventor of the toaster on the Wikipedia page. Following the lecture, Alan and his friends edited the Wikipedia toaster ...
+
 - [Graffiti (Palm OS)](https://en.wikipedia.org/w/index.php?title=Graffiti_(Palm_OS)&oldid=1211852576) - Graffiti is an essentially single-stroke shorthand handwriting recognition system used in PDAs based on the Palm OS. Graffiti was originally written by Palm, Inc. as the recognition system for GEOS-based devices such as HP's OmniGo 100 and 120 or the Magic Cap-line and was available as an alternate recognition system for the Apple Newton MessagePad,...
 
 - [Snake wine](https://en.wikipedia.org/w/index.php?title=Snake_wine&oldid=1191756310) - Snake wine (Chinese: 蛇酒; pinyin: shé-jiǔ; Vietnamese: rượu rắn; Khmer: ស្រាពស់, sra poas) is an alcoholic beverage produced by infusing whole snakes in rice wine or grain alcohol. The drink was first recorded to have been consumed in China during the Western Zhou dynasty (c. 1040–770 BC) and believed in folklore to reinvigorate a person according to...
@@ -928,8 +930,6 @@ To view a single category, check the files/ folder.
 - [Marcus McDilda](https://en.wikipedia.org/w/index.php?title=Marcus_McDilda&oldid=1168320029) - Lieutenant Marcus Elmo McDilda (December 15, 1921 – August 16, 1998) was an American P-51 fighter pilot who was shot down over Osaka and captured by the Japanese on 8 August 1945, two days after the atomic bombing of Hiroshima.
 
 - [Turnspit dog](https://en.wikipedia.org/w/index.php?title=Turnspit_dog&oldid=1159143033) - The turnspit dog is an extinct short-legged, long-bodied dog bred to run on a wheel, called a turnspit or dog wheel, to turn meat. It is mentioned in Of English Dogs in 1576 under the name "Turnespete". William Bingley's Memoirs of British Quadrupeds (1809) also talks of a dog employed to help chefs and cooks. It is also known as the Kitchen Dog, th...
-
-- [Netflix Prize](https://en.wikipedia.org/w/index.php?title=Netflix_Prize&oldid=1167025855) - The Netflix Prize was an open competition for the best collaborative filtering algorithm to predict user ratings for films, based on previous ratings without any other information about the users or films, i.e. without the users being identified except by numbers assigned for the contest. The competition was held by Netflix, a video streaming servic...
 
 # misc
 - [I Won a $5,000 <i>Magic: The Gathering</i> Tournament on Shrooms](https://web.archive.org/web/20230802214712/https://www.gawker.com/i-won-a-5-000-magic-the-gathering-tournament-on-shroo-1705333524)
