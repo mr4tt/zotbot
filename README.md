@@ -530,6 +530,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [In a seafloor surprise, metal-rich chunks may generate deep-sea oxygen](https://www.sciencenews.org/article/seafloor-metal-nodules-deep-sea-oxygen) - Instead of sinking from the surface, some deep-sea oxygen may be created by battery-like nodules that split water into hydrogen and oxygen.
+
 - [Looks That Quill: The Dark Side of Hedgehog Instagram](https://www.wired.com/story/unbearable-cuteness-instagram-hedgehog-influencers/) - Beneath the tiny top hats and GIF-able snuggle sessions, I found a sad tale of internet virality.
 
 - [The $11 Billion Marketplace Enabling the Crypto Scam Economy](https://www.wired.com/story/pig-butchering-scam-crypto-huione-guarantee/) - Deepfake scam services. Victim data. Electrified shackles for human trafficking. Crypto tracing firm Elliptic found all were available for sale on an online marketplace linked to Cambodia’s ruling family.
@@ -727,8 +729,6 @@ To view a single category, check the files/ folder.
 - [There’s Something Off About LED Bulbs](https://nymag.com/strategist/article/led-light-bulbs-investigation.html) - Have you started to notice, too?
 
 - [The Landlord, the Tenant and a House Fire in Milwaukee](https://www.propublica.org/article/milwaukee-fire-brunner-belen-landlord-tenant) - A young mother rents a house near Milwaukee. The previous tenant tells her, “Baby, they shouldn’t have let you move in.”
-
-- [My journey down the rabbit hole of every journalist’s favorite app](https://www.politico.com/news/2022/02/16/my-journey-down-the-rabbit-hole-of-every-journalists-favorite-app-00009216) - Otter.ai has saved reporters countless hours transcribing interviews. Caveat emptor.
 
 # wikipedia
 - [Alan MacMasters hoax](https://en.wikipedia.org/w/index.php?title=Alan_MacMasters_hoax&oldid=1236066379) - On 10 February 2012, photography and ICT student Alan MacMasters attended a university lecture where the class was cautioned against using Wikipedia as a source. The lecturer mentioned that his friend had falsely claimed to be the inventor of the toaster on the Wikipedia page. Following the lecture, Alan and his friends edited the Wikipedia toaster ...
@@ -932,6 +932,8 @@ To view a single category, check the files/ folder.
 - [Turnspit dog](https://en.wikipedia.org/w/index.php?title=Turnspit_dog&oldid=1159143033) - The turnspit dog is an extinct short-legged, long-bodied dog bred to run on a wheel, called a turnspit or dog wheel, to turn meat. It is mentioned in Of English Dogs in 1576 under the name "Turnespete". William Bingley's Memoirs of British Quadrupeds (1809) also talks of a dog employed to help chefs and cooks. It is also known as the Kitchen Dog, th...
 
 # misc
+- [How do large companies such as Mihoyo make decisions? – MoonBear Musings](https://moonbearmusings.com/how-do-large-companies-such-as-mihoyo-make-decisions/)
+
 - [I Won a $5,000 <i>Magic: The Gathering</i> Tournament on Shrooms](https://web.archive.org/web/20230802214712/https://www.gawker.com/i-won-a-5-000-magic-the-gathering-tournament-on-shroo-1705333524)
 
 - [Collection of U.S. diaries](https://americandiaryproject.com/collection/) - The American Diary Project collection spans over 16 decades and 2 centuries, with many diaries available to read online.
@@ -1129,6 +1131,4 @@ To view a single category, check the files/ folder.
 - [Feynman's Nobel Ambition](https://www.asc.ohio-state.edu/kilcup.1//262/feynman.html)
 
 - [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
-
-- [Unbundling Tools for Thought](https://borretti.me/article/unbundling-tools-for-thought) - Disparate thoughts on personal information management after traversing the hype cycle.
 

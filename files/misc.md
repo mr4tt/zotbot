@@ -1,4 +1,6 @@
 # misc
+- [How do large companies such as Mihoyo make decisions? – MoonBear Musings](https://moonbearmusings.com/how-do-large-companies-such-as-mihoyo-make-decisions/)
+
 - [I Won a $5,000 <i>Magic: The Gathering</i> Tournament on Shrooms](https://web.archive.org/web/20230802214712/https://www.gawker.com/i-won-a-5-000-magic-the-gathering-tournament-on-shroo-1705333524)
 
 - [Collection of U.S. diaries](https://americandiaryproject.com/collection/) - The American Diary Project collection spans over 16 decades and 2 centuries, with many diaries available to read online.
@@ -196,6 +198,4 @@
 - [Feynman's Nobel Ambition](https://www.asc.ohio-state.edu/kilcup.1//262/feynman.html)
 
 - [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
-
-- [Unbundling Tools for Thought](https://borretti.me/article/unbundling-tools-for-thought) - Disparate thoughts on personal information management after traversing the hype cycle.
 

@@ -1,4 +1,6 @@
 # news
+- [In a seafloor surprise, metal-rich chunks may generate deep-sea oxygen](https://www.sciencenews.org/article/seafloor-metal-nodules-deep-sea-oxygen) - Instead of sinking from the surface, some deep-sea oxygen may be created by battery-like nodules that split water into hydrogen and oxygen.
+
 - [Looks That Quill: The Dark Side of Hedgehog Instagram](https://www.wired.com/story/unbearable-cuteness-instagram-hedgehog-influencers/) - Beneath the tiny top hats and GIF-able snuggle sessions, I found a sad tale of internet virality.
 
 - [The $11 Billion Marketplace Enabling the Crypto Scam Economy](https://www.wired.com/story/pig-butchering-scam-crypto-huione-guarantee/) - Deepfake scam services. Victim data. Electrified shackles for human trafficking. Crypto tracing firm Elliptic found all were available for sale on an online marketplace linked to Cambodia’s ruling family.
@@ -196,6 +198,4 @@
 - [There’s Something Off About LED Bulbs](https://nymag.com/strategist/article/led-light-bulbs-investigation.html) - Have you started to notice, too?
 
 - [The Landlord, the Tenant and a House Fire in Milwaukee](https://www.propublica.org/article/milwaukee-fire-brunner-belen-landlord-tenant) - A young mother rents a house near Milwaukee. The previous tenant tells her, “Baby, they shouldn’t have let you move in.”
-
-- [My journey down the rabbit hole of every journalist’s favorite app](https://www.politico.com/news/2022/02/16/my-journey-down-the-rabbit-hole-of-every-journalists-favorite-app-00009216) - Otter.ai has saved reporters countless hours transcribing interviews. Caveat emptor.
 
