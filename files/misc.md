@@ -1,4 +1,8 @@
 # misc
+- [Erowid](https://www.erowid.org/)
+
+- [Nyan Cat's cousin who is listening to some lo-fi beats](https://hostrider.com) - ...the cat that has a habit of singing while coding. Meow.
+
 - [How do large companies such as Mihoyo make decisions? – MoonBear Musings](https://moonbearmusings.com/how-do-large-companies-such-as-mihoyo-make-decisions/)
 
 - [I Won a $5,000 <i>Magic: The Gathering</i> Tournament on Shrooms](https://web.archive.org/web/20230802214712/https://www.gawker.com/i-won-a-5-000-magic-the-gathering-tournament-on-shroo-1705333524)
@@ -194,8 +198,4 @@
 - [Discord, or the Death of Lore](http://ascii.textfiles.com/archives/5509) - I chose the life, it didn’t choose me. I could have walked away from it a long time ago, and I’ve certainly shifted my focus over the years. But I still hold the heft and halter, the on…
 
 - [Welcome to the new Verge](https://www.theverge.com/2022/9/13/23349876/the-verge-website-redesign-new-newsfeed-blogs-logo) - A complete redesign of The Verge that marries the best of old-school blogging with a modern news feed experience.
-
-- [Feynman's Nobel Ambition](https://www.asc.ohio-state.edu/kilcup.1//262/feynman.html)
-
-- [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 

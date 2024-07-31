@@ -1,4 +1,8 @@
 # computing_resources
+- [Convert curl commands to code](https://curlconverter.com/)
+
+- [Article Listing | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/?s=container%20security%20fundamentals) - Datadog Security Labs is the place to read blog content about security research and tooling published by Datadog for the community.
+
 - [Church encoding](https://blog.ploeh.dk/2018/05/22/church-encoding/) - Church encoding is a unified way to model data and functions. An introduction for object-oriented developers.
 
 - [What does it mean to listen on a port?](https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/)

@@ -1,4 +1,6 @@
 # wikipedia
+- [<i>Eremina desertorum</i>](https://en.wikipedia.org/w/index.php?title=Eremina_desertorum&oldid=1237241703) - Eremina desertorum (formerly Helix desertorum) is a species of land snails in the genus Eremina. It is native to desert regions in Egypt and Israel. A specimen from Egypt thought to be dead was glued to an index card at the British Museum in March 1846. However, in March 1850, it was found to be alive. The Canadian writer Grant Allen observed:  The ...
+
 - [Alan MacMasters hoax](https://en.wikipedia.org/w/index.php?title=Alan_MacMasters_hoax&oldid=1236066379) - On 10 February 2012, photography and ICT student Alan MacMasters attended a university lecture where the class was cautioned against using Wikipedia as a source. The lecturer mentioned that his friend had falsely claimed to be the inventor of the toaster on the Wikipedia page. Following the lecture, Alan and his friends edited the Wikipedia toaster ...
 
 - [Graffiti (Palm OS)](https://en.wikipedia.org/w/index.php?title=Graffiti_(Palm_OS)&oldid=1211852576) - Graffiti is an essentially single-stroke shorthand handwriting recognition system used in PDAs based on the Palm OS. Graffiti was originally written by Palm, Inc. as the recognition system for GEOS-based devices such as HP's OmniGo 100 and 120 or the Magic Cap-line and was available as an alternate recognition system for the Apple Newton MessagePad,...
@@ -196,6 +198,4 @@
 - [Telegarden](https://en.wikipedia.org/w/index.php?title=Telegarden&oldid=1168870997) - The TeleGarden was a telerobotic community garden for the Internet. Starting in the mid-1990s, it allowed users to view, plant and take care of a small garden, using an Adept-1 industrial robotic arm controlled online.
 
 - [Marcus McDilda](https://en.wikipedia.org/w/index.php?title=Marcus_McDilda&oldid=1168320029) - Lieutenant Marcus Elmo McDilda (December 15, 1921 – August 16, 1998) was an American P-51 fighter pilot who was shot down over Osaka and captured by the Japanese on 8 August 1945, two days after the atomic bombing of Hiroshima.
-
-- [Turnspit dog](https://en.wikipedia.org/w/index.php?title=Turnspit_dog&oldid=1159143033) - The turnspit dog is an extinct short-legged, long-bodied dog bred to run on a wheel, called a turnspit or dog wheel, to turn meat. It is mentioned in Of English Dogs in 1576 under the name "Turnespete". William Bingley's Memoirs of British Quadrupeds (1809) also talks of a dog employed to help chefs and cooks. It is also known as the Kitchen Dog, th...
 

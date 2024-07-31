@@ -304,6 +304,10 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [Convert curl commands to code](https://curlconverter.com/)
+
+- [Article Listing | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/?s=container%20security%20fundamentals) - Datadog Security Labs is the place to read blog content about security research and tooling published by Datadog for the community.
+
 - [Church encoding](https://blog.ploeh.dk/2018/05/22/church-encoding/) - Church encoding is a unified way to model data and functions. An introduction for object-oriented developers.
 
 - [What does it mean to listen on a port?](https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/)
@@ -731,6 +735,8 @@ To view a single category, check the files/ folder.
 - [The Landlord, the Tenant and a House Fire in Milwaukee](https://www.propublica.org/article/milwaukee-fire-brunner-belen-landlord-tenant) - A young mother rents a house near Milwaukee. The previous tenant tells her, “Baby, they shouldn’t have let you move in.”
 
 # wikipedia
+- [<i>Eremina desertorum</i>](https://en.wikipedia.org/w/index.php?title=Eremina_desertorum&oldid=1237241703) - Eremina desertorum (formerly Helix desertorum) is a species of land snails in the genus Eremina. It is native to desert regions in Egypt and Israel. A specimen from Egypt thought to be dead was glued to an index card at the British Museum in March 1846. However, in March 1850, it was found to be alive. The Canadian writer Grant Allen observed:  The ...
+
 - [Alan MacMasters hoax](https://en.wikipedia.org/w/index.php?title=Alan_MacMasters_hoax&oldid=1236066379) - On 10 February 2012, photography and ICT student Alan MacMasters attended a university lecture where the class was cautioned against using Wikipedia as a source. The lecturer mentioned that his friend had falsely claimed to be the inventor of the toaster on the Wikipedia page. Following the lecture, Alan and his friends edited the Wikipedia toaster ...
 
 - [Graffiti (Palm OS)](https://en.wikipedia.org/w/index.php?title=Graffiti_(Palm_OS)&oldid=1211852576) - Graffiti is an essentially single-stroke shorthand handwriting recognition system used in PDAs based on the Palm OS. Graffiti was originally written by Palm, Inc. as the recognition system for GEOS-based devices such as HP's OmniGo 100 and 120 or the Magic Cap-line and was available as an alternate recognition system for the Apple Newton MessagePad,...
@@ -929,9 +935,11 @@ To view a single category, check the files/ folder.
 
 - [Marcus McDilda](https://en.wikipedia.org/w/index.php?title=Marcus_McDilda&oldid=1168320029) - Lieutenant Marcus Elmo McDilda (December 15, 1921 – August 16, 1998) was an American P-51 fighter pilot who was shot down over Osaka and captured by the Japanese on 8 August 1945, two days after the atomic bombing of Hiroshima.
 
-- [Turnspit dog](https://en.wikipedia.org/w/index.php?title=Turnspit_dog&oldid=1159143033) - The turnspit dog is an extinct short-legged, long-bodied dog bred to run on a wheel, called a turnspit or dog wheel, to turn meat. It is mentioned in Of English Dogs in 1576 under the name "Turnespete". William Bingley's Memoirs of British Quadrupeds (1809) also talks of a dog employed to help chefs and cooks. It is also known as the Kitchen Dog, th...
-
 # misc
+- [Erowid](https://www.erowid.org/)
+
+- [Nyan Cat's cousin who is listening to some lo-fi beats](https://hostrider.com) - ...the cat that has a habit of singing while coding. Meow.
+
 - [How do large companies such as Mihoyo make decisions? – MoonBear Musings](https://moonbearmusings.com/how-do-large-companies-such-as-mihoyo-make-decisions/)
 
 - [I Won a $5,000 <i>Magic: The Gathering</i> Tournament on Shrooms](https://web.archive.org/web/20230802214712/https://www.gawker.com/i-won-a-5-000-magic-the-gathering-tournament-on-shroo-1705333524)
@@ -1127,8 +1135,4 @@ To view a single category, check the files/ folder.
 - [Discord, or the Death of Lore](http://ascii.textfiles.com/archives/5509) - I chose the life, it didn’t choose me. I could have walked away from it a long time ago, and I’ve certainly shifted my focus over the years. But I still hold the heft and halter, the on…
 
 - [Welcome to the new Verge](https://www.theverge.com/2022/9/13/23349876/the-verge-website-redesign-new-newsfeed-blogs-logo) - A complete redesign of The Verge that marries the best of old-school blogging with a modern news feed experience.
-
-- [Feynman's Nobel Ambition](https://www.asc.ohio-state.edu/kilcup.1//262/feynman.html)
-
-- [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
 
