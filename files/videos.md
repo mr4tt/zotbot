@@ -1,4 +1,6 @@
 # videos
+- [HEAVY RAIN - Shaun Glitch -（Press X to Shaun)](https://www.youtube.com/watch?v=DAhG9D9UO7c)
+
 - [ＬＯＣＡＬ５８ＴＶ -  Weather Service](https://www.youtube.com/watch?v=M75VLQuFPrY)
 
 - [27](https://www.youtube.com/watch?v=dLRLYPiaAoA)
