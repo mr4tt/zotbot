@@ -215,6 +215,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Server Mono](https://servermono.com) - Server Mono is a typeface inspired by typewriters, Apple's San Francisco Mono, ASCII art, command-line interfaces, and programming tools.
+
 - [Likert Scale Examples for Surveys]()
 
 - [Scroll-driven Animations](https://scroll-driven-animations.style) - A bunch of demos and tools to show off Scroll-driven Animations
@@ -536,11 +538,17 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [My Family’s Slave](https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/) - She lived with us for 56 years. She raised me and my siblings without pay. I was 11, a typical American kid, before I realized who she was.
+
+- [The Untold Hunt for a Sex Trafficker](https://www.404media.co/email/dd3f2b44-5e8f-4195-a1b1-c7fa064b5965/) - Michael Pratt hid a massive sex trafficking ring in plain sight on PornHub. On the run from the FBI, an unexpected crew of ex-military, ex-intelligence officers and a lawyer tracked him down using his love of rare sneakers and crypto. For the first time, the group tells their story.
+
 - [In a seafloor surprise, metal-rich chunks may generate deep-sea oxygen](https://www.sciencenews.org/article/seafloor-metal-nodules-deep-sea-oxygen) - Instead of sinking from the surface, some deep-sea oxygen may be created by battery-like nodules that split water into hydrogen and oxygen.
 
 - [Looks That Quill: The Dark Side of Hedgehog Instagram](https://www.wired.com/story/unbearable-cuteness-instagram-hedgehog-influencers/) - Beneath the tiny top hats and GIF-able snuggle sessions, I found a sad tale of internet virality.
 
 - [The $11 Billion Marketplace Enabling the Crypto Scam Economy](https://www.wired.com/story/pig-butchering-scam-crypto-huione-guarantee/) - Deepfake scam services. Victim data. Electrified shackles for human trafficking. Crypto tracing firm Elliptic found all were available for sale on an online marketplace linked to Cambodia’s ruling family.
+
+- [For 20 years, a Tennessee baby thief kidnapped more than 5,000 children from the streets, hospitals, and shanty towns of Memphis. Now, 70 years later, survivors of her 'house of horrors' are confronting the past.](https://www.businessinsider.com/georgia-tann-tennessee-children-home-society-survivors-speak-out-2019-12) - Tennessee Children's Home Society director Georgia Tann got rich by stealing babies and adopting them out to unsuspecting families. Hundreds died under her watch.
 
 - [I ordered a bubble tea by drone in Shenzhen](https://www.technologyreview.com/2023/05/24/1073554/ordering-bubble-tea-by-drone/) - Chinese company Meituan made drone food delivery possible—but the process is still not seamless.
 
@@ -730,16 +738,16 @@ To view a single category, check the files/ folder.
 
 - [After disrupting businesses, Google Drive’s secret file cap is dead for now](https://arstechnica.com/gadgets/2023/04/google-drive-cancels-its-surprise-file-cap-promises-to-communicate-better/) - The reaction to Google Drive's secret 5 million file limit makes Google hit "undo."
 
-- [Scientists triggered the flow of spinal fluid in the awake brain](https://www.sciencenews.org/article/scientists-spinal-fluid-awake-brain) - If future studies confirm these waking waves wash away toxic proteins from the brain, the finding could lead to new treatments for brain disorders.
-
-- [There’s Something Off About LED Bulbs](https://nymag.com/strategist/article/led-light-bulbs-investigation.html) - Have you started to notice, too?
-
-- [The Landlord, the Tenant and a House Fire in Milwaukee](https://www.propublica.org/article/milwaukee-fire-brunner-belen-landlord-tenant) - A young mother rents a house near Milwaukee. The previous tenant tells her, “Baby, they shouldn’t have let you move in.”
-
 # wikipedia
+- [Crown Prince Sado](https://en.wikipedia.org/w/index.php?title=Crown_Prince_Sado&oldid=1236178015) - Crown Prince Sado (Korean: 사도세자; Hanja: 思悼 世子; 13 February 1735 – 12 July 1762), personal name Yi Seon (이선; 李愃), was the second son of King Yeongjo of Joseon. His biological mother was Royal Noble Consort Yeong of the Jeonui Yi clan. Due to the prior death of Sado's older half-brother, Crown Prince Hyojang, the new prince was the probable future mon...
+
 - [<i>Eremina desertorum</i>](https://en.wikipedia.org/w/index.php?title=Eremina_desertorum&oldid=1237241703) - Eremina desertorum (formerly Helix desertorum) is a species of land snails in the genus Eremina. It is native to desert regions in Egypt and Israel. A specimen from Egypt thought to be dead was glued to an index card at the British Museum in March 1846. However, in March 1850, it was found to be alive. The Canadian writer Grant Allen observed:  The ...
 
 - [Alan MacMasters hoax](https://en.wikipedia.org/w/index.php?title=Alan_MacMasters_hoax&oldid=1236066379) - On 10 February 2012, photography and ICT student Alan MacMasters attended a university lecture where the class was cautioned against using Wikipedia as a source. The lecturer mentioned that his friend had falsely claimed to be the inventor of the toaster on the Wikipedia page. Following the lecture, Alan and his friends edited the Wikipedia toaster ...
+
+- [Heaven's Gate (religious group)](https://en.wikipedia.org/w/index.php?title=Heaven%27s_Gate_(religious_group)&oldid=1229163453) - Heaven's Gate was an American new religious movement known primarily for the mass suicides  committed by its members in 1997. Commonly designated a cult, it was founded in 1974 and led by Bonnie Nettles (1927–1985) and Marshall Applewhite (1931–1997), known within the movement as Ti and Do, respectively. Nettles and Applewhite first met in 1972 and ...
+
+- [Jonestown](https://en.wikipedia.org/w/index.php?title=Jonestown&oldid=1231039360) - The Peoples Temple Agricultural Project, better known by its informal name "Jonestown", was a remote settlement in Guyana established by the Peoples Temple, an American cult under the leadership of Jim Jones. Jonestown became internationally infamous when, on November 18, 1978, a total of 918 people died at the settlement, at the nearby airstrip in ...
 
 - [Graffiti (Palm OS)](https://en.wikipedia.org/w/index.php?title=Graffiti_(Palm_OS)&oldid=1211852576) - Graffiti is an essentially single-stroke shorthand handwriting recognition system used in PDAs based on the Palm OS. Graffiti was originally written by Palm, Inc. as the recognition system for GEOS-based devices such as HP's OmniGo 100 and 120 or the Magic Cap-line and was available as an alternate recognition system for the Apple Newton MessagePad,...
 
@@ -930,12 +938,6 @@ To view a single category, check the files/ folder.
 - [La Sombrita](https://en.wikipedia.org/w/index.php?title=La_Sombrita&oldid=1171473514) - La Sombrita (Spanish for "The Little Shade") is a prototype sunshade created for the Los Angeles Department of Transportation (LADOT). Its purpose was to assist female bus riders by offering shade during the hottest hours of the day and providing sidewalk lighting at night. This was especially targeted at locations where the swift construction of tr...
 
 - [Ginevra King](https://en.wikipedia.org/w/index.php?title=Ginevra_King&oldid=1163024520) - Ginevra King Pirie (November 30, 1898 – December 13, 1980) was an American socialite and heiress. As one of Chicago's "Big Four" debutantes during World War I, she inspired many characters in the novels and stories of writer F. Scott Fitzgerald; in particular, the character of Daisy Buchanan in The Great Gatsby. A 16-year-old King met an 18-year-old...
-
-- [Scaly boy](https://en.wikipedia.org/w/index.php?title=Scaly_boy&oldid=1170094787) - The scaly boy (Aboma etheostoma) is a species of goby native to the Pacific coast of Central America from Mexico to Panama.  This species is the only known member of its genus.
-
-- [Telegarden](https://en.wikipedia.org/w/index.php?title=Telegarden&oldid=1168870997) - The TeleGarden was a telerobotic community garden for the Internet. Starting in the mid-1990s, it allowed users to view, plant and take care of a small garden, using an Adept-1 industrial robotic arm controlled online.
-
-- [Marcus McDilda](https://en.wikipedia.org/w/index.php?title=Marcus_McDilda&oldid=1168320029) - Lieutenant Marcus Elmo McDilda (December 15, 1921 – August 16, 1998) was an American P-51 fighter pilot who was shot down over Osaka and captured by the Japanese on 8 August 1945, two days after the atomic bombing of Hiroshima.
 
 # misc
 - [Michael Orlitzky { CSC ServiceWorks laundry machine coin bypass }](https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml?ref=404media.co)

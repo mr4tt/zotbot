@@ -1,4 +1,6 @@
 # design_resources
+- [Server Mono](https://servermono.com) - Server Mono is a typeface inspired by typewriters, Apple's San Francisco Mono, ASCII art, command-line interfaces, and programming tools.
+
 - [Likert Scale Examples for Surveys]()
 
 - [Scroll-driven Animations](https://scroll-driven-animations.style) - A bunch of demos and tools to show off Scroll-driven Animations

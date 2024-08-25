@@ -1,9 +1,15 @@
 # news
+- [My Family’s Slave](https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/) - She lived with us for 56 years. She raised me and my siblings without pay. I was 11, a typical American kid, before I realized who she was.
+
+- [The Untold Hunt for a Sex Trafficker](https://www.404media.co/email/dd3f2b44-5e8f-4195-a1b1-c7fa064b5965/) - Michael Pratt hid a massive sex trafficking ring in plain sight on PornHub. On the run from the FBI, an unexpected crew of ex-military, ex-intelligence officers and a lawyer tracked him down using his love of rare sneakers and crypto. For the first time, the group tells their story.
+
 - [In a seafloor surprise, metal-rich chunks may generate deep-sea oxygen](https://www.sciencenews.org/article/seafloor-metal-nodules-deep-sea-oxygen) - Instead of sinking from the surface, some deep-sea oxygen may be created by battery-like nodules that split water into hydrogen and oxygen.
 
 - [Looks That Quill: The Dark Side of Hedgehog Instagram](https://www.wired.com/story/unbearable-cuteness-instagram-hedgehog-influencers/) - Beneath the tiny top hats and GIF-able snuggle sessions, I found a sad tale of internet virality.
 
 - [The $11 Billion Marketplace Enabling the Crypto Scam Economy](https://www.wired.com/story/pig-butchering-scam-crypto-huione-guarantee/) - Deepfake scam services. Victim data. Electrified shackles for human trafficking. Crypto tracing firm Elliptic found all were available for sale on an online marketplace linked to Cambodia’s ruling family.
+
+- [For 20 years, a Tennessee baby thief kidnapped more than 5,000 children from the streets, hospitals, and shanty towns of Memphis. Now, 70 years later, survivors of her 'house of horrors' are confronting the past.](https://www.businessinsider.com/georgia-tann-tennessee-children-home-society-survivors-speak-out-2019-12) - Tennessee Children's Home Society director Georgia Tann got rich by stealing babies and adopting them out to unsuspecting families. Hundreds died under her watch.
 
 - [I ordered a bubble tea by drone in Shenzhen](https://www.technologyreview.com/2023/05/24/1073554/ordering-bubble-tea-by-drone/) - Chinese company Meituan made drone food delivery possible—but the process is still not seamless.
 
@@ -192,10 +198,4 @@
 - [Ex-Pentagon Analyst Sentenced to 30 Months in Leak Case](https://www.nytimes.com/2020/06/18/us/politics/henry-frese-leaks.html) - The former counterterrorism analyst had pleaded guilty to sharing classified information with reporters about foreign weapon systems.
 
 - [After disrupting businesses, Google Drive’s secret file cap is dead for now](https://arstechnica.com/gadgets/2023/04/google-drive-cancels-its-surprise-file-cap-promises-to-communicate-better/) - The reaction to Google Drive's secret 5 million file limit makes Google hit "undo."
-
-- [Scientists triggered the flow of spinal fluid in the awake brain](https://www.sciencenews.org/article/scientists-spinal-fluid-awake-brain) - If future studies confirm these waking waves wash away toxic proteins from the brain, the finding could lead to new treatments for brain disorders.
-
-- [There’s Something Off About LED Bulbs](https://nymag.com/strategist/article/led-light-bulbs-investigation.html) - Have you started to notice, too?
-
-- [The Landlord, the Tenant and a House Fire in Milwaukee](https://www.propublica.org/article/milwaukee-fire-brunner-belen-landlord-tenant) - A young mother rents a house near Milwaukee. The previous tenant tells her, “Baby, they shouldn’t have let you move in.”
 
