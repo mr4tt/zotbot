@@ -1,4 +1,6 @@
 # news
+- [The Real Story of Stuxnet - IEEE Spectrum](https://spectrum.ieee.org/the-real-story-of-stuxnet) - How Kaspersky Lab tracked down the malware that stymied Iran’s nuclear-fuel enrichment program
+
 - [My Family’s Slave](https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/) - She lived with us for 56 years. She raised me and my siblings without pay. I was 11, a typical American kid, before I realized who she was.
 
 - [The Untold Hunt for a Sex Trafficker](https://www.404media.co/email/dd3f2b44-5e8f-4195-a1b1-c7fa064b5965/) - Michael Pratt hid a massive sex trafficking ring in plain sight on PornHub. On the run from the FBI, an unexpected crew of ex-military, ex-intelligence officers and a lawyer tracked him down using his love of rare sneakers and crypto. For the first time, the group tells their story.
@@ -196,6 +198,4 @@
 - [The case against pet ownership](https://www.vox.com/future-perfect/2023/4/11/23673393/pets-dogs-cats-animal-welfare-boredom) - Why we should aim for a world with fewer but happier pets.
 
 - [Ex-Pentagon Analyst Sentenced to 30 Months in Leak Case](https://www.nytimes.com/2020/06/18/us/politics/henry-frese-leaks.html) - The former counterterrorism analyst had pleaded guilty to sharing classified information with reporters about foreign weapon systems.
-
-- [After disrupting businesses, Google Drive’s secret file cap is dead for now](https://arstechnica.com/gadgets/2023/04/google-drive-cancels-its-surprise-file-cap-promises-to-communicate-better/) - The reaction to Google Drive's secret 5 million file limit makes Google hit "undo."
 

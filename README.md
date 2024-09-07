@@ -70,6 +70,10 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [The World's Worst Translater](https://www.youtube.com/watch?v=foT9rsHmS24)
+
+- [Harder Drives](https://www.youtube.com/watch?v=JcJSW7Rprio&feature=youtu.be)
+
 - [HEAVY RAIN - Shaun Glitch -（Press X to Shaun)](https://www.youtube.com/watch?v=DAhG9D9UO7c)
 
 - [ＬＯＣＡＬ５８ＴＶ -  Weather Service](https://www.youtube.com/watch?v=M75VLQuFPrY)
@@ -308,6 +312,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [Instantly parse JSON in any language | quicktype](https://app.quicktype.io/)
+
 - [Convert curl commands to code](https://curlconverter.com/)
 
 - [Article Listing | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/?s=container%20security%20fundamentals) - Datadog Security Labs is the place to read blog content about security research and tooling published by Datadog for the community.
@@ -538,6 +544,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The Real Story of Stuxnet - IEEE Spectrum](https://spectrum.ieee.org/the-real-story-of-stuxnet) - How Kaspersky Lab tracked down the malware that stymied Iran’s nuclear-fuel enrichment program
+
 - [My Family’s Slave](https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/) - She lived with us for 56 years. She raised me and my siblings without pay. I was 11, a typical American kid, before I realized who she was.
 
 - [The Untold Hunt for a Sex Trafficker](https://www.404media.co/email/dd3f2b44-5e8f-4195-a1b1-c7fa064b5965/) - Michael Pratt hid a massive sex trafficking ring in plain sight on PornHub. On the run from the FBI, an unexpected crew of ex-military, ex-intelligence officers and a lawyer tracked him down using his love of rare sneakers and crypto. For the first time, the group tells their story.
@@ -735,8 +743,6 @@ To view a single category, check the files/ folder.
 - [The case against pet ownership](https://www.vox.com/future-perfect/2023/4/11/23673393/pets-dogs-cats-animal-welfare-boredom) - Why we should aim for a world with fewer but happier pets.
 
 - [Ex-Pentagon Analyst Sentenced to 30 Months in Leak Case](https://www.nytimes.com/2020/06/18/us/politics/henry-frese-leaks.html) - The former counterterrorism analyst had pleaded guilty to sharing classified information with reporters about foreign weapon systems.
-
-- [After disrupting businesses, Google Drive’s secret file cap is dead for now](https://arstechnica.com/gadgets/2023/04/google-drive-cancels-its-surprise-file-cap-promises-to-communicate-better/) - The reaction to Google Drive's secret 5 million file limit makes Google hit "undo."
 
 # wikipedia
 - [Crown Prince Sado](https://en.wikipedia.org/w/index.php?title=Crown_Prince_Sado&oldid=1236178015) - Crown Prince Sado (Korean: 사도세자; Hanja: 思悼 世子; 13 February 1735 – 12 July 1762), personal name Yi Seon (이선; 李愃), was the second son of King Yeongjo of Joseon. His biological mother was Royal Noble Consort Yeong of the Jeonui Yi clan. Due to the prior death of Sado's older half-brother, Crown Prince Hyojang, the new prince was the probable future mon...
@@ -940,6 +946,8 @@ To view a single category, check the files/ folder.
 - [Ginevra King](https://en.wikipedia.org/w/index.php?title=Ginevra_King&oldid=1163024520) - Ginevra King Pirie (November 30, 1898 – December 13, 1980) was an American socialite and heiress. As one of Chicago's "Big Four" debutantes during World War I, she inspired many characters in the novels and stories of writer F. Scott Fitzgerald; in particular, the character of Daisy Buchanan in The Great Gatsby. A 16-year-old King met an 18-year-old...
 
 # misc
+- [You Are NOT Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/) - I always thought I was too dumb to understand math. During my school years, it was evident to me that for some kids math was easy, and for others like myself: painfully difficult.
+
 - [Michael Orlitzky { CSC ServiceWorks laundry machine coin bypass }](https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml?ref=404media.co)
 
 - [Erowid](https://www.erowid.org/)
@@ -1137,6 +1145,4 @@ To view a single category, check the files/ folder.
 - [FizzBuzz In Too Much Detail](https://www.tomdalling.com/blog/software-design/fizzbuzz-in-too-much-detail/)
 
 - [SF and Fantasy Governments: A Semi-Scientific Survey](https://www.tor.com/2023/01/05/sf-and-fantasy-governments-a-semi-scientific-survey/) - Having complained about one particular aspect of science fiction and fantasy settings for decades, it belatedly occurred to me to start tabulating data  to see if in fact there were any support for…
-
-- [Discord, or the Death of Lore](http://ascii.textfiles.com/archives/5509) - I chose the life, it didn’t choose me. I could have walked away from it a long time ago, and I’ve certainly shifted my focus over the years. But I still hold the heft and halter, the on…
 

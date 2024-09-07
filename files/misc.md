@@ -1,4 +1,6 @@
 # misc
+- [You Are NOT Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/) - I always thought I was too dumb to understand math. During my school years, it was evident to me that for some kids math was easy, and for others like myself: painfully difficult.
+
 - [Michael Orlitzky { CSC ServiceWorks laundry machine coin bypass }](https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml?ref=404media.co)
 
 - [Erowid](https://www.erowid.org/)
@@ -196,6 +198,4 @@
 - [FizzBuzz In Too Much Detail](https://www.tomdalling.com/blog/software-design/fizzbuzz-in-too-much-detail/)
 
 - [SF and Fantasy Governments: A Semi-Scientific Survey](https://www.tor.com/2023/01/05/sf-and-fantasy-governments-a-semi-scientific-survey/) - Having complained about one particular aspect of science fiction and fantasy settings for decades, it belatedly occurred to me to start tabulating data  to see if in fact there were any support for…
-
-- [Discord, or the Death of Lore](http://ascii.textfiles.com/archives/5509) - I chose the life, it didn’t choose me. I could have walked away from it a long time ago, and I’ve certainly shifted my focus over the years. But I still hold the heft and halter, the on…
 

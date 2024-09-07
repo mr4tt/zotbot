@@ -1,4 +1,8 @@
 # videos
+- [The World's Worst Translater](https://www.youtube.com/watch?v=foT9rsHmS24)
+
+- [Harder Drives](https://www.youtube.com/watch?v=JcJSW7Rprio&feature=youtu.be)
+
 - [HEAVY RAIN - Shaun Glitch -（Press X to Shaun)](https://www.youtube.com/watch?v=DAhG9D9UO7c)
 
 - [ＬＯＣＡＬ５８ＴＶ -  Weather Service](https://www.youtube.com/watch?v=M75VLQuFPrY)

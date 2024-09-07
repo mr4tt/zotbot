@@ -1,4 +1,6 @@
 # computing_resources
+- [Instantly parse JSON in any language | quicktype](https://app.quicktype.io/)
+
 - [Convert curl commands to code](https://curlconverter.com/)
 
 - [Article Listing | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/?s=container%20security%20fundamentals) - Datadog Security Labs is the place to read blog content about security research and tooling published by Datadog for the community.
