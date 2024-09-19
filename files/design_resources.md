@@ -1,4 +1,6 @@
 # design_resources
+- [Laws of UX](https://lawsofux.com/) - Laws of UX is a collection of best practices that designers can consider when building user interfaces.
+
 - [Server Mono](https://servermono.com) - Server Mono is a typeface inspired by typewriters, Apple's San Francisco Mono, ASCII art, command-line interfaces, and programming tools.
 
 - [Likert Scale Examples for Surveys]()
@@ -14,8 +16,6 @@
 - [Tokenbase](https://token-base.com/)
 
 - [The Good Line-Height](https://www.thegoodlineheight.com/)
-
-- [Home](https://lawsofux.com/) - Laws of UX is a collection of best practices that designers can consider when building user interfaces.
 
 - [Website Color Schemes to Inspire Creativity | Spectrum.Art 💎](https://spectrum.art/) - Immerse yourself in our collection of website color schemes. Find a trending color scheme for your site using the real examples.
 

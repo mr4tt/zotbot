@@ -219,6 +219,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Laws of UX](https://lawsofux.com/) - Laws of UX is a collection of best practices that designers can consider when building user interfaces.
+
 - [Server Mono](https://servermono.com) - Server Mono is a typeface inspired by typewriters, Apple's San Francisco Mono, ASCII art, command-line interfaces, and programming tools.
 
 - [Likert Scale Examples for Surveys]()
@@ -234,8 +236,6 @@ To view a single category, check the files/ folder.
 - [Tokenbase](https://token-base.com/)
 
 - [The Good Line-Height](https://www.thegoodlineheight.com/)
-
-- [Home](https://lawsofux.com/) - Laws of UX is a collection of best practices that designers can consider when building user interfaces.
 
 - [Website Color Schemes to Inspire Creativity | Spectrum.Art 💎](https://spectrum.art/) - Immerse yourself in our collection of website color schemes. Find a trending color scheme for your site using the real examples.
 
