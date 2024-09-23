@@ -2,6 +2,7 @@ Collection of interesting things I've gathered from around the internet.
 To view a single category, check the files/ folder.
 
 # Table of Contents
+- [shops](#shops)
 - [crochet](#crochet)
 - [papers](#papers)
 - [videos](#videos)
@@ -13,6 +14,41 @@ To view a single category, check the files/ folder.
 - [news](#news)
 - [wikipedia](#wikipedia)
 - [misc](#misc)
+# shops
+- [13magpies](https://www.13magpies.net/) - Stationery and accessories shop, primarily featuring bird- and landscape-themed merchandise.
+
+- [chirofish](https://www.chiro.fish/)
+
+- [Leikya store - cute and unique nature themed apparel & accessories](https://leikya.com/en-us) - Leikya store - I sell cute nature themed items including enamel pins, apparel, accessories, and art prints.
+
+- [Sugahri Store](https://sugahri.com/) - A comfy store with a lot of variety: apparel section, stationery, illustration and more
+
+- [coco glez shop](https://www.cocoglez.com/) - Shop art prints, accessories, and apparel with illustrations by Coco Glez.
+
+- [Shop Noisywyvern](https://noisywyvern.com/) - we are what dreams are made of
+
+- [Bliboop](https://www.blibloop.com/) - Cute Zelda themed pins, illustrations, stationary, stickers and more! Discover uniquely designed and adorable LoZ items for you or as a gift.
+
+- [heyheymomo](https://www.heyheymomo.com) - A comic about a little dog and a small frog having fun
+
+- [Stickers](https://store.falseknees.com/collections/stickers) - Comics and art prints from False Knees
+
+- [Shop By Design](https://nidemama.com/pages/shop-by-design) - Looking for a specific design? You've come to the right place. Ni De Mama in the Wild Swipe through for some IG pics
+
+- [acorviart](https://acorviart.bigcartel.com/) - Illustration & Design
+
+- [laaaicha](https://imsleepy.bigcartel.com/)
+
+- [INPRNT](https://www.inprnt.com/) - Discover your favorite art and shop online galleries by thousands of artists from around the world. Sign up to sell art prints and more.
+
+- [itskleine](https://itskleine.com/) - itskleine
+
+- [Umvvelt](https://umvvelt.fish/) - All originally designed sea life merchandise to show your love for the ocean & its wonders!
+
+- [rainylune](https://rainylune.com/) - Frog themed pins, keychains, stickers, plushies and more!
+
+- [0K47](https://0k47.com/) - The official website and shop of 0K47. Find the latest content, buy merch, and support our nerdy apparel.
+
 # crochet
 - [Crochet Fruit Coasters Pattern - Repeat Crafter Me](https://www.repeatcrafterme.com/2013/04/crochet-fruit-coasters-pattern.html)
 
@@ -312,6 +348,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [How I would do auth](https://pilcrowonpaper.com) - A quick blog on how I would implement auth for my applications.
+
 - [Instantly parse JSON in any language | quicktype](https://app.quicktype.io/)
 
 - [Convert curl commands to code](https://curlconverter.com/)
@@ -544,6 +582,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [How Kamala Harris got her Chinese name, what it might do for her this election](https://www.scmp.com/week-asia/people/article/3098517/whats-name-kamala-harris-maybe-edge-some-asian-american-voters) - The Democratic nominee for vice-president is one of the few US politicians not of Chinese heritage to have a Chinese name that she chose for herself.
+
 - [The Real Story of Stuxnet - IEEE Spectrum](https://spectrum.ieee.org/the-real-story-of-stuxnet) - How Kaspersky Lab tracked down the malware that stymied Iran’s nuclear-fuel enrichment program
 
 - [My Family’s Slave](https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/) - She lived with us for 56 years. She raised me and my siblings without pay. I was 11, a typical American kid, before I realized who she was.
@@ -742,9 +782,9 @@ To view a single category, check the files/ folder.
 
 - [The case against pet ownership](https://www.vox.com/future-perfect/2023/4/11/23673393/pets-dogs-cats-animal-welfare-boredom) - Why we should aim for a world with fewer but happier pets.
 
-- [Ex-Pentagon Analyst Sentenced to 30 Months in Leak Case](https://www.nytimes.com/2020/06/18/us/politics/henry-frese-leaks.html) - The former counterterrorism analyst had pleaded guilty to sharing classified information with reporters about foreign weapon systems.
-
 # wikipedia
+- [Clare Francis (science critic)](https://en.wikipedia.org/w/index.php?title=Clare_Francis_(science_critic)&oldid=1136914925) - Clare Francis is a pseudonym used since 2010 by the author (or authors) of hundreds of whistle-blowing emails sent to the editors of scientific journals that call attention to suspected cases of plagiarism and fabricated or duplicated figures. Described as a scientific gadfly, the pseudonymous Francis is "a source both legendary and loathed in biome...
+
 - [Crown Prince Sado](https://en.wikipedia.org/w/index.php?title=Crown_Prince_Sado&oldid=1236178015) - Crown Prince Sado (Korean: 사도세자; Hanja: 思悼 世子; 13 February 1735 – 12 July 1762), personal name Yi Seon (이선; 李愃), was the second son of King Yeongjo of Joseon. His biological mother was Royal Noble Consort Yeong of the Jeonui Yi clan. Due to the prior death of Sado's older half-brother, Crown Prince Hyojang, the new prince was the probable future mon...
 
 - [<i>Eremina desertorum</i>](https://en.wikipedia.org/w/index.php?title=Eremina_desertorum&oldid=1237241703) - Eremina desertorum (formerly Helix desertorum) is a species of land snails in the genus Eremina. It is native to desert regions in Egypt and Israel. A specimen from Egypt thought to be dead was glued to an index card at the British Museum in March 1846. However, in March 1850, it was found to be alive. The Canadian writer Grant Allen observed:  The ...
@@ -942,8 +982,6 @@ To view a single category, check the files/ folder.
 - [Alfonso de Borbón y Borbón](https://en.wikipedia.org/w/index.php?title=Alfonso_de_Borb%C3%B3n_y_Borb%C3%B3n&oldid=1172773197) - Alfonso de Borbón y Borbón (Madrid, 15 November 1866 - Madrid, 28 April 1934) was a Spanish nobleman, the great-great-grandson of Charles III of Spain, and is known for having had 88 forenames. This is recognised as a record by Guinness World Records.Alfonso was a son of Infante Sebastian of Portugal and Spain, and his second wife, Infanta Maria Chr...
 
 - [La Sombrita](https://en.wikipedia.org/w/index.php?title=La_Sombrita&oldid=1171473514) - La Sombrita (Spanish for "The Little Shade") is a prototype sunshade created for the Los Angeles Department of Transportation (LADOT). Its purpose was to assist female bus riders by offering shade during the hottest hours of the day and providing sidewalk lighting at night. This was especially targeted at locations where the swift construction of tr...
-
-- [Ginevra King](https://en.wikipedia.org/w/index.php?title=Ginevra_King&oldid=1163024520) - Ginevra King Pirie (November 30, 1898 – December 13, 1980) was an American socialite and heiress. As one of Chicago's "Big Four" debutantes during World War I, she inspired many characters in the novels and stories of writer F. Scott Fitzgerald; in particular, the character of Daisy Buchanan in The Great Gatsby. A 16-year-old King met an 18-year-old...
 
 # misc
 - [You Are NOT Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/) - I always thought I was too dumb to understand math. During my school years, it was evident to me that for some kids math was easy, and for others like myself: painfully difficult.

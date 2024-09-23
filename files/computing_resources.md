@@ -1,4 +1,6 @@
 # computing_resources
+- [How I would do auth](https://pilcrowonpaper.com) - A quick blog on how I would implement auth for my applications.
+
 - [Instantly parse JSON in any language | quicktype](https://app.quicktype.io/)
 
 - [Convert curl commands to code](https://curlconverter.com/)
