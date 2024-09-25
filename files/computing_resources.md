@@ -3,6 +3,8 @@
 
 - [Instantly parse JSON in any language | quicktype](https://app.quicktype.io/)
 
+- [Exactly Once](https://exactly-once.github.io/) - On distributed systems by [@SzymonPobiega](http://twitter.com/SzymonPobiega) and [@Masternak](http://twitter.com/Masternak)
+
 - [Convert curl commands to code](https://curlconverter.com/)
 
 - [Article Listing | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/?s=container%20security%20fundamentals) - Datadog Security Labs is the place to read blog content about security research and tooling published by Datadog for the community.
@@ -18,6 +20,8 @@
 - [Lightning Talk: Git add -p](https://gist.github.com/mattlewissf/9958704) - Lightning Talk: Git add -p . GitHub Gist: instantly share code, notes, and snippets.
 
 - [Developer Roadmaps](https://roadmap.sh/) - Community driven roadmaps, articles and guides for developers to grow in their career.
+
+- [Welcome to the Worlds Shortest Threat Modeling Course](https://www.youtube.com/watch?v=2pvprvsr1lo) - This video frames the course and sets expectations about when it will be most valuable: When you're learning threat modeling by doing, and need to orient yourself to what you're doing and why.  This can happen because the folks teaching think you know more than you do, or they've forgotten what it was to be a novice.
 
 - [Scroll-driven Animations](https://scroll-driven-animations.style) - A bunch of demos and tools to show off Scroll-driven Animations
 

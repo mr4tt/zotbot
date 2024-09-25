@@ -352,6 +352,8 @@ To view a single category, check the files/ folder.
 
 - [Instantly parse JSON in any language | quicktype](https://app.quicktype.io/)
 
+- [Exactly Once](https://exactly-once.github.io/) - On distributed systems by [@SzymonPobiega](http://twitter.com/SzymonPobiega) and [@Masternak](http://twitter.com/Masternak)
+
 - [Convert curl commands to code](https://curlconverter.com/)
 
 - [Article Listing | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/?s=container%20security%20fundamentals) - Datadog Security Labs is the place to read blog content about security research and tooling published by Datadog for the community.
@@ -367,6 +369,8 @@ To view a single category, check the files/ folder.
 - [Lightning Talk: Git add -p](https://gist.github.com/mattlewissf/9958704) - Lightning Talk: Git add -p . GitHub Gist: instantly share code, notes, and snippets.
 
 - [Developer Roadmaps](https://roadmap.sh/) - Community driven roadmaps, articles and guides for developers to grow in their career.
+
+- [Welcome to the Worlds Shortest Threat Modeling Course](https://www.youtube.com/watch?v=2pvprvsr1lo) - This video frames the course and sets expectations about when it will be most valuable: When you're learning threat modeling by doing, and need to orient yourself to what you're doing and why.  This can happen because the folks teaching think you know more than you do, or they've forgotten what it was to be a novice.
 
 - [Scroll-driven Animations](https://scroll-driven-animations.style) - A bunch of demos and tools to show off Scroll-driven Animations
 
@@ -584,6 +588,8 @@ To view a single category, check the files/ folder.
 # news
 - [How Kamala Harris got her Chinese name, what it might do for her this election](https://www.scmp.com/week-asia/people/article/3098517/whats-name-kamala-harris-maybe-edge-some-asian-american-voters) - The Democratic nominee for vice-president is one of the few US politicians not of Chinese heritage to have a Chinese name that she chose for herself.
 
+- [Sins of the Father](http://magazine.atavist.com/sins-of-the-father-san-francisco-vaccines-murder-suicide/) - When Lesley Hu wanted to vaccinate her young son, her conspiracy-obsessed ex-husband went to unimaginable lengths to stop her.
+
 - [The Real Story of Stuxnet - IEEE Spectrum](https://spectrum.ieee.org/the-real-story-of-stuxnet) - How Kaspersky Lab tracked down the malware that stymied Iran’s nuclear-fuel enrichment program
 
 - [My Family’s Slave](https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/) - She lived with us for 56 years. She raised me and my siblings without pay. I was 11, a typical American kid, before I realized who she was.
@@ -780,8 +786,6 @@ To view a single category, check the files/ folder.
 
 - [FBI: Rent-a-Hitman site nabbed Air National Guardsman who was “excited” to kill](https://arstechnica.com/tech-policy/2023/04/fbi-rent-a-hitman-site-nabbed-air-national-guardsman-who-was-excited-to-kill/) - FBI: Guardsman owned AR-15 and was willing to take fingers and ears as trophies.
 
-- [The case against pet ownership](https://www.vox.com/future-perfect/2023/4/11/23673393/pets-dogs-cats-animal-welfare-boredom) - Why we should aim for a world with fewer but happier pets.
-
 # wikipedia
 - [Clare Francis (science critic)](https://en.wikipedia.org/w/index.php?title=Clare_Francis_(science_critic)&oldid=1136914925) - Clare Francis is a pseudonym used since 2010 by the author (or authors) of hundreds of whistle-blowing emails sent to the editors of scientific journals that call attention to suspected cases of plagiarism and fabricated or duplicated figures. Described as a scientific gadfly, the pseudonymous Francis is "a source both legendary and loathed in biome...
 
@@ -794,6 +798,10 @@ To view a single category, check the files/ folder.
 - [Heaven's Gate (religious group)](https://en.wikipedia.org/w/index.php?title=Heaven%27s_Gate_(religious_group)&oldid=1229163453) - Heaven's Gate was an American new religious movement known primarily for the mass suicides  committed by its members in 1997. Commonly designated a cult, it was founded in 1974 and led by Bonnie Nettles (1927–1985) and Marshall Applewhite (1931–1997), known within the movement as Ti and Do, respectively. Nettles and Applewhite first met in 1972 and ...
 
 - [Jonestown](https://en.wikipedia.org/w/index.php?title=Jonestown&oldid=1231039360) - The Peoples Temple Agricultural Project, better known by its informal name "Jonestown", was a remote settlement in Guyana established by the Peoples Temple, an American cult under the leadership of Jim Jones. Jonestown became internationally infamous when, on November 18, 1978, a total of 918 people died at the settlement, at the nearby airstrip in ...
+
+- [List of common misconceptions](https://en.wikipedia.org/w/index.php?title=List_of_common_misconceptions&oldid=1231212291) - Each entry on this list of common misconceptions is worded as a correction; the misconceptions themselves are implied rather than stated. These entries are concise summaries of the main subject articles, which can be consulted for more detail.
+
+- [Corporate Memphis](https://en.wikipedia.org/w/index.php?title=Corporate_Memphis&oldid=1229117026) - Corporate Memphis (alternative names: Alegria art, big tech art, flat art, or corporate artstyle) is an art style named after the Memphis Group that features flat areas of color and geometric elements. Widely associated with Big Tech illustrations in the late 2010s and early 2020s, it has been met with a polarized response, with criticism focusing o...
 
 - [Graffiti (Palm OS)](https://en.wikipedia.org/w/index.php?title=Graffiti_(Palm_OS)&oldid=1211852576) - Graffiti is an essentially single-stroke shorthand handwriting recognition system used in PDAs based on the Palm OS. Graffiti was originally written by Palm, Inc. as the recognition system for GEOS-based devices such as HP's OmniGo 100 and 120 or the Magic Cap-line and was available as an alternate recognition system for the Apple Newton MessagePad,...
 
@@ -978,10 +986,6 @@ To view a single category, check the files/ folder.
 - [Shabbos App](https://en.wikipedia.org/w/index.php?title=Shabbos_App&oldid=1169474887) - The Shabbos App claimed to be a proposed Android app to enable Orthodox Jews, and Jewish Sabbath-observers, to use a smartphone on the Sabbath. The app was supposed to appear in late 2014. Some argued from the outset that this project was nothing more than an elaborate hoax or prank.
 
 - [Dr. Dynasaur](https://en.wikipedia.org/w/index.php?title=Dr._Dynasaur&oldid=1111483398) - Dr. Dynasaur is a publicly funded healthcare program in the U.S. state of Vermont, created in 1989. Vermont had an estimated 140,000 people under age 18 (90,000 under 300% above the Federal Poverty Level (FPL). Dr. Dynasaur covered 56,000 of these uninsured. After adding the coverage of this program to those already covered by private health insuran...
-
-- [Alfonso de Borbón y Borbón](https://en.wikipedia.org/w/index.php?title=Alfonso_de_Borb%C3%B3n_y_Borb%C3%B3n&oldid=1172773197) - Alfonso de Borbón y Borbón (Madrid, 15 November 1866 - Madrid, 28 April 1934) was a Spanish nobleman, the great-great-grandson of Charles III of Spain, and is known for having had 88 forenames. This is recognised as a record by Guinness World Records.Alfonso was a son of Infante Sebastian of Portugal and Spain, and his second wife, Infanta Maria Chr...
-
-- [La Sombrita](https://en.wikipedia.org/w/index.php?title=La_Sombrita&oldid=1171473514) - La Sombrita (Spanish for "The Little Shade") is a prototype sunshade created for the Los Angeles Department of Transportation (LADOT). Its purpose was to assist female bus riders by offering shade during the hottest hours of the day and providing sidewalk lighting at night. This was especially targeted at locations where the swift construction of tr...
 
 # misc
 - [You Are NOT Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/) - I always thought I was too dumb to understand math. During my school years, it was evident to me that for some kids math was easy, and for others like myself: painfully difficult.

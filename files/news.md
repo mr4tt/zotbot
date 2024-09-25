@@ -1,6 +1,8 @@
 # news
 - [How Kamala Harris got her Chinese name, what it might do for her this election](https://www.scmp.com/week-asia/people/article/3098517/whats-name-kamala-harris-maybe-edge-some-asian-american-voters) - The Democratic nominee for vice-president is one of the few US politicians not of Chinese heritage to have a Chinese name that she chose for herself.
 
+- [Sins of the Father](http://magazine.atavist.com/sins-of-the-father-san-francisco-vaccines-murder-suicide/) - When Lesley Hu wanted to vaccinate her young son, her conspiracy-obsessed ex-husband went to unimaginable lengths to stop her.
+
 - [The Real Story of Stuxnet - IEEE Spectrum](https://spectrum.ieee.org/the-real-story-of-stuxnet) - How Kaspersky Lab tracked down the malware that stymied Iran’s nuclear-fuel enrichment program
 
 - [My Family’s Slave](https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/) - She lived with us for 56 years. She raised me and my siblings without pay. I was 11, a typical American kid, before I realized who she was.
@@ -196,6 +198,4 @@
 - [The Truth About Dentistry](https://www.theatlantic.com/magazine/archive/2019/05/the-trouble-with-dentistry/586039/) - It’s much less scientific—and more prone to gratuitous procedures—than you may think.
 
 - [FBI: Rent-a-Hitman site nabbed Air National Guardsman who was “excited” to kill](https://arstechnica.com/tech-policy/2023/04/fbi-rent-a-hitman-site-nabbed-air-national-guardsman-who-was-excited-to-kill/) - FBI: Guardsman owned AR-15 and was willing to take fingers and ears as trophies.
-
-- [The case against pet ownership](https://www.vox.com/future-perfect/2023/4/11/23673393/pets-dogs-cats-animal-welfare-boredom) - Why we should aim for a world with fewer but happier pets.
 
