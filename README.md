@@ -106,6 +106,10 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [chongthenomad - When Avatars Fall In Love](https://www.youtube.com/watch?v=WWw8TIgBo0k)
+
+- [The Hardware That Powers Financial Trading | Matt Godbolt](https://www.youtube.com/watch?v=42AUkkN_nBs)
+
 - [The World's Worst Translater](https://www.youtube.com/watch?v=foT9rsHmS24)
 
 - [Harder Drives](https://www.youtube.com/watch?v=JcJSW7Rprio&feature=youtu.be)
@@ -216,6 +220,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Time IS on Your Side: Personal Time Management Strategies for Crunch](https://www.youtube.com/watch?v=iRrcH3BuKfE) - Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
 - [empirical-methods](https://bvasiles.github.io/empirical-methods/) - Homepage for 17-803 “Empirical Methods” at Carnegie Mellon University
 
 - [Todepond dot com](https://www.todepond.com/wikiblogarden/better-computing/just/)
@@ -586,6 +592,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [He called them Barker's Beauties. They called him a monster.](https://www.businessinsider.com/price-is-right-bob-barker-models-sexual-harrassment-me-too-2024-9) - How the models on "The Price Is Right" brought down the legendary host Bob Barker — and paved the way for #MeToo.
+
+- [The longevity of the world's largest ETF rests on the lives of 11 U.S. millennials](https://www.latimes.com/business/story/2019-08-09/etf-spy-longevity-rests-on-11-millennials-lifespans) - Thanks to a quirk in the legal structure used to set up the SPDR S&P 500 ETF Trust, known as SPY, more than $250 billion rests on the longevity of 11 ordinary kids born between May 1990 and January 1993.
+
 - [How Kamala Harris got her Chinese name, what it might do for her this election](https://www.scmp.com/week-asia/people/article/3098517/whats-name-kamala-harris-maybe-edge-some-asian-american-voters) - The Democratic nominee for vice-president is one of the few US politicians not of Chinese heritage to have a Chinese name that she chose for herself.
 
 - [Sins of the Father](http://magazine.atavist.com/sins-of-the-father-san-francisco-vaccines-murder-suicide/) - When Lesley Hu wanted to vaccinate her young son, her conspiracy-obsessed ex-husband went to unimaginable lengths to stop her.
@@ -782,11 +792,9 @@ To view a single category, check the files/ folder.
 
 - [This Is Catfishing on an Industrial Scale](https://www.wired.com/story/catfishing-customer-support-love/) - Hired as customer service reps, these freelancers were instead tasked with luring in the lonely and lovestruck through a network of dating and hookup sites.
 
-- [The Truth About Dentistry](https://www.theatlantic.com/magazine/archive/2019/05/the-trouble-with-dentistry/586039/) - It’s much less scientific—and more prone to gratuitous procedures—than you may think.
-
-- [FBI: Rent-a-Hitman site nabbed Air National Guardsman who was “excited” to kill](https://arstechnica.com/tech-policy/2023/04/fbi-rent-a-hitman-site-nabbed-air-national-guardsman-who-was-excited-to-kill/) - FBI: Guardsman owned AR-15 and was willing to take fingers and ears as trophies.
-
 # wikipedia
+- [Camp David](https://en.wikipedia.org/w/index.php?title=Camp_David&oldid=1245221302) - Camp David is a 125-acre (51 ha) country retreat for the president of the United States. It is located in the wooded hills of Catoctin Mountain Park, in Frederick County, Maryland, near the towns of Thurmont and Emmitsburg, about 62 miles (100 km) north-northwest of the national capital city of Washington, D.C. It is code named Naval Support Facilit...
+
 - [Clare Francis (science critic)](https://en.wikipedia.org/w/index.php?title=Clare_Francis_(science_critic)&oldid=1136914925) - Clare Francis is a pseudonym used since 2010 by the author (or authors) of hundreds of whistle-blowing emails sent to the editors of scientific journals that call attention to suspected cases of plagiarism and fabricated or duplicated figures. Described as a scientific gadfly, the pseudonymous Francis is "a source both legendary and loathed in biome...
 
 - [Crown Prince Sado](https://en.wikipedia.org/w/index.php?title=Crown_Prince_Sado&oldid=1236178015) - Crown Prince Sado (Korean: 사도세자; Hanja: 思悼 世子; 13 February 1735 – 12 July 1762), personal name Yi Seon (이선; 李愃), was the second son of King Yeongjo of Joseon. His biological mother was Royal Noble Consort Yeong of the Jeonui Yi clan. Due to the prior death of Sado's older half-brother, Crown Prince Hyojang, the new prince was the probable future mon...
@@ -984,8 +992,6 @@ To view a single category, check the files/ folder.
 - [E-meter](https://en.wikipedia.org/w/index.php?title=E-meter&oldid=1169875691) - The E-meter, originally the electropsychometer, is an electronic device for displaying the electrodermal activity (EDA) of a human being. It is used for auditing in Scientology and divergent groups. The efficacy and legitimacy of Scientology's use of the E-meter has been subject to extensive litigation and in accordance with a federal court order, t...
 
 - [Shabbos App](https://en.wikipedia.org/w/index.php?title=Shabbos_App&oldid=1169474887) - The Shabbos App claimed to be a proposed Android app to enable Orthodox Jews, and Jewish Sabbath-observers, to use a smartphone on the Sabbath. The app was supposed to appear in late 2014. Some argued from the outset that this project was nothing more than an elaborate hoax or prank.
-
-- [Dr. Dynasaur](https://en.wikipedia.org/w/index.php?title=Dr._Dynasaur&oldid=1111483398) - Dr. Dynasaur is a publicly funded healthcare program in the U.S. state of Vermont, created in 1989. Vermont had an estimated 140,000 people under age 18 (90,000 under 300% above the Federal Poverty Level (FPL). Dr. Dynasaur covered 56,000 of these uninsured. After adding the coverage of this program to those already covered by private health insuran...
 
 # misc
 - [You Are NOT Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/) - I always thought I was too dumb to understand math. During my school years, it was evident to me that for some kids math was easy, and for others like myself: painfully difficult.

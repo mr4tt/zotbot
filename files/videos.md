@@ -1,4 +1,8 @@
 # videos
+- [chongthenomad - When Avatars Fall In Love](https://www.youtube.com/watch?v=WWw8TIgBo0k)
+
+- [The Hardware That Powers Financial Trading | Matt Godbolt](https://www.youtube.com/watch?v=42AUkkN_nBs)
+
 - [The World's Worst Translater](https://www.youtube.com/watch?v=foT9rsHmS24)
 
 - [Harder Drives](https://www.youtube.com/watch?v=JcJSW7Rprio&feature=youtu.be)

@@ -1,4 +1,8 @@
 # news
+- [He called them Barker's Beauties. They called him a monster.](https://www.businessinsider.com/price-is-right-bob-barker-models-sexual-harrassment-me-too-2024-9) - How the models on "The Price Is Right" brought down the legendary host Bob Barker — and paved the way for #MeToo.
+
+- [The longevity of the world's largest ETF rests on the lives of 11 U.S. millennials](https://www.latimes.com/business/story/2019-08-09/etf-spy-longevity-rests-on-11-millennials-lifespans) - Thanks to a quirk in the legal structure used to set up the SPDR S&P 500 ETF Trust, known as SPY, more than $250 billion rests on the longevity of 11 ordinary kids born between May 1990 and January 1993.
+
 - [How Kamala Harris got her Chinese name, what it might do for her this election](https://www.scmp.com/week-asia/people/article/3098517/whats-name-kamala-harris-maybe-edge-some-asian-american-voters) - The Democratic nominee for vice-president is one of the few US politicians not of Chinese heritage to have a Chinese name that she chose for herself.
 
 - [Sins of the Father](http://magazine.atavist.com/sins-of-the-father-san-francisco-vaccines-murder-suicide/) - When Lesley Hu wanted to vaccinate her young son, her conspiracy-obsessed ex-husband went to unimaginable lengths to stop her.
@@ -194,8 +198,4 @@
 - [Chinese Labs Are Selling Fentanyl Ingredients for Millions in Crypto](https://www.wired.com/story/fentanyl-ingredients-chinese-labs-cryptocurrency/) - And it's happening in plain sight.
 
 - [This Is Catfishing on an Industrial Scale](https://www.wired.com/story/catfishing-customer-support-love/) - Hired as customer service reps, these freelancers were instead tasked with luring in the lonely and lovestruck through a network of dating and hookup sites.
-
-- [The Truth About Dentistry](https://www.theatlantic.com/magazine/archive/2019/05/the-trouble-with-dentistry/586039/) - It’s much less scientific—and more prone to gratuitous procedures—than you may think.
-
-- [FBI: Rent-a-Hitman site nabbed Air National Guardsman who was “excited” to kill](https://arstechnica.com/tech-policy/2023/04/fbi-rent-a-hitman-site-nabbed-air-national-guardsman-who-was-excited-to-kill/) - FBI: Guardsman owned AR-15 and was willing to take fingers and ears as trophies.
 

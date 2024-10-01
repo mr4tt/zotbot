@@ -1,4 +1,6 @@
 # general_resources
+- [Time IS on Your Side: Personal Time Management Strategies for Crunch](https://www.youtube.com/watch?v=iRrcH3BuKfE) - Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
 - [empirical-methods](https://bvasiles.github.io/empirical-methods/) - Homepage for 17-803 “Empirical Methods” at Carnegie Mellon University
 
 - [Todepond dot com](https://www.todepond.com/wikiblogarden/better-computing/just/)
