@@ -15,6 +15,10 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # shops
+- [Sticker Shop](https://www.thejuiceboxclub.shop) - THEJUICEBOXCLUB - Creative Artist - Sticker Shop - Glassware - Tote Bags
+
+- [kluia](https://www.kluia.co/)
+
 - [13magpies](https://www.13magpies.net/) - Stationery and accessories shop, primarily featuring bird- and landscape-themed merchandise.
 
 - [chirofish](https://www.chiro.fish/)
