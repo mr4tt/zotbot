@@ -358,6 +358,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [One Mo' Gin](https://onemogin.com/)
+
 - [How I would do auth](https://pilcrowonpaper.com) - A quick blog on how I would implement auth for my applications.
 
 - [Instantly parse JSON in any language | quicktype](https://app.quicktype.io/)
@@ -797,6 +799,8 @@ To view a single category, check the files/ folder.
 - [This Is Catfishing on an Industrial Scale](https://www.wired.com/story/catfishing-customer-support-love/) - Hired as customer service reps, these freelancers were instead tasked with luring in the lonely and lovestruck through a network of dating and hookup sites.
 
 # wikipedia
+- [In-Q-Tel](https://en.wikipedia.org/w/index.php?title=In-Q-Tel&oldid=1242618180) - In-Q-Tel (IQT), formerly Peleus and In-Q-It, is an American not-for-profit venture capital firm based in Arlington, Virginia. It invests in companies to keep the Central Intelligence Agency, and other intelligence agencies, equipped with the latest in information technology in support of United States intelligence capability. The name "In-Q-Tel" is ...
+
 - [Camp David](https://en.wikipedia.org/w/index.php?title=Camp_David&oldid=1245221302) - Camp David is a 125-acre (51 ha) country retreat for the president of the United States. It is located in the wooded hills of Catoctin Mountain Park, in Frederick County, Maryland, near the towns of Thurmont and Emmitsburg, about 62 miles (100 km) north-northwest of the national capital city of Washington, D.C. It is code named Naval Support Facilit...
 
 - [Clare Francis (science critic)](https://en.wikipedia.org/w/index.php?title=Clare_Francis_(science_critic)&oldid=1136914925) - Clare Francis is a pseudonym used since 2010 by the author (or authors) of hundreds of whistle-blowing emails sent to the editors of scientific journals that call attention to suspected cases of plagiarism and fabricated or duplicated figures. Described as a scientific gadfly, the pseudonymous Francis is "a source both legendary and loathed in biome...
@@ -994,8 +998,6 @@ To view a single category, check the files/ folder.
 - [Taito (kanji)](https://en.wikipedia.org/w/index.php?title=Taito_(kanji)&oldid=1167452740) - Taito, daito, or otodo (𱁬/) is a kokuji ("kanji character invented in Japan") written with 84 strokes, and thus the most graphically complex CJK character—collectively referring to Chinese characters and derivatives used in the written Chinese, Japanese, and Korean languages. This rare and complex character graphically places the 36-stroke tai 䨺 (wi...
 
 - [E-meter](https://en.wikipedia.org/w/index.php?title=E-meter&oldid=1169875691) - The E-meter, originally the electropsychometer, is an electronic device for displaying the electrodermal activity (EDA) of a human being. It is used for auditing in Scientology and divergent groups. The efficacy and legitimacy of Scientology's use of the E-meter has been subject to extensive litigation and in accordance with a federal court order, t...
-
-- [Shabbos App](https://en.wikipedia.org/w/index.php?title=Shabbos_App&oldid=1169474887) - The Shabbos App claimed to be a proposed Android app to enable Orthodox Jews, and Jewish Sabbath-observers, to use a smartphone on the Sabbath. The app was supposed to appear in late 2014. Some argued from the outset that this project was nothing more than an elaborate hoax or prank.
 
 # misc
 - [You Are NOT Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/) - I always thought I was too dumb to understand math. During my school years, it was evident to me that for some kids math was easy, and for others like myself: painfully difficult.
