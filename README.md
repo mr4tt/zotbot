@@ -358,6 +358,10 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [Service discovery at Stripe](https://stripe.com/blog/service-discovery-at-stripe) - Online payment processing for internet businesses. Stripe is a suite of payment APIs that powers commerce for businesses of all sizes.
+
+- [True Zero Downtime HAProxy Reloads](https://web.archive.org/web/20200203215433/https://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html)
+
 - [One Mo' Gin](https://onemogin.com/)
 
 - [How I would do auth](https://pilcrowonpaper.com) - A quick blog on how I would implement auth for my applications.

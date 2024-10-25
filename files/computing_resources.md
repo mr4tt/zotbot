@@ -1,4 +1,8 @@
 # computing_resources
+- [Service discovery at Stripe](https://stripe.com/blog/service-discovery-at-stripe) - Online payment processing for internet businesses. Stripe is a suite of payment APIs that powers commerce for businesses of all sizes.
+
+- [True Zero Downtime HAProxy Reloads](https://web.archive.org/web/20200203215433/https://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html)
+
 - [One Mo' Gin](https://onemogin.com/)
 
 - [How I would do auth](https://pilcrowonpaper.com) - A quick blog on how I would implement auth for my applications.
