@@ -358,6 +358,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [The Secret Lives of Data](https://thesecretlivesofdata.com/)
+
 - [Service discovery at Stripe](https://stripe.com/blog/service-discovery-at-stripe) - Online payment processing for internet businesses. Stripe is a suite of payment APIs that powers commerce for businesses of all sizes.
 
 - [True Zero Downtime HAProxy Reloads](https://web.archive.org/web/20200203215433/https://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html)
@@ -803,6 +805,8 @@ To view a single category, check the files/ folder.
 - [This Is Catfishing on an Industrial Scale](https://www.wired.com/story/catfishing-customer-support-love/) - Hired as customer service reps, these freelancers were instead tasked with luring in the lonely and lovestruck through a network of dating and hookup sites.
 
 # wikipedia
+- [Dymaxion Chronofile](https://en.wikipedia.org/w/index.php?title=Dymaxion_Chronofile&oldid=1218463472) - The Dymaxion Chronofile is Buckminster Fuller's attempt to document his life as completely as possible. He created a very large scrapbook in which he documented his life from 1917 to 1983. Fuller describes his Chronofile as "[contribution] to the scientific documentation of the emergent realization of the era of accelerating-acceleration of progress...
+
 - [In-Q-Tel](https://en.wikipedia.org/w/index.php?title=In-Q-Tel&oldid=1242618180) - In-Q-Tel (IQT), formerly Peleus and In-Q-It, is an American not-for-profit venture capital firm based in Arlington, Virginia. It invests in companies to keep the Central Intelligence Agency, and other intelligence agencies, equipped with the latest in information technology in support of United States intelligence capability. The name "In-Q-Tel" is ...
 
 - [Camp David](https://en.wikipedia.org/w/index.php?title=Camp_David&oldid=1245221302) - Camp David is a 125-acre (51 ha) country retreat for the president of the United States. It is located in the wooded hills of Catoctin Mountain Park, in Frederick County, Maryland, near the towns of Thurmont and Emmitsburg, about 62 miles (100 km) north-northwest of the national capital city of Washington, D.C. It is code named Naval Support Facilit...
@@ -1000,8 +1004,6 @@ To view a single category, check the files/ folder.
 - [Ghost word](https://en.wikipedia.org/w/index.php?title=Ghost_word&oldid=1172860859) - A ghost word is a word published in a dictionary or similarly authoritative reference work even though it had not previously had any meaning or been used intentionally. A ghost word generally originates from readers interpreting a typographical or linguistic error as a word they are not familiar with, and then publishing that word elsewhere under th...
 
 - [Taito (kanji)](https://en.wikipedia.org/w/index.php?title=Taito_(kanji)&oldid=1167452740) - Taito, daito, or otodo (𱁬/) is a kokuji ("kanji character invented in Japan") written with 84 strokes, and thus the most graphically complex CJK character—collectively referring to Chinese characters and derivatives used in the written Chinese, Japanese, and Korean languages. This rare and complex character graphically places the 36-stroke tai 䨺 (wi...
-
-- [E-meter](https://en.wikipedia.org/w/index.php?title=E-meter&oldid=1169875691) - The E-meter, originally the electropsychometer, is an electronic device for displaying the electrodermal activity (EDA) of a human being. It is used for auditing in Scientology and divergent groups. The efficacy and legitimacy of Scientology's use of the E-meter has been subject to extensive litigation and in accordance with a federal court order, t...
 
 # misc
 - [You Are NOT Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/) - I always thought I was too dumb to understand math. During my school years, it was evident to me that for some kids math was easy, and for others like myself: painfully difficult.
