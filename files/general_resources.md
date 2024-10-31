@@ -1,5 +1,9 @@
 # general_resources
+- [Stuck in a Rut? Here’s Your Way Out](https://lelouch.dev/blog/escaping-rut/) - Saying yes too often is killing your focus—learn why saying no is the fastest way to get what you actually want.
+
 - [Time IS on Your Side: Personal Time Management Strategies for Crunch](https://www.youtube.com/watch?v=iRrcH3BuKfE) - Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+- [You Are NOT Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/) - I always thought I was too dumb to understand math. During my school years, it was evident to me that for some kids math was easy, and for others like myself: painfully difficult.
 
 - [empirical-methods](https://bvasiles.github.io/empirical-methods/) - Homepage for 17-803 “Empirical Methods” at Carnegie Mellon University
 

@@ -1,5 +1,9 @@
 # misc
-- [You Are NOT Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/) - I always thought I was too dumb to understand math. During my school years, it was evident to me that for some kids math was easy, and for others like myself: painfully difficult.
+- [Entertrained - practice typing by retyping books](http://entertrained.app) - Combine the joy of reading and the art of typing in a fun, interactive experience. Track your progress, review detailed statistics, and improve your skills.
+
+- [Links | near.blog](https://near.blog/links/)
+
+- [commitment is the only secret knowledge](https://read.mindmine.xyz/p/commit) - everything else is just a distraction // Conquer Avoidance course is live!!!
 
 - [Michael Orlitzky { CSC ServiceWorks laundry machine coin bypass }](https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml?ref=404media.co)
 
@@ -194,8 +198,4 @@
 - [A UX designer walks into a Tesla Bar – Scott Jenson](https://jenson.org/tesla/)
 
 - [A student's dream: hacking (then fixing) Gradescope's autograder](https://saligrama.io/blog/post/gradescope-autograder-security/) - Ever since I started exploring security more deeply, I’ve been asked countless times by people if I could hack into grading systems to change my (or, more often, their) grades. With Gradescope being the most ubiquitous platform for grading STEM classes at Stanford, my standard response was always that I couldn’t, imagining that a well-established Ed...
-
-- [FizzBuzz In Too Much Detail](https://www.tomdalling.com/blog/software-design/fizzbuzz-in-too-much-detail/)
-
-- [SF and Fantasy Governments: A Semi-Scientific Survey](https://www.tor.com/2023/01/05/sf-and-fantasy-governments-a-semi-scientific-survey/) - Having complained about one particular aspect of science fiction and fantasy settings for decades, it belatedly occurred to me to start tabulating data  to see if in fact there were any support for…
 

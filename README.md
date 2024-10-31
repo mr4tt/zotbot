@@ -15,6 +15,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # shops
+- [Fiveboos](https://fiveboos.com/)
+
 - [Sticker Shop](https://www.thejuiceboxclub.shop) - THEJUICEBOXCLUB - Creative Artist - Sticker Shop - Glassware - Tote Bags
 
 - [kluia](https://www.kluia.co/)
@@ -110,6 +112,10 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [About That Idris Elba Gold Documentary](https://www.youtube.com/watch?v=ihvG3RgbYzE)
+
+- [Electric Cars are Not Sustainable and they're Terrible](https://www.youtube.com/watch?v=WiI1AcsJlYU)
+
 - [chongthenomad - When Avatars Fall In Love](https://www.youtube.com/watch?v=WWw8TIgBo0k)
 
 - [The Hardware That Powers Financial Trading | Matt Godbolt](https://www.youtube.com/watch?v=42AUkkN_nBs)
@@ -207,6 +213,10 @@ To view a single category, check the files/ folder.
 - [EMESIS BLUE [SFM]](https://www.youtube.com/watch?v=V0ODG8bFme0)
 
 # tweets
+- [dont cry becasue its over, Attack. Attack wverythjng around you. do spin attacks and hurt things](https://x.com/ipaddlearound/status/1850174333127131336)
+
+- [Friday Night With The Lads https://t.co/hoyskjlELJ](https://x.com/hoolopee/status/1849823463193604321)
+
 - [I put Porter Robinson's Cheerleader in Heaven Studio https://t.co/BJ6Ps03QA8](https://twitter.com/BobaPup/status/1772303601307717847)
 
 - [I fucking hate when Mario gets burned and starts hopping and jumping around like can you fucking grow up and focus on the situation at hand](https://twitter.com/andy_sidecake/status/1311926569359695872)
@@ -224,7 +234,11 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Stuck in a Rut? Here’s Your Way Out](https://lelouch.dev/blog/escaping-rut/) - Saying yes too often is killing your focus—learn why saying no is the fastest way to get what you actually want.
+
 - [Time IS on Your Side: Personal Time Management Strategies for Crunch](https://www.youtube.com/watch?v=iRrcH3BuKfE) - Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
+
+- [You Are NOT Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/) - I always thought I was too dumb to understand math. During my school years, it was evident to me that for some kids math was easy, and for others like myself: painfully difficult.
 
 - [empirical-methods](https://bvasiles.github.io/empirical-methods/) - Homepage for 17-803 “Empirical Methods” at Carnegie Mellon University
 
@@ -365,6 +379,8 @@ To view a single category, check the files/ folder.
 - [True Zero Downtime HAProxy Reloads](https://web.archive.org/web/20200203215433/https://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html)
 
 - [One Mo' Gin](https://onemogin.com/)
+
+- [What I tell people new to on-call | nicole@web](https://ntietz.com/blog/what-i-tell-people-new-to-oncall/)
 
 - [How I would do auth](https://pilcrowonpaper.com) - A quick blog on how I would implement auth for my applications.
 
@@ -604,6 +620,14 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Character.ai Faces Lawsuit After Teen’s Suicide](https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html) - The mother of a 14-year-old Florida boy says he became obsessed with a chatbot on Character.AI before his death.
+
+- [Why Texas Secretly Loves Illegal Immigration](https://www.texasmonthly.com/news-politics/border-crisis-texas-solutions/) - Texas politicians have no interest in actually solving the border crisis, which would require devastating the state's economy.
+
+- [The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain) - How geopolitics can alter digital infrastructure
+
+- [Data broker’s “staggering” sale of sensitive info exposed in unsealed FTC filing](https://arstechnica.com/tech-policy/2023/11/data-brokers-staggering-sale-of-sensitive-info-exposed-in-unsealed-ftc-filing/) - Judge: Data broker’s motion to sanction FTC “long on hyperbole, short on facts.”
+
 - [He called them Barker's Beauties. They called him a monster.](https://www.businessinsider.com/price-is-right-bob-barker-models-sexual-harrassment-me-too-2024-9) - How the models on "The Price Is Right" brought down the legendary host Bob Barker — and paved the way for #MeToo.
 
 - [The longevity of the world's largest ETF rests on the lives of 11 U.S. millennials](https://www.latimes.com/business/story/2019-08-09/etf-spy-longevity-rests-on-11-millennials-lifespans) - Thanks to a quirk in the legal structure used to set up the SPDR S&P 500 ETF Trust, known as SPY, more than $250 billion rests on the longevity of 11 ordinary kids born between May 1990 and January 1993.
@@ -796,18 +820,16 @@ To view a single category, check the files/ folder.
 
 - [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/) - How I accidentally breached a nonexistent database and found every private key in a 'state-of-the-art' encrypted messenger called Converso.
 
-- [Flowers pollinated by honeybees make lower-quality seeds](https://www.sciencenews.org/article/flowers-pollinate-honeybees-low-seeds) - Honeybees are one of the most common pollinators. But their flower-visiting habits make it harder for some plants to produce good seeds.
-
-- [The revolt of the Christian home-schoolers](https://www.washingtonpost.com/education/interactive/2023/christian-home-schoolers-revolt/) - They were taught that public schools are evil. Then a Virginia couple defied their families and enrolled their kids.
-
-- [Chinese Labs Are Selling Fentanyl Ingredients for Millions in Crypto](https://www.wired.com/story/fentanyl-ingredients-chinese-labs-cryptocurrency/) - And it's happening in plain sight.
-
-- [This Is Catfishing on an Industrial Scale](https://www.wired.com/story/catfishing-customer-support-love/) - Hired as customer service reps, these freelancers were instead tasked with luring in the lonely and lovestruck through a network of dating and hookup sites.
-
 # wikipedia
+- [Unusual eBay listings](https://en.wikipedia.org/w/index.php?title=Unusual_eBay_listings&oldid=1248670242) - Many unusual items have been listed for sale on the auction website eBay. Some were successfully sold, while other auctions were stopped by eBay because the listing breached their policies.
+
 - [Dymaxion Chronofile](https://en.wikipedia.org/w/index.php?title=Dymaxion_Chronofile&oldid=1218463472) - The Dymaxion Chronofile is Buckminster Fuller's attempt to document his life as completely as possible. He created a very large scrapbook in which he documented his life from 1917 to 1983. Fuller describes his Chronofile as "[contribution] to the scientific documentation of the emergent realization of the era of accelerating-acceleration of progress...
 
+- [Disappearing polymorph](https://en.wikipedia.org/w/index.php?title=Disappearing_polymorph&oldid=1251797787) - In materials science, a disappearing polymorph is a form of a crystal structure that is suddenly unable to be produced, instead transforming into a different crystal structure with the same chemical composition (a polymorph) during nucleation. Sometimes the resulting transformation is extremely hard or impractical to reverse, because the new polymor...
+
 - [In-Q-Tel](https://en.wikipedia.org/w/index.php?title=In-Q-Tel&oldid=1242618180) - In-Q-Tel (IQT), formerly Peleus and In-Q-It, is an American not-for-profit venture capital firm based in Arlington, Virginia. It invests in companies to keep the Central Intelligence Agency, and other intelligence agencies, equipped with the latest in information technology in support of United States intelligence capability. The name "In-Q-Tel" is ...
+
+- [Black Dahlia](https://en.wikipedia.org/w/index.php?title=Black_Dahlia&oldid=1248954831) - Elizabeth Short (July 29, 1924 – c. January 14–15, 1947), known as the Black Dahlia, was an American woman found murdered in the Leimert Park neighborhood of Los Angeles, California, on January 15, 1947. Her case became highly publicized owing to the gruesome nature of the crime, which included the mutilation of her corpse, which was bisected at the...
 
 - [Camp David](https://en.wikipedia.org/w/index.php?title=Camp_David&oldid=1245221302) - Camp David is a 125-acre (51 ha) country retreat for the president of the United States. It is located in the wooded hills of Catoctin Mountain Park, in Frederick County, Maryland, near the towns of Thurmont and Emmitsburg, about 62 miles (100 km) north-northwest of the national capital city of Washington, D.C. It is code named Naval Support Facilit...
 
@@ -999,14 +1021,12 @@ To view a single category, check the files/ folder.
 
 - [Siege of Suiyang](https://en.wikipedia.org/w/index.php?title=Siege_of_Suiyang&oldid=1174810471) - The siege of Suiyang (Chinese: 睢陽之戰; pinyin: Suīyáng zhī zhàn) was a military campaign during the An Lushan Rebellion, launched by the rebel Yan army to capture the city of Suiyang from the loyalist forces of the Tang army. Although the battle was ultimately won by the Yan army, it suffered a major loss of manpower and time. The battle was noted for...
 
-- [<i>Hapax legomenon</i>](https://en.wikipedia.org/w/index.php?title=Hapax_legomenon&oldid=1172394301) - In corpus linguistics, a hapax legomenon ( also  or ; pl. hapax legomena; sometimes abbreviated to hapax, plural hapaxes) is a word or an expression that occurs only once within a context: either in the written record of an entire language, in the works of an author, or in a single text. The term is sometimes incorrectly used to describe a word that...
-
-- [Ghost word](https://en.wikipedia.org/w/index.php?title=Ghost_word&oldid=1172860859) - A ghost word is a word published in a dictionary or similarly authoritative reference work even though it had not previously had any meaning or been used intentionally. A ghost word generally originates from readers interpreting a typographical or linguistic error as a word they are not familiar with, and then publishing that word elsewhere under th...
-
-- [Taito (kanji)](https://en.wikipedia.org/w/index.php?title=Taito_(kanji)&oldid=1167452740) - Taito, daito, or otodo (𱁬/) is a kokuji ("kanji character invented in Japan") written with 84 strokes, and thus the most graphically complex CJK character—collectively referring to Chinese characters and derivatives used in the written Chinese, Japanese, and Korean languages. This rare and complex character graphically places the 36-stroke tai 䨺 (wi...
-
 # misc
-- [You Are NOT Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/) - I always thought I was too dumb to understand math. During my school years, it was evident to me that for some kids math was easy, and for others like myself: painfully difficult.
+- [Entertrained - practice typing by retyping books](http://entertrained.app) - Combine the joy of reading and the art of typing in a fun, interactive experience. Track your progress, review detailed statistics, and improve your skills.
+
+- [Links | near.blog](https://near.blog/links/)
+
+- [commitment is the only secret knowledge](https://read.mindmine.xyz/p/commit) - everything else is just a distraction // Conquer Avoidance course is live!!!
 
 - [Michael Orlitzky { CSC ServiceWorks laundry machine coin bypass }](https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml?ref=404media.co)
 
@@ -1201,8 +1221,4 @@ To view a single category, check the files/ folder.
 - [A UX designer walks into a Tesla Bar – Scott Jenson](https://jenson.org/tesla/)
 
 - [A student's dream: hacking (then fixing) Gradescope's autograder](https://saligrama.io/blog/post/gradescope-autograder-security/) - Ever since I started exploring security more deeply, I’ve been asked countless times by people if I could hack into grading systems to change my (or, more often, their) grades. With Gradescope being the most ubiquitous platform for grading STEM classes at Stanford, my standard response was always that I couldn’t, imagining that a well-established Ed...
-
-- [FizzBuzz In Too Much Detail](https://www.tomdalling.com/blog/software-design/fizzbuzz-in-too-much-detail/)
-
-- [SF and Fantasy Governments: A Semi-Scientific Survey](https://www.tor.com/2023/01/05/sf-and-fantasy-governments-a-semi-scientific-survey/) - Having complained about one particular aspect of science fiction and fantasy settings for decades, it belatedly occurred to me to start tabulating data  to see if in fact there were any support for…
 

@@ -1,4 +1,12 @@
 # news
+- [Character.ai Faces Lawsuit After Teen’s Suicide](https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html) - The mother of a 14-year-old Florida boy says he became obsessed with a chatbot on Character.AI before his death.
+
+- [Why Texas Secretly Loves Illegal Immigration](https://www.texasmonthly.com/news-politics/border-crisis-texas-solutions/) - Texas politicians have no interest in actually solving the border crisis, which would require devastating the state's economy.
+
+- [The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain) - How geopolitics can alter digital infrastructure
+
+- [Data broker’s “staggering” sale of sensitive info exposed in unsealed FTC filing](https://arstechnica.com/tech-policy/2023/11/data-brokers-staggering-sale-of-sensitive-info-exposed-in-unsealed-ftc-filing/) - Judge: Data broker’s motion to sanction FTC “long on hyperbole, short on facts.”
+
 - [He called them Barker's Beauties. They called him a monster.](https://www.businessinsider.com/price-is-right-bob-barker-models-sexual-harrassment-me-too-2024-9) - How the models on "The Price Is Right" brought down the legendary host Bob Barker — and paved the way for #MeToo.
 
 - [The longevity of the world's largest ETF rests on the lives of 11 U.S. millennials](https://www.latimes.com/business/story/2019-08-09/etf-spy-longevity-rests-on-11-millennials-lifespans) - Thanks to a quirk in the legal structure used to set up the SPDR S&P 500 ETF Trust, known as SPY, more than $250 billion rests on the longevity of 11 ordinary kids born between May 1990 and January 1993.
@@ -190,12 +198,4 @@
 - [Elon Musk’s Neuralink is neuroscience theater](https://www.technologyreview.com/2020/08/30/1007786/elon-musks-neuralink-demo-update-neuroscience-theater/) - Elon Musk’s livestreamed brain implant event made promises that will be hard to keep.
 
 - [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/) - How I accidentally breached a nonexistent database and found every private key in a 'state-of-the-art' encrypted messenger called Converso.
-
-- [Flowers pollinated by honeybees make lower-quality seeds](https://www.sciencenews.org/article/flowers-pollinate-honeybees-low-seeds) - Honeybees are one of the most common pollinators. But their flower-visiting habits make it harder for some plants to produce good seeds.
-
-- [The revolt of the Christian home-schoolers](https://www.washingtonpost.com/education/interactive/2023/christian-home-schoolers-revolt/) - They were taught that public schools are evil. Then a Virginia couple defied their families and enrolled their kids.
-
-- [Chinese Labs Are Selling Fentanyl Ingredients for Millions in Crypto](https://www.wired.com/story/fentanyl-ingredients-chinese-labs-cryptocurrency/) - And it's happening in plain sight.
-
-- [This Is Catfishing on an Industrial Scale](https://www.wired.com/story/catfishing-customer-support-love/) - Hired as customer service reps, these freelancers were instead tasked with luring in the lonely and lovestruck through a network of dating and hookup sites.
 

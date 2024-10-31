@@ -7,6 +7,8 @@
 
 - [One Mo' Gin](https://onemogin.com/)
 
+- [What I tell people new to on-call | nicole@web](https://ntietz.com/blog/what-i-tell-people-new-to-oncall/)
+
 - [How I would do auth](https://pilcrowonpaper.com) - A quick blog on how I would implement auth for my applications.
 
 - [Instantly parse JSON in any language | quicktype](https://app.quicktype.io/)

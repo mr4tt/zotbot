@@ -1,4 +1,8 @@
 # videos
+- [About That Idris Elba Gold Documentary](https://www.youtube.com/watch?v=ihvG3RgbYzE)
+
+- [Electric Cars are Not Sustainable and they're Terrible](https://www.youtube.com/watch?v=WiI1AcsJlYU)
+
 - [chongthenomad - When Avatars Fall In Love](https://www.youtube.com/watch?v=WWw8TIgBo0k)
 
 - [The Hardware That Powers Financial Trading | Matt Godbolt](https://www.youtube.com/watch?v=42AUkkN_nBs)

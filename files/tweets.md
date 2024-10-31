@@ -1,4 +1,8 @@
 # tweets
+- [dont cry becasue its over, Attack. Attack wverythjng around you. do spin attacks and hurt things](https://x.com/ipaddlearound/status/1850174333127131336)
+
+- [Friday Night With The Lads https://t.co/hoyskjlELJ](https://x.com/hoolopee/status/1849823463193604321)
+
 - [I put Porter Robinson's Cheerleader in Heaven Studio https://t.co/BJ6Ps03QA8](https://twitter.com/BobaPup/status/1772303601307717847)
 
 - [I fucking hate when Mario gets burned and starts hopping and jumping around like can you fucking grow up and focus on the situation at hand](https://twitter.com/andy_sidecake/status/1311926569359695872)
