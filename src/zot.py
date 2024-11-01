@@ -24,7 +24,8 @@ class Zot():
 load_dotenv()
 zot = Zot()
 
-foldersToIgnore = ["to_read"]
+foldersToIgnore = {"to_read"}
+foldersIgnoreDescription = {"videos", "crochet"}
 
 # create files for each Zotero collection
 collections = zotMethods.getCollections(zot.zotbot)
@@ -54,7 +55,7 @@ for folder, folderID in collections.items():
             abstract = item["data"]["abstractNote"].replace("\n", " ")
             abstract = abstract[:351] + "..." if len(abstract) > 350 else abstract
 
-            if not abstract or folder == "videos" or folder == "crochet":
+            if not abstract or folder in foldersIgnoreDescription:
                 folderFile.write(f'- [{title}]({url})\n\n')
             else:
                 folderFile.write(f'- [{title}]({url}) - {abstract}\n\n')
