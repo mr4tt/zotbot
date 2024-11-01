@@ -24,6 +24,8 @@ class Zot():
 load_dotenv()
 zot = Zot()
 
+foldersToIgnore = ["to_read"]
+
 # create files for each Zotero collection
 collections = zotMethods.getCollections(zot.zotbot)
 os.makedirs(os.path.dirname("../files/"), exist_ok=True)
@@ -34,14 +36,16 @@ with open("../README.md", "w", encoding="utf-8") as readme:
     readme.write("To view a single category, check the files/ folder.\n\n")
     readme.write("# Table of Contents\n")
     for folderName in collections.keys():
+        if folderName in foldersToIgnore: continue
         readme.write(f"- [{folderName}](#{folderName})\n")
 
 # loop thru each folder, create a file for it, and add each item into its file
 for folder, folderID in collections.items():
+    if folder in foldersToIgnore: continue
     itemsInFolder = zot.zotbot.collection_items(folderID, itemType="-attachment")
     filename = "../files/" + folder + ".md"
-
-    # print each item and description to correct category file
+  
+    # write each item and description to correct category file
     with open(filename, "w+", encoding="utf-8") as folderFile:
         folderFile.write("# " + folder + "\n")
         for item in itemsInFolder:
