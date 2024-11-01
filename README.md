@@ -56,6 +56,8 @@ To view a single category, check the files/ folder.
 - [0K47](https://0k47.com/) - The official website and shop of 0K47. Find the latest content, buy merch, and support our nerdy apparel.
 
 # crochet
+- [Crochet Flower Patterns](https://moaracrochet.com/free-crochet-flower-patterns/)
+
 - [Crochet Fruit Coasters Pattern - Repeat Crafter Me](https://www.repeatcrafterme.com/2013/04/crochet-fruit-coasters-pattern.html)
 
 - [How to Crochet Perry the Platypus l Easy Amigurumi Tutorial l Beginner-Friendly l Monua DIY](https://www.youtube.com/watch?v=3wHWXDTMLKw)
@@ -112,17 +114,23 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
-- [About That Idris Elba Gold Documentary](https://www.youtube.com/watch?v=ihvG3RgbYzE)
+- [The World’s Worst Translator | Alternatino](https://www.youtube.com/watch?v=foT9rsHmS24)
 
-- [Electric Cars are Not Sustainable and they're Terrible](https://www.youtube.com/watch?v=WiI1AcsJlYU)
-
-- [chongthenomad - When Avatars Fall In Love](https://www.youtube.com/watch?v=WWw8TIgBo0k)
+- [Harder Drive: Hard drives we didn't want or need](https://www.youtube.com/watch?v=JcJSW7Rprio)
 
 - [The Hardware That Powers Financial Trading | Matt Godbolt](https://www.youtube.com/watch?v=42AUkkN_nBs)
 
-- [The World's Worst Translater](https://www.youtube.com/watch?v=foT9rsHmS24)
+- [chongthenomad - When Avatars Fall In Love](https://www.youtube.com/watch?v=WWw8TIgBo0k)
 
-- [Harder Drives](https://www.youtube.com/watch?v=JcJSW7Rprio&feature=youtu.be)
+- [heathers but i simp over jd for 17 minutes](https://www.youtube.com/watch?v=3kINMb693KA)
+
+- [17776 in a nutshell](https://www.youtube.com/watch?v=lFu5GGMH8YI)
+
+- [WORLD OF TOMORROW by DON HERTZFELDT](https://www.youtube.com/watch?v=4PUIxEWmsvI)
+
+- [About That Idris Elba Gold Documentary](https://www.youtube.com/watch?v=ihvG3RgbYzE)
+
+- [Electric Cars are Not Sustainable and they're Terrible](https://www.youtube.com/watch?v=WiI1AcsJlYU)
 
 - [HEAVY RAIN - Shaun Glitch -（Press X to Shaun)](https://www.youtube.com/watch?v=DAhG9D9UO7c)
 
@@ -1022,6 +1030,14 @@ To view a single category, check the files/ folder.
 - [Siege of Suiyang](https://en.wikipedia.org/w/index.php?title=Siege_of_Suiyang&oldid=1174810471) - The siege of Suiyang (Chinese: 睢陽之戰; pinyin: Suīyáng zhī zhàn) was a military campaign during the An Lushan Rebellion, launched by the rebel Yan army to capture the city of Suiyang from the loyalist forces of the Tang army. Although the battle was ultimately won by the Yan army, it suffered a major loss of manpower and time. The battle was noted for...
 
 # misc
+- [typ.ing](https://typ.ing/) - A clean and simple typing trainer that cares about how you feel. Type to find out.
+
+- [Nights on Earth interactive astro calendar BETA](https://nightsonearth.com/) - Nights on Earth features meteor showers, conjunctions, eclipses, as well as moon and sun rise / set times for every day of the year and much more, customized to your location.
+
+- [Chocolate Milk Reviews](https://www.afoolzerrand.com) - Afoolzerrand is the world's foremost expert in chocolate milk. Chocolate milk reviews and video blogs from around the world.
+
+- [Entertrained - practice typing by retyping books](http://entertrained.app) - Combine the joy of reading and the art of typing in a fun, interactive experience. Track your progress, review detailed statistics, and improve your skills.
+
 - [Entertrained - practice typing by retyping books](http://entertrained.app) - Combine the joy of reading and the art of typing in a fun, interactive experience. Track your progress, review detailed statistics, and improve your skills.
 
 - [Links | near.blog](https://near.blog/links/)
@@ -1213,12 +1229,4 @@ To view a single category, check the files/ folder.
 - [Joel Grus – Fizz Buzz in Tensorflow](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)
 
 - [“Considered Harmful” Essays Considered Harmful](https://meyerweb.com/eric/comment/chech.html)
-
-- [Burning up in Orbit](https://www.the-fence.com/issues/issue-12/burning-up-in-orbit) - Waxing lyrical
-
-- [Never Forget Jeju](https://liberationmartialarts.substack.com/p/jeju) - Remembering the Dark History of My Ancestral Home
-
-- [A UX designer walks into a Tesla Bar – Scott Jenson](https://jenson.org/tesla/)
-
-- [A student's dream: hacking (then fixing) Gradescope's autograder](https://saligrama.io/blog/post/gradescope-autograder-security/) - Ever since I started exploring security more deeply, I’ve been asked countless times by people if I could hack into grading systems to change my (or, more often, their) grades. With Gradescope being the most ubiquitous platform for grading STEM classes at Stanford, my standard response was always that I couldn’t, imagining that a well-established Ed...
 

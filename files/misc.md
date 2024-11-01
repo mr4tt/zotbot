@@ -1,4 +1,12 @@
 # misc
+- [typ.ing](https://typ.ing/) - A clean and simple typing trainer that cares about how you feel. Type to find out.
+
+- [Nights on Earth interactive astro calendar BETA](https://nightsonearth.com/) - Nights on Earth features meteor showers, conjunctions, eclipses, as well as moon and sun rise / set times for every day of the year and much more, customized to your location.
+
+- [Chocolate Milk Reviews](https://www.afoolzerrand.com) - Afoolzerrand is the world's foremost expert in chocolate milk. Chocolate milk reviews and video blogs from around the world.
+
+- [Entertrained - practice typing by retyping books](http://entertrained.app) - Combine the joy of reading and the art of typing in a fun, interactive experience. Track your progress, review detailed statistics, and improve your skills.
+
 - [Entertrained - practice typing by retyping books](http://entertrained.app) - Combine the joy of reading and the art of typing in a fun, interactive experience. Track your progress, review detailed statistics, and improve your skills.
 
 - [Links | near.blog](https://near.blog/links/)
@@ -190,12 +198,4 @@
 - [Joel Grus – Fizz Buzz in Tensorflow](https://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)
 
 - [“Considered Harmful” Essays Considered Harmful](https://meyerweb.com/eric/comment/chech.html)
-
-- [Burning up in Orbit](https://www.the-fence.com/issues/issue-12/burning-up-in-orbit) - Waxing lyrical
-
-- [Never Forget Jeju](https://liberationmartialarts.substack.com/p/jeju) - Remembering the Dark History of My Ancestral Home
-
-- [A UX designer walks into a Tesla Bar – Scott Jenson](https://jenson.org/tesla/)
-
-- [A student's dream: hacking (then fixing) Gradescope's autograder](https://saligrama.io/blog/post/gradescope-autograder-security/) - Ever since I started exploring security more deeply, I’ve been asked countless times by people if I could hack into grading systems to change my (or, more often, their) grades. With Gradescope being the most ubiquitous platform for grading STEM classes at Stanford, my standard response was always that I couldn’t, imagining that a well-established Ed...
 

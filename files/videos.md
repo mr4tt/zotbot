@@ -1,15 +1,21 @@
 # videos
-- [About That Idris Elba Gold Documentary](https://www.youtube.com/watch?v=ihvG3RgbYzE)
+- [The World’s Worst Translator | Alternatino](https://www.youtube.com/watch?v=foT9rsHmS24)
 
-- [Electric Cars are Not Sustainable and they're Terrible](https://www.youtube.com/watch?v=WiI1AcsJlYU)
-
-- [chongthenomad - When Avatars Fall In Love](https://www.youtube.com/watch?v=WWw8TIgBo0k)
+- [Harder Drive: Hard drives we didn't want or need](https://www.youtube.com/watch?v=JcJSW7Rprio)
 
 - [The Hardware That Powers Financial Trading | Matt Godbolt](https://www.youtube.com/watch?v=42AUkkN_nBs)
 
-- [The World's Worst Translater](https://www.youtube.com/watch?v=foT9rsHmS24)
+- [chongthenomad - When Avatars Fall In Love](https://www.youtube.com/watch?v=WWw8TIgBo0k)
 
-- [Harder Drives](https://www.youtube.com/watch?v=JcJSW7Rprio&feature=youtu.be)
+- [heathers but i simp over jd for 17 minutes](https://www.youtube.com/watch?v=3kINMb693KA)
+
+- [17776 in a nutshell](https://www.youtube.com/watch?v=lFu5GGMH8YI)
+
+- [WORLD OF TOMORROW by DON HERTZFELDT](https://www.youtube.com/watch?v=4PUIxEWmsvI)
+
+- [About That Idris Elba Gold Documentary](https://www.youtube.com/watch?v=ihvG3RgbYzE)
+
+- [Electric Cars are Not Sustainable and they're Terrible](https://www.youtube.com/watch?v=WiI1AcsJlYU)
 
 - [HEAVY RAIN - Shaun Glitch -（Press X to Shaun)](https://www.youtube.com/watch?v=DAhG9D9UO7c)
 

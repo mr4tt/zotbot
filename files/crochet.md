@@ -1,4 +1,6 @@
 # crochet
+- [Crochet Flower Patterns](https://moaracrochet.com/free-crochet-flower-patterns/)
+
 - [Crochet Fruit Coasters Pattern - Repeat Crafter Me](https://www.repeatcrafterme.com/2013/04/crochet-fruit-coasters-pattern.html)
 
 - [How to Crochet Perry the Platypus l Easy Amigurumi Tutorial l Beginner-Friendly l Monua DIY](https://www.youtube.com/watch?v=3wHWXDTMLKw)
