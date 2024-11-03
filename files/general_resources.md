@@ -1,13 +1,17 @@
 # general_resources
+- [Just | Todepond](https://www.todepond.com/wikiblogarden/better-computing/just/)
+
+- [MarkdownDown](https://markdowndown.vercel.app/) - Convert any webpage to a clean markdown w/ images downloaded.
+
+- [So you wanna de-bog yourself](https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself) - What I found in the mire
+
+- [WORK WORK](https://neilblr.com/post/58757345346) - Here is a very simple little app I wrote in AutoHotkey for Windows to help productivity. The artists I've attempted to give this to were horrified and sickened by the idea of it. It floats in the...
+
 - [Stuck in a Rut? Here’s Your Way Out](https://lelouch.dev/blog/escaping-rut/) - Saying yes too often is killing your focus—learn why saying no is the fastest way to get what you actually want.
 
 - [Time IS on Your Side: Personal Time Management Strategies for Crunch](https://www.youtube.com/watch?v=iRrcH3BuKfE) - Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.
 
 - [You Are NOT Dumb, You Just Lack the Prerequisites](https://lelouch.dev/blog/you-are-probably-not-dumb/) - I always thought I was too dumb to understand math. During my school years, it was evident to me that for some kids math was easy, and for others like myself: painfully difficult.
-
-- [empirical-methods](https://bvasiles.github.io/empirical-methods/) - Homepage for 17-803 “Empirical Methods” at Carnegie Mellon University
-
-- [Todepond dot com](https://www.todepond.com/wikiblogarden/better-computing/just/)
 
 - [Things I Keep Repeating About Writing](https://www.clairelegoues.com/posts/clg-writing-rules.html) - I often write papers with students, or read students’ papers to provide comments, and I find myself saying the same things over and over, especially the first time out.*  So: here’s a blog post I can point them to to (hopefully!) save us all some time and trouble. I plan to update it as I remember more things I say repeatedly.
 

@@ -1,4 +1,14 @@
 # videos
+- [CAPTAIN YAJIMA](https://www.youtube.com/watch?v=l-TJm7HkzkQ)
+
+- [Witches On Tinder](https://www.youtube.com/watch?v=5KO2IjWI9fA)
+
+- [How To Explain Things Real Good (Stanford mini-talk)](https://www.youtube.com/watch?v=b-M2U3Jl1Cg)
+
+- [9-year-old boy wins seagull screeching competition](https://www.youtube.com/watch?v=gLHKWWJRV74)
+
+- [Wat](https://www.destroyallsoftware.com/talks/wat)
+
 - [The World’s Worst Translator | Alternatino](https://www.youtube.com/watch?v=foT9rsHmS24)
 
 - [Harder Drive: Hard drives we didn't want or need](https://www.youtube.com/watch?v=JcJSW7Rprio)

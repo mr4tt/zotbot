@@ -1,11 +1,37 @@
 # computing_resources
+- [Pelican navbar menu items](https://appliedcaffeine.org/blog/navbaritems/) - Static site generators can greatly reduce the slope of the website creation learning curve. Take advantage of these tools if you are interested in creating your own simple website but want to sidestep manually generating the HTML and CSS on your own.
+
+- [Article Listing | Datadog Security Labs](https://securitylabs.datadoghq.com/articles) - Datadog Security Labs is the place to read blog content about security research and tooling published by Datadog for the community.
+
+- [AI Safety for Fleshy Humans: a whirlwind tour](https://aisafety.dance/) - Your one-stop-shop to understand all the core ideas of AI & AI Safety!
+
+- [Book: Alice’s Adventures in a differentiable wonderland](https://sscardapane.it/alice-book/) - My personal website, where I collect slides, publications, and presentations.
+
+- [Google Testing Blog](https://testing.googleblog.com/)
+
+- [Nature of Code](https://natureofcode.com) - Over a decade ago, I self-published The Nature of Code, an online resource and print book exploring the unpredictable evolutionary and emergent proper
+
+- [The Wrong Abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction) - I've been thinking about the consequences of the "wrong abstraction." &nbsp;My RailsConf 2014 "all the little things" talk included a section where I asserted:  &gt; duplication is far cheaper than the wrong abstraction  And in the summary, I went on to advise:  &gt;
+
+- [Sha256 Algorithm Explained](https://sha256algorithm.com/) - Sha256 algorithm explained online step by step visually
+
+- [Fear Driven Development](https://speakerdeck.com/ryankennedy/fear-driven-development)
+
+- [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
+
+- [CSS Button Styles You Might Not Know](https://dbushell.com/2024/03/10/css-button-styles-you-might-not-know/) - The one where I demo some lesser-known CSS for stylin’ buttons
+
+- [The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python](https://docs.python-guide.org/) - An opinionated guide to the Python programming language and a best practice handbook for the installation, configuration, and usage of Python on a daily basis.
+
+- [Optimizing Javascript for fun and for profit](https://romgrk.com/posts/optimizing-javascript)
+
+- [Consensus Protocol | Raft | Consul | HashiCorp Developer](https://developer.hashicorp.com/consul/docs/architecture/consensus) - Consul ensures a consistent state using the Raft protocol. A quorum, or a majority of server agents with one leader, agree to state changes before committing to the state log. Learn how Raft works in Consul to ensure state consistency and how that state can be read with different consistency modes to balance read latency and consistency.
+
 - [The Secret Lives of Data](https://thesecretlivesofdata.com/)
 
 - [Service discovery at Stripe](https://stripe.com/blog/service-discovery-at-stripe) - Online payment processing for internet businesses. Stripe is a suite of payment APIs that powers commerce for businesses of all sizes.
 
 - [True Zero Downtime HAProxy Reloads](https://web.archive.org/web/20200203215433/https://engineeringblog.yelp.com/2015/04/true-zero-downtime-haproxy-reloads.html)
-
-- [One Mo' Gin](https://onemogin.com/)
 
 - [What I tell people new to on-call | nicole@web](https://ntietz.com/blog/what-i-tell-people-new-to-oncall/)
 
@@ -16,8 +42,6 @@
 - [Exactly Once](https://exactly-once.github.io/) - On distributed systems by [@SzymonPobiega](http://twitter.com/SzymonPobiega) and [@Masternak](http://twitter.com/Masternak)
 
 - [Convert curl commands to code](https://curlconverter.com/)
-
-- [Article Listing | Datadog Security Labs](https://securitylabs.datadoghq.com/articles/?s=container%20security%20fundamentals) - Datadog Security Labs is the place to read blog content about security research and tooling published by Datadog for the community.
 
 - [Church encoding](https://blog.ploeh.dk/2018/05/22/church-encoding/) - Church encoding is a unified way to model data and functions. An introduction for object-oriented developers.
 
@@ -57,8 +81,6 @@
 
 - [wizard zines](https://wizardzines.com/)
 
-- [Robert Heaton | Blog](https://robertheaton.com) - Software engineer. One-track lover down a two-way lane
-
 - [explainshell.com - match command-line arguments to their help text](https://explainshell.com/)
 
 - [BashPitfalls - Greg's Wiki](https://mywiki.wooledge.org/BashPitfalls#for_f_in_.24.28ls_.2A.mp3.29)
@@ -89,8 +111,6 @@
 
 - [Learn Git Branching](https://pcottle.github.io/learnGitBranching/index.html?demo) - An interactive Git visualization tool to educate and challenge!
 
-- [Pelican navbar menu items](https://appliedcaffeine.org/blog/navbaritems/) - Static site generators can greatly reduce the slope of the website creation learning curve. Take advantage of these tools if you are interested in creating your own simple website but want to sidestep manually generating the HTML and CSS on your own.
-
 - [links | TenThousandMeters.com](https://tenthousandmeters.com/links/page-1/)
 
 - [jvns/pandas-cookbook](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library
@@ -104,8 +124,6 @@
 - [r4victor/brtlx](https://github.com/r4victor/brtlx) - 📚💻 Content for https://bestresourcestolearnx.com
 
 - [How Levels.fyi scaled to millions of users with Google Sheets as a backend](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html) - Our philosophy to scaling is simple, avoid premature optimization
-
-- [Glaze - What is Glaze](https://glaze.cs.uchicago.edu/what-is-glaze.html)
 
 - [dbdiagram.io - Database Relationship Diagrams Design Tool](https://dbdiagram.io/home) - Quick and simple free tool to help you draw your database relationship diagrams and flow quickly using simple DSL language.
 
