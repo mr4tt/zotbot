@@ -17,7 +17,9 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # blogs
-- [From Naptime to Big Sleep: Using Large Language Models To Catch Vulnerabilities In Real-World Code](https://googleprojectzero.blogspot.com/)
+- [Things Of Interest @ Things Of Interest](https://qntm.org/)
+
+- [Google Project Zero](https://googleprojectzero.blogspot.com/)
 
 - [blog | TenThousandMeters.com](https://tenthousandmeters.com/)
 
@@ -70,6 +72,10 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Now for a subjective diatribe about Docker's poor use of analogies @ Things Of Interest](https://qntm.org/diatribe)
+
+- [commitment is the only secret knowledge](https://read.mindmine.xyz/p/commit) - everything else is just a distraction
+
 - [Scott And Scurvy (Idle Words)](https://idlewords.com/2010/03/scott_and_scurvy.htm)
 
 - [Predicting The Future | Alan Kay](http://www.ecotopia.com/webpress/futures.htm)
@@ -91,8 +97,6 @@ To view a single category, check the files/ folder.
 - [Call of the Void: Seven years on, what do we know about the disappearance of Malaysia Airlines…](https://admiralcloudberg.medium.com/call-of-the-void-seven-years-on-what-do-we-know-about-the-disappearance-of-malaysia-airlines-77fa5244bf99) - “Good night, Malaysian three seven zero.”
 
 - [A literary history of fake texts in Apple's marketing materials](https://maxread.substack.com/p/a-literary-history-of-fake-texts) - Exploring the Applecore style
-
-- [commitment is the only secret knowledge](https://read.mindmine.xyz/p/commit) - everything else is just a distraction // Conquer Avoidance course is live!!!
 
 - [Michael Orlitzky { CSC ServiceWorks laundry machine coin bypass }](https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml?ref=404media.co)
 
