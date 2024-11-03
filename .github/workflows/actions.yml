@@ -37,12 +37,13 @@ jobs:
         run: |
           git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
 
-      - name: Commit files
+      - name: Add and commit files
         if: steps.verify_diff.outputs.changed == 'true'
         run: |
           git config --local user.email ${{ secrets.EMAIL }}
           git config --local user.name ${{ secrets.NAME }}
-          git commit -a -m "adding new saved links on ${{ env.TIME }}"
+          git add --all
+          git commit -m "adding new saved links on ${{ env.TIME }}"
 
       - name: GitHub Push
         uses: ad-m/github-push-action@v0.6.0
