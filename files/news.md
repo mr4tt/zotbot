@@ -1,4 +1,28 @@
 # news
+- [The Landlord, the Tenant and a House Fire in Milwaukee](https://www.propublica.org/article/milwaukee-fire-brunner-belen-landlord-tenant) - A young mother rents a house near Milwaukee. The previous tenant tells her, “Baby, they shouldn’t have let you move in.”
+
+- [Inside TSMC’s struggle to build a chip factory in the U.S. suburbs](https://restofworld.org/2024/tsmc-arizona-expansion/) - Missed deadlines and tension among Taiwanese and American coworkers are plaguing the chip giant’s Phoenix expansion.
+
+- [Voyager 1 transmitting data again after Nasa remotely fixes 46-year-old probe](https://www.theguardian.com/science/2024/apr/23/voyager-1-transmitting-data-again-after-nasa-remotely-fixes-46-year-old-probe) - Engineers spent months working to repair link with Earth’s most distant spacecraft, says space agency
+
+- [Boy, 9, from Derbyshire, wins European gull screeching championship](https://www.theguardian.com/world/2024/apr/23/boy-9-from-derbyshire-wins-gull-screeching-competition) - Cooper Wallace wore a costume and lunged at some chips at the impersonation contest in Belgium
+
+- [Unloved by Generations of Soldiers, the M.R.E. Finds a Fan Base](https://www.nytimes.com/2021/06/08/dining/mre-meals-ready-to-eat.html) - The rations often derided as ‘Meals, Rarely Edible’ have gotten (somewhat) better and become objects of fascination for millions of civilians.
+
+- [World War II-era Munitions Found Dumped Off Los Angeles Coast](https://www.nytimes.com/2024/01/08/us/world-war-ii-munitions-los-angeles.html) - Using a high-tech underwater camera, researchers identified anti-submarine explosives, smoke devices and boxes of munitions on the ocean floor.
+
+- [Lapsus$: GTA 6 hacker handed indefinite hospital order](https://www.bbc.com/news/technology-67663128) - Judge says hacker remains a high risk through his skills and motivation to carry out cyber-crime.
+
+- [The Oldest Active Torrent on the Internet Is 20 Years Old Today, and It Rules](https://www.vice.com/en/article/the-oldest-active-torrent-on-the-internet-is-20-years-old-today-and-it-rules/) - Hundreds of people are still hosting a fan-made 'Matrix' tribute on the file-sharing network, two decades later.
+
+- [Empty skies after 9/11 set the stage for an unlikely climate change experiment - National | Globalnews.ca](https://globalnews.ca/news/2934513/empty-skies-after-911-set-the-stage-for-an-unlikely-climate-change-experiment/) - Thousands of jets leave contrails over North America every day. They affect climate, but figuring out how was one of the more unlikely legacies of 9/11.
+
+- [How a Cooling Vest Invented by a Furry Made Its Way Into the U.S. Military](https://www.thedailybeast.com/how-a-cooling-vest-invented-by-a-furry-made-its-way-into-the-us-military/) - From a Navy site in Japan to an Air Force base in Washington state, an innovation from one of the internet’s quirkiest communities is making fans in surprising places.
+
+- [Does The Government Have The Right To Keep And Arm Bears (With Cameras)?](https://www.techdirt.com/2023/06/13/does-the-government-have-the-right-to-keep-and-arm-bears-with-cameras/) - No matter what differences of opinion I might have with Volokh Conspiracy contributors, it must be said the site (now hosted at Reason after a brief run at the Washington Post) manages to surface t…
+
+- ['Bizarro World' - The Boston Globe](https://archive.boston.com/news/globe/magazine/articles/2007/08/19/bizarro_world/)
+
 - [Character.ai Faces Lawsuit After Teen’s Suicide](https://www.nytimes.com/2024/10/23/technology/characterai-lawsuit-teen-suicide.html) - The mother of a 14-year-old Florida boy says he became obsessed with a chatbot on Character.AI before his death.
 
 - [Why Texas Secretly Loves Illegal Immigration](https://www.texasmonthly.com/news-politics/border-crisis-texas-solutions/) - Texas politicians have no interest in actually solving the border crisis, which would require devastating the state's economy.
@@ -22,6 +46,8 @@
 - [The Untold Hunt for a Sex Trafficker](https://www.404media.co/email/dd3f2b44-5e8f-4195-a1b1-c7fa064b5965/) - Michael Pratt hid a massive sex trafficking ring in plain sight on PornHub. On the run from the FBI, an unexpected crew of ex-military, ex-intelligence officers and a lawyer tracked him down using his love of rare sneakers and crypto. For the first time, the group tells their story.
 
 - [In a seafloor surprise, metal-rich chunks may generate deep-sea oxygen](https://www.sciencenews.org/article/seafloor-metal-nodules-deep-sea-oxygen) - Instead of sinking from the surface, some deep-sea oxygen may be created by battery-like nodules that split water into hydrogen and oxygen.
+
+- [Traveling this summer? Maybe don’t let the airport scan your face.](https://www.vox.com/future-perfect/360952/summer-travel-airport-facial-recognition-scan) - You have the right to opt out of facial recognition tech. Here’s how.
 
 - [Looks That Quill: The Dark Side of Hedgehog Instagram](https://www.wired.com/story/unbearable-cuteness-instagram-hedgehog-influencers/) - Beneath the tiny top hats and GIF-able snuggle sessions, I found a sad tale of internet virality.
 
@@ -172,30 +198,4 @@
 - [The cognitive dissonance of watching the end of Roe unfold online](https://www.technologyreview.com/2022/08/09/1056733/end-roe-dobbs-online-reaction-tech-policy-history/) - People learned about the decision on the same devices they’ll use to help those in need circumvent it.
 
 - [The Mystery of Chernobyl’s Post-Invasion Radiation Spikes](https://www.wired.com/story/chernobyl-radiation-spike-mystery/) - Soon after Russian troops invaded Ukraine in February 2022, sensors in the Chernobyl Exclusion Zone reported radiation spikes. A researcher now believes he’s found evidence the data was manipulated.
-
-- [These women fell in love with an AI-voiced chatbot. Then it died](https://restofworld.org/2023/boyfriend-chatbot-ai-voiced-shutdown/) - An AI-voiced virtual lover called users every morning. Its shutdown left them heartbroken.
-
-- [Right to repair’s unlikely new adversary: Scientologists](https://arstechnica.com/gadgets/2023/08/right-to-repairs-new-unlikely-adversary-scientologists/) - "A totally unreasonable proposal."
-
-- [Unmasking Trickbot, One of the World’s Top Cybercrime Gangs](https://www.wired.com/story/trickbot-trickleaks-bentley/) - A WIRED investigation into a cache of documents posted by an unknown figure lays bare the Trickbot ransomware gang’s secrets, including the identity of a central member.
-
-- [Age of Empires and live ants used to test theoretical ideas on combat](https://arstechnica.com/science/2023/08/age-of-empires-and-live-ants-used-to-test-theoretical-ideas-on-combat/) - Theories dating back to World War I put to the test with Australian meat ants.
-
-- [The FBI accused him of spying for China. It ruined his life.](https://www.technologyreview.com/2021/06/27/1027350/anming-hu-china-initiative-research-espionage-spying/) - Anming Hu’s case was meant to be a victory for the “China Initiative,” a US effort to root out spies. Instead, it turned more attention on the FBI.
-
-- [One Drive, Double Agent - OneDrive Ransomware](https://www.safebreach.com/resources/one-drive-double-agent-clouded-onedrive-turns-sides/) - See how a SafeBreach Labs researcher leveraged Microsoft OneDrive to develop a new undetectable-by-design ransomware variant.
-
-- [He Had a Dark Secret. It Changed His Best Friend’s Life.](https://www.nytimes.com/2022/07/08/nyregion/brooklyn-homeless-shelter-friendship.html) - Tin Chin and Mo Lin were inseparable at the homeless shelter. But one of the men wasn’t who he seemed to be.
-
-- [The Vanishing Family - The New York Times](https://www.nytimes.com/2023/07/20/magazine/family-genetics-frontotemporal-dementia.html)
-
-- [US soldier facing disciplinary action flees into North Korea](https://www.reuters.com/world/us-national-crosses-military-demarcation-line-into-north-korea-yonhap-2023-07-18/) - The soldier was believed to be in North Korean custody, U.S. officials said, creating a fresh crisis for Washington in its dealings with the nuclear-armed state.
-
-- [Their Crypto Company Collapsed. They Went to Bali.](https://www.nytimes.com/2023/06/09/technology/three-arrows-cryto-bali.html) - The implosion of Three Arrows Capital, a cryptocurrency hedge fund, devastated the industry. Its two founders spent the next year surfing, meditating and traveling the world.
-
-- [The thorny social politics of location sharing](https://www.vox.com/culture/23742552/location-sharing-iphone-friends-privacy-risks) - "I love you, now let me watch your location 24/7."
-
-- [Elon Musk’s Neuralink is neuroscience theater](https://www.technologyreview.com/2020/08/30/1007786/elon-musks-neuralink-demo-update-neuroscience-theater/) - Elon Musk’s livestreamed brain implant event made promises that will be hard to keep.
-
-- [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/) - How I accidentally breached a nonexistent database and found every private key in a 'state-of-the-art' encrypted messenger called Converso.
 

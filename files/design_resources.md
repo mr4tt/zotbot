@@ -1,4 +1,26 @@
 # design_resources
+- [Tools for better thinking](https://untools.co/) - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
+
+- [Identity Designed](https://identitydesigned.com/) - A showcase of brand identities from around the world, with an accompanying book on the intricacies of the design process.
+
+- [Phosphor Icons - Toolfolio.io](https://toolfolio.io/blog/a-flexible-icon-family-for-interfaces-diagrams-presentations) - A flexible icon family for interfaces, diagrams, presentations.
+
+- [Public Sans](https://public-sans.digital.gov/) - A strong, neutral, open source typeface for text or display.
+
+- [Office Chair Finder | Vitra](https://findmy.vitra.com/en-en/questionnaire/chairs) - Welcome to our office chair finder
+
+- [Design Systems Database](https://designsystems.surf/) - Best-in-class Design Systems with components and foundations references from top-tier tech companies and leading UI teams
+
+- [Figma](https://www.figma.com/proto/fSeQqlIw4aZpGrTs9LjDIY/S%2526D-%252F-Process-2024?page-id=0%3A1&node-id=1-3&viewport=478%2C160%2C0.07&scaling=containn) - Created with Figma
+
+- [Inspovault](https://www.inspovault.com/)
+
+- [Motherish](https://artsyomni.gumroad.com/l/motherish) - OverviewAn original typeface closely based on the dialogue text in those quirky JRPGs about kids in striped shirts. Each character has been meticulously designed to capture the charm of the pixelated lettering that inspired this font family.Motherish is appropriate for moderate quantities of body copy as well as display sizes. The complete family co...
+
+- [How to Stay Up To Date With Spatial Design as a UX Designer](https://designbuddies.substack.com/p/spatial-design) - Unlock the potential of spatial design: A guide for UX designers to stay updated and ahead in the field.
+
+- [Free fonts](https://uncut.wtf/) - Download somewhat contemporary fonts, free for commercial use
+
 - [Laws of UX](https://lawsofux.com/) - Laws of UX is a collection of best practices that designers can consider when building user interfaces.
 
 - [Server Mono](https://servermono.com) - Server Mono is a typeface inspired by typewriters, Apple's San Francisco Mono, ASCII art, command-line interfaces, and programming tools.
