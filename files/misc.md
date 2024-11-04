@@ -1,4 +1,14 @@
 # misc
+- [llama.ttf](https://fuglede.github.io/llama.ttf/)
+
+- [Alicia Guo](https://mangotango.mmm.page/) - welcome to my digital tea garden 🌱
+
+- [Shm Garanganao Almeda](https://shmgaranganao.myportfolio.com/work) - fine artist. fan artist. computer scientist.
+
+- [Close - Travel Time Map (beta)](https://close.city/) - Close travel time map. Find neighborhoods where you can walk, bike, or take public transit to the amenities that matter most to you.
+
+- [ASCIIFlow](https://asciiflow.com/#/)
+
 - [Piano Typer | Galactic Puzzle Hunt 2022](https://2021.galacticpuzzlehunt.com/puzzle/piano-typer) - Pencils down! The Galactic Aptitude Test has come to an end. Your scores are now final.
 
 - [F-16.net - The ultimate F-16, F-35 and F-22 reference](https://www.f-16.net/)

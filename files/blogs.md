@@ -1,4 +1,6 @@
 # blogs
+- [Anton Zhiyanov](https://antonz.org/) - Everything about Go, SQL, and software in general.
+
 - [Things Of Interest @ Things Of Interest](https://qntm.org/)
 
 - [Google Project Zero](https://googleprojectzero.blogspot.com/)

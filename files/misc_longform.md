@@ -1,4 +1,16 @@
 # misc_longform
+- [Oxidation Paintings](https://www.warhol.org/conservation/oxidation-paintings/) - Warhol for All
+
+- [Engineering for Slow Internet – brr](https://brr.fyi/posts/engineering-for-slow-internet) - How to minimize user frustration in Antarctica.
+
+- [Be findable](https://registerspill.thorstenball.com/p/be-findable) - “But isn’t that self-promotion?”, said with a disgusted face.
+
+- [Deadspin | The Confessions Of A Former Adolescent Puck Tease](https://deadspin.com/the-confessions-of-a-former-adolescent-puck-tease-5697455/) - Deadspin | The Confessions Of A Former Adolescent Puck Tease
+
+- [The Rise and Fall of Temple of Jawnz: The Drew Keith Story](https://afine-toothcomb.blogspot.com/2015/07/the-rise-and-fall-of-temple-of-jawnz.html)
+
+- [Why the State Department’s intelligence agency may be the best in DC](https://www.vox.com/future-perfect/351638/bureau-of-intelligence-and-research-inr-guidance-explained) - INR is “almost always right.” How come nobody has heard of it?
+
 - [Now for a subjective diatribe about Docker's poor use of analogies @ Things Of Interest](https://qntm.org/diatribe)
 
 - [commitment is the only secret knowledge](https://read.mindmine.xyz/p/commit) - everything else is just a distraction

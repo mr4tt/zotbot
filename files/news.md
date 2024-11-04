@@ -1,4 +1,10 @@
 # news
+- [The Maps of Israeli Settlements That Shocked Barack Obama](https://www.newyorker.com/news/news-desk/the-map-of-israeli-settlements-that-shocked-barack-obama) - An image in a government briefing book helped a State Department official see “the forest for the trees” in the West Bank—and then was shared with the President.
+
+- [Your Driving, Tracked](https://www.nytimes.com/2024/06/09/briefing/driving-apps-insurance-tracking.html) - We explore the apps that are quietly tracking drivers’ habits.
+
+- [Something Strange Happens to Wolves Infected by an Infamous Mind-Altering Parasite](https://www.sciencealert.com/something-strange-happens-to-wolves-infected-by-an-infamous-mind-altering-parasite) - A study of 26 years' worth of wolf behavioral data, and an analysis of the blood of 229 wolves, has shown that infection with the parasite Toxoplasma gondii makes wolves 46 times more likely to become a pack leader.
+
 - [The Landlord, the Tenant and a House Fire in Milwaukee](https://www.propublica.org/article/milwaukee-fire-brunner-belen-landlord-tenant) - A young mother rents a house near Milwaukee. The previous tenant tells her, “Baby, they shouldn’t have let you move in.”
 
 - [Inside TSMC’s struggle to build a chip factory in the U.S. suburbs](https://restofworld.org/2024/tsmc-arizona-expansion/) - Missed deadlines and tension among Taiwanese and American coworkers are plaguing the chip giant’s Phoenix expansion.
@@ -192,10 +198,4 @@
 - [Swipe Right to Hire Me: How Tinder Became China’s Hottest Networking App](https://www.sixthtone.com/news/1013710) - Young Chinese are increasingly using the dating app to hunt for potential job openings amid soaring graduate unemployment. But the trend is sparking concern among the platform’s users — and inside Tinder itself.
 
 - [And Now a Word From Voice-over Actors](https://www.chicagomag.com/chicago-magazine/september-2023/everyone-tells-me-i-have-a-great-voice/) - It may seem easy, but making a career out of talking isn't as simple as it sounds.
-
-- [Elon Musk Does It. Sergey Brin Does It. Your Boss Might Do It. Welcome to the Workplace Shroom Boom](https://www.wired.co.uk/article/microdosing-workplace-shroom-boom) - Microdosing in the workplace is becoming increasingly common in Europe, even though it’s illegal in many countries and the benefits aren’t entirely proven.
-
-- [The cognitive dissonance of watching the end of Roe unfold online](https://www.technologyreview.com/2022/08/09/1056733/end-roe-dobbs-online-reaction-tech-policy-history/) - People learned about the decision on the same devices they’ll use to help those in need circumvent it.
-
-- [The Mystery of Chernobyl’s Post-Invasion Radiation Spikes](https://www.wired.com/story/chernobyl-radiation-spike-mystery/) - Soon after Russian troops invaded Ukraine in February 2022, sensors in the Chernobyl Exclusion Zone reported radiation spikes. A researcher now believes he’s found evidence the data was manipulated.
 

@@ -17,6 +17,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # blogs
+- [Anton Zhiyanov](https://antonz.org/) - Everything about Go, SQL, and software in general.
+
 - [Things Of Interest @ Things Of Interest](https://qntm.org/)
 
 - [Google Project Zero](https://googleprojectzero.blogspot.com/)
@@ -72,6 +74,18 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Oxidation Paintings](https://www.warhol.org/conservation/oxidation-paintings/) - Warhol for All
+
+- [Engineering for Slow Internet – brr](https://brr.fyi/posts/engineering-for-slow-internet) - How to minimize user frustration in Antarctica.
+
+- [Be findable](https://registerspill.thorstenball.com/p/be-findable) - “But isn’t that self-promotion?”, said with a disgusted face.
+
+- [Deadspin | The Confessions Of A Former Adolescent Puck Tease](https://deadspin.com/the-confessions-of-a-former-adolescent-puck-tease-5697455/) - Deadspin | The Confessions Of A Former Adolescent Puck Tease
+
+- [The Rise and Fall of Temple of Jawnz: The Drew Keith Story](https://afine-toothcomb.blogspot.com/2015/07/the-rise-and-fall-of-temple-of-jawnz.html)
+
+- [Why the State Department’s intelligence agency may be the best in DC](https://www.vox.com/future-perfect/351638/bureau-of-intelligence-and-research-inr-guidance-explained) - INR is “almost always right.” How come nobody has heard of it?
+
 - [Now for a subjective diatribe about Docker's poor use of analogies @ Things Of Interest](https://qntm.org/diatribe)
 
 - [commitment is the only secret knowledge](https://read.mindmine.xyz/p/commit) - everything else is just a distraction
@@ -283,6 +297,8 @@ To view a single category, check the files/ folder.
 - [How to make a Baby Seal - BEGINNER FRIENDLY - ALMOST NO SEW](https://www.youtube.com/watch?v=hlPHXrA2Qqg)
 
 # papers
+- [The Prompt Report](https://trigaten.github.io/Prompt_Survey_Site/)
+
 - [Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors](http://arxiv.org/abs/1910.14667) - We present a systematic study of adversarial attacks on state-of-the-art object detection frameworks. Using standard detection datasets, we train patterns that suppress the objectness scores produced by a range of commonly used detectors, and ensembles of detectors. Through extensive experiments, we benchmark the effectiveness of adversarially train...
 
 - [An Abundance of Katherines: The Game Theory of Baby Naming](http://arxiv.org/abs/2404.00732) - In this paper, we study the highly competitive arena of baby naming. Through making several Extremely Reasonable Assumptions (namely, that parents are myopic, perfectly knowledgeable agents who pick a name based solely on its uniquness), we create a model which is not only tractable and clean, but also perfectly captures the real world. We then exte...
@@ -495,6 +511,14 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Teranoptia - Tunera Type Foundry](https://www.tunera.xyz/fonts/teranoptia/)
+
+- [Arnaud Mercier — Retrospective 1999-2011](https://arnaud.area17.com/project/Intro)
+
+- [Archive — AREA 17](https://archive.area17.com/)
+
+- [The best WWDC videos about interface design](https://anthonyhobday.com/blog/20220614.html)
+
 - [Tools for better thinking](https://untools.co/) - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 
 - [Identity Designed](https://identitydesigned.com/) - A showcase of brand identities from around the world, with an accompanying book on the intricacies of the design process.
@@ -610,6 +634,10 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [UUIDv7 in 33 languages](https://antonz.org/uuidv7/) - From JavaScript to Zig, no third-party dependencies.
+
+- [CSS Diner](http://cssdiner.com) - A fun game to help you learn and practice CSS selectors.
+
 - [Pelican navbar menu items](https://appliedcaffeine.org/blog/navbaritems/) - Static site generators can greatly reduce the slope of the website creation learning curve. Take advantage of these tools if you are interested in creating your own simple website but want to sidestep manually generating the HTML and CSS on your own.
 
 - [Article Listing | Datadog Security Labs](https://securitylabs.datadoghq.com/articles) - Datadog Security Labs is the place to read blog content about security research and tooling published by Datadog for the community.
@@ -874,6 +902,12 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The Maps of Israeli Settlements That Shocked Barack Obama](https://www.newyorker.com/news/news-desk/the-map-of-israeli-settlements-that-shocked-barack-obama) - An image in a government briefing book helped a State Department official see “the forest for the trees” in the West Bank—and then was shared with the President.
+
+- [Your Driving, Tracked](https://www.nytimes.com/2024/06/09/briefing/driving-apps-insurance-tracking.html) - We explore the apps that are quietly tracking drivers’ habits.
+
+- [Something Strange Happens to Wolves Infected by an Infamous Mind-Altering Parasite](https://www.sciencealert.com/something-strange-happens-to-wolves-infected-by-an-infamous-mind-altering-parasite) - A study of 26 years' worth of wolf behavioral data, and an analysis of the blood of 229 wolves, has shown that infection with the parasite Toxoplasma gondii makes wolves 46 times more likely to become a pack leader.
+
 - [The Landlord, the Tenant and a House Fire in Milwaukee](https://www.propublica.org/article/milwaukee-fire-brunner-belen-landlord-tenant) - A young mother rents a house near Milwaukee. The previous tenant tells her, “Baby, they shouldn’t have let you move in.”
 
 - [Inside TSMC’s struggle to build a chip factory in the U.S. suburbs](https://restofworld.org/2024/tsmc-arizona-expansion/) - Missed deadlines and tension among Taiwanese and American coworkers are plaguing the chip giant’s Phoenix expansion.
@@ -1068,16 +1102,14 @@ To view a single category, check the files/ folder.
 
 - [And Now a Word From Voice-over Actors](https://www.chicagomag.com/chicago-magazine/september-2023/everyone-tells-me-i-have-a-great-voice/) - It may seem easy, but making a career out of talking isn't as simple as it sounds.
 
-- [Elon Musk Does It. Sergey Brin Does It. Your Boss Might Do It. Welcome to the Workplace Shroom Boom](https://www.wired.co.uk/article/microdosing-workplace-shroom-boom) - Microdosing in the workplace is becoming increasingly common in Europe, even though it’s illegal in many countries and the benefits aren’t entirely proven.
-
-- [The cognitive dissonance of watching the end of Roe unfold online](https://www.technologyreview.com/2022/08/09/1056733/end-roe-dobbs-online-reaction-tech-policy-history/) - People learned about the decision on the same devices they’ll use to help those in need circumvent it.
-
-- [The Mystery of Chernobyl’s Post-Invasion Radiation Spikes](https://www.wired.com/story/chernobyl-radiation-spike-mystery/) - Soon after Russian troops invaded Ukraine in February 2022, sensors in the Chernobyl Exclusion Zone reported radiation spikes. A researcher now believes he’s found evidence the data was manipulated.
-
 # wikipedia
+- [<i>title of show</i>](https://en.wikipedia.org/w/index.php?title=Title_of_show&oldid=1254057294) - [title of show] is a one-act musical, with music and lyrics by Jeff Bowen and a book by Hunter Bell.  The show chronicles its own creation as an entry in the New York Musical Theatre Festival, and follows the struggles of the author and composer/lyricist and their two actress friends during the initial brief (three-week) creative period, along with ...
+
 - [Gay and Lesbian Kingdom of the Coral Sea Islands](https://en.wikipedia.org/w/index.php?title=Gay_and_Lesbian_Kingdom_of_the_Coral_Sea_Islands&oldid=1247467387) - The Gay and Lesbian Kingdom of the Coral Sea Islands (also known as the Gay Kingdom of the Coral Sea) was a putative micronation established as a symbolic political protest by a group of gay rights activists based in Australia. Declared in June 2004 in response to the introduction of a government bill to the Australian Parliament in May 2004 (and pa...
 
 - [Tensioned stone](https://en.wikipedia.org/w/index.php?title=Tensioned_stone&oldid=1248923705) - Tensioned stone is a high-performance composite construction material: stone held in compression with tension elements. The tension elements can be connected to the outside of the stone, but more typically tendons are threaded internally through a drilled duct. Tensioned stone can consist of a single block of stone, though drill limitations and othe...
+
+- [Cephalophore](https://en.wikipedia.org/w/index.php?title=Cephalophore&oldid=1252762787) - A cephalophore (from the Greek for "head-carrier") is a saint who is generally depicted carrying their severed head. In Christian art, this was usually meant to signify that the subject in question had been martyred by beheading. Depicting the requisite halo in this circumstance offers a unique challenge for the artist: some put the halo where the h...
 
 - [Miller columns](https://en.wikipedia.org/w/index.php?title=Miller_columns&oldid=1250715176) - Miller columns (also known as cascading lists) are a browsing/visualization technique that can be applied to tree structures. The columns allow multiple levels of the hierarchy to be open at once, and provide a visual representation of the current location. It is closely related to techniques used earlier in the Smalltalk browser, but was independen...
 
@@ -1271,11 +1303,17 @@ To view a single category, check the files/ folder.
 
 - [2008 submarine cable disruption](https://en.wikipedia.org/w/index.php?title=2008_submarine_cable_disruption&oldid=1136808398) - The 2008 submarine cable disruption refers to three separate incidents of major damage to submarine optical communication cables around the world. The first incident caused damage involving up to five high-speed Internet submarine communications cables in the Mediterranean Sea and Middle East from 23 January to 4 February 2008, causing internet disr...
 
-- [Lenin was a mushroom](https://en.wikipedia.org/w/index.php?title=Lenin_was_a_mushroom&oldid=1167093811) - Lenin was a mushroom (Russian: Ленин — гриб) was a highly influential televised hoax by Soviet musician Sergey Kuryokhin and reporter Sergey Sholokhov. It was first broadcast on 17 May 1991 on Leningrad Television.
-
-- [Hebenon](https://en.wikipedia.org/w/index.php?title=Hebenon&oldid=1138233512) - Hebenon (or hebona) is a botanical substance described in William Shakespeare's tragic play Hamlet. The identity and nature of the poison has been a source of speculation for centuries.
-
 # misc
+- [llama.ttf](https://fuglede.github.io/llama.ttf/)
+
+- [Alicia Guo](https://mangotango.mmm.page/) - welcome to my digital tea garden 🌱
+
+- [Shm Garanganao Almeda](https://shmgaranganao.myportfolio.com/work) - fine artist. fan artist. computer scientist.
+
+- [Close - Travel Time Map (beta)](https://close.city/) - Close travel time map. Find neighborhoods where you can walk, bike, or take public transit to the amenities that matter most to you.
+
+- [ASCIIFlow](https://asciiflow.com/#/)
+
 - [Piano Typer | Galactic Puzzle Hunt 2022](https://2021.galacticpuzzlehunt.com/puzzle/piano-typer) - Pencils down! The Galactic Aptitude Test has come to an end. Your scores are now final.
 
 - [F-16.net - The ultimate F-16, F-35 and F-22 reference](https://www.f-16.net/)

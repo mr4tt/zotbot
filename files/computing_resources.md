@@ -1,4 +1,8 @@
 # computing_resources
+- [UUIDv7 in 33 languages](https://antonz.org/uuidv7/) - From JavaScript to Zig, no third-party dependencies.
+
+- [CSS Diner](http://cssdiner.com) - A fun game to help you learn and practice CSS selectors.
+
 - [Pelican navbar menu items](https://appliedcaffeine.org/blog/navbaritems/) - Static site generators can greatly reduce the slope of the website creation learning curve. Take advantage of these tools if you are interested in creating your own simple website but want to sidestep manually generating the HTML and CSS on your own.
 
 - [Article Listing | Datadog Security Labs](https://securitylabs.datadoghq.com/articles) - Datadog Security Labs is the place to read blog content about security research and tooling published by Datadog for the community.

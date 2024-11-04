@@ -1,4 +1,12 @@
 # design_resources
+- [Teranoptia - Tunera Type Foundry](https://www.tunera.xyz/fonts/teranoptia/)
+
+- [Arnaud Mercier — Retrospective 1999-2011](https://arnaud.area17.com/project/Intro)
+
+- [Archive — AREA 17](https://archive.area17.com/)
+
+- [The best WWDC videos about interface design](https://anthonyhobday.com/blog/20220614.html)
+
 - [Tools for better thinking](https://untools.co/) - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 
 - [Identity Designed](https://identitydesigned.com/) - A showcase of brand identities from around the world, with an accompanying book on the intricacies of the design process.

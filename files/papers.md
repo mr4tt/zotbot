@@ -1,4 +1,6 @@
 # papers
+- [The Prompt Report](https://trigaten.github.io/Prompt_Survey_Site/)
+
 - [Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors](http://arxiv.org/abs/1910.14667) - We present a systematic study of adversarial attacks on state-of-the-art object detection frameworks. Using standard detection datasets, we train patterns that suppress the objectness scores produced by a range of commonly used detectors, and ensembles of detectors. Through extensive experiments, we benchmark the effectiveness of adversarially train...
 
 - [An Abundance of Katherines: The Game Theory of Baby Naming](http://arxiv.org/abs/2404.00732) - In this paper, we study the highly competitive arena of baby naming. Through making several Extremely Reasonable Assumptions (namely, that parents are myopic, perfectly knowledgeable agents who pick a name based solely on its uniquness), we create a model which is not only tractable and clean, but also perfectly captures the real world. We then exte...
