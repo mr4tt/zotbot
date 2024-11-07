@@ -1,4 +1,6 @@
 # crochet
+- [Gomu Gomu no Mi Amigurumi | Crochet One Piece](https://www.youtube.com/watch?v=7WfgKGGQzD8)
+
 - [Crochet Flower Patterns](https://moaracrochet.com/free-crochet-flower-patterns/)
 
 - [Crochet Fruit Coasters Pattern - Repeat Crafter Me](https://www.repeatcrafterme.com/2013/04/crochet-fruit-coasters-pattern.html)

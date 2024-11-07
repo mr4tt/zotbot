@@ -1,4 +1,6 @@
 # stories
+- [Wikihistory](https://reactormag.com/wikihistory/) - Wikihistory by Desmond Warzel
+
 - [Love at the Event Horizon](https://www.uncannymagazine.com/article/love-at-the-event-horizon/) - I never thought I’d want to make a film about the Lost Countrymen and the ghosts that haunt their ship. It’s been years since my brief time with them, but how could I forget them, the ghosts muttering to themselves about worlds long gone? Eyes starry wide, dreaming of a future Earth that would receive […]
 
 - [Fandom for Robots](https://www.uncannymagazine.com/article/fandom-for-robots/) - Computron feels no emotion towards the animated television show titled Hyperdimension Warp Record (超次元 ワープ レコード). After all, Computron does not have any emotion circuits installed, and is thus constitutionally incapable of experiencing “excitement,” “hatred,” or “frustration.” It is completely impossible for Computron to experience emotions such as ...

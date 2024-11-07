@@ -1,4 +1,6 @@
 # misc_longform
+- [The 6% Squeeze](https://www.uncannymagazine.com/article/the-6-squeeze/) - Miles checks very carefully that what he’s being asked to do is impossible. He has a template for the packaging, supplied by the licensor, with a note at the top stating this template cannot be altered in any way. Miles also has the style bible prepared by the Mr Zeb brand management team, which must […]
+
 - [Oxidation Paintings](https://www.warhol.org/conservation/oxidation-paintings/) - Warhol for All
 
 - [Engineering for Slow Internet – brr](https://brr.fyi/posts/engineering-for-slow-internet) - How to minimize user frustration in Antarctica.

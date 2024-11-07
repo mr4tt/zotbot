@@ -74,6 +74,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [The 6% Squeeze](https://www.uncannymagazine.com/article/the-6-squeeze/) - Miles checks very carefully that what he’s being asked to do is impossible. He has a template for the packaging, supplied by the licensor, with a note at the top stating this template cannot be altered in any way. Miles also has the style bible prepared by the Mr Zeb brand management team, which must […]
+
 - [Oxidation Paintings](https://www.warhol.org/conservation/oxidation-paintings/) - Warhol for All
 
 - [Engineering for Slow Internet – brr](https://brr.fyi/posts/engineering-for-slow-internet) - How to minimize user frustration in Antarctica.
@@ -262,6 +264,8 @@ To view a single category, check the files/ folder.
 - [0K47](https://0k47.com/) - The official website and shop of 0K47. Find the latest content, buy merch, and support our nerdy apparel.
 
 # crochet
+- [Gomu Gomu no Mi Amigurumi | Crochet One Piece](https://www.youtube.com/watch?v=7WfgKGGQzD8)
+
 - [Crochet Flower Patterns](https://moaracrochet.com/free-crochet-flower-patterns/)
 
 - [Crochet Fruit Coasters Pattern - Repeat Crafter Me](https://www.repeatcrafterme.com/2013/04/crochet-fruit-coasters-pattern.html)
@@ -825,6 +829,8 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # stories
+- [Wikihistory](https://reactormag.com/wikihistory/) - Wikihistory by Desmond Warzel
+
 - [Love at the Event Horizon](https://www.uncannymagazine.com/article/love-at-the-event-horizon/) - I never thought I’d want to make a film about the Lost Countrymen and the ghosts that haunt their ship. It’s been years since my brief time with them, but how could I forget them, the ghosts muttering to themselves about worlds long gone? Eyes starry wide, dreaming of a future Earth that would receive […]
 
 - [Fandom for Robots](https://www.uncannymagazine.com/article/fandom-for-robots/) - Computron feels no emotion towards the animated television show titled Hyperdimension Warp Record (超次元 ワープ レコード). After all, Computron does not have any emotion circuits installed, and is thus constitutionally incapable of experiencing “excitement,” “hatred,” or “frustration.” It is completely impossible for Computron to experience emotions such as ...
@@ -902,6 +908,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Kien, the most-delayed video game in history, released after 22 years](https://www.theguardian.com/games/article/2024/jul/04/kein-the-most-delayed-video-game-in-history-released-after-22-years) - The makers of Italian action game have endured the longest development journey in history. Their game is now finally out – on the long-discontinued Game Boy Advance
+
 - [The Maps of Israeli Settlements That Shocked Barack Obama](https://www.newyorker.com/news/news-desk/the-map-of-israeli-settlements-that-shocked-barack-obama) - An image in a government briefing book helped a State Department official see “the forest for the trees” in the West Bank—and then was shared with the President.
 
 - [Your Driving, Tracked](https://www.nytimes.com/2024/06/09/briefing/driving-apps-insurance-tracking.html) - We explore the apps that are quietly tracking drivers’ habits.
@@ -1099,8 +1107,6 @@ To view a single category, check the files/ folder.
 - [Willy Wonka and the Medical Software Factory](https://www.nytimes.com/2018/12/20/business/epic-systems-campus-verona-wisconsin.html) - The engineers at Epic Systems work on a campus full of childish whimsy but also sit in on open-heart surgery. Is this the indulgence of an oddball founder, or a better way to run an I.T. company?
 
 - [Swipe Right to Hire Me: How Tinder Became China’s Hottest Networking App](https://www.sixthtone.com/news/1013710) - Young Chinese are increasingly using the dating app to hunt for potential job openings amid soaring graduate unemployment. But the trend is sparking concern among the platform’s users — and inside Tinder itself.
-
-- [And Now a Word From Voice-over Actors](https://www.chicagomag.com/chicago-magazine/september-2023/everyone-tells-me-i-have-a-great-voice/) - It may seem easy, but making a career out of talking isn't as simple as it sounds.
 
 # wikipedia
 - [<i>title of show</i>](https://en.wikipedia.org/w/index.php?title=Title_of_show&oldid=1254057294) - [title of show] is a one-act musical, with music and lyrics by Jeff Bowen and a book by Hunter Bell.  The show chronicles its own creation as an entry in the New York Musical Theatre Festival, and follows the struggles of the author and composer/lyricist and their two actress friends during the initial brief (three-week) creative period, along with ...

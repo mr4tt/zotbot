@@ -1,4 +1,6 @@
 # news
+- [Kien, the most-delayed video game in history, released after 22 years](https://www.theguardian.com/games/article/2024/jul/04/kein-the-most-delayed-video-game-in-history-released-after-22-years) - The makers of Italian action game have endured the longest development journey in history. Their game is now finally out – on the long-discontinued Game Boy Advance
+
 - [The Maps of Israeli Settlements That Shocked Barack Obama](https://www.newyorker.com/news/news-desk/the-map-of-israeli-settlements-that-shocked-barack-obama) - An image in a government briefing book helped a State Department official see “the forest for the trees” in the West Bank—and then was shared with the President.
 
 - [Your Driving, Tracked](https://www.nytimes.com/2024/06/09/briefing/driving-apps-insurance-tracking.html) - We explore the apps that are quietly tracking drivers’ habits.
@@ -196,6 +198,4 @@
 - [Willy Wonka and the Medical Software Factory](https://www.nytimes.com/2018/12/20/business/epic-systems-campus-verona-wisconsin.html) - The engineers at Epic Systems work on a campus full of childish whimsy but also sit in on open-heart surgery. Is this the indulgence of an oddball founder, or a better way to run an I.T. company?
 
 - [Swipe Right to Hire Me: How Tinder Became China’s Hottest Networking App](https://www.sixthtone.com/news/1013710) - Young Chinese are increasingly using the dating app to hunt for potential job openings amid soaring graduate unemployment. But the trend is sparking concern among the platform’s users — and inside Tinder itself.
-
-- [And Now a Word From Voice-over Actors](https://www.chicagomag.com/chicago-magazine/september-2023/everyone-tells-me-i-have-a-great-voice/) - It may seem easy, but making a career out of talking isn't as simple as it sounds.
 
