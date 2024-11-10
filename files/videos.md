@@ -1,4 +1,8 @@
 # videos
+- [How on Earth does ^.?$|^(..+?)\1+$ produce primes?](https://www.youtube.com/watch?v=5vbk0TwkokM)
+
+- [Lecture #1: Introduction — Brandon Sanderson on Writing Science Fiction and Fantasy](https://www.youtube.com/watch?v=-6HOdHEeosc)
+
 - [CAPTAIN YAJIMA](https://www.youtube.com/watch?v=l-TJm7HkzkQ)
 
 - [Witches On Tinder](https://www.youtube.com/watch?v=5KO2IjWI9fA)

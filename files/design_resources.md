@@ -1,4 +1,6 @@
 # design_resources
+- [Brand Identity Process](https://www.figma.com/proto/fSeQqlIw4aZpGrTs9LjDIY/S%2526D-%252F-Process-2024?page-id=0%3A1&node-id=1-3&viewport=478%2C160%2C0.07&scaling=containn) - Created with Figma
+
 - [Teranoptia - Tunera Type Foundry](https://www.tunera.xyz/fonts/teranoptia/)
 
 - [Arnaud Mercier — Retrospective 1999-2011](https://arnaud.area17.com/project/Intro)

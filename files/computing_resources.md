@@ -1,4 +1,6 @@
 # computing_resources
+- [Card Stack Tutorial](https://abjt.dev/) - Crafting engaging experiences for the internet.
+
 - [UUIDv7 in 33 languages](https://antonz.org/uuidv7/) - From JavaScript to Zig, no third-party dependencies.
 
 - [CSS Diner](http://cssdiner.com) - A fun game to help you learn and practice CSS selectors.

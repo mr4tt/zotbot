@@ -1,4 +1,6 @@
 # crochet
+- [Crochet gloves pattern - fingerless, full fingers or finger holes](http://www.woolcrafting.com/crochet-gloves-pattern.html)
+
 - [Gomu Gomu no Mi Amigurumi | Crochet One Piece](https://www.youtube.com/watch?v=7WfgKGGQzD8)
 
 - [Crochet Flower Patterns](https://moaracrochet.com/free-crochet-flower-patterns/)

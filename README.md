@@ -74,7 +74,7 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
-- [The 6% Squeeze](https://www.uncannymagazine.com/article/the-6-squeeze/) - Miles checks very carefully that what he’s being asked to do is impossible. He has a template for the packaging, supplied by the licensor, with a note at the top stating this template cannot be altered in any way. Miles also has the style bible prepared by the Mr Zeb brand management team, which must […]
+- [Do Hard Things Carefully](https://blog.depthsofrepair.com/p/do-hard-things-carefully?utm_medium=email) - Leaning in without falling over.
 
 - [Oxidation Paintings](https://www.warhol.org/conservation/oxidation-paintings/) - Warhol for All
 
@@ -223,6 +223,8 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
+- [errornogo](https://errornogo.com/) - errornogo: the brand with no logo. At the apex between contemporary streetwear and early-21st century nostalgia, errornogo seeks to subvert the relentless power of iconic branding with familiar iconography from a shortly-removed time.
+
 - [Fiveboos](https://fiveboos.com/)
 
 - [Sticker Shop](https://www.thejuiceboxclub.shop) - THEJUICEBOXCLUB - Creative Artist - Sticker Shop - Glassware - Tote Bags
@@ -264,6 +266,8 @@ To view a single category, check the files/ folder.
 - [0K47](https://0k47.com/) - The official website and shop of 0K47. Find the latest content, buy merch, and support our nerdy apparel.
 
 # crochet
+- [Crochet gloves pattern - fingerless, full fingers or finger holes](http://www.woolcrafting.com/crochet-gloves-pattern.html)
+
 - [Gomu Gomu no Mi Amigurumi | Crochet One Piece](https://www.youtube.com/watch?v=7WfgKGGQzD8)
 
 - [Crochet Flower Patterns](https://moaracrochet.com/free-crochet-flower-patterns/)
@@ -328,6 +332,10 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [How on Earth does ^.?$|^(..+?)\1+$ produce primes?](https://www.youtube.com/watch?v=5vbk0TwkokM)
+
+- [Lecture #1: Introduction — Brandon Sanderson on Writing Science Fiction and Fantasy](https://www.youtube.com/watch?v=-6HOdHEeosc)
+
 - [CAPTAIN YAJIMA](https://www.youtube.com/watch?v=l-TJm7HkzkQ)
 
 - [Witches On Tinder](https://www.youtube.com/watch?v=5KO2IjWI9fA)
@@ -515,6 +523,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Brand Identity Process](https://www.figma.com/proto/fSeQqlIw4aZpGrTs9LjDIY/S%2526D-%252F-Process-2024?page-id=0%3A1&node-id=1-3&viewport=478%2C160%2C0.07&scaling=containn) - Created with Figma
+
 - [Teranoptia - Tunera Type Foundry](https://www.tunera.xyz/fonts/teranoptia/)
 
 - [Arnaud Mercier — Retrospective 1999-2011](https://arnaud.area17.com/project/Intro)
@@ -638,6 +648,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [Card Stack Tutorial](https://abjt.dev/) - Crafting engaging experiences for the internet.
+
 - [UUIDv7 in 33 languages](https://antonz.org/uuidv7/) - From JavaScript to Zig, no third-party dependencies.
 
 - [CSS Diner](http://cssdiner.com) - A fun game to help you learn and practice CSS selectors.
@@ -831,6 +843,8 @@ To view a single category, check the files/ folder.
 # stories
 - [Wikihistory](https://reactormag.com/wikihistory/) - Wikihistory by Desmond Warzel
 
+- [HE IS A GOOD BOY.](https://hiagb.com/1)
+
 - [Love at the Event Horizon](https://www.uncannymagazine.com/article/love-at-the-event-horizon/) - I never thought I’d want to make a film about the Lost Countrymen and the ghosts that haunt their ship. It’s been years since my brief time with them, but how could I forget them, the ghosts muttering to themselves about worlds long gone? Eyes starry wide, dreaming of a future Earth that would receive […]
 
 - [Fandom for Robots](https://www.uncannymagazine.com/article/fandom-for-robots/) - Computron feels no emotion towards the animated television show titled Hyperdimension Warp Record (超次元 ワープ レコード). After all, Computron does not have any emotion circuits installed, and is thus constitutionally incapable of experiencing “excitement,” “hatred,” or “frustration.” It is completely impossible for Computron to experience emotions such as ...
@@ -908,6 +922,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Apple Quietly Introduced iPhone Reboot Code Which is Locking Out Cops](https://www.404media.co/apple-quietly-introduced-iphone-reboot-code-which-is-locking-out-cops/) - On Thursday 404 Media reported that police were freaking out about mysteriously rebooting iPhones. Now multiple experts have found that Apple introduced code that reboots locked phones after a period of time.
+
+- [I Accidentally Discovered My Identical Twin on TikTok](https://www.vice.com/en/article/i-accidentally-discovered-my-identical-twin-on-tiktok/) - Separated at birth, these sisters were reunited after fans on social media noticed they looked alike. They still haven’t found their third sister.
+
 - [Kien, the most-delayed video game in history, released after 22 years](https://www.theguardian.com/games/article/2024/jul/04/kein-the-most-delayed-video-game-in-history-released-after-22-years) - The makers of Italian action game have endured the longest development journey in history. Their game is now finally out – on the long-discontinued Game Boy Advance
 
 - [The Maps of Israeli Settlements That Shocked Barack Obama](https://www.newyorker.com/news/news-desk/the-map-of-israeli-settlements-that-shocked-barack-obama) - An image in a government briefing book helped a State Department official see “the forest for the trees” in the West Bank—and then was shared with the President.
@@ -1104,11 +1122,11 @@ To view a single category, check the files/ folder.
 
 - [They Studied Dishonesty. Was Their Work a Lie?](https://www.newyorker.com/magazine/2023/10/09/they-studied-dishonesty-was-their-work-a-lie) - Dan Ariely and Francesca Gino became famous for their research into why we bend the truth. Now they’ve both been accused of fabricating data.
 
-- [Willy Wonka and the Medical Software Factory](https://www.nytimes.com/2018/12/20/business/epic-systems-campus-verona-wisconsin.html) - The engineers at Epic Systems work on a campus full of childish whimsy but also sit in on open-heart surgery. Is this the indulgence of an oddball founder, or a better way to run an I.T. company?
-
-- [Swipe Right to Hire Me: How Tinder Became China’s Hottest Networking App](https://www.sixthtone.com/news/1013710) - Young Chinese are increasingly using the dating app to hunt for potential job openings amid soaring graduate unemployment. But the trend is sparking concern among the platform’s users — and inside Tinder itself.
-
 # wikipedia
+- [Women in refrigerators](https://en.wikipedia.org/w/index.php?title=Women_in_refrigerators&oldid=1239816060) - Women in refrigerators is a literary trope coined by Gail Simone in 1999 describing a trend in fiction which involves female characters facing disproportionate harm, such as death, maiming, or assault, to serve as plot devices to motivate male characters, an event colloquially known as "fridging". Simone's original list of over 100 affected female c...
+
+- [1984 Rajneeshee bioterror attack](https://en.wikipedia.org/w/index.php?title=1984_Rajneeshee_bioterror_attack&oldid=1253467944) - In 1984, 751 people suffered food poisoning in The Dalles, Oregon, United States, due to the deliberate contamination of salad bars at ten local restaurants with Salmonella. A group of prominent followers of Rajneesh (later known as Osho) led by Ma Anand Sheela had hoped to incapacitate the voting population of the city so that their own candidates ...
+
 - [<i>title of show</i>](https://en.wikipedia.org/w/index.php?title=Title_of_show&oldid=1254057294) - [title of show] is a one-act musical, with music and lyrics by Jeff Bowen and a book by Hunter Bell.  The show chronicles its own creation as an entry in the New York Musical Theatre Festival, and follows the struggles of the author and composer/lyricist and their two actress friends during the initial brief (three-week) creative period, along with ...
 
 - [Gay and Lesbian Kingdom of the Coral Sea Islands](https://en.wikipedia.org/w/index.php?title=Gay_and_Lesbian_Kingdom_of_the_Coral_Sea_Islands&oldid=1247467387) - The Gay and Lesbian Kingdom of the Coral Sea Islands (also known as the Gay Kingdom of the Coral Sea) was a putative micronation established as a symbolic political protest by a group of gay rights activists based in Australia. Declared in June 2004 in response to the introduction of a government bill to the Australian Parliament in May 2004 (and pa...
@@ -1305,11 +1323,9 @@ To view a single category, check the files/ folder.
 
 - [Baker-Miller pink](https://en.wikipedia.org/w/index.php?title=Baker-Miller_pink&oldid=1169008129) - Baker-Miller Pink, also known as P-618, Schauss pink, or Drunk-Tank Pink is a tone of pink which has been observed to temporarily reduce hostile, violent or aggressive behavior. It was originally created by mixing white indoor latex paint with red trim semi-gloss outdoor paint in a 1:8 ratio by volume.Alexander Schauss did extensive research into th...
 
-- [Saddle Ridge Hoard](https://en.wikipedia.org/w/index.php?title=Saddle_Ridge_Hoard&oldid=1174322497) - The Saddle Ridge Hoard is the name given to a hoard of 1,427 gold coins unearthed in the Gold Country of the Sierra Nevada, California in 2013. The face value of the coins totaled $27,980, but was assessed to be worth $10 million. The hoard contains $27,460 in twenty-dollar coins, $500 in ten-dollar coins, and $20 in five-dollar coins, all dating fr...
-
-- [2008 submarine cable disruption](https://en.wikipedia.org/w/index.php?title=2008_submarine_cable_disruption&oldid=1136808398) - The 2008 submarine cable disruption refers to three separate incidents of major damage to submarine optical communication cables around the world. The first incident caused damage involving up to five high-speed Internet submarine communications cables in the Mediterranean Sea and Middle East from 23 January to 4 February 2008, causing internet disr...
-
 # misc
+- [Start Here](https://putthison.com/start-here/)
+
 - [llama.ttf](https://fuglede.github.io/llama.ttf/)
 
 - [Alicia Guo](https://mangotango.mmm.page/) - welcome to my digital tea garden 🌱

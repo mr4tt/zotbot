@@ -1,4 +1,6 @@
 # misc
+- [Start Here](https://putthison.com/start-here/)
+
 - [llama.ttf](https://fuglede.github.io/llama.ttf/)
 
 - [Alicia Guo](https://mangotango.mmm.page/) - welcome to my digital tea garden 🌱

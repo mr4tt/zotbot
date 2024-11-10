@@ -1,4 +1,8 @@
 # news
+- [Apple Quietly Introduced iPhone Reboot Code Which is Locking Out Cops](https://www.404media.co/apple-quietly-introduced-iphone-reboot-code-which-is-locking-out-cops/) - On Thursday 404 Media reported that police were freaking out about mysteriously rebooting iPhones. Now multiple experts have found that Apple introduced code that reboots locked phones after a period of time.
+
+- [I Accidentally Discovered My Identical Twin on TikTok](https://www.vice.com/en/article/i-accidentally-discovered-my-identical-twin-on-tiktok/) - Separated at birth, these sisters were reunited after fans on social media noticed they looked alike. They still haven’t found their third sister.
+
 - [Kien, the most-delayed video game in history, released after 22 years](https://www.theguardian.com/games/article/2024/jul/04/kein-the-most-delayed-video-game-in-history-released-after-22-years) - The makers of Italian action game have endured the longest development journey in history. Their game is now finally out – on the long-discontinued Game Boy Advance
 
 - [The Maps of Israeli Settlements That Shocked Barack Obama](https://www.newyorker.com/news/news-desk/the-map-of-israeli-settlements-that-shocked-barack-obama) - An image in a government briefing book helped a State Department official see “the forest for the trees” in the West Bank—and then was shared with the President.
@@ -194,8 +198,4 @@
 - [Inside FTX’s All-Night Race to Stop a $1 Billion Crypto Heist | WIRED](https://www.wired.com/story/ftx-1-billion-crypto-heist/)
 
 - [They Studied Dishonesty. Was Their Work a Lie?](https://www.newyorker.com/magazine/2023/10/09/they-studied-dishonesty-was-their-work-a-lie) - Dan Ariely and Francesca Gino became famous for their research into why we bend the truth. Now they’ve both been accused of fabricating data.
-
-- [Willy Wonka and the Medical Software Factory](https://www.nytimes.com/2018/12/20/business/epic-systems-campus-verona-wisconsin.html) - The engineers at Epic Systems work on a campus full of childish whimsy but also sit in on open-heart surgery. Is this the indulgence of an oddball founder, or a better way to run an I.T. company?
-
-- [Swipe Right to Hire Me: How Tinder Became China’s Hottest Networking App](https://www.sixthtone.com/news/1013710) - Young Chinese are increasingly using the dating app to hunt for potential job openings amid soaring graduate unemployment. But the trend is sparking concern among the platform’s users — and inside Tinder itself.
 
