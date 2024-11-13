@@ -332,6 +332,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [Original Takes for Orson Welles Wine Commercial](https://www.youtube.com/watch?v=VFevH5vP32s)
+
 - [How on Earth does ^.?$|^(..+?)\1+$ produce primes?](https://www.youtube.com/watch?v=5vbk0TwkokM)
 
 - [Lecture #1: Introduction — Brandon Sanderson on Writing Science Fiction and Fantasy](https://www.youtube.com/watch?v=-6HOdHEeosc)
@@ -1123,6 +1125,10 @@ To view a single category, check the files/ folder.
 - [They Studied Dishonesty. Was Their Work a Lie?](https://www.newyorker.com/magazine/2023/10/09/they-studied-dishonesty-was-their-work-a-lie) - Dan Ariely and Francesca Gino became famous for their research into why we bend the truth. Now they’ve both been accused of fabricating data.
 
 # wikipedia
+- [Brain (computer virus)](https://en.wikipedia.org/w/index.php?title=Brain_(computer_virus)&oldid=1250503971) - Brain is the industry standard name for a computer virus that was released in its first form on 19 January 1986, and is considered to be the first computer virus for the IBM Personal Computer (IBM PC) and compatibles.
+
+- [Orson Welles Paul Masson advertisements](https://en.wikipedia.org/w/index.php?title=Orson_Welles_Paul_Masson_advertisements&oldid=1240190862) - Orson Welles acted in a series of advertisements for Paul Masson California wine from 1978 to 1981, best known for their slogan "We will sell no wine before its time," becoming a much-parodied cultural trope of the late 20th century. Years later, the commercials regained notoriety when a bootleg recording of out-takes was distributed, showing an app...
+
 - [Women in refrigerators](https://en.wikipedia.org/w/index.php?title=Women_in_refrigerators&oldid=1239816060) - Women in refrigerators is a literary trope coined by Gail Simone in 1999 describing a trend in fiction which involves female characters facing disproportionate harm, such as death, maiming, or assault, to serve as plot devices to motivate male characters, an event colloquially known as "fridging". Simone's original list of over 100 affected female c...
 
 - [1984 Rajneeshee bioterror attack](https://en.wikipedia.org/w/index.php?title=1984_Rajneeshee_bioterror_attack&oldid=1253467944) - In 1984, 751 people suffered food poisoning in The Dalles, Oregon, United States, due to the deliberate contamination of salad bars at ten local restaurants with Salmonella. A group of prominent followers of Rajneesh (later known as Osho) led by Ma Anand Sheela had hoped to incapacitate the voting population of the city so that their own candidates ...
@@ -1318,10 +1324,6 @@ To view a single category, check the files/ folder.
 - [Sinking of MV Sewol](https://en.wikipedia.org/w/index.php?title=Sinking_of_MV_Sewol&oldid=1174672858) - The ferry MV Sewol sank on the morning of April 16, 2014, en route from Incheon towards Jeju in South Korea. The 6,825-ton vessel sent a distress signal from about 2.7 kilometres (1.7 mi; 1.5 nmi) north of Byeongpungdo at 08:58 KST (23:58 UTC, April 15, 2014). Out of 476 passengers and crew, 306 died in the disaster, including around 250 students fr...
 
 - [Zoot Suit Riots](https://en.wikipedia.org/w/index.php?title=Zoot_Suit_Riots&oldid=1175489390) - The Zoot Suit Riots were a series of riots that took place from June 3–8, 1943, in Los Angeles, California, United States, involving American servicemen stationed in Southern California and young Latino and Mexican American city residents. It was one of the dozen wartime industrial cities that suffered race-related riots in the summer of 1943, along...
-
-- [Uruguayan Air Force Flight 571](https://en.wikipedia.org/w/index.php?title=Uruguayan_Air_Force_Flight_571&oldid=1174909375) - Uruguayan Air Force Flight 571 was the chartered flight of a Fairchild FH-227D from Montevideo, Uruguay, to Santiago, Chile, that crashed in the Andes mountains on October 13, 1972. The accident and subsequent survival became known as the Andes flight disaster (Tragedia de los Andes) and the Miracle of the Andes (Milagro de los Andes). The inexperie...
-
-- [Baker-Miller pink](https://en.wikipedia.org/w/index.php?title=Baker-Miller_pink&oldid=1169008129) - Baker-Miller Pink, also known as P-618, Schauss pink, or Drunk-Tank Pink is a tone of pink which has been observed to temporarily reduce hostile, violent or aggressive behavior. It was originally created by mixing white indoor latex paint with red trim semi-gloss outdoor paint in a 1:8 ratio by volume.Alexander Schauss did extensive research into th...
 
 # misc
 - [Start Here](https://putthison.com/start-here/)
