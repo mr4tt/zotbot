@@ -525,6 +525,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Why You Hate Comic Sans](https://designforhackers.com/blog/comic-sans-hate/) - Everyone loves to hate Comic Sans. The child-like handwriting font is so infamous, there is a movement to try to ban it. Mention its name to the common layman (aside from a preschool teacher), and you will likely get a chuckle, mention it to a trained designer, and you’ll get a look of disgust. In […]
+
 - [Brand Identity Process](https://www.figma.com/proto/fSeQqlIw4aZpGrTs9LjDIY/S%2526D-%252F-Process-2024?page-id=0%3A1&node-id=1-3&viewport=478%2C160%2C0.07&scaling=containn) - Created with Figma
 
 - [Teranoptia - Tunera Type Foundry](https://www.tunera.xyz/fonts/teranoptia/)
@@ -924,6 +926,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- ['FYI. A Warrant Isn’t Needed': Secret Service Says You Agreed To Be Tracked With Location Data](https://www.404media.co/fyi-a-warrant-isnt-needed-secret-service-says-you-agreed-to-be-tracked-with-location-data/) - The Secret Service has used a technology called Locate X which uses location data harvested from ordinary apps installed on phones. Because users agreed to an opaque terms of service page, the Secret Service believes it doesn't need a warrant.
+
 - [Apple Quietly Introduced iPhone Reboot Code Which is Locking Out Cops](https://www.404media.co/apple-quietly-introduced-iphone-reboot-code-which-is-locking-out-cops/) - On Thursday 404 Media reported that police were freaking out about mysteriously rebooting iPhones. Now multiple experts have found that Apple introduced code that reboots locked phones after a period of time.
 
 - [I Accidentally Discovered My Identical Twin on TikTok](https://www.vice.com/en/article/i-accidentally-discovered-my-identical-twin-on-tiktok/) - Separated at birth, these sisters were reunited after fans on social media noticed they looked alike. They still haven’t found their third sister.
@@ -1121,8 +1125,6 @@ To view a single category, check the files/ folder.
 - [Thousands of remote IT workers sent wages to North Korea to help fund weapons program, FBI says](https://apnews.com/article/north-korea-weapons-program-it-workers-f3df7c120522b0581db5c0b9682ebc9b) - Federal authorities say that thousands of information technology workers contracting with U.S. companies secretly sent millions of dollars of their wages to North Korea for use in its ballistic missile program.
 
 - [Inside FTX’s All-Night Race to Stop a $1 Billion Crypto Heist | WIRED](https://www.wired.com/story/ftx-1-billion-crypto-heist/)
-
-- [They Studied Dishonesty. Was Their Work a Lie?](https://www.newyorker.com/magazine/2023/10/09/they-studied-dishonesty-was-their-work-a-lie) - Dan Ariely and Francesca Gino became famous for their research into why we bend the truth. Now they’ve both been accused of fabricating data.
 
 # wikipedia
 - [Brain (computer virus)](https://en.wikipedia.org/w/index.php?title=Brain_(computer_virus)&oldid=1250503971) - Brain is the industry standard name for a computer virus that was released in its first form on 19 January 1986, and is considered to be the first computer virus for the IBM Personal Computer (IBM PC) and compatibles.
@@ -1326,6 +1328,8 @@ To view a single category, check the files/ folder.
 - [Zoot Suit Riots](https://en.wikipedia.org/w/index.php?title=Zoot_Suit_Riots&oldid=1175489390) - The Zoot Suit Riots were a series of riots that took place from June 3–8, 1943, in Los Angeles, California, United States, involving American servicemen stationed in Southern California and young Latino and Mexican American city residents. It was one of the dozen wartime industrial cities that suffered race-related riots in the summer of 1943, along...
 
 # misc
+- [TeXnique](https://texnique.xyz/)
+
 - [Start Here](https://putthison.com/start-here/)
 
 - [llama.ttf](https://fuglede.github.io/llama.ttf/)

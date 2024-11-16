@@ -1,4 +1,6 @@
 # misc
+- [TeXnique](https://texnique.xyz/)
+
 - [Start Here](https://putthison.com/start-here/)
 
 - [llama.ttf](https://fuglede.github.io/llama.ttf/)
