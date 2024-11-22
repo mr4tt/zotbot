@@ -1,4 +1,6 @@
 # stories
+- [Three Views of a Parking Lot](https://www.sundaymorningtransport.com/p/three-views-of-a-parking-lot) - We are excited to kick off the month of October with a new, free, story from Ken Liu today!
+
 - [Wikihistory](https://reactormag.com/wikihistory/) - Wikihistory by Desmond Warzel
 
 - [HE IS A GOOD BOY.](https://hiagb.com/1)

@@ -1,4 +1,6 @@
 # misc_longform
+- [Deanna Dikeman - Leaving and Waving](https://deannadikeman.com/leaving-and-waving) - For 27 years, I took photographs as I waved good-bye and drove away from visiting my parents at their home in Sioux City, Iowa. I started in 1991 with a quick snapshot, and I continued taking photographs with each departure. I never set out to make this series. I just took these photographs as a way to deal with the sadness of leaving. It gradually ...
+
 - [Do Hard Things Carefully](https://blog.depthsofrepair.com/p/do-hard-things-carefully?utm_medium=email) - Leaning in without falling over.
 
 - [Oxidation Paintings](https://www.warhol.org/conservation/oxidation-paintings/) - Warhol for All
