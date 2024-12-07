@@ -1332,6 +1332,12 @@ To view a single category, check the files/ folder.
 - [Disposition Matrix](https://en.wikipedia.org/w/index.php?title=Disposition_Matrix&oldid=1175243099) - The Disposition Matrix, informally known as a kill list, is a database of information for tracking, capturing, rendering, or killing suspected enemies of the United States. Developed by the Obama administration beginning in 2010, it goes beyond existing kill lists and is intended to become a permanent fixture of U.S. policy. The process determining ...
 
 # misc
+- [wigmaker](https://redgem.games/wigmaker/)
+
+- [](https://www.decisionproblem.com/paperclips/index2.html)
+
+- [Pluck](https://string.spiel.com/)
+
 - [TeXnique](https://texnique.xyz/)
 
 - [Start Here](https://putthison.com/start-here/)

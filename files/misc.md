@@ -1,4 +1,10 @@
 # misc
+- [wigmaker](https://redgem.games/wigmaker/)
+
+- [](https://www.decisionproblem.com/paperclips/index2.html)
+
+- [Pluck](https://string.spiel.com/)
+
 - [TeXnique](https://texnique.xyz/)
 
 - [Start Here](https://putthison.com/start-here/)
