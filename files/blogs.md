@@ -1,4 +1,8 @@
 # blogs
+- [Google Testing Blog](https://testing.googleblog.com/)
+
+- [Julia Evans](https://jvns.ca/) - Julia Evans
+
 - [Anton Zhiyanov](https://antonz.org/) - Everything about Go, SQL, and software in general.
 
 - [Things Of Interest @ Things Of Interest](https://qntm.org/)
@@ -8,8 +12,6 @@
 - [blog | TenThousandMeters.com](https://tenthousandmeters.com/)
 
 - [Article Listing | Datadog Security Labs](https://securitylabs.datadoghq.com/articles) - Datadog Security Labs is the place to read blog content about security research and tooling published by Datadog for the community.
-
-- [Julia Evans](https://jvns.ca/) - Julia Evans
 
 - [Data Colada](https://datacolada.org/) - Thinking about evidence and vice versa
 
@@ -22,8 +24,6 @@
 - [Github Blog](https://github.blog/) - Updates, ideas, and inspiration from GitHub to help developers build and design software.
 
 - [Stripe Blog: Online Payment Solutions Blog](https://stripe.com/blog)
-
-- [Google Testing Blog](https://testing.googleblog.com/)
 
 - [The Cloudflare Blog](https://blog.cloudflare.com) - Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet.
 

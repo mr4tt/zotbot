@@ -1,4 +1,8 @@
 # design_resources
+- [Cofolios](https://www.cofolios.com/) - Portfolios of designers from top tech companies.
+
+- [Web Field Manual | Latest](https://webfieldmanual.com/) - A curated resource for web creators.
+
 - [Why You Hate Comic Sans](https://designforhackers.com/blog/comic-sans-hate/) - Everyone loves to hate Comic Sans. The child-like handwriting font is so infamous, there is a movement to try to ban it. Mention its name to the common layman (aside from a preschool teacher), and you will likely get a chuckle, mention it to a trained designer, and you’ll get a look of disgust. In […]
 
 - [Brand Identity Process](https://www.figma.com/proto/fSeQqlIw4aZpGrTs9LjDIY/S%2526D-%252F-Process-2024?page-id=0%3A1&node-id=1-3&viewport=478%2C160%2C0.07&scaling=containn) - Created with Figma

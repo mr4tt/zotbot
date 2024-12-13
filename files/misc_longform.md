@@ -1,4 +1,6 @@
 # misc_longform
+- [A literary history of fake texts in Apple's marketing materials](https://maxread.substack.com/p/a-literary-history-of-fake-texts) - Exploring the Applecore style
+
 - [Deanna Dikeman - Leaving and Waving](https://deannadikeman.com/leaving-and-waving) - For 27 years, I took photographs as I waved good-bye and drove away from visiting my parents at their home in Sioux City, Iowa. I started in 1991 with a quick snapshot, and I continued taking photographs with each departure. I never set out to make this series. I just took these photographs as a way to deal with the sadness of leaving. It gradually ...
 
 - [Do Hard Things Carefully](https://blog.depthsofrepair.com/p/do-hard-things-carefully?utm_medium=email) - Leaning in without falling over.
@@ -39,8 +41,6 @@
 
 - [Call of the Void: Seven years on, what do we know about the disappearance of Malaysia Airlines…](https://admiralcloudberg.medium.com/call-of-the-void-seven-years-on-what-do-we-know-about-the-disappearance-of-malaysia-airlines-77fa5244bf99) - “Good night, Malaysian three seven zero.”
 
-- [A literary history of fake texts in Apple's marketing materials](https://maxread.substack.com/p/a-literary-history-of-fake-texts) - Exploring the Applecore style
-
 - [Michael Orlitzky { CSC ServiceWorks laundry machine coin bypass }](https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml?ref=404media.co)
 
 - [How do large companies such as Mihoyo make decisions? – MoonBear Musings](https://moonbearmusings.com/how-do-large-companies-such-as-mihoyo-make-decisions/)
@@ -80,8 +80,6 @@
 - [Mechanical Watch – Bartosz Ciechanowski](https://ciechanow.ski/mechanical-watch/) - Interactive article explaining how a mechanical watch works.
 
 - [Discord Should Remove Usernames Entirely](https://erikmcclure.com/blog/discord-should-remove-usernames/) - Discord's Recent Announcement made a lot of people mad, mostly because of Hyrum's Law - users were relying on unintended observable behavior in the original username system, and are mad that their use-cases are being broken despite very good evidence that the current system is problematic. I think the major issue here is that Discord didn't go far e...
-
-- [A literary history of fake texts in Apple's marketing materials](https://maxread.substack.com/p/a-literary-history-of-fake-texts) - Exploring the Applecore style
 
 - [[109] Data Falsificada (Part 1): "Clusterfake"](https://datacolada.org/109) - This is the introduction to a four-part series of posts detailing evidence of fraud in four academic papers co-authored by Harvard Business School Professor Francesca Gino. In 2021, we and a team of anonymous researchers examined a number of studies co-authored by Gino, because we had concerns that they contained fraudulent data. We discovered evide...
 

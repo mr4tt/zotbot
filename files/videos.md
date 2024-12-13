@@ -1,4 +1,8 @@
 # videos
+- [Animation of 2015 Explosion at ExxonMobil Refinery in Torrance, CA](https://www.youtube.com/watch?v=JplAKJrgyew)
+
+- [You can't grow concrete.](https://www.youtube.com/watch?v=6-9-FkwUrRo)
+
 - [Original Takes for Orson Welles Wine Commercial](https://www.youtube.com/watch?v=VFevH5vP32s)
 
 - [How on Earth does ^.?$|^(..+?)\1+$ produce primes?](https://www.youtube.com/watch?v=5vbk0TwkokM)

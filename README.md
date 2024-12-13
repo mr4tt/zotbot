@@ -17,6 +17,10 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # blogs
+- [Google Testing Blog](https://testing.googleblog.com/)
+
+- [Julia Evans](https://jvns.ca/) - Julia Evans
+
 - [Anton Zhiyanov](https://antonz.org/) - Everything about Go, SQL, and software in general.
 
 - [Things Of Interest @ Things Of Interest](https://qntm.org/)
@@ -26,8 +30,6 @@ To view a single category, check the files/ folder.
 - [blog | TenThousandMeters.com](https://tenthousandmeters.com/)
 
 - [Article Listing | Datadog Security Labs](https://securitylabs.datadoghq.com/articles) - Datadog Security Labs is the place to read blog content about security research and tooling published by Datadog for the community.
-
-- [Julia Evans](https://jvns.ca/) - Julia Evans
 
 - [Data Colada](https://datacolada.org/) - Thinking about evidence and vice versa
 
@@ -40,8 +42,6 @@ To view a single category, check the files/ folder.
 - [Github Blog](https://github.blog/) - Updates, ideas, and inspiration from GitHub to help developers build and design software.
 
 - [Stripe Blog: Online Payment Solutions Blog](https://stripe.com/blog)
-
-- [Google Testing Blog](https://testing.googleblog.com/)
 
 - [The Cloudflare Blog](https://blog.cloudflare.com) - Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet.
 
@@ -74,6 +74,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [A literary history of fake texts in Apple's marketing materials](https://maxread.substack.com/p/a-literary-history-of-fake-texts) - Exploring the Applecore style
+
 - [Deanna Dikeman - Leaving and Waving](https://deannadikeman.com/leaving-and-waving) - For 27 years, I took photographs as I waved good-bye and drove away from visiting my parents at their home in Sioux City, Iowa. I started in 1991 with a quick snapshot, and I continued taking photographs with each departure. I never set out to make this series. I just took these photographs as a way to deal with the sadness of leaving. It gradually ...
 
 - [Do Hard Things Carefully](https://blog.depthsofrepair.com/p/do-hard-things-carefully?utm_medium=email) - Leaning in without falling over.
@@ -114,8 +116,6 @@ To view a single category, check the files/ folder.
 
 - [Call of the Void: Seven years on, what do we know about the disappearance of Malaysia Airlines…](https://admiralcloudberg.medium.com/call-of-the-void-seven-years-on-what-do-we-know-about-the-disappearance-of-malaysia-airlines-77fa5244bf99) - “Good night, Malaysian three seven zero.”
 
-- [A literary history of fake texts in Apple's marketing materials](https://maxread.substack.com/p/a-literary-history-of-fake-texts) - Exploring the Applecore style
-
 - [Michael Orlitzky { CSC ServiceWorks laundry machine coin bypass }](https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml?ref=404media.co)
 
 - [How do large companies such as Mihoyo make decisions? – MoonBear Musings](https://moonbearmusings.com/how-do-large-companies-such-as-mihoyo-make-decisions/)
@@ -155,8 +155,6 @@ To view a single category, check the files/ folder.
 - [Mechanical Watch – Bartosz Ciechanowski](https://ciechanow.ski/mechanical-watch/) - Interactive article explaining how a mechanical watch works.
 
 - [Discord Should Remove Usernames Entirely](https://erikmcclure.com/blog/discord-should-remove-usernames/) - Discord's Recent Announcement made a lot of people mad, mostly because of Hyrum's Law - users were relying on unintended observable behavior in the original username system, and are mad that their use-cases are being broken despite very good evidence that the current system is problematic. I think the major issue here is that Discord didn't go far e...
-
-- [A literary history of fake texts in Apple's marketing materials](https://maxread.substack.com/p/a-literary-history-of-fake-texts) - Exploring the Applecore style
 
 - [[109] Data Falsificada (Part 1): "Clusterfake"](https://datacolada.org/109) - This is the introduction to a four-part series of posts detailing evidence of fraud in four academic papers co-authored by Harvard Business School Professor Francesca Gino. In 2021, we and a team of anonymous researchers examined a number of studies co-authored by Gino, because we had concerns that they contained fraudulent data. We discovered evide...
 
@@ -334,6 +332,10 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [Animation of 2015 Explosion at ExxonMobil Refinery in Torrance, CA](https://www.youtube.com/watch?v=JplAKJrgyew)
+
+- [You can't grow concrete.](https://www.youtube.com/watch?v=6-9-FkwUrRo)
+
 - [Original Takes for Orson Welles Wine Commercial](https://www.youtube.com/watch?v=VFevH5vP32s)
 
 - [How on Earth does ^.?$|^(..+?)\1+$ produce primes?](https://www.youtube.com/watch?v=5vbk0TwkokM)
@@ -527,6 +529,10 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Cofolios](https://www.cofolios.com/) - Portfolios of designers from top tech companies.
+
+- [Web Field Manual | Latest](https://webfieldmanual.com/) - A curated resource for web creators.
+
 - [Why You Hate Comic Sans](https://designforhackers.com/blog/comic-sans-hate/) - Everyone loves to hate Comic Sans. The child-like handwriting font is so infamous, there is a movement to try to ban it. Mention its name to the common layman (aside from a preschool teacher), and you will likely get a chuckle, mention it to a trained designer, and you’ll get a look of disgust. In […]
 
 - [Brand Identity Process](https://www.figma.com/proto/fSeQqlIw4aZpGrTs9LjDIY/S%2526D-%252F-Process-2024?page-id=0%3A1&node-id=1-3&viewport=478%2C160%2C0.07&scaling=containn) - Created with Figma
@@ -654,6 +660,12 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/) - Learn how to use CSS container queries today.
+
+- [Google Testing Blog](https://testing.googleblog.com/)
+
+- [Julia Evans](https://jvns.ca/) - Julia Evans
+
 - [Card Stack Tutorial](https://abjt.dev/) - Crafting engaging experiences for the internet.
 
 - [UUIDv7 in 33 languages](https://antonz.org/uuidv7/) - From JavaScript to Zig, no third-party dependencies.
@@ -667,8 +679,6 @@ To view a single category, check the files/ folder.
 - [AI Safety for Fleshy Humans: a whirlwind tour](https://aisafety.dance/) - Your one-stop-shop to understand all the core ideas of AI & AI Safety!
 
 - [Book: Alice’s Adventures in a differentiable wonderland](https://sscardapane.it/alice-book/) - My personal website, where I collect slides, publications, and presentations.
-
-- [Google Testing Blog](https://testing.googleblog.com/)
 
 - [Nature of Code](https://natureofcode.com) - Over a decade ago, I self-published The Nature of Code, an online resource and print book exploring the unpredictable evolutionary and emergent proper
 
@@ -722,8 +732,6 @@ To view a single category, check the files/ folder.
 
 - [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
 
-- [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/) - Learn how to use CSS container queries today.
-
 - [Convert JSON to Graph Diagram : Online JSON Graph Editor](https://www.jsonviewer.tools/editor)
 
 - [The UX of UUIDs | Unkey](https://unkey.dev/blog/uuid-ux) - Unique identifiers play a crucial role in all applications, from user authentication to resource management. While using a standard UUID will satisfy all your security concerns, there’s a lot we can improve for our users.
@@ -735,8 +743,6 @@ To view a single category, check the files/ folder.
 - [Effective Go - The Go Programming Language](https://go.dev/doc/effective_go)
 
 - [How to help someone use a computer](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
-
-- [Julia Evans](https://jvns.ca/) - Julia Evans
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
@@ -847,6 +853,8 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # stories
+- [The Worms that Ate the Universe](https://www.uncannymagazine.com/article/the-worms-that-ate-the-universe/) - The planet of the worms is a cold, barren, sunless place. The worms do not think. They feel nothing but hunger, and so they eat. They eat through the planet’s surface. They eat through the planet’s molten core. Over time, the planet grows speckled and spongelike, riddled with tunnels and holes. But the worms don’t […]
+
 - [Three Views of a Parking Lot](https://www.sundaymorningtransport.com/p/three-views-of-a-parking-lot) - We are excited to kick off the month of October with a new, free, story from Ken Liu today!
 
 - [Wikihistory](https://reactormag.com/wikihistory/) - Wikihistory by Desmond Warzel
@@ -930,6 +938,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Something Strange Happens to Wolves Infected by an Infamous Mind-Altering Parasite](https://www.sciencealert.com/something-strange-happens-to-wolves-infected-by-an-infamous-mind-altering-parasite) - A study of 26 years' worth of wolf behavioral data, and an analysis of the blood of 229 wolves, has shown that infection with the parasite Toxoplasma gondii makes wolves 46 times more likely to become a pack leader.
+
+- [The Landlord, the Tenant and a House Fire in Milwaukee](https://www.propublica.org/article/milwaukee-fire-brunner-belen-landlord-tenant) - A young mother rents a house near Milwaukee. The previous tenant tells her, “Baby, they shouldn’t have let you move in.”
+
 - ['FYI. A Warrant Isn’t Needed': Secret Service Says You Agreed To Be Tracked With Location Data](https://www.404media.co/fyi-a-warrant-isnt-needed-secret-service-says-you-agreed-to-be-tracked-with-location-data/) - The Secret Service has used a technology called Locate X which uses location data harvested from ordinary apps installed on phones. Because users agreed to an opaque terms of service page, the Secret Service believes it doesn't need a warrant.
 
 - [Apple Quietly Introduced iPhone Reboot Code Which is Locking Out Cops](https://www.404media.co/apple-quietly-introduced-iphone-reboot-code-which-is-locking-out-cops/) - On Thursday 404 Media reported that police were freaking out about mysteriously rebooting iPhones. Now multiple experts have found that Apple introduced code that reboots locked phones after a period of time.
@@ -941,10 +953,6 @@ To view a single category, check the files/ folder.
 - [The Maps of Israeli Settlements That Shocked Barack Obama](https://www.newyorker.com/news/news-desk/the-map-of-israeli-settlements-that-shocked-barack-obama) - An image in a government briefing book helped a State Department official see “the forest for the trees” in the West Bank—and then was shared with the President.
 
 - [Your Driving, Tracked](https://www.nytimes.com/2024/06/09/briefing/driving-apps-insurance-tracking.html) - We explore the apps that are quietly tracking drivers’ habits.
-
-- [Something Strange Happens to Wolves Infected by an Infamous Mind-Altering Parasite](https://www.sciencealert.com/something-strange-happens-to-wolves-infected-by-an-infamous-mind-altering-parasite) - A study of 26 years' worth of wolf behavioral data, and an analysis of the blood of 229 wolves, has shown that infection with the parasite Toxoplasma gondii makes wolves 46 times more likely to become a pack leader.
-
-- [The Landlord, the Tenant and a House Fire in Milwaukee](https://www.propublica.org/article/milwaukee-fire-brunner-belen-landlord-tenant) - A young mother rents a house near Milwaukee. The previous tenant tells her, “Baby, they shouldn’t have let you move in.”
 
 - [Inside TSMC’s struggle to build a chip factory in the U.S. suburbs](https://restofworld.org/2024/tsmc-arizona-expansion/) - Missed deadlines and tension among Taiwanese and American coworkers are plaguing the chip giant’s Phoenix expansion.
 
@@ -1005,8 +1013,6 @@ To view a single category, check the files/ folder.
 - [Perplexity Plagiarized Our Story About How Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-plagiarized-our-story-about-how-perplexity-is-a-bullshit-machine/) - Experts aren’t unanimous about whether the AI-powered search startup’s practices could expose it to legal claims ranging from infringement to defamation—but some say plaintiffs would have strong cases.
 
 - [Silicon Valley’s Fanciest Stolen Bikes Are Getting Trafficked by One Mastermind in Jalisco, Mexico](https://www.wired.com/story/silicon-valleys-fanciest-stolen-bikes-trafficked-mastermind-jalisco-mexico/) - “We have people stealing all over the world.” A digital sleuth named Bryan Hance has spent the past four years obsessively uncovering a bicycle-theft pipeline of astonishing scale.
-
-- [Something Strange Happens to Wolves Infected by an Infamous Mind-Altering Parasite](https://www.sciencealert.com/something-strange-happens-to-wolves-infected-by-an-infamous-mind-altering-parasite) - A study of 26 years' worth of wolf behavioral data, and an analysis of the blood of 229 wolves, has shown that infection with the parasite Toxoplasma gondii makes wolves 46 times more likely to become a pack leader.
 
 - [The Low-Paid Humans Behind AI’s Smarts Ask Biden to Free Them From ‘Modern Day Slavery’](https://www.wired.com/story/low-paid-humans-ai-biden-modern-day-slavery/) - African workers who label AI data or screen social posts for US tech giants are calling on President Biden to raise their plight with Kenya's president, William Ruto, who visits the US this week.
 
@@ -1130,7 +1136,23 @@ To view a single category, check the files/ folder.
 
 - [Inside FTX’s All-Night Race to Stop a $1 Billion Crypto Heist | WIRED](https://www.wired.com/story/ftx-1-billion-crypto-heist/)
 
+- [They Studied Dishonesty. Was Their Work a Lie?](https://www.newyorker.com/magazine/2023/10/09/they-studied-dishonesty-was-their-work-a-lie) - Dan Ariely and Francesca Gino became famous for their research into why we bend the truth. Now they’ve both been accused of fabricating data.
+
 # wikipedia
+- [Numbers station](https://en.wikipedia.org/w/index.php?title=Numbers_station&oldid=1261147075) - A numbers station is a shortwave radio station characterized by broadcasts of formatted numbers, which are believed to be addressed to intelligence officers operating in foreign countries. Most identified stations use speech synthesis to vocalize numbers, although digital modes such as phase-shift keying and frequency-shift keying, as well as Morse ...
+
+- [27 Club](https://en.wikipedia.org/w/index.php?title=27_Club&oldid=1260677494) - The 27 Club is an informal list consisting mostly of popular musicians, often expanded by artists, actors, and other celebrities who died at age 27. Although the claim of a "statistical spike" for the death of musicians at that age has been refuted by scientific research, it remains a common cultural conception that the phenomenon exists, with many ...
+
+- [Chocolate bar strike](https://en.wikipedia.org/w/index.php?title=Chocolate_bar_strike&oldid=1210256883) - The candy bar protest, also known as the 5 cent chocolate war, the 5 cent war and the chocolate candy bar strike, was a short-lived 1947 protest by Canadian children over the increase in price of chocolate bars from five to eight cents. The strike began in Ladysmith, British Columbia, and spread across the country to include protests in Calgary, Edm...
+
+- [Gallaudet Eleven](https://en.wikipedia.org/w/index.php?title=Gallaudet_Eleven&oldid=1179061037) - The Gallaudet Eleven were a group of eleven deaf men recruited in the late 1950s and 1960s to participate in a joint research program led by NASA and the U.S. Naval School of Aviation Medicine to study the effects of prolonged weightlessness on the human body. They were selected for participation in the study because damage they had sustained to the...
+
+- [List of terms referring to an average person](https://en.wikipedia.org/w/index.php?title=List_of_terms_referring_to_an_average_person&oldid=1261958438) - The following is a list of terms referring to an average person. Many are used as placeholder names.
+
+- [Assassination market](https://en.wikipedia.org/w/index.php?title=Assassination_market&oldid=1249929553) - An assassination market is a prediction market where any party can place a bet (using anonymous electronic money and pseudonymous remailers) on the date of death of a given individual. This incentivises assassination of the individual, as parties with advanced knowledge of an assassination plot can profit by betting accurately on the date of the dea...
+
+- [Long Boi](https://en.wikipedia.org/w/index.php?title=Long_Boi&oldid=1259371375) - Long Boi (fl. 2018 – April 2023) was an unusually tall male duck that lived by Derwent College, University of York, England. He was thought to be an Indian Runner duck-Mallard cross, standing out among the other ducks on the campus due to his height. He went viral and became an internet meme in 2021. His popularity saw him become an unofficial masco...
+
 - [San Francisco tech bus protests](https://en.wikipedia.org/w/index.php?title=San_Francisco_tech_bus_protests&oldid=1226014356) - The San Francisco tech bus protests, also known as the Google bus protests, were a series of protests in the San Francisco Bay Area beginning in late 2013, when the use of shuttle buses employed by local area tech companies became widely publicized. The tech buses have been called "Google buses" although other companies—such as tech companies Apple,...
 
 - [Pacific Northwest tree octopus](https://en.wikipedia.org/w/index.php?title=Pacific_Northwest_tree_octopus&oldid=1229831742) - The Pacific Northwest tree octopus is an Internet hoax created in 1998 by a humor writer under the pseudonym Lyle Zapato. Since its creation, the Pacific Northwest tree octopus website has been commonly referenced in Internet literacy classes in schools and has been used in multiple studies demonstrating children's gullibility regarding online sourc...
@@ -1317,24 +1339,12 @@ To view a single category, check the files/ folder.
 
 - [Morris worm](https://en.wikipedia.org/w/index.php?title=Morris_worm&oldid=1161946775) - The Morris worm or Internet worm of November 2, 1988, is one of the oldest computer worms distributed via the Internet, and the first to gain significant mainstream media attention. It resulted in the first felony conviction in the US under the 1986 Computer Fraud and Abuse Act. It was written by a graduate student at Cornell University, Robert Tapp...
 
-- [Area denial weapon](https://en.wikipedia.org/w/index.php?title=Area_denial_weapon&oldid=1170185309) - An area denial weapon is a defensive device used to prevent an adversary from occupying or traversing an area of land, sea or air. The specific method may not be totally effective in preventing passage, but is sufficient to severely restrict, slow down, or endanger the opponent. Some area denial weapons pose risks to civilians entering the area even...
-
-- [Island of California](https://en.wikipedia.org/w/index.php?title=Island_of_California&oldid=1176021305) - The Island of California (Spanish: Isla de California) refers to a long-held global misconception, dating from the 16th century, that California  was not part of mainland North America but rather a large island separated from the continent by a strait now known as the Gulf of California. One of the most famous cartographic errors in history, it was ...
-
-- [The Million Dollar Homepage](https://www.wired.com/story/fentanyl-ingredients-chinese-labs-cryptocurrency/) - The Million Dollar Homepage is a website conceived in 2005 by Alex Tew, a student from Wiltshire, England, to raise money for his university education. The home page consists of a million pixels arranged in a 1000 × 1000 pixel grid; the image-based links on it were sold for $1 per pixel in  10 × 10 blocks. The purchasers of these pixel blocks provid...
-
-- [Operation Paperclip](https://en.wikipedia.org/w/index.php?title=Operation_Paperclip&oldid=1177003758) - Operation Paperclip was a secret United States intelligence program in which more than 1,600 German scientists, engineers, and technicians were taken from the former Nazi Germany to the U.S. for government employment after the end of World War II in Europe, between 1945 and 1959. Conducted by the Joint Intelligence Objectives Agency (JIOA), it was l...
-
-- [American cover-up of Japanese war crimes](https://en.wikipedia.org/wiki/American_cover-up_of_Japanese_war_crimes) - The occupying US government undertook the cover-up of Japanese war crimes after the end of World War II, granting political immunity to military personnel who had engaged in human experimentation and other crimes against humanity, predominantly in mainland China. The pardon of Japanese war criminals, among whom were Unit 731's commanding officers Ge...
-
-- [Asahi Linux](https://en.wikipedia.org/wiki/Asahi_Linux) - Asahi Linux is a project that ports the Linux kernel and related software to Apple silicon-powered Macs. The software design project was started and is led by Hector Martin. Work began in early 2021, a few months after Apple formally announced the transition to Apple silicon. An initial alpha release followed in 2022. The project has been made chall...
-
-- [Disposition Matrix](https://en.wikipedia.org/w/index.php?title=Disposition_Matrix&oldid=1175243099) - The Disposition Matrix, informally known as a kill list, is a database of information for tracking, capturing, rendering, or killing suspected enemies of the United States. Developed by the Obama administration beginning in 2010, it goes beyond existing kill lists and is intended to become a permanent fixture of U.S. policy. The process determining ...
-
 # misc
-- [wigmaker](https://redgem.games/wigmaker/)
+- [Nyan Cat's cousin who is listening to some lo-fi beats](https://hostrider.com) - ...the cat that has a habit of singing while coding. Meow.
 
-- [](https://www.decisionproblem.com/paperclips/index2.html)
+- [The Paperclip Game](https://www.decisionproblem.com/paperclips/index2.html)
+
+- [wigmaker](https://redgem.games/wigmaker/)
 
 - [Pluck](https://string.spiel.com/)
 
@@ -1385,8 +1395,6 @@ To view a single category, check the files/ folder.
 - [Links | near.blog](https://near.blog/links/)
 
 - [Erowid](https://www.erowid.org/)
-
-- [Nyan Cat's cousin who is listening to some lo-fi beats](https://hostrider.com) - ...the cat that has a habit of singing while coding. Meow.
 
 - [Collection of U.S. diaries](https://americandiaryproject.com/collection/) - The American Diary Project collection spans over 16 decades and 2 centuries, with many diaries available to read online.
 
@@ -1459,8 +1467,6 @@ To view a single category, check the files/ folder.
 - [Element Speller](https://www.bgreco.net/periodic/)
 
 - [ZType – Typing Game - Type to Shoot](https://zty.pe/)
-
-- [Nyan Cat's cousin who is listening to some lo-fi beats](https://hostrider.com) - ...the cat that has a habit of singing while coding. Meow.
 
 - [Viola the Bird](https://artsandculture.google.com/experiment/viola-the-bird/nAEJVwNkp-FnrQ) - Play a cello inspired instrument with Viola the Bird and the help of  machine learning! An experiment by David Li.
 

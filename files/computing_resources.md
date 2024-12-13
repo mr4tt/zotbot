@@ -1,4 +1,10 @@
 # computing_resources
+- [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/) - Learn how to use CSS container queries today.
+
+- [Google Testing Blog](https://testing.googleblog.com/)
+
+- [Julia Evans](https://jvns.ca/) - Julia Evans
+
 - [Card Stack Tutorial](https://abjt.dev/) - Crafting engaging experiences for the internet.
 
 - [UUIDv7 in 33 languages](https://antonz.org/uuidv7/) - From JavaScript to Zig, no third-party dependencies.
@@ -12,8 +18,6 @@
 - [AI Safety for Fleshy Humans: a whirlwind tour](https://aisafety.dance/) - Your one-stop-shop to understand all the core ideas of AI & AI Safety!
 
 - [Book: Alice’s Adventures in a differentiable wonderland](https://sscardapane.it/alice-book/) - My personal website, where I collect slides, publications, and presentations.
-
-- [Google Testing Blog](https://testing.googleblog.com/)
 
 - [Nature of Code](https://natureofcode.com) - Over a decade ago, I self-published The Nature of Code, an online resource and print book exploring the unpredictable evolutionary and emergent proper
 
@@ -67,8 +71,6 @@
 
 - [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
 
-- [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/) - Learn how to use CSS container queries today.
-
 - [Convert JSON to Graph Diagram : Online JSON Graph Editor](https://www.jsonviewer.tools/editor)
 
 - [The UX of UUIDs | Unkey](https://unkey.dev/blog/uuid-ux) - Unique identifiers play a crucial role in all applications, from user authentication to resource management. While using a standard UUID will satisfy all your security concerns, there’s a lot we can improve for our users.
@@ -80,8 +82,6 @@
 - [Effective Go - The Go Programming Language](https://go.dev/doc/effective_go)
 
 - [How to help someone use a computer](https://pages.gseis.ucla.edu/faculty/agre/how-to-help.html)
-
-- [Julia Evans](https://jvns.ca/) - Julia Evans
 
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 

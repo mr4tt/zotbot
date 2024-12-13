@@ -1,7 +1,9 @@
 # misc
-- [wigmaker](https://redgem.games/wigmaker/)
+- [Nyan Cat's cousin who is listening to some lo-fi beats](https://hostrider.com) - ...the cat that has a habit of singing while coding. Meow.
 
-- [](https://www.decisionproblem.com/paperclips/index2.html)
+- [The Paperclip Game](https://www.decisionproblem.com/paperclips/index2.html)
+
+- [wigmaker](https://redgem.games/wigmaker/)
 
 - [Pluck](https://string.spiel.com/)
 
@@ -52,8 +54,6 @@
 - [Links | near.blog](https://near.blog/links/)
 
 - [Erowid](https://www.erowid.org/)
-
-- [Nyan Cat's cousin who is listening to some lo-fi beats](https://hostrider.com) - ...the cat that has a habit of singing while coding. Meow.
 
 - [Collection of U.S. diaries](https://americandiaryproject.com/collection/) - The American Diary Project collection spans over 16 decades and 2 centuries, with many diaries available to read online.
 
@@ -126,8 +126,6 @@
 - [Element Speller](https://www.bgreco.net/periodic/)
 
 - [ZType – Typing Game - Type to Shoot](https://zty.pe/)
-
-- [Nyan Cat's cousin who is listening to some lo-fi beats](https://hostrider.com) - ...the cat that has a habit of singing while coding. Meow.
 
 - [Viola the Bird](https://artsandculture.google.com/experiment/viola-the-bird/nAEJVwNkp-FnrQ) - Play a cello inspired instrument with Viola the Bird and the help of  machine learning! An experiment by David Li.
 
