@@ -1,4 +1,14 @@
 # misc
+- [Literature Clock](https://literature-clock.jenevoldsen.com/)
+
+- [Random Wikipedia Tier List](http://www.tierlisty.com/)
+
+- [Candy Box 2](https://candybox2.github.io/)
+
+- [LAN Party House](https://lanparty.house/) - We built a(nother) house optimized for LAN Parties.
+
+- [Local map](https://www.matthewsiu.com/local-map)
+
 - [Nyan Cat's cousin who is listening to some lo-fi beats](https://hostrider.com) - ...the cat that has a habit of singing while coding. Meow.
 
 - [The Paperclip Game](https://www.decisionproblem.com/paperclips/index2.html)

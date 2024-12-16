@@ -480,6 +480,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Welp, I'm 30. (30 tips for my 13-year-old self)](https://blog.ncase.me/30) - A navel-gazing post for my 30th birthday
+
 - [Just | Todepond](https://www.todepond.com/wikiblogarden/better-computing/just/)
 
 - [MarkdownDown](https://markdowndown.vercel.app/) - Convert any webpage to a clean markdown w/ images downloaded.
@@ -853,6 +855,8 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # stories
+- [Clarkesworld Magazine - Science Fiction & Fantasy](https://clarkesworldmagazine.com/kim_02_24/) - Clarkesworld Science Fiction and Fantasy Magazine and Podcast. This page: Why Don't We Just Kill the Kid In the Omelas Hole by Isabel J. Kim
+
 - [The Worms that Ate the Universe](https://www.uncannymagazine.com/article/the-worms-that-ate-the-universe/) - The planet of the worms is a cold, barren, sunless place. The worms do not think. They feel nothing but hunger, and so they eat. They eat through the planet’s surface. They eat through the planet’s molten core. Over time, the planet grows speckled and spongelike, riddled with tunnels and holes. But the worms don’t […]
 
 - [Three Views of a Parking Lot](https://www.sundaymorningtransport.com/p/three-views-of-a-parking-lot) - We are excited to kick off the month of October with a new, free, story from Ken Liu today!
@@ -1139,6 +1143,14 @@ To view a single category, check the files/ folder.
 - [They Studied Dishonesty. Was Their Work a Lie?](https://www.newyorker.com/magazine/2023/10/09/they-studied-dishonesty-was-their-work-a-lie) - Dan Ariely and Francesca Gino became famous for their research into why we bend the truth. Now they’ve both been accused of fabricating data.
 
 # wikipedia
+- [Tsutomu Yamaguchi](https://en.wikipedia.org/w/index.php?title=Tsutomu_Yamaguchi&oldid=1259163458) - Tsutomu Yamaguchi (山口 彊, Yamaguchi Tsutomu) (16 March 1916 – 4 January 2010) was a Japanese marine engineer who survived both the Hiroshima and Nagasaki atomic bombings during World War II. Although at least 160 people are known to have been affected by both bombings, he is the only person to have been officially recognized by the government of Japa...
+
+- [Printer tracking dots](https://en.wikipedia.org/w/index.php?title=Printer_tracking_dots&oldid=1257812547) - Printer tracking dots, also known as printer steganography, DocuColor tracking dots, yellow dots, secret dots, or a machine identification code (MIC), is a digital watermark which many color laser printers and photocopiers produce on every printed page that identifies the specific device that was used to print the document. Developed by Xerox and Ca...
+
+- [Reality Winner](https://en.wikipedia.org/w/index.php?title=Reality_Winner&oldid=1261370359) - Reality Leigh Winner (born December 4, 1991)  is an American U.S. Air Force veteran and former NSA translator. In 2018, she was given the longest prison sentence ever imposed for an unauthorized release of government information to the media after she leaked an intelligence report about Russian interference in the 2016 United States elections. She w...
+
+- [Michel Lotito](https://en.wikipedia.org/w/index.php?title=Michel_Lotito&oldid=1255776839) - Michel Lotito (French pronunciation: [miʃɛl lɔtito]; 16 June 1950 –  17 April 2006) was a French entertainer, born in Grenoble, famous for deliberate consumption of indigestible objects. He came to be known as Monsieur "Mouth" Mangetout ("Mr. Eat-All"). His digestive system was incredibly resilient, allowing him to consume up to 900 grams of metal p...
+
 - [Numbers station](https://en.wikipedia.org/w/index.php?title=Numbers_station&oldid=1261147075) - A numbers station is a shortwave radio station characterized by broadcasts of formatted numbers, which are believed to be addressed to intelligence officers operating in foreign countries. Most identified stations use speech synthesis to vocalize numbers, although digital modes such as phase-shift keying and frequency-shift keying, as well as Morse ...
 
 - [27 Club](https://en.wikipedia.org/w/index.php?title=27_Club&oldid=1260677494) - The 27 Club is an informal list consisting mostly of popular musicians, often expanded by artists, actors, and other celebrities who died at age 27. Although the claim of a "statistical spike" for the death of musicians at that age has been refuted by scientific research, it remains a common cultural conception that the phenomenon exists, with many ...
@@ -1331,15 +1343,17 @@ To view a single category, check the files/ folder.
 
 - [Grain entrapment](https://en.wikipedia.org/w/index.php?title=Grain_entrapment&oldid=1177367817) - Grain entrapment, or grain engulfment, occurs when a person becomes submerged in grain and cannot get out without assistance. It most frequently occurs in grain bins and other storage facilities such as silos or grain elevators, or in grain transportation vehicles, but has also been known to occur around any large quantity of grain, even freestandin...
 
-- [Toynbee tiles](https://en.wikipedia.org/w/index.php?title=Toynbee_tiles&oldid=1173880939) - The Toynbee tiles, also called Toynbee plaques, are messages of unknown origin found embedded in asphalt of streets in about two dozen major cities in the United States and four South American cities. Since the 1980s, several hundred tiles have been discovered. They are generally about the size of an American license plate (roughly 30 by 15 cm or 12...
-
-- [Don't be evil](https://en.wikipedia.org/w/index.php?title=Don%27t_be_evil&oldid=1170692865) - "Don't be evil" is Google's former motto, and a phrase used in Google's corporate code of conduct. Following Google's corporate restructuring under the conglomerate Alphabet Inc. in October 2015, Alphabet took "Do the right thing" as its motto, also forming the opening of its corporate code of conduct. The original motto was retained in Google's cod...
-
-- [California nut crimes](https://en.wikipedia.org/w/index.php?title=California_nut_crimes&oldid=1177496163) - California nut crimes refers to the organised theft of nuts (almonds, pistachios, cashews, and pecans) in California. Reported cases of nut theft go as far back as 2006 with the worth of stolen nuts being millions of dollars. The thefts demonstrate a high level of sophistication, encompassing identity theft and a deep understanding of computer secur...
-
-- [Morris worm](https://en.wikipedia.org/w/index.php?title=Morris_worm&oldid=1161946775) - The Morris worm or Internet worm of November 2, 1988, is one of the oldest computer worms distributed via the Internet, and the first to gain significant mainstream media attention. It resulted in the first felony conviction in the US under the 1986 Computer Fraud and Abuse Act. It was written by a graduate student at Cornell University, Robert Tapp...
-
 # misc
+- [Literature Clock](https://literature-clock.jenevoldsen.com/)
+
+- [Random Wikipedia Tier List](http://www.tierlisty.com/)
+
+- [Candy Box 2](https://candybox2.github.io/)
+
+- [LAN Party House](https://lanparty.house/) - We built a(nother) house optimized for LAN Parties.
+
+- [Local map](https://www.matthewsiu.com/local-map)
+
 - [Nyan Cat's cousin who is listening to some lo-fi beats](https://hostrider.com) - ...the cat that has a habit of singing while coding. Meow.
 
 - [The Paperclip Game](https://www.decisionproblem.com/paperclips/index2.html)

@@ -1,4 +1,6 @@
 # general_resources
+- [Welp, I'm 30. (30 tips for my 13-year-old self)](https://blog.ncase.me/30) - A navel-gazing post for my 30th birthday
+
 - [Just | Todepond](https://www.todepond.com/wikiblogarden/better-computing/just/)
 
 - [MarkdownDown](https://markdowndown.vercel.app/) - Convert any webpage to a clean markdown w/ images downloaded.

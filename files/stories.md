@@ -1,4 +1,6 @@
 # stories
+- [Clarkesworld Magazine - Science Fiction & Fantasy](https://clarkesworldmagazine.com/kim_02_24/) - Clarkesworld Science Fiction and Fantasy Magazine and Podcast. This page: Why Don't We Just Kill the Kid In the Omelas Hole by Isabel J. Kim
+
 - [The Worms that Ate the Universe](https://www.uncannymagazine.com/article/the-worms-that-ate-the-universe/) - The planet of the worms is a cold, barren, sunless place. The worms do not think. They feel nothing but hunger, and so they eat. They eat through the planet’s surface. They eat through the planet’s molten core. Over time, the planet grows speckled and spongelike, riddled with tunnels and holes. But the worms don’t […]
 
 - [Three Views of a Parking Lot](https://www.sundaymorningtransport.com/p/three-views-of-a-parking-lot) - We are excited to kick off the month of October with a new, free, story from Ken Liu today!
