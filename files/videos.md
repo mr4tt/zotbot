@@ -1,4 +1,14 @@
 # videos
+- [ボーカロイドたちがただﾃｯﾃｰﾃﾚｯﾃｰするだけ](https://www.youtube.com/watch?v=-iFEKeULaIo)
+
+- [Half-Life: Full Life Consequences](https://www.youtube.com/watch?v=OHxyZaZlaOs)
+
+- [91-Year-Old Grandma Guesses Pokemon Names](https://www.youtube.com/watch?v=i4PKHk0LL4Q)
+
+- [My Hair Is Gorgeous](https://www.youtube.com/watch?v=GFsLQqbqGT8)
+
+- [A terrible guide to the terrible terminology of U.S. Health Insurance](https://www.youtube.com/watch?v=-wpHszfnJns)
+
 - [Animation of 2015 Explosion at ExxonMobil Refinery in Torrance, CA](https://www.youtube.com/watch?v=JplAKJrgyew)
 
 - [You can't grow concrete.](https://www.youtube.com/watch?v=6-9-FkwUrRo)

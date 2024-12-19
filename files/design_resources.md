@@ -1,4 +1,6 @@
 # design_resources
+- [CARI | Aesthetics](https://cari.institute/aesthetics)
+
 - [Cofolios](https://www.cofolios.com/) - Portfolios of designers from top tech companies.
 
 - [Web Field Manual | Latest](https://webfieldmanual.com/) - A curated resource for web creators.

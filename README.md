@@ -17,6 +17,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # blogs
+- [Xe Iaso](https://xeiaso.net/) - Xe Iaso's personal website.
+
 - [Google Testing Blog](https://testing.googleblog.com/)
 
 - [Julia Evans](https://jvns.ca/) - Julia Evans
@@ -74,6 +76,12 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [The adorable love story behind Wikipedia’s 'high five' photos](https://www.inverse.com/culture/wikipedia-high-five-too-slow-photos-mystery-couple-solved) - Nearly 14 years later, the tale of this iconic couple can finally be told.
+
+- [Writing down (and searching through) every UUID · eieio.games](https://eieio.games/blog/writing-down-every-uuid/) - I couldn't remember every UUID so I wrote them all down
+
+- [Flag Stories](https://flagstories.co/?og=1) - a project by ferdio
+
 - [A literary history of fake texts in Apple's marketing materials](https://maxread.substack.com/p/a-literary-history-of-fake-texts) - Exploring the Applecore style
 
 - [Deanna Dikeman - Leaving and Waving](https://deannadikeman.com/leaving-and-waving) - For 27 years, I took photographs as I waved good-bye and drove away from visiting my parents at their home in Sioux City, Iowa. I started in 1991 with a quick snapshot, and I continued taking photographs with each departure. I never set out to make this series. I just took these photographs as a way to deal with the sadness of leaving. It gradually ...
@@ -223,6 +231,8 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
+- [Grassfur](https://grassfur.bigcartel.com/)
+
 - [errornogo](https://errornogo.com/) - errornogo: the brand with no logo. At the apex between contemporary streetwear and early-21st century nostalgia, errornogo seeks to subvert the relentless power of iconic branding with familiar iconography from a shortly-removed time.
 
 - [Fiveboos](https://fiveboos.com/)
@@ -332,6 +342,16 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [ボーカロイドたちがただﾃｯﾃｰﾃﾚｯﾃｰするだけ](https://www.youtube.com/watch?v=-iFEKeULaIo)
+
+- [Half-Life: Full Life Consequences](https://www.youtube.com/watch?v=OHxyZaZlaOs)
+
+- [91-Year-Old Grandma Guesses Pokemon Names](https://www.youtube.com/watch?v=i4PKHk0LL4Q)
+
+- [My Hair Is Gorgeous](https://www.youtube.com/watch?v=GFsLQqbqGT8)
+
+- [A terrible guide to the terrible terminology of U.S. Health Insurance](https://www.youtube.com/watch?v=-wpHszfnJns)
+
 - [Animation of 2015 Explosion at ExxonMobil Refinery in Torrance, CA](https://www.youtube.com/watch?v=JplAKJrgyew)
 
 - [You can't grow concrete.](https://www.youtube.com/watch?v=6-9-FkwUrRo)
@@ -531,6 +551,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [CARI | Aesthetics](https://cari.institute/aesthetics)
+
 - [Cofolios](https://www.cofolios.com/) - Portfolios of designers from top tech companies.
 
 - [Web Field Manual | Latest](https://webfieldmanual.com/) - A curated resource for web creators.
@@ -942,6 +964,14 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Serbia: Authorities using spyware and Cellebrite forensic extraction tools to hack journalists and activists](https://securitylab.amnesty.org/latest/2024/12/serbia-a-digital-prison-spyware-and-cellebrite-used-on-journalists-and-activists/) - Serbian police and intelligence authorities are using advanced phone spyware alongside Cellebrite mobile phone forensic products to unlawfully target journalists, environmental activists and other individuals in a covert surveillance campaign, a new Amnesty International report has revealed.
+
+- [What Alice Munro Knew](https://www.nytimes.com/2024/12/08/magazine/alice-munro-andrea-skinner-abuse.html) - The Nobel-winning author’s husband was a pedophile who targeted her daughter and other children. Why did she stay silent?
+
+- [Is your air fryer spying on you? Concerns over ‘excessive’ surveillance in smart devices](https://www.theguardian.com/technology/2024/nov/05/air-fryer-excessive-surveillance-smart-devices-which-watches-speakers-trackers) - UK consumer group Which? finds some everyday items including watches and speakers are ‘stuffed with trackers’
+
+- [I fell into the emotional labour trap, then my wife divorced me](https://www.thetimes.com/life-style/sex-relationships/article/i-fell-into-the-emotional-labour-trap-then-my-wife-divorced-me-lckxw8w6q) - My wife divorced me because I left dishes by the sink.Imagine taking something as petty as a conversation about dishes and elevating it to a marriage problem. I thought she was crazy. You know, in the hyperbolic way, but just maybe a tiny bit in the clinical way too. I was unable to make any sort of
+
 - [Something Strange Happens to Wolves Infected by an Infamous Mind-Altering Parasite](https://www.sciencealert.com/something-strange-happens-to-wolves-infected-by-an-infamous-mind-altering-parasite) - A study of 26 years' worth of wolf behavioral data, and an analysis of the blood of 229 wolves, has shown that infection with the parasite Toxoplasma gondii makes wolves 46 times more likely to become a pack leader.
 
 - [The Landlord, the Tenant and a House Fire in Milwaukee](https://www.propublica.org/article/milwaukee-fire-brunner-belen-landlord-tenant) - A young mother rents a house near Milwaukee. The previous tenant tells her, “Baby, they shouldn’t have let you move in.”
@@ -1134,15 +1164,11 @@ To view a single category, check the files/ folder.
 
 - ['Satoshi Nakamoto' Just Posted. WTF Is Going On?](https://www.vice.com/en/article/ak347b/satoshi-nakamoto-just-posted-wtf-is-going-on) - Did the anonymous inventor of Bitcoin really just break their silence? Let's go down the rabbit hole.
 
-- [New Evidence Found of Rape and Torture by Russian Forces in Ukraine](https://www.nytimes.com/2023/10/21/world/europe/russia-war-crimes-ukraine.html) - A U.N. report documented cases in the southern regions of Kherson and Zaporizhzhia, which remain partly under Moscow’s control.
-
-- [Thousands of remote IT workers sent wages to North Korea to help fund weapons program, FBI says](https://apnews.com/article/north-korea-weapons-program-it-workers-f3df7c120522b0581db5c0b9682ebc9b) - Federal authorities say that thousands of information technology workers contracting with U.S. companies secretly sent millions of dollars of their wages to North Korea for use in its ballistic missile program.
-
-- [Inside FTX’s All-Night Race to Stop a $1 Billion Crypto Heist | WIRED](https://www.wired.com/story/ftx-1-billion-crypto-heist/)
-
-- [They Studied Dishonesty. Was Their Work a Lie?](https://www.newyorker.com/magazine/2023/10/09/they-studied-dishonesty-was-their-work-a-lie) - Dan Ariely and Francesca Gino became famous for their research into why we bend the truth. Now they’ve both been accused of fabricating data.
-
 # wikipedia
+- [Lizzie Borden](https://en.wikipedia.org/w/index.php?title=Lizzie_Borden&oldid=1260393969) - Lizzie Andrew Borden (July 19, 1860 – June 1, 1927) was an American woman who was tried and acquitted of the August 4, 1892 axe murders of her father and stepmother in Fall River, Massachusetts. No one else was charged in the murders, and, despite ostracism from other residents, Borden spent the remainder of her life in Fall River. She died of pneum...
+
+- [Shamima Begum](https://en.wikipedia.org/w/index.php?title=Shamima_Begum&oldid=1262410137) - Shamima Begum (born 25 August 1999) is a British-born woman who entered Syria to join the Islamic State at the age of 15 in 2015. As of 2024, she is living in al-Roj detention camp in Syria. While enrolled at Bethnal Green Academy, Begum and two schoolmates travelled to Syria in February 2015. The journey was facilitated by an IS smuggler who was pr...
+
 - [Tsutomu Yamaguchi](https://en.wikipedia.org/w/index.php?title=Tsutomu_Yamaguchi&oldid=1259163458) - Tsutomu Yamaguchi (山口 彊, Yamaguchi Tsutomu) (16 March 1916 – 4 January 2010) was a Japanese marine engineer who survived both the Hiroshima and Nagasaki atomic bombings during World War II. Although at least 160 people are known to have been affected by both bombings, he is the only person to have been officially recognized by the government of Japa...
 
 - [Printer tracking dots](https://en.wikipedia.org/w/index.php?title=Printer_tracking_dots&oldid=1257812547) - Printer tracking dots, also known as printer steganography, DocuColor tracking dots, yellow dots, secret dots, or a machine identification code (MIC), is a digital watermark which many color laser printers and photocopiers produce on every printed page that identifies the specific device that was used to print the document. Developed by Xerox and Ca...
@@ -1339,11 +1365,9 @@ To view a single category, check the files/ folder.
 
 - [Herringbone seating](https://en.wikipedia.org/w/index.php?title=Herringbone_seating&oldid=1030236899) - A herringbone seating arrangement describes the positioning of seats partially and equally askew in one direction. As the name suggests, the arrangement of the seats looks very similar to the skeleton of a fish, and has been called "fish-bone seats" in a few languages. The term is derived from the arrangement of interlocking brickwork, and has been ...
 
-- [Two hundred fifty-sixth note](https://en.wikipedia.org/w/index.php?title=Two_hundred_fifty-sixth_note&oldid=1180091999) - In music, a two hundred fifty-sixth note, or occasionally demisemihemidemisemiquaver (British), is a note played for 1⁄256 of the duration of a whole note. It lasts half as long as a hundred twenty-eighth note and takes up one quarter of the length of a sixty-fourth note. In musical notation it has a total of six flags or beams. Since human pitch pe...
-
-- [Grain entrapment](https://en.wikipedia.org/w/index.php?title=Grain_entrapment&oldid=1177367817) - Grain entrapment, or grain engulfment, occurs when a person becomes submerged in grain and cannot get out without assistance. It most frequently occurs in grain bins and other storage facilities such as silos or grain elevators, or in grain transportation vehicles, but has also been known to occur around any large quantity of grain, even freestandin...
-
 # misc
+- [Daylight Saving Time Gripe Assistant Tool / Andy Woodruff](https://observablehq.com/@awoodruff/daylight-saving-time-gripe-assistant-tool)
+
 - [Literature Clock](https://literature-clock.jenevoldsen.com/)
 
 - [Random Wikipedia Tier List](http://www.tierlisty.com/)

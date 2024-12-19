@@ -1,4 +1,6 @@
 # blogs
+- [Xe Iaso](https://xeiaso.net/) - Xe Iaso's personal website.
+
 - [Google Testing Blog](https://testing.googleblog.com/)
 
 - [Julia Evans](https://jvns.ca/) - Julia Evans

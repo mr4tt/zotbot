@@ -1,4 +1,12 @@
 # news
+- [Serbia: Authorities using spyware and Cellebrite forensic extraction tools to hack journalists and activists](https://securitylab.amnesty.org/latest/2024/12/serbia-a-digital-prison-spyware-and-cellebrite-used-on-journalists-and-activists/) - Serbian police and intelligence authorities are using advanced phone spyware alongside Cellebrite mobile phone forensic products to unlawfully target journalists, environmental activists and other individuals in a covert surveillance campaign, a new Amnesty International report has revealed.
+
+- [What Alice Munro Knew](https://www.nytimes.com/2024/12/08/magazine/alice-munro-andrea-skinner-abuse.html) - The Nobel-winning author’s husband was a pedophile who targeted her daughter and other children. Why did she stay silent?
+
+- [Is your air fryer spying on you? Concerns over ‘excessive’ surveillance in smart devices](https://www.theguardian.com/technology/2024/nov/05/air-fryer-excessive-surveillance-smart-devices-which-watches-speakers-trackers) - UK consumer group Which? finds some everyday items including watches and speakers are ‘stuffed with trackers’
+
+- [I fell into the emotional labour trap, then my wife divorced me](https://www.thetimes.com/life-style/sex-relationships/article/i-fell-into-the-emotional-labour-trap-then-my-wife-divorced-me-lckxw8w6q) - My wife divorced me because I left dishes by the sink.Imagine taking something as petty as a conversation about dishes and elevating it to a marriage problem. I thought she was crazy. You know, in the hyperbolic way, but just maybe a tiny bit in the clinical way too. I was unable to make any sort of
+
 - [Something Strange Happens to Wolves Infected by an Infamous Mind-Altering Parasite](https://www.sciencealert.com/something-strange-happens-to-wolves-infected-by-an-infamous-mind-altering-parasite) - A study of 26 years' worth of wolf behavioral data, and an analysis of the blood of 229 wolves, has shown that infection with the parasite Toxoplasma gondii makes wolves 46 times more likely to become a pack leader.
 
 - [The Landlord, the Tenant and a House Fire in Milwaukee](https://www.propublica.org/article/milwaukee-fire-brunner-belen-landlord-tenant) - A young mother rents a house near Milwaukee. The previous tenant tells her, “Baby, they shouldn’t have let you move in.”
@@ -190,12 +198,4 @@
 - [Giant Rodents 'Invaded' a Wealthy Gated Community. What Happened Next is a Lesson for Cities in the Climate Change Era](https://time.com/6173837/capybaras-argentina-climate-change/) - Nordelta had to adapt after its population of giant rodents started to boom last year.
 
 - ['Satoshi Nakamoto' Just Posted. WTF Is Going On?](https://www.vice.com/en/article/ak347b/satoshi-nakamoto-just-posted-wtf-is-going-on) - Did the anonymous inventor of Bitcoin really just break their silence? Let's go down the rabbit hole.
-
-- [New Evidence Found of Rape and Torture by Russian Forces in Ukraine](https://www.nytimes.com/2023/10/21/world/europe/russia-war-crimes-ukraine.html) - A U.N. report documented cases in the southern regions of Kherson and Zaporizhzhia, which remain partly under Moscow’s control.
-
-- [Thousands of remote IT workers sent wages to North Korea to help fund weapons program, FBI says](https://apnews.com/article/north-korea-weapons-program-it-workers-f3df7c120522b0581db5c0b9682ebc9b) - Federal authorities say that thousands of information technology workers contracting with U.S. companies secretly sent millions of dollars of their wages to North Korea for use in its ballistic missile program.
-
-- [Inside FTX’s All-Night Race to Stop a $1 Billion Crypto Heist | WIRED](https://www.wired.com/story/ftx-1-billion-crypto-heist/)
-
-- [They Studied Dishonesty. Was Their Work a Lie?](https://www.newyorker.com/magazine/2023/10/09/they-studied-dishonesty-was-their-work-a-lie) - Dan Ariely and Francesca Gino became famous for their research into why we bend the truth. Now they’ve both been accused of fabricating data.
 

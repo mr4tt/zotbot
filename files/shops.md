@@ -1,4 +1,6 @@
 # shops
+- [Grassfur](https://grassfur.bigcartel.com/)
+
 - [errornogo](https://errornogo.com/) - errornogo: the brand with no logo. At the apex between contemporary streetwear and early-21st century nostalgia, errornogo seeks to subvert the relentless power of iconic branding with familiar iconography from a shortly-removed time.
 
 - [Fiveboos](https://fiveboos.com/)

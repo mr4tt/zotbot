@@ -1,4 +1,10 @@
 # misc_longform
+- [The adorable love story behind Wikipedia’s 'high five' photos](https://www.inverse.com/culture/wikipedia-high-five-too-slow-photos-mystery-couple-solved) - Nearly 14 years later, the tale of this iconic couple can finally be told.
+
+- [Writing down (and searching through) every UUID · eieio.games](https://eieio.games/blog/writing-down-every-uuid/) - I couldn't remember every UUID so I wrote them all down
+
+- [Flag Stories](https://flagstories.co/?og=1) - a project by ferdio
+
 - [A literary history of fake texts in Apple's marketing materials](https://maxread.substack.com/p/a-literary-history-of-fake-texts) - Exploring the Applecore style
 
 - [Deanna Dikeman - Leaving and Waving](https://deannadikeman.com/leaving-and-waving) - For 27 years, I took photographs as I waved good-bye and drove away from visiting my parents at their home in Sioux City, Iowa. I started in 1991 with a quick snapshot, and I continued taking photographs with each departure. I never set out to make this series. I just took these photographs as a way to deal with the sadness of leaving. It gradually ...
