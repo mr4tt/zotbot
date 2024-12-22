@@ -342,6 +342,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [Miku World Is Mine But It Gets More Verbose](https://www.youtube.com/watch?v=fiCRhszDHlM)
+
 - [ボーカロイドたちがただﾃｯﾃｰﾃﾚｯﾃｰするだけ](https://www.youtube.com/watch?v=-iFEKeULaIo)
 
 - [Half-Life: Full Life Consequences](https://www.youtube.com/watch?v=OHxyZaZlaOs)
@@ -1165,6 +1167,12 @@ To view a single category, check the files/ folder.
 - ['Satoshi Nakamoto' Just Posted. WTF Is Going On?](https://www.vice.com/en/article/ak347b/satoshi-nakamoto-just-posted-wtf-is-going-on) - Did the anonymous inventor of Bitcoin really just break their silence? Let's go down the rabbit hole.
 
 # wikipedia
+- [Decoy effect](https://en.wikipedia.org/w/index.php?title=Decoy_effect&oldid=1194485694) - In marketing, the decoy effect (or attraction effect or asymmetric dominance effect) is the phenomenon whereby consumers will tend to have a specific change in preference between two options when also presented with a third option that is asymmetrically dominated. An option is asymmetrically dominated when it is inferior in all respects to one optio...
+
+- [Let them eat cake](https://en.wikipedia.org/w/index.php?title=Let_them_eat_cake&oldid=1263017290) - "Let them eat cake" is the traditional translation of the French phrase "Qu'ils mangent de la brioche", said to have been spoken in the 18th century by "a great princess" upon being told that the peasants had no bread. The phrase "let them eat cake" is conventionally attributed to Marie Antoinette, although there is no evidence that she ever uttered...
+
+- [End Poem](https://en.wikipedia.org/w/index.php?title=End_Poem&oldid=1263976830) - The end credits of the video game Minecraft include a written work by Julian Gough, conventionally called the End Poem, which is the only narrative text in the mostly unstructured sandbox game. Minecraft's creator Markus "Notch" Persson did not have an ending to the game up until a month before launch, and following recommendation by Twitter followe...
+
 - [Lizzie Borden](https://en.wikipedia.org/w/index.php?title=Lizzie_Borden&oldid=1260393969) - Lizzie Andrew Borden (July 19, 1860 – June 1, 1927) was an American woman who was tried and acquitted of the August 4, 1892 axe murders of her father and stepmother in Fall River, Massachusetts. No one else was charged in the murders, and, despite ostracism from other residents, Borden spent the remainder of her life in Fall River. She died of pneum...
 
 - [Shamima Begum](https://en.wikipedia.org/w/index.php?title=Shamima_Begum&oldid=1262410137) - Shamima Begum (born 25 August 1999) is a British-born woman who entered Syria to join the Islamic State at the age of 15 in 2015. As of 2024, she is living in al-Roj detention camp in Syria. While enrolled at Bethnal Green Academy, Begum and two schoolmates travelled to Syria in February 2015. The journey was facilitated by an IS smuggler who was pr...
@@ -1359,13 +1367,9 @@ To view a single category, check the files/ folder.
 
 - [Pigeon photography](https://en.wikipedia.org/w/index.php?title=Pigeon_photography&oldid=1169540537) - Pigeon photography is an aerial photography technique invented in 1907 by the German apothecary Julius Neubronner, who also used pigeons to deliver medications. A homing pigeon was fitted with an aluminium breast harness to which a lightweight time-delayed miniature camera could be attached. Neubronner's German patent application was initially rejec...
 
-- [John Willis (gangster)](https://en.wikipedia.org/w/index.php?title=John_Willis_(gangster)&oldid=1152225948) - John Willis (born May 11, 1971), nicknamed Bac Guai John in Cantonese, or White Devil John, is an American mobster linked with the Chinese mafia in Boston and New York. Willis claims to have been the only white person within Chinese organized crime, an assertion backed by FBI agent Scott O'Donnell, who stated he has "never seen" a case like that of ...
-
-- [Daffynition](https://en.wikipedia.org/w/index.php?title=Daffynition&oldid=1178043085) - A daffynition (a portmanteau blend of daffy and definition) is a form of pun involving the reinterpretation of an existing word, on the basis that it sounds like another word (or group of words). Presented in the form of dictionary definitions, they are similar to transpositional puns, but often much less complex and easier to create. Under the name...
-
-- [Herringbone seating](https://en.wikipedia.org/w/index.php?title=Herringbone_seating&oldid=1030236899) - A herringbone seating arrangement describes the positioning of seats partially and equally askew in one direction. As the name suggests, the arrangement of the seats looks very similar to the skeleton of a fish, and has been called "fish-bone seats" in a few languages. The term is derived from the arrangement of interlocking brickwork, and has been ...
-
 # misc
+- [Home | Versus Sweeper](https://versussweeper.com/)
+
 - [Daylight Saving Time Gripe Assistant Tool / Andy Woodruff](https://observablehq.com/@awoodruff/daylight-saving-time-gripe-assistant-tool)
 
 - [Literature Clock](https://literature-clock.jenevoldsen.com/)

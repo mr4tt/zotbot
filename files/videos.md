@@ -1,4 +1,6 @@
 # videos
+- [Miku World Is Mine But It Gets More Verbose](https://www.youtube.com/watch?v=fiCRhszDHlM)
+
 - [ボーカロイドたちがただﾃｯﾃｰﾃﾚｯﾃｰするだけ](https://www.youtube.com/watch?v=-iFEKeULaIo)
 
 - [Half-Life: Full Life Consequences](https://www.youtube.com/watch?v=OHxyZaZlaOs)
