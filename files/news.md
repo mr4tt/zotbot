@@ -1,4 +1,6 @@
 # news
+- [Satellite-navigation systems such as GPS are at risk of jamming](https://www.economist.com/science-and-technology/2021/05/06/satellite-navigation-systems-such-as-gps-are-at-risk-of-jamming) - https://archive.ph/Gxsjv
+
 - [Serbia: Authorities using spyware and Cellebrite forensic extraction tools to hack journalists and activists](https://securitylab.amnesty.org/latest/2024/12/serbia-a-digital-prison-spyware-and-cellebrite-used-on-journalists-and-activists/) - Serbian police and intelligence authorities are using advanced phone spyware alongside Cellebrite mobile phone forensic products to unlawfully target journalists, environmental activists and other individuals in a covert surveillance campaign, a new Amnesty International report has revealed.
 
 - [What Alice Munro Knew](https://www.nytimes.com/2024/12/08/magazine/alice-munro-andrea-skinner-abuse.html) - The Nobel-winning author’s husband was a pedophile who targeted her daughter and other children. Why did she stay silent?
@@ -196,6 +198,4 @@
 - [They Cracked the Code to a Locked USB Drive Worth $235 Million in Bitcoin. Then It Got Weird](https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin/) - Stefan Thomas lost the password to an encrypted USB drive holding 7,002 bitcoins. One team of hackers believes they can unlock it—if they can get Thomas to let them.
 
 - [Giant Rodents 'Invaded' a Wealthy Gated Community. What Happened Next is a Lesson for Cities in the Climate Change Era](https://time.com/6173837/capybaras-argentina-climate-change/) - Nordelta had to adapt after its population of giant rodents started to boom last year.
-
-- ['Satoshi Nakamoto' Just Posted. WTF Is Going On?](https://www.vice.com/en/article/ak347b/satoshi-nakamoto-just-posted-wtf-is-going-on) - Did the anonymous inventor of Bitcoin really just break their silence? Let's go down the rabbit hole.
 

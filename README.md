@@ -17,6 +17,10 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # blogs
+- [MoonBear Musings – Some thoughts from a stupid business bear](https://moonbearmusings.com/)
+
+- [The Set Studio Blog](https://set.studio/blog/) - The Set Studio Blog is an archive of design tips, strategy, a weekly newsletter and updates from inside the studio.
+
 - [Xe Iaso](https://xeiaso.net/) - Xe Iaso's personal website.
 
 - [Google Testing Blog](https://testing.googleblog.com/)
@@ -47,8 +51,6 @@ To view a single category, check the files/ folder.
 
 - [The Cloudflare Blog](https://blog.cloudflare.com) - Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet.
 
-- [MoonBear Musings – Some thoughts from a stupid business bear](https://moonbearmusings.com/)
-
 - [zwischenzugs](https://zwischenzugs.com/)
 
 - [Idle Words](https://idlewords.com/)
@@ -76,6 +78,10 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [In Praise of the AK-47](https://deardesignstudent.com/in-praise-of-the-ak-47-a24cc8a46c13) - Q: I had a professor in school who went on and on about how well the AK-47 was designed. He stressed that as designers we should be able to…
+
+- [sexy pdfs](https://www.are.na/chloe-abrasada/sexy-pdfs) - collection of pdfs on topics i resonate with & want to learn more about can't wait to dive deep
+
 - [The adorable love story behind Wikipedia’s 'high five' photos](https://www.inverse.com/culture/wikipedia-high-five-too-slow-photos-mystery-couple-solved) - Nearly 14 years later, the tale of this iconic couple can finally be told.
 
 - [Writing down (and searching through) every UUID · eieio.games](https://eieio.games/blog/writing-down-every-uuid/) - I couldn't remember every UUID so I wrote them all down
@@ -123,6 +129,8 @@ To view a single category, check the files/ folder.
 - [From Vim to Zed](https://registerspill.thorstenball.com/p/from-vim-to-zed) - After around 20 years of using Vim, in December last year I switched to Zed as my main editor.
 
 - [Call of the Void: Seven years on, what do we know about the disappearance of Malaysia Airlines…](https://admiralcloudberg.medium.com/call-of-the-void-seven-years-on-what-do-we-know-about-the-disappearance-of-malaysia-airlines-77fa5244bf99) - “Good night, Malaysian three seven zero.”
+
+- [Real life](https://www.bitsofwonder.co/p/real-life) - reminder
 
 - [Michael Orlitzky { CSC ServiceWorks laundry machine coin bypass }](https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml?ref=404media.co)
 
@@ -342,9 +350,11 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
-- [Miku World Is Mine But It Gets More Verbose](https://www.youtube.com/watch?v=fiCRhszDHlM)
+- [there is a rock in my house](https://www.youtube.com/watch?v=5RkzOAlLBg4)
 
 - [ボーカロイドたちがただﾃｯﾃｰﾃﾚｯﾃｰするだけ](https://www.youtube.com/watch?v=-iFEKeULaIo)
+
+- [Miku World Is Mine But It Gets More Verbose](https://www.youtube.com/watch?v=fiCRhszDHlM)
 
 - [Half-Life: Full Life Consequences](https://www.youtube.com/watch?v=OHxyZaZlaOs)
 
@@ -427,8 +437,6 @@ To view a single category, check the files/ folder.
 - [Plagiarism and You(Tube)](https://www.youtube.com/watch?v=yDp3cB5fHXQ)
 
 - [Disney Channel's Theme: A History Mystery](https://www.youtube.com/watch?v=b_rjBWmc1iQ)
-
-- [ボーカロイドたちがただﾃｯﾃｰﾃﾚｯﾃｰするだけ](https://www.youtube.com/watch?v=-iFEKeULaIo)
 
 - [he walk](https://www.youtube.com/watch?v=xa1Zn6XrDlM)
 
@@ -553,6 +561,34 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [DESIGNERCIZE](https://designercize.com) - Retro prompt generator for whiteboard design practice.
+
+- [Humane by Design](https://humanebydesign.com/) - Guidance for designing humane digital products and services focused around digital well-being.
+
+- [DesignSystems.com](https://www.designsystems.com/) - A design systems publication by Figma
+
+- [UI Playbook: Collection of UI components](https://uiplaybook.dev) - The documented collection of UI components.
+
+- [Design Thinking is a Rebrand for White Supremacy](https://www.are.na/darin-buzon/design-thinking-is-a-rebrand-for-white-supremacy) - dabuzon.medium.com/design-thinking-is-a-rebrand-for-white-supremacy-b3d31aa55831…ritical%20essay%20on%20Design%20Thinking,%20Modernism,%20and%20white%20supremacy
+
+- [Easing Wizard - CSS Easing Editor](https://easingwizard.com) - Generate and customize CSS easing functions with ease and magical precision using Easing Wizard 🧙
+
+- [A Brief Rant on the Future of Interaction Design](http://worrydream.com/#!/ABriefRantOnTheFutureOfInteractionDesign)
+
+- [Olivia Truong](https://www.oliviatruong.design/) - Portfolio of Product Designer and Illustrator, Olivia Truong
+
+- [A Guide to Smooth Designer-Developer Handoffs | Adobe XD Ideas](https://xd.adobe.com/ideas/perspectives/leadership-insights/guide-to-smooth-designer-developer-handoffs/) - Explore common challenges with designer-developer handoffs & some of the best practices & strategies both parties should follow to bridge the disconnect.
+
+- [UX FAQs](https://www.notion.so/UX-FAQs-3cbed70a2ce244208394a852af79996f)
+
+- [UX Resources](https://mikedeng.notion.site/UX-Resources-5f374d563e6a41e98559974486065122) - List of UX Resources, broken up by category
+
+- [Apple & Banana - Fruitful UX research for everyone](https://www.appleandbanana.org//) - Pragmatic UX research resources. Backed by theory, tested in reality.
+
+- [abdz - Have you given up on being inspired?](https://abduzeedo.com/index.php/)
+
+- [HTML Color Codes](https://htmlcolorcodes.com/) - Easily find HTML color codes for your website using our color picker, color chart and HTML color names with Hex color codes, RGB and HSL values.
+
 - [CARI | Aesthetics](https://cari.institute/aesthetics)
 
 - [Cofolios](https://www.cofolios.com/) - Portfolios of designers from top tech companies.
@@ -580,8 +616,6 @@ To view a single category, check the files/ folder.
 - [Public Sans](https://public-sans.digital.gov/) - A strong, neutral, open source typeface for text or display.
 
 - [Office Chair Finder | Vitra](https://findmy.vitra.com/en-en/questionnaire/chairs) - Welcome to our office chair finder
-
-- [Design Systems Database](https://designsystems.surf/) - Best-in-class Design Systems with components and foundations references from top-tier tech companies and leading UI teams
 
 - [Figma](https://www.figma.com/proto/fSeQqlIw4aZpGrTs9LjDIY/S%2526D-%252F-Process-2024?page-id=0%3A1&node-id=1-3&viewport=478%2C160%2C0.07&scaling=containn) - Created with Figma
 
@@ -675,17 +709,31 @@ To view a single category, check the files/ folder.
 
 - [Grids](https://grids.obys.agency/)
 
-- [Bret Victor, beast of burden](http://worrydream.com/#!/ABriefRantOnTheFutureOfInteractionDesign)
-
 - [Miranda — Paper Portfolio](https://www.niccolomiranda.com/) - Niccolò Miranda is an award-winning designer & developer who’s passionate about creating iconic digital experiences through motion, typography and creative coding.
 
 - [In the file: The first 90 days of the Head of DesignOps](https://www.youtube.com/watch?v=mjRPk2faqKw) - Figma is free to use. Sign up here: https://bit.ly/3msp0OVSalome Mortazavi, Head of DesignOps at SiriusXM Listener, and Adam Fry-Pierce, Chief of Staff at Go...
 
-- [UI Playbook](https://uiplaybook.dev) - The documented collection of UI components.
-
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [AI Safety for Fleshy Humans: a whirlwind tour](https://aisafety.dance/) - Your one-stop-shop to understand all the core ideas of AI & AI Safety!
+
+- [The Linux Documentation Project: Guides](https://tldp.org/guides.html)
+
+- [Some simple ways to make content look good](https://set.studio/some-simple-ways-to-make-content-look-good/) - Something non-designers understandably struggle with is how to make things look good. One of those things is long form content that’s well set and readable. Luckily, CSS makes this easy, you just have to know what to change. That’s exactly what we’re going to teach you in this article.
+
+- [Utopia](https://utopia.fyi/) - Fluid responsive design
+
+- [Computer Science Research | CS197 | Fall 2024](https://web.stanford.edu/class/cs197/) - Undergraduate Research
+
+- [The Modern JavaScript Tutorial](https://javascript.info/) - Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.
+
+- [Tutorials | MDN](https://developer.mozilla.org/en-US/docs/Web/Tutorials) - The links on this page lead to a variety of tutorials and training materials. Whether you are just starting, learning the basics, or are an old hand at web development, you can find helpful resources here for best practices.
+
+- [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+
+- [SQL Teaching](http://www.sqlteaching.com) - The easiest way to learn SQL
+
 - [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/) - Learn how to use CSS container queries today.
 
 - [Google Testing Blog](https://testing.googleblog.com/)
@@ -701,8 +749,6 @@ To view a single category, check the files/ folder.
 - [Pelican navbar menu items](https://appliedcaffeine.org/blog/navbaritems/) - Static site generators can greatly reduce the slope of the website creation learning curve. Take advantage of these tools if you are interested in creating your own simple website but want to sidestep manually generating the HTML and CSS on your own.
 
 - [Article Listing | Datadog Security Labs](https://securitylabs.datadoghq.com/articles) - Datadog Security Labs is the place to read blog content about security research and tooling published by Datadog for the community.
-
-- [AI Safety for Fleshy Humans: a whirlwind tour](https://aisafety.dance/) - Your one-stop-shop to understand all the core ideas of AI & AI Safety!
 
 - [Book: Alice’s Adventures in a differentiable wonderland](https://sscardapane.it/alice-book/) - My personal website, where I collect slides, publications, and presentations.
 
@@ -870,14 +916,6 @@ To view a single category, check the files/ folder.
 
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
-- [SICP Distilled](https://www.sicpdistilled.com/section/1.1.1/)
-
-- [Try Clojure](https://tryclojure.org/) - Clojure tutorial in a browser REPL.
-
-- [Nutshell: make expandable, embeddable explanations](https://ncase.me/nutshell/) - a tool to let your readers dive into details
-
-- [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
-
 # stories
 - [Clarkesworld Magazine - Science Fiction & Fantasy](https://clarkesworldmagazine.com/kim_02_24/) - Clarkesworld Science Fiction and Fantasy Magazine and Podcast. This page: Why Don't We Just Kill the Kid In the Omelas Hole by Isabel J. Kim
 
@@ -966,6 +1004,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Satellite-navigation systems such as GPS are at risk of jamming](https://www.economist.com/science-and-technology/2021/05/06/satellite-navigation-systems-such-as-gps-are-at-risk-of-jamming) - https://archive.ph/Gxsjv
+
 - [Serbia: Authorities using spyware and Cellebrite forensic extraction tools to hack journalists and activists](https://securitylab.amnesty.org/latest/2024/12/serbia-a-digital-prison-spyware-and-cellebrite-used-on-journalists-and-activists/) - Serbian police and intelligence authorities are using advanced phone spyware alongside Cellebrite mobile phone forensic products to unlawfully target journalists, environmental activists and other individuals in a covert surveillance campaign, a new Amnesty International report has revealed.
 
 - [What Alice Munro Knew](https://www.nytimes.com/2024/12/08/magazine/alice-munro-andrea-skinner-abuse.html) - The Nobel-winning author’s husband was a pedophile who targeted her daughter and other children. Why did she stay silent?
@@ -1164,12 +1204,20 @@ To view a single category, check the files/ folder.
 
 - [Giant Rodents 'Invaded' a Wealthy Gated Community. What Happened Next is a Lesson for Cities in the Climate Change Era](https://time.com/6173837/capybaras-argentina-climate-change/) - Nordelta had to adapt after its population of giant rodents started to boom last year.
 
-- ['Satoshi Nakamoto' Just Posted. WTF Is Going On?](https://www.vice.com/en/article/ak347b/satoshi-nakamoto-just-posted-wtf-is-going-on) - Did the anonymous inventor of Bitcoin really just break their silence? Let's go down the rabbit hole.
-
 # wikipedia
+- [Hainan Island incident](https://en.wikipedia.org/w/index.php?title=Hainan_Island_incident&oldid=1262006046) - The Hainan Island incident was a ten-day international incident between the United States and the People's Republic of China (PRC) that resulted from a mid-air collision between a United States Navy EP-3E ARIES II signals intelligence aircraft and a Chinese Air Force J-8 interceptor on April 1, 2001. The EP-3 was flying over the South China sea at a...
+
+- [BeiDou](https://en.wikipedia.org/w/index.php?title=BeiDou&oldid=1255517108) - The BeiDou Navigation Satellite System (BDS; Chinese: 北斗卫星导航系统; pinyin: běidǒu wèixīng dǎoháng xìtǒng) is a satellite-based radio navigation system owned and operated by the China National Space Administration. It provides geolocation and time information to a BDS receiver anywhere on or near the Earth where there is an unobstructed line of sight to...
+
+- [Big Dipper](https://en.wikipedia.org/w/index.php?title=Big_Dipper&oldid=1263589788) - The Big Dipper (US, Canada) or the Plough (UK, Ireland) is a large asterism consisting of seven bright stars of the constellation Ursa Major; six of them are of second magnitude and one, Megrez (δ), of third magnitude. Four define a "bowl" or "body" and three define a "handle" or "head". It is recognized as a distinct grouping in many cultures.  The...
+
+- [Hollywood Freeway chickens](https://en.wikipedia.org/w/index.php?title=Hollywood_Freeway_chickens&oldid=1240168272) - The Hollywood Freeway chickens are a colony of feral chickens that live under the Vineland Avenue off-ramp of the Hollywood Freeway (U.S. Route 101) in Los Angeles, California. It is not definitively known how they came to be there, although news stories generally ascribe them to an overturned poultry truck. Chickens underneath the Vineland off-ramp...
+
 - [Decoy effect](https://en.wikipedia.org/w/index.php?title=Decoy_effect&oldid=1194485694) - In marketing, the decoy effect (or attraction effect or asymmetric dominance effect) is the phenomenon whereby consumers will tend to have a specific change in preference between two options when also presented with a third option that is asymmetrically dominated. An option is asymmetrically dominated when it is inferior in all respects to one optio...
 
 - [Let them eat cake](https://en.wikipedia.org/w/index.php?title=Let_them_eat_cake&oldid=1263017290) - "Let them eat cake" is the traditional translation of the French phrase "Qu'ils mangent de la brioche", said to have been spoken in the 18th century by "a great princess" upon being told that the peasants had no bread. The phrase "let them eat cake" is conventionally attributed to Marie Antoinette, although there is no evidence that she ever uttered...
+
+- [E ticket](https://en.wikipedia.org/w/index.php?title=E_ticket&oldid=1259131676) - An E ticket (officially an E coupon) was a type of admission ticket used at the Disneyland and Magic Kingdom theme parks before 1994, where it admitted the bearer to the newest, most advanced, or popular rides and attractions. It is now commonly used to describe a category of top tier and cutting edge theme park attractions. The term is especially c...
 
 - [End Poem](https://en.wikipedia.org/w/index.php?title=End_Poem&oldid=1263976830) - The end credits of the video game Minecraft include a written work by Julian Gough, conventionally called the End Poem, which is the only narrative text in the mostly unstructured sandbox game. Minecraft's creator Markus "Notch" Persson did not have an ending to the game up until a month before launch, and following recommendation by Twitter followe...
 
@@ -1357,17 +1405,11 @@ To view a single category, check the files/ folder.
 
 - [Vulnerability of nuclear plants to attack](https://en.wikipedia.org/w/index.php?title=Vulnerability_of_nuclear_plants_to_attack&oldid=1183996705) - The vulnerability of nuclear plants to deliberate attack is of concern in the area of nuclear safety and security. Nuclear power plants, civilian research reactors, certain naval fuel facilities, uranium enrichment plants, fuel fabrication plants, and even potentially uranium mines are vulnerable to attacks which could lead to widespread radioactive...
 
-- [The Thing (listening device)](https://en.wikipedia.org/w/index.php?title=The_Thing_(listening_device)&oldid=1176179694) - The Thing, also known as the Great Seal bug, was one of the first covert listening devices (or "bugs") to use passive techniques to transmit an audio signal. It was concealed inside a gift given by the Soviet Union to W. Averell Harriman, the United States Ambassador to the Soviet Union, on August 4, 1945. Because it was passive, needing electromagn...
-
-- [Metcalf sniper attack](https://en.wikipedia.org/w/index.php?title=Metcalf_sniper_attack&oldid=1166208708) - On April 16, 2013, an attack was carried out on Pacific Gas and Electric Company's Metcalf transmission substation in Coyote, California, near the border of San Jose. The attack, in which gunmen fired on 17 electrical transformers, resulted in more than $15 million worth of equipment damage, but it had little impact on the station's electrical power...
-
-- [1989 California medfly attack](https://en.wikipedia.org/w/index.php?title=1989_California_medfly_attack&oldid=1167439453) - In 1989, a sudden invasion of Mediterranean fruit flies (Ceratitis capitata, "medflies") appeared in California and began devastating crops. Scientists were puzzled and said that the sudden appearance of the insects "defies logic", and some speculated "biological terrorists" were responsible. Analysis suggested that an outside hand played a role in ...
-
-- [Joe Ades](https://en.wikipedia.org/w/index.php?title=Joe_Ades&oldid=1173242669) - Joseph Ades (; 18 December 1934 – 1 February 2009), also known as the "Gentleman Peeler", was a well-known street peeler seller in New York City, United States.
-
-- [Pigeon photography](https://en.wikipedia.org/w/index.php?title=Pigeon_photography&oldid=1169540537) - Pigeon photography is an aerial photography technique invented in 1907 by the German apothecary Julius Neubronner, who also used pigeons to deliver medications. A homing pigeon was fitted with an aluminium breast harness to which a lightweight time-delayed miniature camera could be attached. Neubronner's German patent application was initially rejec...
-
 # misc
+- [Motherfucking Website](https://motherfuckingwebsite.com/)
+
+- [System Data | Bay Wheels | Lyft](https://lyft.com/bikes/bay-wheels/system-data) - Developers, engineers, statisticians and academics can find and download data on Bay Wheels membership, ridership, and trip histories.
+
 - [Home | Versus Sweeper](https://versussweeper.com/)
 
 - [Daylight Saving Time Gripe Assistant Tool / Andy Woodruff](https://observablehq.com/@awoodruff/daylight-saving-time-gripe-assistant-tool)

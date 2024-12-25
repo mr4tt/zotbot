@@ -1,4 +1,32 @@
 # design_resources
+- [DESIGNERCIZE](https://designercize.com) - Retro prompt generator for whiteboard design practice.
+
+- [Humane by Design](https://humanebydesign.com/) - Guidance for designing humane digital products and services focused around digital well-being.
+
+- [DesignSystems.com](https://www.designsystems.com/) - A design systems publication by Figma
+
+- [UI Playbook: Collection of UI components](https://uiplaybook.dev) - The documented collection of UI components.
+
+- [Design Thinking is a Rebrand for White Supremacy](https://www.are.na/darin-buzon/design-thinking-is-a-rebrand-for-white-supremacy) - dabuzon.medium.com/design-thinking-is-a-rebrand-for-white-supremacy-b3d31aa55831…ritical%20essay%20on%20Design%20Thinking,%20Modernism,%20and%20white%20supremacy
+
+- [Easing Wizard - CSS Easing Editor](https://easingwizard.com) - Generate and customize CSS easing functions with ease and magical precision using Easing Wizard 🧙
+
+- [A Brief Rant on the Future of Interaction Design](http://worrydream.com/#!/ABriefRantOnTheFutureOfInteractionDesign)
+
+- [Olivia Truong](https://www.oliviatruong.design/) - Portfolio of Product Designer and Illustrator, Olivia Truong
+
+- [A Guide to Smooth Designer-Developer Handoffs | Adobe XD Ideas](https://xd.adobe.com/ideas/perspectives/leadership-insights/guide-to-smooth-designer-developer-handoffs/) - Explore common challenges with designer-developer handoffs & some of the best practices & strategies both parties should follow to bridge the disconnect.
+
+- [UX FAQs](https://www.notion.so/UX-FAQs-3cbed70a2ce244208394a852af79996f)
+
+- [UX Resources](https://mikedeng.notion.site/UX-Resources-5f374d563e6a41e98559974486065122) - List of UX Resources, broken up by category
+
+- [Apple & Banana - Fruitful UX research for everyone](https://www.appleandbanana.org//) - Pragmatic UX research resources. Backed by theory, tested in reality.
+
+- [abdz - Have you given up on being inspired?](https://abduzeedo.com/index.php/)
+
+- [HTML Color Codes](https://htmlcolorcodes.com/) - Easily find HTML color codes for your website using our color picker, color chart and HTML color names with Hex color codes, RGB and HSL values.
+
 - [CARI | Aesthetics](https://cari.institute/aesthetics)
 
 - [Cofolios](https://www.cofolios.com/) - Portfolios of designers from top tech companies.
@@ -26,8 +54,6 @@
 - [Public Sans](https://public-sans.digital.gov/) - A strong, neutral, open source typeface for text or display.
 
 - [Office Chair Finder | Vitra](https://findmy.vitra.com/en-en/questionnaire/chairs) - Welcome to our office chair finder
-
-- [Design Systems Database](https://designsystems.surf/) - Best-in-class Design Systems with components and foundations references from top-tier tech companies and leading UI teams
 
 - [Figma](https://www.figma.com/proto/fSeQqlIw4aZpGrTs9LjDIY/S%2526D-%252F-Process-2024?page-id=0%3A1&node-id=1-3&viewport=478%2C160%2C0.07&scaling=containn) - Created with Figma
 
@@ -121,13 +147,9 @@
 
 - [Grids](https://grids.obys.agency/)
 
-- [Bret Victor, beast of burden](http://worrydream.com/#!/ABriefRantOnTheFutureOfInteractionDesign)
-
 - [Miranda — Paper Portfolio](https://www.niccolomiranda.com/) - Niccolò Miranda is an award-winning designer & developer who’s passionate about creating iconic digital experiences through motion, typography and creative coding.
 
 - [In the file: The first 90 days of the Head of DesignOps](https://www.youtube.com/watch?v=mjRPk2faqKw) - Figma is free to use. Sign up here: https://bit.ly/3msp0OVSalome Mortazavi, Head of DesignOps at SiriusXM Listener, and Adam Fry-Pierce, Chief of Staff at Go...
-
-- [UI Playbook](https://uiplaybook.dev) - The documented collection of UI components.
 
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 

@@ -1,4 +1,8 @@
 # misc
+- [Motherfucking Website](https://motherfuckingwebsite.com/)
+
+- [System Data | Bay Wheels | Lyft](https://lyft.com/bikes/bay-wheels/system-data) - Developers, engineers, statisticians and academics can find and download data on Bay Wheels membership, ridership, and trip histories.
+
 - [Home | Versus Sweeper](https://versussweeper.com/)
 
 - [Daylight Saving Time Gripe Assistant Tool / Andy Woodruff](https://observablehq.com/@awoodruff/daylight-saving-time-gripe-assistant-tool)

@@ -1,4 +1,8 @@
 # blogs
+- [MoonBear Musings – Some thoughts from a stupid business bear](https://moonbearmusings.com/)
+
+- [The Set Studio Blog](https://set.studio/blog/) - The Set Studio Blog is an archive of design tips, strategy, a weekly newsletter and updates from inside the studio.
+
 - [Xe Iaso](https://xeiaso.net/) - Xe Iaso's personal website.
 
 - [Google Testing Blog](https://testing.googleblog.com/)
@@ -28,8 +32,6 @@
 - [Stripe Blog: Online Payment Solutions Blog](https://stripe.com/blog)
 
 - [The Cloudflare Blog](https://blog.cloudflare.com) - Get the latest news on how products at Cloudflare are built, technologies used, and join the teams helping to build a better Internet.
-
-- [MoonBear Musings – Some thoughts from a stupid business bear](https://moonbearmusings.com/)
 
 - [zwischenzugs](https://zwischenzugs.com/)
 

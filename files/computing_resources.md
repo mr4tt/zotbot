@@ -1,4 +1,22 @@
 # computing_resources
+- [AI Safety for Fleshy Humans: a whirlwind tour](https://aisafety.dance/) - Your one-stop-shop to understand all the core ideas of AI & AI Safety!
+
+- [The Linux Documentation Project: Guides](https://tldp.org/guides.html)
+
+- [Some simple ways to make content look good](https://set.studio/some-simple-ways-to-make-content-look-good/) - Something non-designers understandably struggle with is how to make things look good. One of those things is long form content that’s well set and readable. Luckily, CSS makes this easy, you just have to know what to change. That’s exactly what we’re going to teach you in this article.
+
+- [Utopia](https://utopia.fyi/) - Fluid responsive design
+
+- [Computer Science Research | CS197 | Fall 2024](https://web.stanford.edu/class/cs197/) - Undergraduate Research
+
+- [The Modern JavaScript Tutorial](https://javascript.info/) - Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.
+
+- [Tutorials | MDN](https://developer.mozilla.org/en-US/docs/Web/Tutorials) - The links on this page lead to a variety of tutorials and training materials. Whether you are just starting, learning the basics, or are an old hand at web development, you can find helpful resources here for best practices.
+
+- [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.
+
+- [SQL Teaching](http://www.sqlteaching.com) - The easiest way to learn SQL
+
 - [An Interactive Guide to CSS Container Queries](https://ishadeed.com/article/css-container-query-guide/) - Learn how to use CSS container queries today.
 
 - [Google Testing Blog](https://testing.googleblog.com/)
@@ -14,8 +32,6 @@
 - [Pelican navbar menu items](https://appliedcaffeine.org/blog/navbaritems/) - Static site generators can greatly reduce the slope of the website creation learning curve. Take advantage of these tools if you are interested in creating your own simple website but want to sidestep manually generating the HTML and CSS on your own.
 
 - [Article Listing | Datadog Security Labs](https://securitylabs.datadoghq.com/articles) - Datadog Security Labs is the place to read blog content about security research and tooling published by Datadog for the community.
-
-- [AI Safety for Fleshy Humans: a whirlwind tour](https://aisafety.dance/) - Your one-stop-shop to understand all the core ideas of AI & AI Safety!
 
 - [Book: Alice’s Adventures in a differentiable wonderland](https://sscardapane.it/alice-book/) - My personal website, where I collect slides, publications, and presentations.
 
@@ -182,12 +198,4 @@
 - [Dark theme generator](https://colorffy.com/) - Generate your custom dark theme with our easy-to-use CSS and SCSS Dark Theme Generator to easily create and manage your CSS and SCSS custom theme variables.
 
 - [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-
-- [SICP Distilled](https://www.sicpdistilled.com/section/1.1.1/)
-
-- [Try Clojure](https://tryclojure.org/) - Clojure tutorial in a browser REPL.
-
-- [Nutshell: make expandable, embeddable explanations](https://ncase.me/nutshell/) - a tool to let your readers dive into details
-
-- [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 

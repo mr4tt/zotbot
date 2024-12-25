@@ -1,4 +1,8 @@
 # misc_longform
+- [In Praise of the AK-47](https://deardesignstudent.com/in-praise-of-the-ak-47-a24cc8a46c13) - Q: I had a professor in school who went on and on about how well the AK-47 was designed. He stressed that as designers we should be able to…
+
+- [sexy pdfs](https://www.are.na/chloe-abrasada/sexy-pdfs) - collection of pdfs on topics i resonate with & want to learn more about can't wait to dive deep
+
 - [The adorable love story behind Wikipedia’s 'high five' photos](https://www.inverse.com/culture/wikipedia-high-five-too-slow-photos-mystery-couple-solved) - Nearly 14 years later, the tale of this iconic couple can finally be told.
 
 - [Writing down (and searching through) every UUID · eieio.games](https://eieio.games/blog/writing-down-every-uuid/) - I couldn't remember every UUID so I wrote them all down
@@ -46,6 +50,8 @@
 - [From Vim to Zed](https://registerspill.thorstenball.com/p/from-vim-to-zed) - After around 20 years of using Vim, in December last year I switched to Zed as my main editor.
 
 - [Call of the Void: Seven years on, what do we know about the disappearance of Malaysia Airlines…](https://admiralcloudberg.medium.com/call-of-the-void-seven-years-on-what-do-we-know-about-the-disappearance-of-malaysia-airlines-77fa5244bf99) - “Good night, Malaysian three seven zero.”
+
+- [Real life](https://www.bitsofwonder.co/p/real-life) - reminder
 
 - [Michael Orlitzky { CSC ServiceWorks laundry machine coin bypass }](https://michael.orlitzky.com/articles/csc_serviceworks_laundry_machine_coin_bypass.xhtml?ref=404media.co)
 
