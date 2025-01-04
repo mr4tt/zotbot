@@ -78,6 +78,10 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Advice to Young People, The Lies I Tell Myself - jxnl.co](https://jxnl.co/writing/2024/06/01/advice-to-young-people/) - Notes about my hobbies and other things I find interesting.
+
+- [How I accidentally started a Wikipedia hoax about Amelia Bedelia](https://www.dailydot.com/unclick/amelia-bedelia-wikipedia-hoax/) - I jokingly edited an author's page five and a half years ago. Today, it's still there, and cited by numerous well-respected sources.
+
 - [In Praise of the AK-47](https://deardesignstudent.com/in-praise-of-the-ak-47-a24cc8a46c13) - Q: I had a professor in school who went on and on about how well the AK-47 was designed. He stressed that as designers we should be able to…
 
 - [sexy pdfs](https://www.are.na/chloe-abrasada/sexy-pdfs) - collection of pdfs on topics i resonate with & want to learn more about can't wait to dive deep
@@ -350,6 +354,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [Bread Bank (No Gluten) | Baku Season 4](https://www.youtube.com/watch?v=F6hC4qQbDzI)
+
 - [Sonic Evades his Taxes](https://www.youtube.com/watch?v=6sUR6ylVH7E)
 
 - [there is a rock in my house](https://www.youtube.com/watch?v=5RkzOAlLBg4)
@@ -718,6 +724,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [Introduction to Cryptography — About](https://sagrawalx.github.io/crypt/)
+
 - [AI Safety for Fleshy Humans: a whirlwind tour](https://aisafety.dance/) - Your one-stop-shop to understand all the core ideas of AI & AI Safety!
 
 - [The Linux Documentation Project: Guides](https://tldp.org/guides.html)
@@ -915,8 +923,6 @@ To view a single category, check the files/ folder.
 - [The Grug Brained Developer](https://grugbrain.dev/)
 
 - [Dark theme generator](https://colorffy.com/) - Generate your custom dark theme with our easy-to-use CSS and SCSS Dark Theme Generator to easily create and manage your CSS and SCSS custom theme variables.
-
-- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 # stories
 - [Clarkesworld Magazine - Science Fiction & Fantasy](https://clarkesworldmagazine.com/kim_02_24/) - Clarkesworld Science Fiction and Fantasy Magazine and Podcast. This page: Why Don't We Just Kill the Kid In the Omelas Hole by Isabel J. Kim
@@ -1207,6 +1213,26 @@ To view a single category, check the files/ folder.
 - [Giant Rodents 'Invaded' a Wealthy Gated Community. What Happened Next is a Lesson for Cities in the Climate Change Era](https://time.com/6173837/capybaras-argentina-climate-change/) - Nordelta had to adapt after its population of giant rodents started to boom last year.
 
 # wikipedia
+- [Carrier's constraint](https://en.wikipedia.org/w/index.php?title=Carrier%27s_constraint&oldid=1249772992) - Carrier's constraint is the observation that air-breathing vertebrates with two lungs that flex their bodies sideways during locomotion find it difficult to move and breathe at the same time, because the sideways flexing expands one lung and compresses the other, shunting stale air from lung to lung instead of expelling it completely to make room fo...
+
+- [<i>Pruneyard Shopping Center v. Robins</i>](https://en.wikipedia.org/w/index.php?title=Pruneyard_Shopping_Center_v._Robins&oldid=1264568185) - Pruneyard Shopping Center v. Robins, 447 U.S. 74 (1980), was a U.S. Supreme Court decision issued on June 9, 1980 which affirmed the decision of the California Supreme Court in a case that arose out of a free speech dispute between the Pruneyard Shopping Center in Campbell, California, and several local high school students (who wished to canvass si...
+
+- [Osborne effect](https://en.wikipedia.org/w/index.php?title=Osborne_effect&oldid=1263196619) - The Osborne effect is a social phenomenon of customers canceling or deferring orders for the current, soon-to-be-obsolete product as an unexpected drawback of a company's announcing a future product prematurely. It is an example of cannibalization. The term alludes to the Osborne Computer Corporation, whose second product did not become available un...
+
+- [EURion constellation](https://en.wikipedia.org/w/index.php?title=EURion_constellation&oldid=1265203219) - The EURion constellation (also known as Omron rings or doughnuts) is a pattern of symbols incorporated into a number of secure documents such as banknotes, cheques, and ownership title certificates designs worldwide since about 1996.  It is added to help imaging software detect the presence of such a document in a digital image.  Such software can t...
+
+- [Fire-safe cigarette](https://en.wikipedia.org/w/index.php?title=Fire-safe_cigarette&oldid=1262304748) - Fire-safe cigarettes (FSC) are cigarettes that are designed to extinguish more quickly than standard cigarettes if ignored, with the intention of preventing accidental fires. They are also known as lower ignition propensity (LIP), reduced fire risk (RFR), self-extinguishing, fire-safe or reduced ignition propensity (RIP) cigarettes. In the United St...
+
+- [Oakland Buddha](https://en.wikipedia.org/w/index.php?title=Oakland_Buddha&oldid=1244225575) - The Oakland Buddha (Vietnamese: Pháp Duyên Tự) is a statue of a Buddha placed in a traffic median in Oakland, California, in 2009. The statue was placed by neighborhood resident Dan Stevenson who was upset about the frequent use of the median for illegal dumping. Stevenson attached the statue to the median using epoxy and rebar to deter theft of the...
+
+- [Smart cow problem](https://en.wikipedia.org/w/index.php?title=Smart_cow_problem&oldid=1213210733) - The smart cow problem is the concept that, when a group of individuals is faced with a technically difficult task, only one of their members has to solve it. When the problem has been solved once, an easily repeatable method may be developed, allowing the less technically proficient members of the group to accomplish the task. The term smart cow pro...
+
+- [Korean axe murder incident](https://en.wikipedia.org/w/index.php?title=Korean_axe_murder_incident&oldid=1265720273) - The Korean axe murder incident (Korean: 판문점 도끼살인사건; lit. Panmunjom axe murder incident), also known domestically as the Panmunjom axe atrocity incident (판문점 도끼 만행 사건), was the killing of two United Nations Command officers, Captain Arthur Bonifas and First Lieutenant Mark Barrett, by North Korean soldiers on August 18, 1976, in the Joint Security Ar...
+
+- [Battle of the Porpoises](https://en.wikipedia.org/w/index.php?title=Battle_of_the_Porpoises&oldid=1221379477) - The Battle of the Porpoises (Portuguese: Batalha das Toninhas) is the name given to a military blunder involving the Brazilian Navy in the Gibraltar Strait, near the end of the First World War. While on patrol for potential German submarines, the crew of the Bahia slaughtered a passing shoal of porpoises, mistaking them for the periscope of a U-boat...
+
+- [Wikipedia:List of citogenesis incidents](https://en.wikipedia.org/w/index.php?title=Wikipedia:List_of_citogenesis_incidents&oldid=1265783076) - In 2011, Randall Munroe in his comic xkcd coined the term "citogenesis" to describe the creation of "reliable" sources through circular reporting. This is a list of some well-documented cases in which Wikipedia has been the source.
+
 - [Hainan Island incident](https://en.wikipedia.org/w/index.php?title=Hainan_Island_incident&oldid=1262006046) - The Hainan Island incident was a ten-day international incident between the United States and the People's Republic of China (PRC) that resulted from a mid-air collision between a United States Navy EP-3E ARIES II signals intelligence aircraft and a Chinese Air Force J-8 interceptor on April 1, 2001. The EP-3 was flying over the South China sea at a...
 
 - [BeiDou](https://en.wikipedia.org/w/index.php?title=BeiDou&oldid=1255517108) - The BeiDou Navigation Satellite System (BDS; Chinese: 北斗卫星导航系统; pinyin: běidǒu wèixīng dǎoháng xìtǒng) is a satellite-based radio navigation system owned and operated by the China National Space Administration. It provides geolocation and time information to a BDS receiver anywhere on or near the Earth where there is an unobstructed line of sight to...
@@ -1387,27 +1413,13 @@ To view a single category, check the files/ folder.
 
 - [AquAdvantage salmon](https://en.wikipedia.org/w/index.php?title=AquAdvantage_salmon&oldid=1187028882) - AquAdvantage salmon is a genetically engineered (GE) fish, a GE Atlantic salmon developed by AquaBounty Technologies in 1989. The typical  growth hormone-regulating gene  in the Atlantic salmon was replaced with the growth hormone-regulating gene from Pacific Chinook salmon, with a promoter sequence from ocean pout. This gene enables GM salmon to gr...
 
-- [Freetown Christiania](https://en.wikipedia.org/w/index.php?title=Freetown_Christiania&oldid=1188832743) - Freetown Christiania (Danish: Fristaden Christiania), also known as Christiania or simply the Staden, is an intentional community and commune in the Christianshavn neighbourhood of the Danish capital city of Copenhagen. It began in 1971 as a squatted military base. Its Pusher Street is famous for its open trade of cannabis, which is illegal in Denma...
-
-- [Methbot](https://en.wikipedia.org/w/index.php?title=Methbot&oldid=1081864516) - Methbot was an advertising fraud scheme.
-
-- [Jonathan (tortoise)](https://en.wikipedia.org/w/index.php?title=Jonathan_(tortoise)&oldid=1180605362) - Jonathan (hatched c. 1832) is a Seychelles giant tortoise (Aldabrachelys gigantea hololissa), a subspecies of the Aldabra giant tortoise (Aldabrachelys gigantea); he is the oldest known living land animal. Jonathan resides on the island of Saint Helena, a British Overseas Territory in the South Atlantic Ocean.
-
-- [Sixty-fourth note](https://en.wikipedia.org/w/index.php?title=Sixty-fourth_note&oldid=1183451525) - In music notation, a sixty-fourth note (North American), or hemidemisemiquaver or semidemisemiquaver (British), sometimes called a half-thirty-second note, is a note played for half the duration of a thirty-second note (or demisemiquaver), hence the name. It first occurs in the late 17th century and, apart from rare occurrences of hundred twenty-eig...
-
-- [Caning of Michael Fay](https://en.wikipedia.org/w/index.php?title=Caning_of_Michael_Fay&oldid=1184862280) - In 1994, Singaporean authorities sentenced American teenager Michael Fay to be lashed six times with a cane for violating the Vandalism Act. This caused a temporary strain in relations between Singapore and the United States.Fay was arrested for stealing road signs and vandalizing 18 cars over a ten-day period in September 1993. Fay pled guilty, but...
-
-- [Scunthorpe problem](https://en.wikipedia.org/w/index.php?title=Scunthorpe_problem&oldid=1186404032) - The Scunthorpe problem is the unintentional blocking of online content by a spam filter or search engine because their text contains a string (or substring) of letters that appear to have an obscene or otherwise unacceptable meaning. Names, abbreviations, and technical terms are most often cited as being affected by the issue. The problem arises sin...
-
-- [Simmons–Tierney bet](https://en.wikipedia.org/w/index.php?title=Simmons%E2%80%93Tierney_bet&oldid=1136672798) - The Simmons–Tierney bet was a wager made in August 2005 between Houston banking executive Matthew R. Simmons and New York Times columnist John Tierney. The stakes of the bet were US$10,000.00. The subject of the bet was the year-end average of the daily price-per-barrel of crude oil for the entire calendar year of 2010 adjusted for inflation, which ...
-
-- [Walburga Oesterreich](https://en.wikipedia.org/w/index.php?title=Walburga_Oesterreich&oldid=1172211470) - Walburga Oesterreich (née Korschel; 1880 – April 8, 1961), nicknamed "Dolly" and "Queen of Los Angeles", was a German-born American housewife, married to a wealthy textile manufacturer Fred William Oesterreich (December 8, 1877 – August 22, 1922), who gained notoriety for the shooting death of her husband and the subsequent bizarre revelation that s...
-
-- [Long-term nuclear waste warning messages](https://en.wikipedia.org/w/index.php?title=Long-term_nuclear_waste_warning_messages&oldid=1184164551) - Long-term nuclear waste warning messages are communication attempts intended to deter human intrusion at nuclear waste repositories in the far future, within or above the order of magnitude of 10,000 years. Nuclear semiotics is an interdisciplinary field of research, first done by the American Human Interference Task Force in 1981. A 1993 report fro...
-
-- [Vulnerability of nuclear plants to attack](https://en.wikipedia.org/w/index.php?title=Vulnerability_of_nuclear_plants_to_attack&oldid=1183996705) - The vulnerability of nuclear plants to deliberate attack is of concern in the area of nuclear safety and security. Nuclear power plants, civilian research reactors, certain naval fuel facilities, uranium enrichment plants, fuel fabrication plants, and even potentially uranium mines are vulnerable to attacks which could lead to widespread radioactive...
-
 # misc
+- [Home - Apple Rankings by The Appleist Brian Frange - Comedian Brian Frange](https://applerankings.com/) - The industry-standard, definitive, inarguable guide to ranking and reviewing munching apples. Curated by comedian Brian Frange.
+
+- [Spacetime maps](https://spacetime-maps.vercel.app/)
+
+- [Better Motherfucking Website](http://bettermotherfuckingwebsite.com/)
+
 - [Motherfucking Website](https://motherfuckingwebsite.com/)
 
 - [System Data | Bay Wheels | Lyft](https://lyft.com/bikes/bay-wheels/system-data) - Developers, engineers, statisticians and academics can find and download data on Bay Wheels membership, ridership, and trip histories.

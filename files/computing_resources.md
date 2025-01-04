@@ -1,4 +1,6 @@
 # computing_resources
+- [Introduction to Cryptography — About](https://sagrawalx.github.io/crypt/)
+
 - [AI Safety for Fleshy Humans: a whirlwind tour](https://aisafety.dance/) - Your one-stop-shop to understand all the core ideas of AI & AI Safety!
 
 - [The Linux Documentation Project: Guides](https://tldp.org/guides.html)
@@ -196,6 +198,4 @@
 - [The Grug Brained Developer](https://grugbrain.dev/)
 
 - [Dark theme generator](https://colorffy.com/) - Generate your custom dark theme with our easy-to-use CSS and SCSS Dark Theme Generator to easily create and manage your CSS and SCSS custom theme variables.
-
-- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 

@@ -1,4 +1,8 @@
 # misc_longform
+- [Advice to Young People, The Lies I Tell Myself - jxnl.co](https://jxnl.co/writing/2024/06/01/advice-to-young-people/) - Notes about my hobbies and other things I find interesting.
+
+- [How I accidentally started a Wikipedia hoax about Amelia Bedelia](https://www.dailydot.com/unclick/amelia-bedelia-wikipedia-hoax/) - I jokingly edited an author's page five and a half years ago. Today, it's still there, and cited by numerous well-respected sources.
+
 - [In Praise of the AK-47](https://deardesignstudent.com/in-praise-of-the-ak-47-a24cc8a46c13) - Q: I had a professor in school who went on and on about how well the AK-47 was designed. He stressed that as designers we should be able to…
 
 - [sexy pdfs](https://www.are.na/chloe-abrasada/sexy-pdfs) - collection of pdfs on topics i resonate with & want to learn more about can't wait to dive deep
