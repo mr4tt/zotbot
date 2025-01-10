@@ -1012,6 +1012,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [How a Taping of ‘Curb Your Enthusiasm’ Saved an Innocent Man from Death Row](https://innocenceproject.org/how-curb-your-enthusiasm-saved-an-innocent-man-from-death-row/)
+
 - [Satellite-navigation systems such as GPS are at risk of jamming](https://www.economist.com/science-and-technology/2021/05/06/satellite-navigation-systems-such-as-gps-are-at-risk-of-jamming) - https://archive.ph/Gxsjv
 
 - [Serbia: Authorities using spyware and Cellebrite forensic extraction tools to hack journalists and activists](https://securitylab.amnesty.org/latest/2024/12/serbia-a-digital-prison-spyware-and-cellebrite-used-on-journalists-and-activists/) - Serbian police and intelligence authorities are using advanced phone spyware alongside Cellebrite mobile phone forensic products to unlawfully target journalists, environmental activists and other individuals in a covert surveillance campaign, a new Amnesty International report has revealed.
@@ -1209,8 +1211,6 @@ To view a single category, check the files/ folder.
 - [Roombas at the End of the World - IEEE Spectrum](https://spectrum.ieee.org/south-pole-roombas) - Robotic romance, ransoms, and raccoon suits at the South Pole
 
 - [They Cracked the Code to a Locked USB Drive Worth $235 Million in Bitcoin. Then It Got Weird](https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin/) - Stefan Thomas lost the password to an encrypted USB drive holding 7,002 bitcoins. One team of hackers believes they can unlock it—if they can get Thomas to let them.
-
-- [Giant Rodents 'Invaded' a Wealthy Gated Community. What Happened Next is a Lesson for Cities in the Climate Change Era](https://time.com/6173837/capybaras-argentina-climate-change/) - Nordelta had to adapt after its population of giant rodents started to boom last year.
 
 # wikipedia
 - [Carrier's constraint](https://en.wikipedia.org/w/index.php?title=Carrier%27s_constraint&oldid=1249772992) - Carrier's constraint is the observation that air-breathing vertebrates with two lungs that flex their bodies sideways during locomotion find it difficult to move and breathe at the same time, because the sideways flexing expands one lung and compresses the other, shunting stale air from lung to lung instead of expelling it completely to make room fo...
