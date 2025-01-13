@@ -1,4 +1,6 @@
 # misc_longform
+- [A decade without a drink · eieio.games](https://eieio.games/blog/a-decade-without-a-drink/) - A decade ago I was almost dead. Now I'm here.
+
 - [Advice to Young People, The Lies I Tell Myself - jxnl.co](https://jxnl.co/writing/2024/06/01/advice-to-young-people/) - Notes about my hobbies and other things I find interesting.
 
 - [How I accidentally started a Wikipedia hoax about Amelia Bedelia](https://www.dailydot.com/unclick/amelia-bedelia-wikipedia-hoax/) - I jokingly edited an author's page five and a half years ago. Today, it's still there, and cited by numerous well-respected sources.

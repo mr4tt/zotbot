@@ -1,4 +1,6 @@
 # misc
+- [Wikipedia: The Text Adventure](https://kevan.org/wikitext/) - A playable text adventure version of Wikipedia. Start anywhere that has a Wikipedia article, and explore the world a step at a time.
+
 - [Home - Apple Rankings by The Appleist Brian Frange - Comedian Brian Frange](https://applerankings.com/) - The industry-standard, definitive, inarguable guide to ranking and reviewing munching apples. Curated by comedian Brian Frange.
 
 - [Spacetime maps](https://spacetime-maps.vercel.app/)

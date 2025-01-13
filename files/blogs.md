@@ -1,4 +1,6 @@
 # blogs
+- [All My Work · eieio.games](https://eieio.games/blog/)
+
 - [MoonBear Musings – Some thoughts from a stupid business bear](https://moonbearmusings.com/)
 
 - [The Set Studio Blog](https://set.studio/blog/) - The Set Studio Blog is an archive of design tips, strategy, a weekly newsletter and updates from inside the studio.

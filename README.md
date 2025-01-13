@@ -17,6 +17,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # blogs
+- [All My Work · eieio.games](https://eieio.games/blog/)
+
 - [MoonBear Musings – Some thoughts from a stupid business bear](https://moonbearmusings.com/)
 
 - [The Set Studio Blog](https://set.studio/blog/) - The Set Studio Blog is an archive of design tips, strategy, a weekly newsletter and updates from inside the studio.
@@ -78,6 +80,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [A decade without a drink · eieio.games](https://eieio.games/blog/a-decade-without-a-drink/) - A decade ago I was almost dead. Now I'm here.
+
 - [Advice to Young People, The Lies I Tell Myself - jxnl.co](https://jxnl.co/writing/2024/06/01/advice-to-young-people/) - Notes about my hobbies and other things I find interesting.
 
 - [How I accidentally started a Wikipedia hoax about Amelia Bedelia](https://www.dailydot.com/unclick/amelia-bedelia-wikipedia-hoax/) - I jokingly edited an author's page five and a half years ago. Today, it's still there, and cited by numerous well-respected sources.
@@ -1012,6 +1016,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Meta Secretly Trained Its AI on a Notorious Piracy Database, Newly Unredacted Court Docs Reveal](https://www.wired.com/story/new-documents-unredacted-meta-copyright-ai-lawsuit/) - One of the most important AI copyright legal battles just took a major turn.
+
+- [Misconfigured license plate readers are leaking data and video in real time](https://www.wired.com/story/license-plate-reader-live-video-data-exposed/?_sp=30f4276d-7d5d-424d-9e17-5921d057c452.1736346290243) - Video feeds from at least 150 Motorola license plate readers accessible without a password.
+
 - [How a Taping of ‘Curb Your Enthusiasm’ Saved an Innocent Man from Death Row](https://innocenceproject.org/how-curb-your-enthusiasm-saved-an-innocent-man-from-death-row/)
 
 - [Satellite-navigation systems such as GPS are at risk of jamming](https://www.economist.com/science-and-technology/2021/05/06/satellite-navigation-systems-such-as-gps-are-at-risk-of-jamming) - https://archive.ph/Gxsjv
@@ -1208,11 +1216,11 @@ To view a single category, check the files/ folder.
 
 - [A Pixies song is accidentally turning off Google alarms](https://fortune.com/2023/05/04/google-pixel-phone-pixies-song-where-is-my-mind-accidentally-turning-off-alarms/) - The company's Pixel phone responds to voice commands, and sometimes that can have inadvertent effects.
 
-- [Roombas at the End of the World - IEEE Spectrum](https://spectrum.ieee.org/south-pole-roombas) - Robotic romance, ransoms, and raccoon suits at the South Pole
-
-- [They Cracked the Code to a Locked USB Drive Worth $235 Million in Bitcoin. Then It Got Weird](https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin/) - Stefan Thomas lost the password to an encrypted USB drive holding 7,002 bitcoins. One team of hackers believes they can unlock it—if they can get Thomas to let them.
-
 # wikipedia
+- [Least publishable unit](https://en.wikipedia.org/w/index.php?title=Least_publishable_unit&oldid=1233252354) - In academic publishing, the least publishable unit (LPU), also smallest publishable unit (SPU), minimum publishable unit (MPU), loot, or publon, is the minimum amount of information that can be used to generate a publication in a peer-reviewed venue, such as a journal or a conference. (Maximum publishable unit and optimum publishable unit are also u...
+
+- [Flash of unstyled content](https://en.wikipedia.org/w/index.php?title=Flash_of_unstyled_content&oldid=1221717733) - A flash of unstyled content (FOUC, or flash of unstyled text) is an instance where a web page appears briefly with the browser's default styles prior to loading an external CSS stylesheet, due to the web browser engine rendering the page before all information is retrieved. The page corrects itself as soon as the style rules are loaded and applied; ...
+
 - [Carrier's constraint](https://en.wikipedia.org/w/index.php?title=Carrier%27s_constraint&oldid=1249772992) - Carrier's constraint is the observation that air-breathing vertebrates with two lungs that flex their bodies sideways during locomotion find it difficult to move and breathe at the same time, because the sideways flexing expands one lung and compresses the other, shunting stale air from lung to lung instead of expelling it completely to make room fo...
 
 - [<i>Pruneyard Shopping Center v. Robins</i>](https://en.wikipedia.org/w/index.php?title=Pruneyard_Shopping_Center_v._Robins&oldid=1264568185) - Pruneyard Shopping Center v. Robins, 447 U.S. 74 (1980), was a U.S. Supreme Court decision issued on June 9, 1980 which affirmed the decision of the California Supreme Court in a case that arose out of a free speech dispute between the Pruneyard Shopping Center in Campbell, California, and several local high school students (who wished to canvass si...
@@ -1409,11 +1417,9 @@ To view a single category, check the files/ folder.
 
 - [Nutri-Score](https://en.wikipedia.org/w/index.php?title=Nutri-Score&oldid=1191945284) - The Nutri-Score, also known as the 5-Colour Nutrition label or 5-CNL, is a five-colour nutrition label and nutritional rating system, and an attempt to simplify the nutritional rating system demonstrating the overall nutritional value of food products. It assigns products a rating letter from A (best) to E (worst), with associated colors from green ...
 
-- [Alex (parrot)](https://en.wikipedia.org/w/index.php?title=Alex_(parrot)&oldid=1187540125) - Alex (May 18, 1976 – September 6, 2007) was a grey parrot and the subject of a thirty-year experiment by animal psychologist Irene Pepperberg, initially at the University of Arizona and later at Harvard University and Brandeis University. When Alex was about one year old, Pepperberg bought him at a pet shop. In her book "Alex & Me", Pepperberg descr...
-
-- [AquAdvantage salmon](https://en.wikipedia.org/w/index.php?title=AquAdvantage_salmon&oldid=1187028882) - AquAdvantage salmon is a genetically engineered (GE) fish, a GE Atlantic salmon developed by AquaBounty Technologies in 1989. The typical  growth hormone-regulating gene  in the Atlantic salmon was replaced with the growth hormone-regulating gene from Pacific Chinook salmon, with a promoter sequence from ocean pout. This gene enables GM salmon to gr...
-
 # misc
+- [Wikipedia: The Text Adventure](https://kevan.org/wikitext/) - A playable text adventure version of Wikipedia. Start anywhere that has a Wikipedia article, and explore the world a step at a time.
+
 - [Home - Apple Rankings by The Appleist Brian Frange - Comedian Brian Frange](https://applerankings.com/) - The industry-standard, definitive, inarguable guide to ranking and reviewing munching apples. Curated by comedian Brian Frange.
 
 - [Spacetime maps](https://spacetime-maps.vercel.app/)
