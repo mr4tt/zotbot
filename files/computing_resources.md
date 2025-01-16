@@ -1,6 +1,8 @@
 # computing_resources
 - [Introduction to Cryptography — About](https://sagrawalx.github.io/crypt/)
 
+- [Alistair Gray - Sociological considerations in designing an internal documentation platform](https://www.youtube.com/watch?v=DxbXKLl-URo) - https://www.writethedocs.org/conf/por...
+
 - [AI Safety for Fleshy Humans: a whirlwind tour](https://aisafety.dance/) - Your one-stop-shop to understand all the core ideas of AI & AI Safety!
 
 - [The Linux Documentation Project: Guides](https://tldp.org/guides.html)
@@ -196,6 +198,4 @@
 - [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
 
 - [The Grug Brained Developer](https://grugbrain.dev/)
-
-- [Dark theme generator](https://colorffy.com/) - Generate your custom dark theme with our easy-to-use CSS and SCSS Dark Theme Generator to easily create and manage your CSS and SCSS custom theme variables.
 

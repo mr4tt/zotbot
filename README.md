@@ -730,6 +730,8 @@ To view a single category, check the files/ folder.
 # computing_resources
 - [Introduction to Cryptography — About](https://sagrawalx.github.io/crypt/)
 
+- [Alistair Gray - Sociological considerations in designing an internal documentation platform](https://www.youtube.com/watch?v=DxbXKLl-URo) - https://www.writethedocs.org/conf/por...
+
 - [AI Safety for Fleshy Humans: a whirlwind tour](https://aisafety.dance/) - Your one-stop-shop to understand all the core ideas of AI & AI Safety!
 
 - [The Linux Documentation Project: Guides](https://tldp.org/guides.html)
@@ -925,8 +927,6 @@ To view a single category, check the files/ folder.
 - [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
 
 - [The Grug Brained Developer](https://grugbrain.dev/)
-
-- [Dark theme generator](https://colorffy.com/) - Generate your custom dark theme with our easy-to-use CSS and SCSS Dark Theme Generator to easily create and manage your CSS and SCSS custom theme variables.
 
 # stories
 - [Clarkesworld Magazine - Science Fiction & Fantasy](https://clarkesworldmagazine.com/kim_02_24/) - Clarkesworld Science Fiction and Fantasy Magazine and Podcast. This page: Why Don't We Just Kill the Kid In the Omelas Hole by Isabel J. Kim
@@ -1217,6 +1217,12 @@ To view a single category, check the files/ folder.
 - [A Pixies song is accidentally turning off Google alarms](https://fortune.com/2023/05/04/google-pixel-phone-pixies-song-where-is-my-mind-accidentally-turning-off-alarms/) - The company's Pixel phone responds to voice commands, and sometimes that can have inadvertent effects.
 
 # wikipedia
+- [Sea-based X-band radar](https://en.wikipedia.org/w/index.php?title=Sea-based_X-band_radar&oldid=1267829271) - The Sea-Based X-band radar (SBX-1) is a floating, self-propelled, mobile active electronically scanned array early-warning radar station designed to operate in high winds and heavy seas. It was developed as part of the United States Department of Defense Missile Defense Agency's (MDA) Ballistic Missile Defense System. The radar is mounted on a fifth...
+
+- [Trump–Ukraine scandal](https://en.wikipedia.org/w/index.php?title=Trump%E2%80%93Ukraine_scandal&oldid=1266466350) - The Trump–Ukraine scandal was a political scandal that arose primarily from the discovery of U.S. President Donald Trump's attempts to coerce Ukraine into investigating his political rival Joe Biden and thus potentially damage Biden's campaign for the 2020 Democratic Party presidential nomination. Trump enlisted surrogates in and outside his adminis...
+
+- [Shabbat elevator](https://en.wikipedia.org/w/index.php?title=Shabbat_elevator&oldid=1183876085) - A Shabbat elevator is an elevator which works in a special mode, operating automatically, to satisfy the Jewish law requiring Jews to abstain from operating electrical switches on Shabbat (the Sabbath). These are also known as Sabbath or Shabbos elevators.
+
 - [Least publishable unit](https://en.wikipedia.org/w/index.php?title=Least_publishable_unit&oldid=1233252354) - In academic publishing, the least publishable unit (LPU), also smallest publishable unit (SPU), minimum publishable unit (MPU), loot, or publon, is the minimum amount of information that can be used to generate a publication in a peer-reviewed venue, such as a journal or a conference. (Maximum publishable unit and optimum publishable unit are also u...
 
 - [Flash of unstyled content](https://en.wikipedia.org/w/index.php?title=Flash_of_unstyled_content&oldid=1221717733) - A flash of unstyled content (FOUC, or flash of unstyled text) is an instance where a web page appears briefly with the browser's default styles prior to loading an external CSS stylesheet, due to the web browser engine rendering the page before all information is retrieved. The page corrects itself as soon as the style rules are loaded and applied; ...
@@ -1410,12 +1416,6 @@ To view a single category, check the files/ folder.
 - [The purpose of a system is what it does](https://en.wikipedia.org/w/index.php?title=The_purpose_of_a_system_is_what_it_does&oldid=1195089743) - The purpose of a system is what it does (POSIWID) is a systems thinking heuristic coined by Stafford Beer, who observed that there is "no point in claiming that the purpose of a system is to do what it constantly fails to do." The term is widely used by systems theorists, and is generally invoked to counter the notion that the purpose of a system ca...
 
 - [Response to sneezing](https://en.wikipedia.org/w/index.php?title=Response_to_sneezing&oldid=1194916949) - In English-speaking countries, the common verbal response to another person's sneeze is "[God] bless you", or, less commonly in the United States and Canada, "Gesundheit", the German word for health (and the response to sneezing in German-speaking countries).  There are several proposed bless-you origins for use in the context of sneezing. In non-En...
-
-- [Child Abusers Are Getting Better at Using Crypto to Cover Their Tracks](https://www.wired.com/story/csam-sellers-monero-rise/) - Crypto tracing firm Chainalysis found that sellers of child sexual abuse materials are successfully using “mixers” and “privacy coins” like Monero to launder their profits and evade law enforcement.
-
-- [Glorified rice](https://en.wikipedia.org/w/index.php?title=Glorified_rice&oldid=1176811015) - Glorified rice is a dessert salad popular in the Midwestern cuisine served in Minnesota and other states in the Upper Midwest, United States and other places with Norwegian populations. It is popular in more rural areas with sizable Lutheran populations of Scandinavian heritage. It is made from rice, crushed pineapple, and whipped cream. It is often...
-
-- [Nutri-Score](https://en.wikipedia.org/w/index.php?title=Nutri-Score&oldid=1191945284) - The Nutri-Score, also known as the 5-Colour Nutrition label or 5-CNL, is a five-colour nutrition label and nutritional rating system, and an attempt to simplify the nutritional rating system demonstrating the overall nutritional value of food products. It assigns products a rating letter from A (best) to E (worst), with associated colors from green ...
 
 # misc
 - [Wikipedia: The Text Adventure](https://kevan.org/wikitext/) - A playable text adventure version of Wikipedia. Start anywhere that has a Wikipedia article, and explore the world a step at a time.
