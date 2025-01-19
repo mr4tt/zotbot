@@ -1,4 +1,8 @@
 # design_resources
+- [Dropbox Brand Guidelines](https://brand.dropbox.com/) - At Dropbox, our Brand Guidelines help us infuse everything we make with identity. From icons to illustration, logos to language, this collection is the foundation for how Dropbox looks, feels, and sounds like Dropbox.
+
+- [60fps – UI/UX design animation inspiration for mobile & web apps](https://60fps.design/) - 60fps is a curated collection of UI/UX design animtation and interaction design details from the world’s best iOS, android and web apps. It's the perfect source of inspiration for designers and developers.
+
 - [DESIGNERCIZE](https://designercize.com) - Retro prompt generator for whiteboard design practice.
 
 - [Humane by Design](https://humanebydesign.com/) - Guidance for designing humane digital products and services focused around digital well-being.

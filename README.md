@@ -573,6 +573,10 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Dropbox Brand Guidelines](https://brand.dropbox.com/) - At Dropbox, our Brand Guidelines help us infuse everything we make with identity. From icons to illustration, logos to language, this collection is the foundation for how Dropbox looks, feels, and sounds like Dropbox.
+
+- [60fps – UI/UX design animation inspiration for mobile & web apps](https://60fps.design/) - 60fps is a curated collection of UI/UX design animtation and interaction design details from the world’s best iOS, android and web apps. It's the perfect source of inspiration for designers and developers.
+
 - [DESIGNERCIZE](https://designercize.com) - Retro prompt generator for whiteboard design practice.
 
 - [Humane by Design](https://humanebydesign.com/) - Guidance for designing humane digital products and services focused around digital well-being.
