@@ -1,7 +1,19 @@
 # misc
+- [Nice!](https://nicenumbers.net/)
+
+- [Gregg Shorthand](https://greggshorthand.github.io/index.html)
+
 - [Wikipedia: The Text Adventure](https://kevan.org/wikitext/) - A playable text adventure version of Wikipedia. Start anywhere that has a Wikipedia article, and explore the world a step at a time.
 
+- [Traintrackr - Live LED Maps](https://www.traintrackr.io/product)
+
+- [GitHub - Jaennaet/pISSStream: macOS menu bar app that shows how full the International Space Station's urine tank is in real time](https://github.com/Jaennaet/pISSStream) - macOS menu bar app that shows how full the International Space Station's urine tank is in real time - Jaennaet/pISSStream
+
+- [DON'T YOU LECTURE ME WITH YOUR THIRTY DOLLAR WEBSITE](https://thirtydollar.website/) - 🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿
+
 - [Home - Apple Rankings by The Appleist Brian Frange - Comedian Brian Frange](https://applerankings.com/) - The industry-standard, definitive, inarguable guide to ranking and reviewing munching apples. Curated by comedian Brian Frange.
+
+- [Don’t kill my app!](https://dontkillmyapp.com/) - Hey Android vendors, don’t kill my app!
 
 - [Spacetime maps](https://spacetime-maps.vercel.app/)
 

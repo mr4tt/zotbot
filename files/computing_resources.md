@@ -1,4 +1,10 @@
 # computing_resources
+- [srcl](https://sacred.computer) - SRCL is an open-source React component and style repository that helps you build web applications, desktop applications, and static websites with terminal aesthetics.
+
+- [A CRITICAL FIELD GUIDE FOR WORKING WITH MACHINE LEARNING DATASETS](https://knowingmachines.org/critical-field-guide) - Maybe you’re an engineer creating a new machine vision system to track birds. You might be a journalist using social media data to research Costa Rican households. You could be a researcher who stumbled upon your university’s archive of handwritten census cards from 1939. Or a designer creating a chatbot that relies on large language models like GPT...
+
+- [Book: Alice’s Adventures in a differentiable wonderland](https://sscardapane.it/alice-book/) - My personal website, where I collect slides, publications, and presentations.
+
 - [Introduction to Cryptography — About](https://sagrawalx.github.io/crypt/)
 
 - [Alistair Gray - Sociological considerations in designing an internal documentation platform](https://www.youtube.com/watch?v=DxbXKLl-URo) - https://www.writethedocs.org/conf/por...
@@ -36,8 +42,6 @@
 - [Pelican navbar menu items](https://appliedcaffeine.org/blog/navbaritems/) - Static site generators can greatly reduce the slope of the website creation learning curve. Take advantage of these tools if you are interested in creating your own simple website but want to sidestep manually generating the HTML and CSS on your own.
 
 - [Article Listing | Datadog Security Labs](https://securitylabs.datadoghq.com/articles) - Datadog Security Labs is the place to read blog content about security research and tooling published by Datadog for the community.
-
-- [Book: Alice’s Adventures in a differentiable wonderland](https://sscardapane.it/alice-book/) - My personal website, where I collect slides, publications, and presentations.
 
 - [Nature of Code](https://natureofcode.com) - Over a decade ago, I self-published The Nature of Code, an online resource and print book exploring the unpredictable evolutionary and emergent proper
 
@@ -117,8 +121,6 @@
 
 - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) - CSS Grid is an incredibly powerful tool for building layouts on the web, but like all powerful tools, there's a significant learning curve. In this tutorial, we'll build a mental model for how CSS Grid works and how we can use it effectively. I'll share the biggest 💡 lightbulb moments I've had in my own learning journey.
 
-- [A CRITICAL FIELD GUIDE FOR WORKING WITH MACHINE LEARNING DATASETS](https://knowingmachines.org/critical-field-guide) - Maybe you’re an engineer creating a new machine vision system to track birds. You might be a journalist using social media data to research Costa Rican households. You could be a researcher who stumbled upon your university’s archive of handwritten census cards from 1939. Or a designer creating a chatbot that relies on large language models like GPT...
-
 - [Learn VIM while playing a game - VIM Adventures](https://vim-adventures.com/) - VIM Adventures is an online game based on VIM's keyboard shortcuts. It's the "Zelda meets text editing" game. So come have some fun and learn some VIM!
 
 - [AutoRegex: Convert from English to RegEx with Natural Language Processing](https://www.autoregex.xyz/)
@@ -196,6 +198,4 @@
 - [Low latency logging](www.reddit.com/r/rust/comments/15cm4ug/low_latency_logging/)
 
 - [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
-
-- [The Grug Brained Developer](https://grugbrain.dev/)
 

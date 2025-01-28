@@ -1,4 +1,10 @@
 # news
+- [Is There Any Escape from the Spotify Syndrome?](https://www.newyorker.com/magazine/2024/12/30/mood-machine-liz-pelly-book-review) - The history of recorded music is now at our fingertips. But the streamer’s algorithmic skill at giving us what we like may keep us from what we’ll love.
+
+- [George R.R. Martin has co-authored a physics paper](https://arstechnica.com/science/2025/01/george-r-r-martin-has-co-authored-a-physics-paper/) - “I couldn’t help but wonder if a simple underlying model might tidy up the canon.”…
+
+- [The Ghosts in the Machine](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/) - Spotify’s plot against musicians
+
 - [Meta Secretly Trained Its AI on a Notorious Piracy Database, Newly Unredacted Court Docs Reveal](https://www.wired.com/story/new-documents-unredacted-meta-copyright-ai-lawsuit/) - One of the most important AI copyright legal battles just took a major turn.
 
 - [Misconfigured license plate readers are leaking data and video in real time](https://www.wired.com/story/license-plate-reader-live-video-data-exposed/?_sp=30f4276d-7d5d-424d-9e17-5921d057c452.1736346290243) - Video feeds from at least 150 Motorola license plate readers accessible without a password.
@@ -192,10 +198,4 @@
 - [How the Talmud Became a Best-Seller in South Korea](https://www.newyorker.com/books/page-turner/how-the-talmud-became-a-best-seller-in-south-korea) - In 2011, the South Korean Ambassador to Israel said on Israeli public television that “each Korean family has at least one copy of the Talmud.”
 
 - [The story behind the iconic Vietnam episode of 'Hey Arnold!'](https://www.nbcnews.com/news/asian-america/story-behind-iconic-vietnam-episode-hey-arnold-n1273598) - For the 25th anniversary of the “Hey Arnold!” pilot, show creator Craig Bartlett talked to NBC Asian America about the storyline surrounding Mr. Hyunh, a Vietnamese refugee.
-
-- [The Cold War Over Hacking McDonald’s Ice Cream Machines](https://www.wired.com/story/they-hacked-mcdonalds-ice-cream-makers-started-cold-war/) - Secret codes. Legal threats. Betrayal. How one couple built a device to fix McDonald’s notoriously broken soft-serve machines—and how the fast-food giant froze them out.
-
-- [The Sobering Details Behind the Latest Seed Monopoly Chart](https://civileats.com/2019/01/11/the-sobering-details-behind-the-latest-seed-monopoly-chart/) - As four seed companies now control more than 60 percent of the global market, a seed policy expert argues that consolidation poses major risks to our food supply.
-
-- [A Pixies song is accidentally turning off Google alarms](https://fortune.com/2023/05/04/google-pixel-phone-pixies-song-where-is-my-mind-accidentally-turning-off-alarms/) - The company's Pixel phone responds to voice commands, and sometimes that can have inadvertent effects.
 

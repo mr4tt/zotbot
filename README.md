@@ -80,7 +80,13 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [The persistence of tradition: the curious case of Henry Symeonis](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/) - Christmas is a time for tradition, and the University of Oxford is well known for diligently preserving its traditions for centuries. Many of these have long outlived the people who established the…
+
 - [A decade without a drink · eieio.games](https://eieio.games/blog/a-decade-without-a-drink/) - A decade ago I was almost dead. Now I'm here.
+
+- [What Does the World Lose When a Language Dies?](https://getfreewrite.com/blogs/writing-success/what-does-the-world-lose-when-a-language-dies) - Every 40 days, another one dies — becoming extinct forever. By the year 2100, that will be 3,500 lost. We’re not talking about a species of animal, or variety of plant. We’re talking about languages — the foundation of human communication as we know it. Over the centuries, certain languages have become more popular whi
+
+- [50 years of BART: Why BART uses a nonstandard broad gauge | Bay Area Rapid Transit](https://www.bart.gov/news/articles/2022/news20220708-2)
 
 - [Advice to Young People, The Lies I Tell Myself - jxnl.co](https://jxnl.co/writing/2024/06/01/advice-to-young-people/) - Notes about my hobbies and other things I find interesting.
 
@@ -247,6 +253,8 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
+- [roundbirbart](https://www.roundbirb.art/) - The ROUNDEST birb merchandise!
+
 - [Grassfur](https://grassfur.bigcartel.com/)
 
 - [errornogo](https://errornogo.com/) - errornogo: the brand with no logo. At the apex between contemporary streetwear and early-21st century nostalgia, errornogo seeks to subvert the relentless power of iconic branding with familiar iconography from a shortly-removed time.
@@ -358,6 +366,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [I LOVE TOFU!!!](https://www.youtube.com/watch?v=Klhfo6sB4N4)
+
 - [Bread Bank (No Gluten) | Baku Season 4](https://www.youtube.com/watch?v=F6hC4qQbDzI)
 
 - [Sonic Evades his Taxes](https://www.youtube.com/watch?v=6sUR6ylVH7E)
@@ -732,6 +742,12 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [srcl](https://sacred.computer) - SRCL is an open-source React component and style repository that helps you build web applications, desktop applications, and static websites with terminal aesthetics.
+
+- [A CRITICAL FIELD GUIDE FOR WORKING WITH MACHINE LEARNING DATASETS](https://knowingmachines.org/critical-field-guide) - Maybe you’re an engineer creating a new machine vision system to track birds. You might be a journalist using social media data to research Costa Rican households. You could be a researcher who stumbled upon your university’s archive of handwritten census cards from 1939. Or a designer creating a chatbot that relies on large language models like GPT...
+
+- [Book: Alice’s Adventures in a differentiable wonderland](https://sscardapane.it/alice-book/) - My personal website, where I collect slides, publications, and presentations.
+
 - [Introduction to Cryptography — About](https://sagrawalx.github.io/crypt/)
 
 - [Alistair Gray - Sociological considerations in designing an internal documentation platform](https://www.youtube.com/watch?v=DxbXKLl-URo) - https://www.writethedocs.org/conf/por...
@@ -769,8 +785,6 @@ To view a single category, check the files/ folder.
 - [Pelican navbar menu items](https://appliedcaffeine.org/blog/navbaritems/) - Static site generators can greatly reduce the slope of the website creation learning curve. Take advantage of these tools if you are interested in creating your own simple website but want to sidestep manually generating the HTML and CSS on your own.
 
 - [Article Listing | Datadog Security Labs](https://securitylabs.datadoghq.com/articles) - Datadog Security Labs is the place to read blog content about security research and tooling published by Datadog for the community.
-
-- [Book: Alice’s Adventures in a differentiable wonderland](https://sscardapane.it/alice-book/) - My personal website, where I collect slides, publications, and presentations.
 
 - [Nature of Code](https://natureofcode.com) - Over a decade ago, I self-published The Nature of Code, an online resource and print book exploring the unpredictable evolutionary and emergent proper
 
@@ -850,8 +864,6 @@ To view a single category, check the files/ folder.
 
 - [An Interactive Guide to CSS Grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/) - CSS Grid is an incredibly powerful tool for building layouts on the web, but like all powerful tools, there's a significant learning curve. In this tutorial, we'll build a mental model for how CSS Grid works and how we can use it effectively. I'll share the biggest 💡 lightbulb moments I've had in my own learning journey.
 
-- [A CRITICAL FIELD GUIDE FOR WORKING WITH MACHINE LEARNING DATASETS](https://knowingmachines.org/critical-field-guide) - Maybe you’re an engineer creating a new machine vision system to track birds. You might be a journalist using social media data to research Costa Rican households. You could be a researcher who stumbled upon your university’s archive of handwritten census cards from 1939. Or a designer creating a chatbot that relies on large language models like GPT...
-
 - [Learn VIM while playing a game - VIM Adventures](https://vim-adventures.com/) - VIM Adventures is an online game based on VIM's keyboard shortcuts. It's the "Zelda meets text editing" game. So come have some fun and learn some VIM!
 
 - [AutoRegex: Convert from English to RegEx with Natural Language Processing](https://www.autoregex.xyz/)
@@ -929,8 +941,6 @@ To view a single category, check the files/ folder.
 - [Low latency logging](www.reddit.com/r/rust/comments/15cm4ug/low_latency_logging/)
 
 - [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
-
-- [The Grug Brained Developer](https://grugbrain.dev/)
 
 # stories
 - [Clarkesworld Magazine - Science Fiction & Fantasy](https://clarkesworldmagazine.com/kim_02_24/) - Clarkesworld Science Fiction and Fantasy Magazine and Podcast. This page: Why Don't We Just Kill the Kid In the Omelas Hole by Isabel J. Kim
@@ -1020,6 +1030,12 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Is There Any Escape from the Spotify Syndrome?](https://www.newyorker.com/magazine/2024/12/30/mood-machine-liz-pelly-book-review) - The history of recorded music is now at our fingertips. But the streamer’s algorithmic skill at giving us what we like may keep us from what we’ll love.
+
+- [George R.R. Martin has co-authored a physics paper](https://arstechnica.com/science/2025/01/george-r-r-martin-has-co-authored-a-physics-paper/) - “I couldn’t help but wonder if a simple underlying model might tidy up the canon.”…
+
+- [The Ghosts in the Machine](https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/) - Spotify’s plot against musicians
+
 - [Meta Secretly Trained Its AI on a Notorious Piracy Database, Newly Unredacted Court Docs Reveal](https://www.wired.com/story/new-documents-unredacted-meta-copyright-ai-lawsuit/) - One of the most important AI copyright legal battles just took a major turn.
 
 - [Misconfigured license plate readers are leaking data and video in real time](https://www.wired.com/story/license-plate-reader-live-video-data-exposed/?_sp=30f4276d-7d5d-424d-9e17-5921d057c452.1736346290243) - Video feeds from at least 150 Motorola license plate readers accessible without a password.
@@ -1214,22 +1230,38 @@ To view a single category, check the files/ folder.
 
 - [The story behind the iconic Vietnam episode of 'Hey Arnold!'](https://www.nbcnews.com/news/asian-america/story-behind-iconic-vietnam-episode-hey-arnold-n1273598) - For the 25th anniversary of the “Hey Arnold!” pilot, show creator Craig Bartlett talked to NBC Asian America about the storyline surrounding Mr. Hyunh, a Vietnamese refugee.
 
-- [The Cold War Over Hacking McDonald’s Ice Cream Machines](https://www.wired.com/story/they-hacked-mcdonalds-ice-cream-makers-started-cold-war/) - Secret codes. Legal threats. Betrayal. How one couple built a device to fix McDonald’s notoriously broken soft-serve machines—and how the fast-food giant froze them out.
-
-- [The Sobering Details Behind the Latest Seed Monopoly Chart](https://civileats.com/2019/01/11/the-sobering-details-behind-the-latest-seed-monopoly-chart/) - As four seed companies now control more than 60 percent of the global market, a seed policy expert argues that consolidation poses major risks to our food supply.
-
-- [A Pixies song is accidentally turning off Google alarms](https://fortune.com/2023/05/04/google-pixel-phone-pixies-song-where-is-my-mind-accidentally-turning-off-alarms/) - The company's Pixel phone responds to voice commands, and sometimes that can have inadvertent effects.
-
 # wikipedia
+- [Town and gown](https://en.wikipedia.org/w/index.php?title=Town_and_gown&oldid=1254873362) - Town and gown are two distinct communities of a university town; 'town' being the non-academic population and 'gown' metonymically being the university community, especially in ancient seats of learning such as Oxford, Cambridge, Durham, and St Andrews, although the term is also used to describe modern university towns as well as towns with a signif...
+
+- [Crash cover](https://en.wikipedia.org/w/index.php?title=Crash_cover&oldid=1209696700) - A crash cover is a philatelic term for a type of cover (including the terms air accident cover, interrupted flight cover, wreck cover), meaning an envelope or package that has been recovered from an air crash, train wreck, shipwreck or other accident. Crash covers are a type of interrupted mail.  Crashes of flights carrying airmail were a regular oc...
+
 - [Sea-based X-band radar](https://en.wikipedia.org/w/index.php?title=Sea-based_X-band_radar&oldid=1267829271) - The Sea-Based X-band radar (SBX-1) is a floating, self-propelled, mobile active electronically scanned array early-warning radar station designed to operate in high winds and heavy seas. It was developed as part of the United States Department of Defense Missile Defense Agency's (MDA) Ballistic Missile Defense System. The radar is mounted on a fifth...
 
 - [Trump–Ukraine scandal](https://en.wikipedia.org/w/index.php?title=Trump%E2%80%93Ukraine_scandal&oldid=1266466350) - The Trump–Ukraine scandal was a political scandal that arose primarily from the discovery of U.S. President Donald Trump's attempts to coerce Ukraine into investigating his political rival Joe Biden and thus potentially damage Biden's campaign for the 2020 Democratic Party presidential nomination. Trump enlisted surrogates in and outside his adminis...
 
+- [Hogan's Alley (FBI)](https://en.wikipedia.org/w/index.php?title=Hogan%27s_Alley_(FBI)&oldid=1251963121) - Hogan's Alley is a Federal Bureau of Investigation training facility operated by the FBI Academy in Marine Corps Base Quantico near Quantico, Prince William County, Virginia. Opened in 1987, Hogan's Alley is a full-scale replica of a nondescript town in the United States, spread over approximately 10 acres (4 ha). The facility is used to train feder...
+
 - [Shabbat elevator](https://en.wikipedia.org/w/index.php?title=Shabbat_elevator&oldid=1183876085) - A Shabbat elevator is an elevator which works in a special mode, operating automatically, to satisfy the Jewish law requiring Jews to abstain from operating electrical switches on Shabbat (the Sabbath). These are also known as Sabbath or Shabbos elevators.
+
+- [Buttered toast phenomenon](https://en.wikipedia.org/w/index.php?title=Buttered_toast_phenomenon&oldid=1268250592) - The buttered toast phenomenon is an observation that buttered toast tends to land butter-side down after it falls. It is used as an idiom representing pessimistic outlooks. Various people have attempted to determine whether there is an actual tendency for bread to fall in this fashion, with varying results.
 
 - [Least publishable unit](https://en.wikipedia.org/w/index.php?title=Least_publishable_unit&oldid=1233252354) - In academic publishing, the least publishable unit (LPU), also smallest publishable unit (SPU), minimum publishable unit (MPU), loot, or publon, is the minimum amount of information that can be used to generate a publication in a peer-reviewed venue, such as a journal or a conference. (Maximum publishable unit and optimum publishable unit are also u...
 
 - [Flash of unstyled content](https://en.wikipedia.org/w/index.php?title=Flash_of_unstyled_content&oldid=1221717733) - A flash of unstyled content (FOUC, or flash of unstyled text) is an instance where a web page appears briefly with the browser's default styles prior to loading an external CSS stylesheet, due to the web browser engine rendering the page before all information is retrieved. The page corrects itself as soon as the style rules are loaded and applied; ...
+
+- [Fool's Gold Loaf](https://en.wikipedia.org/w/index.php?title=Fool%27s_Gold_Loaf&oldid=1264363743) - Fool's Gold Loaf is a sandwich made by the Colorado Mine Company, a restaurant in Denver, Colorado. It consists of a single warmed, hollowed-out loaf of bread filled with the contents of one jar of creamy peanut butter, one jar of grape jelly, and one pound (454 g) of bacon. The sandwich's connection to the singer Elvis Presley is the source of its ...
+
+- [Entebbe raid](https://en.wikipedia.org/w/index.php?title=Entebbe_raid&oldid=1267774201) - The Entebbe raid or Operation Entebbe, officially codenamed Operation Thunderbolt (retroactively codenamed Operation Yonatan), was a 1976 Israeli counter-terrorist mission in Uganda. It was launched in response to the hijacking of an international civilian passenger flight (an Airbus A300) operated by Air France between the cities of Tel Aviv and Pa...
+
+- [Peanut butter, banana and bacon sandwich](https://en.wikipedia.org/w/index.php?title=Peanut_butter,_banana_and_bacon_sandwich&oldid=1234207125) - The peanut butter and banana sandwich (PB&B), or peanut butter, banana and bacon sandwich (PB,B&B), sometimes referred to as an Elvis sandwich, the Velvet Elvis, or simply the Elvis, is a sandwich with toasted bread, peanut butter, sliced or mashed banana, and occasionally bacon. Honey or jelly is seen in some variations of the sandwich. The sandwic...
+
+- [Garden-path sentence](https://en.wikipedia.org/w/index.php?title=Garden-path_sentence&oldid=1265316066) - A garden-path sentence is a grammatically correct sentence that starts in such a way that a reader's most likely interpretation will be incorrect; the reader is lured into a parse that turns out to be a dead end or yields a clearly unintended meaning. Garden path refers to the saying "to be led down [or up] the garden path", meaning to be deceived, ...
+
+- [Mr. Dude](https://en.wikipedia.org/w/index.php?title=Mr._Dude&oldid=1147651184) - Mr. Dude is Portland, Oregon's mascot in Japan.
+
+- [Punji stick](https://en.wikipedia.org/w/index.php?title=Punji_stick&oldid=1261838544) - The punji stick or punji stake is a type of booby trapped stake. It is a simple spike, made out of wood or bamboo, which is sharpened, heated, and usually set in a hole. Punji sticks are usually deployed in substantial numbers. The Oxford English Dictionary (third edition, 2007) lists less frequent, earlier spellings for "punji stake (or stick)": pa...
+
+- [Evo Moment 37](https://en.wikipedia.org/w/index.php?title=Evo_Moment_37&oldid=1252642998) - "Evo Moment #37", or the "Daigo Parry", is a portion of a Street Fighter III: 3rd Strike semifinal match held at Evolution Championship Series 2004 (Evo 2004) between Daigo Umehara and Justin Wong. During this match, Umehara made an unexpected comeback by countering 15 consecutive hits of Wong's "Super Art" move with only one remaining unit of healt...
 
 - [Carrier's constraint](https://en.wikipedia.org/w/index.php?title=Carrier%27s_constraint&oldid=1249772992) - Carrier's constraint is the observation that air-breathing vertebrates with two lungs that flex their bodies sideways during locomotion find it difficult to move and breathe at the same time, because the sideways flexing expands one lung and compresses the other, shunting stale air from lung to lung instead of expelling it completely to make room fo...
 
@@ -1399,32 +1431,22 @@ To view a single category, check the files/ folder.
 
 - [Mass suicides in 1945 Nazi Germany](https://en.wikipedia.org/w/index.php?title=Mass_suicides_in_1945_Nazi_Germany&oldid=1195387051) - During the final weeks of Nazi Germany and World War II in Europe, many civilians, government officials, and military personnel throughout Germany and German-occupied Europe committed suicide. In addition to high-ranking Nazi officials like Adolf Hitler, Joseph Goebbels, Heinrich Himmler, Philipp Bouhler, and Martin Bormann, many others chose suicid...
 
-- [Road of Life](https://en.wikipedia.org/w/index.php?title=Road_of_Life&oldid=1189240814) - The Road of Life (Доро́га жи́зни, doroga žizni) was the set of ice road transport routes across Lake Ladoga to Leningrad during the Second World War. They were the only Soviet winter surface routes into the city while it was besieged by the German Army Group North under Feldmarschall Wilhelm Ritter von Leeb.The routes operated in the winters of 1941...
-
-- [Sanrizuka Struggle](https://en.wikipedia.org/w/index.php?title=Sanrizuka_Struggle&oldid=1187611033) - The Sanrizuka Struggle (三里塚闘争, Sanrizuka tōsō) refers to a civil conflict and riots involving the Japanese government and the agricultural community of Sanrizuka, comprising organised opposition by farmers, local residents, and leftist groups to the construction of Narita International Airport (then New Tokyo International Airport). The struggle ste...
-
-- [Page 3](https://en.wikipedia.org/w/index.php?title=Page_3&oldid=1193363611) - Page 3, or Page Three, was a British newspaper convention of publishing a large image of a topless female glamour model (known as a Page 3 girl) on the third page of mainstream red-top tabloids. The Sun introduced the feature in November 1970, which boosted its readership and prompted competing tabloids—including The Daily Mirror, The Sunday People,...
-
-- [Anti-computer tactics](https://en.wikipedia.org/w/index.php?title=Anti-computer_tactics&oldid=1181771353) - Anti-computer tactics are methods used by humans to try to beat computer opponents at various games, most typically board games such as chess and Arimaa.  They are most associated with competitions against computer AIs that are playing to their utmost to win, rather than AIs merely programmed to be an interesting challenge that can be given intentio...
-
-- [<i>Manifold Destiny</i> (cookbook)](https://en.wikipedia.org/w/index.php?title=Manifold_Destiny_(cookbook)&oldid=1175085406) - Manifold Destiny is a 1989 cookbook (ISBN 0679723374), its updated 1998 edition (ISBN 0375751408) and a 2008 update (ISBN 1416596232) on the subject of cooking on the surface of a car engine. It was written by Chris Maynard and Bill Scheller, a photographer and a travel writer who were also rally drivers.The authors claimed inspiration from a trip f...
-
-- [Hand of Glory](https://en.wikipedia.org/w/index.php?title=Hand_of_Glory&oldid=1191567439) - A Hand of Glory is the dried and pickled hand of a hanged man, often specified as being the left (Latin: sinister) hand, or, if the person was hanged for murder, the hand that "did the deed." Old European beliefs attribute great powers to a Hand of Glory combined with a candle made from fat from the corpse of the same malefactor who died on the gall...
-
-- [Beagle Brigade](https://en.wikipedia.org/w/index.php?title=Beagle_Brigade&oldid=1197943839) - Beagle Brigade is a team of beagles and their human handlers who, as part of the United States Department of Agriculture's Animal and Plant Health Inspection Service (APHIS), inspect luggage at U.S. airports searching for agricultural products.  According to the USDA, the Beagle Brigade program averages around 75,000 seizures of prohibited agricultu...
-
-- [China–Hong Kong football rivalry](https://en.wikipedia.org/w/index.php?title=China–Hong_Kong_football_rivalry&oldid=1193679365) - The China–Hong Kong football rivalry is a sports rivalry between the national association football teams of the People's Republic of China and Hong Kong. The rivalry has been exacerbated by Hong Kong's status as a Special Administrative Region of China, with major political and ideological differences than on the mainland, a legacy of having been un...
-
-- [Chinese number gestures](https://en.wikipedia.org/w/index.php?title=Chinese_number_gestures&oldid=1186927843) - Chinese number gestures are a method to signify the natural numbers one through ten using one hand.  This method may have been developed to bridge the many varieties of Chinese—for example, the numbers 4 (Chinese: 四; pinyin: sì) and 10 (Chinese: 十; pinyin: shí) are hard to distinguish in some dialects. Some suggest that it was also used by business ...
-
-- [The purpose of a system is what it does](https://en.wikipedia.org/w/index.php?title=The_purpose_of_a_system_is_what_it_does&oldid=1195089743) - The purpose of a system is what it does (POSIWID) is a systems thinking heuristic coined by Stafford Beer, who observed that there is "no point in claiming that the purpose of a system is to do what it constantly fails to do." The term is widely used by systems theorists, and is generally invoked to counter the notion that the purpose of a system ca...
-
-- [Response to sneezing](https://en.wikipedia.org/w/index.php?title=Response_to_sneezing&oldid=1194916949) - In English-speaking countries, the common verbal response to another person's sneeze is "[God] bless you", or, less commonly in the United States and Canada, "Gesundheit", the German word for health (and the response to sneezing in German-speaking countries).  There are several proposed bless-you origins for use in the context of sneezing. In non-En...
-
 # misc
+- [Nice!](https://nicenumbers.net/)
+
+- [Gregg Shorthand](https://greggshorthand.github.io/index.html)
+
 - [Wikipedia: The Text Adventure](https://kevan.org/wikitext/) - A playable text adventure version of Wikipedia. Start anywhere that has a Wikipedia article, and explore the world a step at a time.
 
+- [Traintrackr - Live LED Maps](https://www.traintrackr.io/product)
+
+- [GitHub - Jaennaet/pISSStream: macOS menu bar app that shows how full the International Space Station's urine tank is in real time](https://github.com/Jaennaet/pISSStream) - macOS menu bar app that shows how full the International Space Station's urine tank is in real time - Jaennaet/pISSStream
+
+- [DON'T YOU LECTURE ME WITH YOUR THIRTY DOLLAR WEBSITE](https://thirtydollar.website/) - 🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿🗿
+
 - [Home - Apple Rankings by The Appleist Brian Frange - Comedian Brian Frange](https://applerankings.com/) - The industry-standard, definitive, inarguable guide to ranking and reviewing munching apples. Curated by comedian Brian Frange.
+
+- [Don’t kill my app!](https://dontkillmyapp.com/) - Hey Android vendors, don’t kill my app!
 
 - [Spacetime maps](https://spacetime-maps.vercel.app/)
 
