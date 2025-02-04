@@ -1030,6 +1030,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Wearing A Salmon On Your Head Is Back In Fashion For Orcas, After A 37-Year Break](https://www.iflscience.com/wearing-a-salmon-on-your-head-is-back-in-fashion-for-orcas-after-a-37-year-break-76971) - In 1987, there was a strange trend amongst killer whales. Recent sightings show it's back in fashion.
+
 - [Is There Any Escape from the Spotify Syndrome?](https://www.newyorker.com/magazine/2024/12/30/mood-machine-liz-pelly-book-review) - The history of recorded music is now at our fingertips. But the streamer’s algorithmic skill at giving us what we like may keep us from what we’ll love.
 
 - [George R.R. Martin has co-authored a physics paper](https://arstechnica.com/science/2025/01/george-r-r-martin-has-co-authored-a-physics-paper/) - “I couldn’t help but wonder if a simple underlying model might tidy up the canon.”…
@@ -1227,8 +1229,6 @@ To view a single category, check the files/ folder.
 - [Child Abusers Are Getting Better at Using Crypto to Cover Their Tracks](https://www.wired.com/story/csam-sellers-monero-rise/) - Crypto tracing firm Chainalysis found that sellers of child sexual abuse materials are successfully using “mixers” and “privacy coins” like Monero to launder their profits and evade law enforcement.
 
 - [How the Talmud Became a Best-Seller in South Korea](https://www.newyorker.com/books/page-turner/how-the-talmud-became-a-best-seller-in-south-korea) - In 2011, the South Korean Ambassador to Israel said on Israeli public television that “each Korean family has at least one copy of the Talmud.”
-
-- [The story behind the iconic Vietnam episode of 'Hey Arnold!'](https://www.nbcnews.com/news/asian-america/story-behind-iconic-vietnam-episode-hey-arnold-n1273598) - For the 25th anniversary of the “Hey Arnold!” pilot, show creator Craig Bartlett talked to NBC Asian America about the storyline surrounding Mr. Hyunh, a Vietnamese refugee.
 
 # wikipedia
 - [Town and gown](https://en.wikipedia.org/w/index.php?title=Town_and_gown&oldid=1254873362) - Town and gown are two distinct communities of a university town; 'town' being the non-academic population and 'gown' metonymically being the university community, especially in ancient seats of learning such as Oxford, Cambridge, Durham, and St Andrews, although the term is also used to describe modern university towns as well as towns with a signif...
@@ -1432,6 +1432,12 @@ To view a single category, check the files/ folder.
 - [Mass suicides in 1945 Nazi Germany](https://en.wikipedia.org/w/index.php?title=Mass_suicides_in_1945_Nazi_Germany&oldid=1195387051) - During the final weeks of Nazi Germany and World War II in Europe, many civilians, government officials, and military personnel throughout Germany and German-occupied Europe committed suicide. In addition to high-ranking Nazi officials like Adolf Hitler, Joseph Goebbels, Heinrich Himmler, Philipp Bouhler, and Martin Bormann, many others chose suicid...
 
 # misc
+- [Shift Happens typewriter simulator](https://shifthappens.site/typewriter/) - A fun way to experience a typewriter without needing to have one!
+
+- [The Colour Clock](http://www.thecolourclock.com/) - Time as a hexadecimal colour
+
+- [Silent Poems](https://silentpoems.net/)
+
 - [Nice!](https://nicenumbers.net/)
 
 - [Gregg Shorthand](https://greggshorthand.github.io/index.html)

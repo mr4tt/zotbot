@@ -1,4 +1,10 @@
 # misc
+- [Shift Happens typewriter simulator](https://shifthappens.site/typewriter/) - A fun way to experience a typewriter without needing to have one!
+
+- [The Colour Clock](http://www.thecolourclock.com/) - Time as a hexadecimal colour
+
+- [Silent Poems](https://silentpoems.net/)
+
 - [Nice!](https://nicenumbers.net/)
 
 - [Gregg Shorthand](https://greggshorthand.github.io/index.html)
