@@ -1030,6 +1030,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Posing as ‘Alicia,’ This Man Scammed Hundreds Online. He Was Also a Victim.](https://www.wsj.com/world/asia/cyberscams-human-trafficking-forced-labor-ba2c6c1a) - A multibillion-dollar cyberfraud industry operating out of Southeast Asia relies on forced labor and torture.
+
 - [Wearing A Salmon On Your Head Is Back In Fashion For Orcas, After A 37-Year Break](https://www.iflscience.com/wearing-a-salmon-on-your-head-is-back-in-fashion-for-orcas-after-a-37-year-break-76971) - In 1987, there was a strange trend amongst killer whales. Recent sightings show it's back in fashion.
 
 - [Is There Any Escape from the Spotify Syndrome?](https://www.newyorker.com/magazine/2024/12/30/mood-machine-liz-pelly-book-review) - The history of recorded music is now at our fingertips. But the streamer’s algorithmic skill at giving us what we like may keep us from what we’ll love.
@@ -1227,8 +1229,6 @@ To view a single category, check the files/ folder.
 - [McDonald’s Ice Cream Machine Hackers Say They Found the ‘Smoking Gun’ That Killed Their Startup](https://www.wired.com/story/kytch-taylor-mcdonalds-ice-cream-machine-smoking-gun/) - Kytch, the company that tried to fix McDonald’s broken ice cream machines, has unearthed a 3-year-old email it says proves claims of an alleged plot to undermine their business.
 
 - [Child Abusers Are Getting Better at Using Crypto to Cover Their Tracks](https://www.wired.com/story/csam-sellers-monero-rise/) - Crypto tracing firm Chainalysis found that sellers of child sexual abuse materials are successfully using “mixers” and “privacy coins” like Monero to launder their profits and evade law enforcement.
-
-- [How the Talmud Became a Best-Seller in South Korea](https://www.newyorker.com/books/page-turner/how-the-talmud-became-a-best-seller-in-south-korea) - In 2011, the South Korean Ambassador to Israel said on Israeli public television that “each Korean family has at least one copy of the Talmud.”
 
 # wikipedia
 - [Town and gown](https://en.wikipedia.org/w/index.php?title=Town_and_gown&oldid=1254873362) - Town and gown are two distinct communities of a university town; 'town' being the non-academic population and 'gown' metonymically being the university community, especially in ancient seats of learning such as Oxford, Cambridge, Durham, and St Andrews, although the term is also used to describe modern university towns as well as towns with a signif...
