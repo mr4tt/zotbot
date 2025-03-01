@@ -80,11 +80,15 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [The Nerd Urban Dictionary](https://andersonchris.medium.com/the-nerd-urban-dictionary-abcd55ca7ac4) - A crowdsourced list of sci/tech/biz words nerds use to signal that they’re smart
+
 - [The persistence of tradition: the curious case of Henry Symeonis](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/) - Christmas is a time for tradition, and the University of Oxford is well known for diligently preserving its traditions for centuries. Many of these have long outlived the people who established the…
 
 - [A decade without a drink · eieio.games](https://eieio.games/blog/a-decade-without-a-drink/) - A decade ago I was almost dead. Now I'm here.
 
 - [What Does the World Lose When a Language Dies?](https://getfreewrite.com/blogs/writing-success/what-does-the-world-lose-when-a-language-dies) - Every 40 days, another one dies — becoming extinct forever. By the year 2100, that will be 3,500 lost. We’re not talking about a species of animal, or variety of plant. We’re talking about languages — the foundation of human communication as we know it. Over the centuries, certain languages have become more popular whi
+
+- [There's A Time For Everyone](https://www.astralcodexten.com/p/theres-a-time-for-everyone) - ...
 
 - [50 years of BART: Why BART uses a nonstandard broad gauge | Bay Area Rapid Transit](https://www.bart.gov/news/articles/2022/news20220708-2)
 
@@ -253,6 +257,10 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
+- [Cute Things from Japan -- For your needs for Japanese craft supplies and planner items.](https://cutethingsfromjapan.com/) - Cute Things from Japan offers craft and planner supplies from Japan such as washi tapes, stickers, rubber stamps, origami, Traveler's Notebook accessories.
+
+- [Carmico](https://carmico.ca/) - Home page for Carmico, an apparel brand, dedicated to inclusivity and mindful business practices. You can find fashion, accessories, home goods and more here!
+
 - [roundbirbart](https://www.roundbirb.art/) - The ROUNDEST birb merchandise!
 
 - [Grassfur](https://grassfur.bigcartel.com/)
@@ -1034,6 +1042,10 @@ To view a single category, check the files/ folder.
 
 - [Wearing A Salmon On Your Head Is Back In Fashion For Orcas, After A 37-Year Break](https://www.iflscience.com/wearing-a-salmon-on-your-head-is-back-in-fashion-for-orcas-after-a-37-year-break-76971) - In 1987, there was a strange trend amongst killer whales. Recent sightings show it's back in fashion.
 
+- [How “Kessler’s Flying Circus” cookie-stuffed its way to $5.2M from eBay](https://arstechnica.com/tech-policy/2013/04/how-kesslers-flying-circus-cookie-stuffed-its-way-to-5-2m-from-ebay/) - California man pleads guilty to an ingenious fraud.
+
+- [Trump Frees Silk Road Creator Ross Ulbricht After 11 Years in Prison](https://www.wired.com/story/trump-frees-silk-road-creator-ross-ulbricht-after-11-years-in-prison/) - Donald Trump pardoned the creator of the world’s first dark-web drug market, who is now a libertarian cause célèbre in some parts of the crypto community.
+
 - [Is There Any Escape from the Spotify Syndrome?](https://www.newyorker.com/magazine/2024/12/30/mood-machine-liz-pelly-book-review) - The history of recorded music is now at our fingertips. But the streamer’s algorithmic skill at giving us what we like may keep us from what we’ll love.
 
 - [George R.R. Martin has co-authored a physics paper](https://arstechnica.com/science/2025/01/george-r-r-martin-has-co-authored-a-physics-paper/) - “I couldn’t help but wonder if a simple underlying model might tidy up the canon.”…
@@ -1045,6 +1057,8 @@ To view a single category, check the files/ folder.
 - [Misconfigured license plate readers are leaking data and video in real time](https://www.wired.com/story/license-plate-reader-live-video-data-exposed/?_sp=30f4276d-7d5d-424d-9e17-5921d057c452.1736346290243) - Video feeds from at least 150 Motorola license plate readers accessible without a password.
 
 - [How a Taping of ‘Curb Your Enthusiasm’ Saved an Innocent Man from Death Row](https://innocenceproject.org/how-curb-your-enthusiasm-saved-an-innocent-man-from-death-row/)
+
+- [iPhones are suggesting people 'Check In' with their exes. Yikes!](https://www.businessinsider.com/apple-iphone-check-in-siri-ex-boss-why-how-to-2024-9) - Apple iPhone users are getting suggestions from Siri to use the "Check In" feature with their moms, friends, and ... exes. What's going on?
 
 - [Satellite-navigation systems such as GPS are at risk of jamming](https://www.economist.com/science-and-technology/2021/05/06/satellite-navigation-systems-such-as-gps-are-at-risk-of-jamming) - https://archive.ph/Gxsjv
 
@@ -1224,13 +1238,13 @@ To view a single category, check the files/ folder.
 
 - [Tropicn: Tropicana withdraws letters 'AI' from its branding. Here's why](https://interestingengineering.com/innovation/tropicn-tropicana-withdraws-letters-ai-from-its-branding-heres-why) - The limited-time rebranding is really just a marketing stunt timed to coincide with CES 2024, one of the biggest tech showcases of the year.
 
-- [This Clever New Idea Could Fix AirTag Stalking While Maximizing Privacy](https://www.wired.com/story/apple-airtag-privacy-stalking-cryptographic-solution/) - Apple updated its location-tracking system in an attempt to cut down on AirTag abuse while still preserving privacy. Researchers think they’ve found a better balance.
-
-- [McDonald’s Ice Cream Machine Hackers Say They Found the ‘Smoking Gun’ That Killed Their Startup](https://www.wired.com/story/kytch-taylor-mcdonalds-ice-cream-machine-smoking-gun/) - Kytch, the company that tried to fix McDonald’s broken ice cream machines, has unearthed a 3-year-old email it says proves claims of an alleged plot to undermine their business.
-
-- [Child Abusers Are Getting Better at Using Crypto to Cover Their Tracks](https://www.wired.com/story/csam-sellers-monero-rise/) - Crypto tracing firm Chainalysis found that sellers of child sexual abuse materials are successfully using “mixers” and “privacy coins” like Monero to launder their profits and evade law enforcement.
-
 # wikipedia
+- [Numeronym](https://en.wikipedia.org/w/index.php?title=Numeronym&oldid=1262619232) - A numeronym is a word, usually an abbreviation, composed partially or wholly of numerals. The term can be used to describe several different number-based constructs, but it most commonly refers to a contraction in which all letters between the first and last of a word are replaced with the number of omitted letters (for example, "i18n" for "internat...
+
+- [Americans for Common Cents](https://en.wikipedia.org/w/index.php?title=Americans_for_Common_Cents&oldid=1267853552) - Americans for Common Cents is an organization based in Washington, D.C. that lobbies in favor of keeping the United States penny in circulation. It was established in 1990. The organization has conducted surveys and organized advertising campaigns in support of the continuing production of the penny. Its executive director, Mark Weller, has argued t...
+
+- [Oxitec](https://en.wikipedia.org/w/index.php?title=Oxitec&oldid=1257107643) - Oxitec is a British biotechnology company that develops genetically modified insects in order to improve public health and food security through insect control. The insects act as biological insecticides. Insects are controlled without the use of chemical insecticides. Instead, the insects are genetically engineered to be unable to produce offspring...
+
 - [Town and gown](https://en.wikipedia.org/w/index.php?title=Town_and_gown&oldid=1254873362) - Town and gown are two distinct communities of a university town; 'town' being the non-academic population and 'gown' metonymically being the university community, especially in ancient seats of learning such as Oxford, Cambridge, Durham, and St Andrews, although the term is also used to describe modern university towns as well as towns with a signif...
 
 - [Crash cover](https://en.wikipedia.org/w/index.php?title=Crash_cover&oldid=1209696700) - A crash cover is a philatelic term for a type of cover (including the terms air accident cover, interrupted flight cover, wreck cover), meaning an envelope or package that has been recovered from an air crash, train wreck, shipwreck or other accident. Crash covers are a type of interrupted mail.  Crashes of flights carrying airmail were a regular oc...
@@ -1260,6 +1274,8 @@ To view a single category, check the files/ folder.
 - [Mr. Dude](https://en.wikipedia.org/w/index.php?title=Mr._Dude&oldid=1147651184) - Mr. Dude is Portland, Oregon's mascot in Japan.
 
 - [Punji stick](https://en.wikipedia.org/w/index.php?title=Punji_stick&oldid=1261838544) - The punji stick or punji stake is a type of booby trapped stake. It is a simple spike, made out of wood or bamboo, which is sharpened, heated, and usually set in a hole. Punji sticks are usually deployed in substantial numbers. The Oxford English Dictionary (third edition, 2007) lists less frequent, earlier spellings for "punji stake (or stick)": pa...
+
+- [Củ Chi tunnels](https://en.wikipedia.org/w/index.php?title=C%E1%BB%A7_Chi_tunnels&oldid=1251757154) - The tunnels of Củ Chi (Vietnamese: Địa đạo Củ Chi) are an immense network of connecting tunnels located in the Củ Chi District of Ho Chi Minh City (Saigon), Vietnam, and are part of a much larger network of tunnels that underlie much of the country. The Củ Chi tunnels were the location of several military campaigns during the Vietnam War, and were t...
 
 - [Evo Moment 37](https://en.wikipedia.org/w/index.php?title=Evo_Moment_37&oldid=1252642998) - "Evo Moment #37", or the "Daigo Parry", is a portion of a Street Fighter III: 3rd Strike semifinal match held at Evolution Championship Series 2004 (Evo 2004) between Daigo Umehara and Justin Wong. During this match, Umehara made an unexpected comeback by countering 15 consecutive hits of Wong's "Super Art" move with only one remaining unit of healt...
 
@@ -1423,20 +1439,22 @@ To view a single category, check the files/ folder.
 
 - [Pirate Party of Catalonia](https://en.wikipedia.org/w/index.php?title=Pirate_Party_of_Catalonia&oldid=1195753686) - Pirates of Catalonia (Catalan: Pirates de Catalunya, PIRATA.CAT) is a political party in Catalonia. The party is based on the model of the Swedish Pirate Party and is a member of the Pirate Parties International, it supports intellectual property reform, open access to culture and knowledge, transparency and direct democracy.The party was founded in...
 
-- [Mystery Seeker](https://en.wikipedia.org/w/index.php?title=Mystery_Seeker&oldid=1146656552) - Mystery Seeker was a website based on the Google search engine. that until November 30, 2009 had been known as Mystery Google.  The WHOIS domain name record for mysterygoogle.com was created on 10 February 2009 with registrant Google Inc, but since February 26, 2017 it has had no website.  The website has been featured in a number of technology blog...
-
-- [Reverse Polish notation](https://en.wikipedia.org/w/index.php?title=Reverse_Polish_notation&oldid=1199898249) - Reverse Polish notation (RPN), also known as reverse Łukasiewicz notation, Polish postfix notation or simply postfix notation, is a mathematical notation in which operators follow their operands, in contrast to prefix or Polish notation (PN), in which operators precede their operands. The notation does not need any parentheses for as long as each op...
-
-- [Lake Nyos disaster](https://en.wikipedia.org/w/index.php?title=Lake_Nyos_disaster&oldid=1198146078) - On 21 August 1986, a limnic eruption at Lake Nyos in northwestern Cameroon killed 1,746 people and 3,500 livestock.The eruption triggered the sudden release of about 100,000–300,000 tons (1.6 million tons, according to some sources) of carbon dioxide (CO2). The gas cloud initially rose at nearly 100 kilometres per hour (62 mph; 28 m/s) and then, bei...
-
-- [Mass suicides in 1945 Nazi Germany](https://en.wikipedia.org/w/index.php?title=Mass_suicides_in_1945_Nazi_Germany&oldid=1195387051) - During the final weeks of Nazi Germany and World War II in Europe, many civilians, government officials, and military personnel throughout Germany and German-occupied Europe committed suicide. In addition to high-ranking Nazi officials like Adolf Hitler, Joseph Goebbels, Heinrich Himmler, Philipp Bouhler, and Martin Bormann, many others chose suicid...
-
 # misc
+- [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos)
+
+- [The Blue Report](https://theblue.report) - The top links on Bluesky over the last 24 hours. Updated hourly.
+
+- [WikiTok](https://wikitok.vercel.app/)
+
 - [Shift Happens typewriter simulator](https://shifthappens.site/typewriter/) - A fun way to experience a typewriter without needing to have one!
 
 - [The Colour Clock](http://www.thecolourclock.com/) - Time as a hexadecimal colour
 
 - [Silent Poems](https://silentpoems.net/)
+
+- [The Colour Clock](http://www.thecolourclock.com/) - Time as a hexadecimal colour
+
+- [Simulate sun shadows](https://shademap.app) - Every mountain, building and tree shadow in the world simulated for any date and time
 
 - [Nice!](https://nicenumbers.net/)
 

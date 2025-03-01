@@ -3,6 +3,10 @@
 
 - [Wearing A Salmon On Your Head Is Back In Fashion For Orcas, After A 37-Year Break](https://www.iflscience.com/wearing-a-salmon-on-your-head-is-back-in-fashion-for-orcas-after-a-37-year-break-76971) - In 1987, there was a strange trend amongst killer whales. Recent sightings show it's back in fashion.
 
+- [How “Kessler’s Flying Circus” cookie-stuffed its way to $5.2M from eBay](https://arstechnica.com/tech-policy/2013/04/how-kesslers-flying-circus-cookie-stuffed-its-way-to-5-2m-from-ebay/) - California man pleads guilty to an ingenious fraud.
+
+- [Trump Frees Silk Road Creator Ross Ulbricht After 11 Years in Prison](https://www.wired.com/story/trump-frees-silk-road-creator-ross-ulbricht-after-11-years-in-prison/) - Donald Trump pardoned the creator of the world’s first dark-web drug market, who is now a libertarian cause célèbre in some parts of the crypto community.
+
 - [Is There Any Escape from the Spotify Syndrome?](https://www.newyorker.com/magazine/2024/12/30/mood-machine-liz-pelly-book-review) - The history of recorded music is now at our fingertips. But the streamer’s algorithmic skill at giving us what we like may keep us from what we’ll love.
 
 - [George R.R. Martin has co-authored a physics paper](https://arstechnica.com/science/2025/01/george-r-r-martin-has-co-authored-a-physics-paper/) - “I couldn’t help but wonder if a simple underlying model might tidy up the canon.”…
@@ -14,6 +18,8 @@
 - [Misconfigured license plate readers are leaking data and video in real time](https://www.wired.com/story/license-plate-reader-live-video-data-exposed/?_sp=30f4276d-7d5d-424d-9e17-5921d057c452.1736346290243) - Video feeds from at least 150 Motorola license plate readers accessible without a password.
 
 - [How a Taping of ‘Curb Your Enthusiasm’ Saved an Innocent Man from Death Row](https://innocenceproject.org/how-curb-your-enthusiasm-saved-an-innocent-man-from-death-row/)
+
+- [iPhones are suggesting people 'Check In' with their exes. Yikes!](https://www.businessinsider.com/apple-iphone-check-in-siri-ex-boss-why-how-to-2024-9) - Apple iPhone users are getting suggestions from Siri to use the "Check In" feature with their moms, friends, and ... exes. What's going on?
 
 - [Satellite-navigation systems such as GPS are at risk of jamming](https://www.economist.com/science-and-technology/2021/05/06/satellite-navigation-systems-such-as-gps-are-at-risk-of-jamming) - https://archive.ph/Gxsjv
 
@@ -192,10 +198,4 @@
 - [Computer scientists designing the future can’t agree on what privacy means](https://www.technologyreview.com/2023/04/03/1070665/cmu-university-privacy-battle-smart-building-sensors-mites/) - Researchers at Carnegie Mellon University wanted to create a privacy-preserving smart sensor. Then, they were accused of violating their colleagues’ privacy.
 
 - [Tropicn: Tropicana withdraws letters 'AI' from its branding. Here's why](https://interestingengineering.com/innovation/tropicn-tropicana-withdraws-letters-ai-from-its-branding-heres-why) - The limited-time rebranding is really just a marketing stunt timed to coincide with CES 2024, one of the biggest tech showcases of the year.
-
-- [This Clever New Idea Could Fix AirTag Stalking While Maximizing Privacy](https://www.wired.com/story/apple-airtag-privacy-stalking-cryptographic-solution/) - Apple updated its location-tracking system in an attempt to cut down on AirTag abuse while still preserving privacy. Researchers think they’ve found a better balance.
-
-- [McDonald’s Ice Cream Machine Hackers Say They Found the ‘Smoking Gun’ That Killed Their Startup](https://www.wired.com/story/kytch-taylor-mcdonalds-ice-cream-machine-smoking-gun/) - Kytch, the company that tried to fix McDonald’s broken ice cream machines, has unearthed a 3-year-old email it says proves claims of an alleged plot to undermine their business.
-
-- [Child Abusers Are Getting Better at Using Crypto to Cover Their Tracks](https://www.wired.com/story/csam-sellers-monero-rise/) - Crypto tracing firm Chainalysis found that sellers of child sexual abuse materials are successfully using “mixers” and “privacy coins” like Monero to launder their profits and evade law enforcement.
 

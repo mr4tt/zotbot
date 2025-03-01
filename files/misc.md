@@ -1,9 +1,19 @@
 # misc
+- [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos)
+
+- [The Blue Report](https://theblue.report) - The top links on Bluesky over the last 24 hours. Updated hourly.
+
+- [WikiTok](https://wikitok.vercel.app/)
+
 - [Shift Happens typewriter simulator](https://shifthappens.site/typewriter/) - A fun way to experience a typewriter without needing to have one!
 
 - [The Colour Clock](http://www.thecolourclock.com/) - Time as a hexadecimal colour
 
 - [Silent Poems](https://silentpoems.net/)
+
+- [The Colour Clock](http://www.thecolourclock.com/) - Time as a hexadecimal colour
+
+- [Simulate sun shadows](https://shademap.app) - Every mountain, building and tree shadow in the world simulated for any date and time
 
 - [Nice!](https://nicenumbers.net/)
 

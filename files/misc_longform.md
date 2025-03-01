@@ -1,9 +1,13 @@
 # misc_longform
+- [The Nerd Urban Dictionary](https://andersonchris.medium.com/the-nerd-urban-dictionary-abcd55ca7ac4) - A crowdsourced list of sci/tech/biz words nerds use to signal that they’re smart
+
 - [The persistence of tradition: the curious case of Henry Symeonis](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/) - Christmas is a time for tradition, and the University of Oxford is well known for diligently preserving its traditions for centuries. Many of these have long outlived the people who established the…
 
 - [A decade without a drink · eieio.games](https://eieio.games/blog/a-decade-without-a-drink/) - A decade ago I was almost dead. Now I'm here.
 
 - [What Does the World Lose When a Language Dies?](https://getfreewrite.com/blogs/writing-success/what-does-the-world-lose-when-a-language-dies) - Every 40 days, another one dies — becoming extinct forever. By the year 2100, that will be 3,500 lost. We’re not talking about a species of animal, or variety of plant. We’re talking about languages — the foundation of human communication as we know it. Over the centuries, certain languages have become more popular whi
+
+- [There's A Time For Everyone](https://www.astralcodexten.com/p/theres-a-time-for-everyone) - ...
 
 - [50 years of BART: Why BART uses a nonstandard broad gauge | Bay Area Rapid Transit](https://www.bart.gov/news/articles/2022/news20220708-2)
 

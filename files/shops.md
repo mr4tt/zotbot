@@ -1,4 +1,8 @@
 # shops
+- [Cute Things from Japan -- For your needs for Japanese craft supplies and planner items.](https://cutethingsfromjapan.com/) - Cute Things from Japan offers craft and planner supplies from Japan such as washi tapes, stickers, rubber stamps, origami, Traveler's Notebook accessories.
+
+- [Carmico](https://carmico.ca/) - Home page for Carmico, an apparel brand, dedicated to inclusivity and mindful business practices. You can find fashion, accessories, home goods and more here!
+
 - [roundbirbart](https://www.roundbirb.art/) - The ROUNDEST birb merchandise!
 
 - [Grassfur](https://grassfur.bigcartel.com/)
