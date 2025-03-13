@@ -257,6 +257,8 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
+- [tern : Official Store](https://in.tern.et/) - tern is a streetwear clothing brand. Discover our latest clothes only available online. Shipping Worldwide
+
 - [Cute Things from Japan -- For your needs for Japanese craft supplies and planner items.](https://cutethingsfromjapan.com/) - Cute Things from Japan offers craft and planner supplies from Japan such as washi tapes, stickers, rubber stamps, origami, Traveler's Notebook accessories.
 
 - [Carmico](https://carmico.ca/) - Home page for Carmico, an apparel brand, dedicated to inclusivity and mindful business practices. You can find fashion, accessories, home goods and more here!
@@ -540,6 +542,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Why Everyone Can (and Should) Be a Great Storyteller | Figma Blog](https://www.figma.com/blog/why-everyone-can-and-should-be-a-great-storyteller/) - Here’s why writing matters—and how to be a storyteller that brings ideas to life.
+
 - [Welp, I'm 30. (30 tips for my 13-year-old self)](https://blog.ncase.me/30) - A navel-gazing post for my 30th birthday
 
 - [Just | Todepond](https://www.todepond.com/wikiblogarden/better-computing/just/)
@@ -1239,6 +1243,10 @@ To view a single category, check the files/ folder.
 - [Tropicn: Tropicana withdraws letters 'AI' from its branding. Here's why](https://interestingengineering.com/innovation/tropicn-tropicana-withdraws-letters-ai-from-its-branding-heres-why) - The limited-time rebranding is really just a marketing stunt timed to coincide with CES 2024, one of the biggest tech showcases of the year.
 
 # wikipedia
+- [Moiré pattern](https://en.wikipedia.org/w/index.php?title=Moir%C3%A9_pattern&oldid=1279219736) - In mathematics, physics, and art, moiré patterns (UK:  MWAH-ray, US:  mwah-RAY, French: [mwaʁe] ) or moiré fringes are large-scale interference patterns that can be produced when a partially opaque ruled pattern with transparent gaps is overlaid on another similar pattern. For the moiré interference pattern to appear, the two patterns must not be co...
+
+- [Generative art](https://en.wikipedia.org/w/index.php?title=Generative_art&oldid=1264551851) - Generative art is post-conceptual art that has been created (in whole or in part) with the use of an autonomous system. An autonomous system in this context is generally one that is non-human and can independently determine features of an artwork that would otherwise require decisions made directly by the artist. In some cases the human creator may ...
+
 - [Numeronym](https://en.wikipedia.org/w/index.php?title=Numeronym&oldid=1262619232) - A numeronym is a word, usually an abbreviation, composed partially or wholly of numerals. The term can be used to describe several different number-based constructs, but it most commonly refers to a contraction in which all letters between the first and last of a word are replaced with the number of omitted letters (for example, "i18n" for "internat...
 
 - [Americans for Common Cents](https://en.wikipedia.org/w/index.php?title=Americans_for_Common_Cents&oldid=1267853552) - Americans for Common Cents is an organization based in Washington, D.C. that lobbies in favor of keeping the United States penny in circulation. It was established in 1990. The organization has conducted surveys and organized advertising campaigns in support of the continuing production of the penny. Its executive director, Mark Weller, has argued t...
@@ -1435,11 +1443,11 @@ To view a single category, check the files/ folder.
 
 - [Carbuncle Cup](https://en.wikipedia.org/w/index.php?title=Carbuncle_Cup&oldid=1147643079) - The Carbuncle Cup was an architecture prize, given annually by the magazine Building Design to "the ugliest building in the United Kingdom completed in the last 12 months". It was intended to be a humorous response to the prestigious Stirling Prize, given by the Royal Institute of British Architects.The cup was launched in 2006, with the first winne...
 
-- [Miura fold](https://en.wikipedia.org/w/index.php?title=Miura_fold&oldid=1168868721) - The Miura fold (ミウラ折り, Miura-ori) is a method of folding a flat surface such as a sheet of paper into a smaller area. The fold is named for its inventor, Japanese astrophysicist Kōryō Miura.The crease patterns of the Miura fold form a tessellation of the surface by parallelograms. In one direction, the creases lie along straight lines, with each par...
-
-- [Pirate Party of Catalonia](https://en.wikipedia.org/w/index.php?title=Pirate_Party_of_Catalonia&oldid=1195753686) - Pirates of Catalonia (Catalan: Pirates de Catalunya, PIRATA.CAT) is a political party in Catalonia. The party is based on the model of the Swedish Pirate Party and is a member of the Pirate Parties International, it supports intellectual property reform, open access to culture and knowledge, transparency and direct democracy.The party was founded in...
-
 # misc
+- [Doodal](https://dood.al/)
+
+- [Pink Trombone](https://dood.al/pinktrombone/)
+
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos)
 
 - [The Blue Report](https://theblue.report) - The top links on Bluesky over the last 24 hours. Updated hourly.
@@ -1635,6 +1643,4 @@ To view a single category, check the files/ folder.
 - [DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 
 - [infinite-cat](https://www.petside.com/infinite-cat/) - Now part of the Petside family, The Infinite Cat Project is about one cat watching another cat (see below). A long line of 1856 cats, so far. The very first Infinaut is Frankie (seen at left admiring a flower) the owner of Paul Hamilton. In addition, the ICP also offers all manners of other cat-related diversions every day […]
-
-- [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/?utm_source=social-share&utm_medium=social&utm_campaign=dev-survey-2022) - In May 2022 over 70,000 developers told us how they learn and level up, which tools they’re using, and what they want.
 

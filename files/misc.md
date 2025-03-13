@@ -1,4 +1,8 @@
 # misc
+- [Doodal](https://dood.al/)
+
+- [Pink Trombone](https://dood.al/pinktrombone/)
+
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos)
 
 - [The Blue Report](https://theblue.report) - The top links on Bluesky over the last 24 hours. Updated hourly.
@@ -194,6 +198,4 @@
 - [DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 
 - [infinite-cat](https://www.petside.com/infinite-cat/) - Now part of the Petside family, The Infinite Cat Project is about one cat watching another cat (see below). A long line of 1856 cats, so far. The very first Infinaut is Frankie (seen at left admiring a flower) the owner of Paul Hamilton. In addition, the ICP also offers all manners of other cat-related diversions every day […]
-
-- [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/?utm_source=social-share&utm_medium=social&utm_campaign=dev-survey-2022) - In May 2022 over 70,000 developers told us how they learn and level up, which tools they’re using, and what they want.
 

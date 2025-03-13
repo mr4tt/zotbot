@@ -1,4 +1,6 @@
 # general_resources
+- [Why Everyone Can (and Should) Be a Great Storyteller | Figma Blog](https://www.figma.com/blog/why-everyone-can-and-should-be-a-great-storyteller/) - Here’s why writing matters—and how to be a storyteller that brings ideas to life.
+
 - [Welp, I'm 30. (30 tips for my 13-year-old self)](https://blog.ncase.me/30) - A navel-gazing post for my 30th birthday
 
 - [Just | Todepond](https://www.todepond.com/wikiblogarden/better-computing/just/)
