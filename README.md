@@ -80,6 +80,12 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Maid in Heaven / En Plein Air in Hell (My Beautiful Dark and Twisted Cheeto Problem)](https://artreview.com/october-2014-parker-ito/) - White Cube Masons Yard, London, 16 July – 27 September
+
+- [Fashion design with tariffs in mind](https://www.marketplace.org/2019/05/29/theres-a-reason-your-columbia-shirt-has-a-tiny-pocket-near-your-waistline/) - Why your Columbia shirt has a tiny pocket near your waistline.
+
+- [What does a 30% chance of rain mean?](https://www.rmets.org/metmatters/what-does-30-chance-rain-mean) - Will it rain today? Your weather app might say 30%, but do you know what that actually means? Ken Mylne explains why it's probably not what you're thinking...
+
 - [The Nerd Urban Dictionary](https://andersonchris.medium.com/the-nerd-urban-dictionary-abcd55ca7ac4) - A crowdsourced list of sci/tech/biz words nerds use to signal that they’re smart
 
 - [The persistence of tradition: the curious case of Henry Symeonis](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/) - Christmas is a time for tradition, and the University of Oxford is well known for diligently preserving its traditions for centuries. Many of these have long outlived the people who established the…
@@ -376,6 +382,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [米津玄師 Kenshi Yonezu - BOW AND ARROW / 羽生結弦 Yuzuru Hanyu Short Program ver.](https://www.youtube.com/watch?v=Wcza_Do4IoY)
+
 - [I LOVE TOFU!!!](https://www.youtube.com/watch?v=Klhfo6sB4N4)
 
 - [Bread Bank (No Gluten) | Baku Season 4](https://www.youtube.com/watch?v=F6hC4qQbDzI)
@@ -754,6 +762,10 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [Introduction](https://fancycomponents.dev/introduction) - Ready to use, fancy React components to make the web fun again. Free & Open Source.
+
+- [Archive - Jordan’s Substack](https://jordanhasnolife.substack.com/archive) - Full archive of all the posts from Jordan’s Substack.
+
 - [srcl](https://sacred.computer) - SRCL is an open-source React component and style repository that helps you build web applications, desktop applications, and static websites with terminal aesthetics.
 
 - [A CRITICAL FIELD GUIDE FOR WORKING WITH MACHINE LEARNING DATASETS](https://knowingmachines.org/critical-field-guide) - Maybe you’re an engineer creating a new machine vision system to track birds. You might be a journalist using social media data to research Costa Rican households. You could be a researcher who stumbled upon your university’s archive of handwritten census cards from 1939. Or a designer creating a chatbot that relies on large language models like GPT...
@@ -950,10 +962,6 @@ To view a single category, check the files/ folder.
 
 - [CLARK | Browse Learning Objects](https://clark.center/browse?currPage=8&limit=10&orderBy=date&sortType=-1&collection=nccp&status=released)
 
-- [Low latency logging](www.reddit.com/r/rust/comments/15cm4ug/low_latency_logging/)
-
-- [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
-
 # stories
 - [Clarkesworld Magazine - Science Fiction & Fantasy](https://clarkesworldmagazine.com/kim_02_24/) - Clarkesworld Science Fiction and Fantasy Magazine and Podcast. This page: Why Don't We Just Kill the Kid In the Omelas Hole by Isabel J. Kim
 
@@ -1042,6 +1050,18 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The Cost of Avoiding Microplastics](https://www.theatlantic.com/health/archive/2024/09/avoiding-microplastics-luxury/679939/) - Even half measures are so expensive, they’re luxury goods.
+
+- [How to break free of Spotify’s algorithm](https://www.technologyreview.com/2024/08/16/1096276/spotify-algorithms-music-discovery-ux/) - By delivering what people seem to want, has Spotify killed the joy of music discovery?
+
+- [Meet the woman who lives without money: ‘I feel more secure than when I was earning’](https://www.theguardian.com/lifeandstyle/2025/feb/01/meet-the-woman-who-lives-without-money-i-feel-more-secure-than-when-i-was-earning) - Ten years ago, Jo Nemeth quit her job and closed her bank account. Today, she’s more committed than ever to her moneyless life
+
+- [Stone Skipping Is a Lost Art. Kurt Steiner Wants the World to Find It.](https://www.outsideonline.com/outdoor-adventure/water-activities/stone-skipping-kurt-steiner/) - Meet an amazing man who has dedicated his entire adult life to stone skipping, sacrificing everything to produce world-record throws that defy the laws of physics. To hear him tell it, he has no choice.
+
+- [Climbing Mt. YouTube](https://slate.com/culture/2025/02/into-thin-air-book-story-youtube-debate.html) - Jon Krakauer is online, defending Into Thin Air. Again.
+
+- [Buying a $250 Residency Card From a Tropical Island Let Me Bypass U.S. Crypto Laws](https://www.404media.co/buying-a-250-residency-card-from-a-tropical-island-let-me-bypass-u-s-crypto-laws/) - U.S. traders are buying 'digital residency' in Palau to skirt restrictions on the amount of cryptocurrency they can withdraw and the exchanges they can use. Major exchanges have already banned the ID, fearing abuse.
+
 - [Posing as ‘Alicia,’ This Man Scammed Hundreds Online. He Was Also a Victim.](https://www.wsj.com/world/asia/cyberscams-human-trafficking-forced-labor-ba2c6c1a) - A multibillion-dollar cyberfraud industry operating out of Southeast Asia relies on forced labor and torture.
 
 - [Wearing A Salmon On Your Head Is Back In Fashion For Orcas, After A 37-Year Break](https://www.iflscience.com/wearing-a-salmon-on-your-head-is-back-in-fashion-for-orcas-after-a-37-year-break-76971) - In 1987, there was a strange trend amongst killer whales. Recent sightings show it's back in fashion.
@@ -1230,22 +1250,16 @@ To view a single category, check the files/ folder.
 
 - [Pigeons are still (sometimes) faster than your internet](https://www.washingtonpost.com/technology/2023/11/10/pigeons-are-faster-than-your-internet/) - Internet speeds have come a long way since the days of the dial-up modem, but sometimes you can’t beat the millennia-old method of carrier pigeon.
 
-- [A new look at our linguistic roots](https://arstechnica.com/science/2024/02/a-new-look-at-our-linguistic-roots/) - A controversial analytic technique offers new answers for Indo-European languages.
-
-- [The first known scorpion to live with ants carries mini hitchhikers](https://www.sciencenews.org/article/first-scorpion-live-ants-carries-hitchhikers-animals) - Small arachnids hitch a ride on the scorpion, possibly to get inside food-rich ant nests.
-
-- ['Date Me' Google Docs and the Hyper-Optimized Quest for Love](https://www.wired.com/story/date-me-google-docs-and-the-hyper-optimized-quest-for-love/) - Some people have ditched dating apps—and opted to bare their souls via a public, view-only link instead.
-
-- [AI Cameras Took Over One Small American Town. Now They're Everywhere](https://www.404media.co/fusus-ai-cameras-took-over-town-america/) - Hundreds of documents obtained by 404 Media show how Fusus, a system for linking a town’s security cameras into one central hub and adding AI to them, has spread across the country.
-
-- [Computer scientists designing the future can’t agree on what privacy means](https://www.technologyreview.com/2023/04/03/1070665/cmu-university-privacy-battle-smart-building-sensors-mites/) - Researchers at Carnegie Mellon University wanted to create a privacy-preserving smart sensor. Then, they were accused of violating their colleagues’ privacy.
-
-- [Tropicn: Tropicana withdraws letters 'AI' from its branding. Here's why](https://interestingengineering.com/innovation/tropicn-tropicana-withdraws-letters-ai-from-its-branding-heres-why) - The limited-time rebranding is really just a marketing stunt timed to coincide with CES 2024, one of the biggest tech showcases of the year.
-
 # wikipedia
+- [Post-Internet](https://en.wikipedia.org/w/index.php?title=Post-Internet&oldid=1279788560) - Post-Internet is a 21st-century art movement involving works that are derived from the Internet or its effects on aesthetics, culture and society.
+
 - [Moiré pattern](https://en.wikipedia.org/w/index.php?title=Moir%C3%A9_pattern&oldid=1279219736) - In mathematics, physics, and art, moiré patterns (UK:  MWAH-ray, US:  mwah-RAY, French: [mwaʁe] ) or moiré fringes are large-scale interference patterns that can be produced when a partially opaque ruled pattern with transparent gaps is overlaid on another similar pattern. For the moiré interference pattern to appear, the two patterns must not be co...
 
 - [Generative art](https://en.wikipedia.org/w/index.php?title=Generative_art&oldid=1264551851) - Generative art is post-conceptual art that has been created (in whole or in part) with the use of an autonomous system. An autonomous system in this context is generally one that is non-human and can independently determine features of an artwork that would otherwise require decisions made directly by the artist. In some cases the human creator may ...
+
+- [List of wrong anthem incidents](https://en.wikipedia.org/w/index.php?title=List_of_wrong_anthem_incidents&oldid=1279693637) - This is a list of incidents when an incorrect national anthem was accidentally played, sung or performed, including playing the anthem of the wrong country, playing an outdated anthem, and playing a non-anthem piece in place of a national anthem.
+
+- [Vela incident](https://en.wikipedia.org/w/index.php?title=Vela_incident&oldid=1278740663) - The Vela incident was an unidentified double flash of light detected by an American Vela Hotel satellite on 22 September 1979 near the South African territory of Prince Edward Islands in the Indian Ocean, roughly midway between Africa and Antarctica. Today, most independent researchers believe that the flash was caused by a nuclear explosion—an unde...
 
 - [Numeronym](https://en.wikipedia.org/w/index.php?title=Numeronym&oldid=1262619232) - A numeronym is a word, usually an abbreviation, composed partially or wholly of numerals. The term can be used to describe several different number-based constructs, but it most commonly refers to a contraction in which all letters between the first and last of a word are replaced with the number of omitted letters (for example, "i18n" for "internat...
 
@@ -1437,16 +1451,14 @@ To view a single category, check the files/ folder.
 
 - [Jeffrey Manchester](https://en.wikipedia.org/w/index.php?title=Jeffrey_Manchester&oldid=1173147482) - Jeffrey Allen Manchester (born 1972) is an American convicted spree-robber and former United States Army Reserve officer known as the 'Rooftop Robber' or simply 'Roofman' due to his modus operandi of entering his targets (most commonly McDonald's locations) by drilling through the roof and dropping in. Before being apprehended for the second time in...
 
-- [Bogdanov affair](https://en.wikipedia.org/w/index.php?title=Bogdanov_affair&oldid=1183687764) - The Bogdanov affair was an academic dispute regarding the legitimacy of a series of theoretical physics papers written by French twins Igor and Grichka Bogdanov (alternatively spelled Bogdanoff). The papers were published in reputable scientific journals, and were alleged by their authors to culminate in a theory for describing what occurred before ...
-
-- [Snowplow Game](https://en.wikipedia.org/w/index.php?title=Snowplow_Game&oldid=1189473593) - The Snowplow Game was a regular-season game played between the Miami Dolphins and New England Patriots on December 12, 1982, at Schaefer Stadium in Foxborough, Massachusetts. Due in part to icy conditions, the game remained scoreless until late in the fourth quarter, when the snowplow operator was called in to clear a spot on the snowy field specifi...
-
-- [Carbuncle Cup](https://en.wikipedia.org/w/index.php?title=Carbuncle_Cup&oldid=1147643079) - The Carbuncle Cup was an architecture prize, given annually by the magazine Building Design to "the ugliest building in the United Kingdom completed in the last 12 months". It was intended to be a humorous response to the prestigious Stirling Prize, given by the Royal Institute of British Architects.The cup was launched in 2006, with the first winne...
-
 # misc
+- [The Brick Bible](https://thebrickbible.com) - The Scriptures in LEGO from Genesis to Revelation
+
 - [Doodal](https://dood.al/)
 
 - [Pink Trombone](https://dood.al/pinktrombone/)
+
+- [Glicol](https://glicol.org/)
 
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos)
 
@@ -1639,8 +1651,4 @@ To view a single category, check the files/ folder.
 - [HTTP Cats](https://http.cat/) - API for HTTP Cats
 
 - [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
-
-- [DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
-
-- [infinite-cat](https://www.petside.com/infinite-cat/) - Now part of the Petside family, The Infinite Cat Project is about one cat watching another cat (see below). A long line of 1856 cats, so far. The very first Infinaut is Frankie (seen at left admiring a flower) the owner of Paul Hamilton. In addition, the ICP also offers all manners of other cat-related diversions every day […]
 

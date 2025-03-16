@@ -1,4 +1,10 @@
 # misc_longform
+- [Maid in Heaven / En Plein Air in Hell (My Beautiful Dark and Twisted Cheeto Problem)](https://artreview.com/october-2014-parker-ito/) - White Cube Masons Yard, London, 16 July – 27 September
+
+- [Fashion design with tariffs in mind](https://www.marketplace.org/2019/05/29/theres-a-reason-your-columbia-shirt-has-a-tiny-pocket-near-your-waistline/) - Why your Columbia shirt has a tiny pocket near your waistline.
+
+- [What does a 30% chance of rain mean?](https://www.rmets.org/metmatters/what-does-30-chance-rain-mean) - Will it rain today? Your weather app might say 30%, but do you know what that actually means? Ken Mylne explains why it's probably not what you're thinking...
+
 - [The Nerd Urban Dictionary](https://andersonchris.medium.com/the-nerd-urban-dictionary-abcd55ca7ac4) - A crowdsourced list of sci/tech/biz words nerds use to signal that they’re smart
 
 - [The persistence of tradition: the curious case of Henry Symeonis](https://blogs.bodleian.ox.ac.uk/archivesandmanuscripts/2023/12/13/the-persistence-of-tradition-the-curious-case-of-henry-symeonis/) - Christmas is a time for tradition, and the University of Oxford is well known for diligently preserving its traditions for centuries. Many of these have long outlived the people who established the…

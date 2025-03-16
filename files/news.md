@@ -1,4 +1,16 @@
 # news
+- [The Cost of Avoiding Microplastics](https://www.theatlantic.com/health/archive/2024/09/avoiding-microplastics-luxury/679939/) - Even half measures are so expensive, they’re luxury goods.
+
+- [How to break free of Spotify’s algorithm](https://www.technologyreview.com/2024/08/16/1096276/spotify-algorithms-music-discovery-ux/) - By delivering what people seem to want, has Spotify killed the joy of music discovery?
+
+- [Meet the woman who lives without money: ‘I feel more secure than when I was earning’](https://www.theguardian.com/lifeandstyle/2025/feb/01/meet-the-woman-who-lives-without-money-i-feel-more-secure-than-when-i-was-earning) - Ten years ago, Jo Nemeth quit her job and closed her bank account. Today, she’s more committed than ever to her moneyless life
+
+- [Stone Skipping Is a Lost Art. Kurt Steiner Wants the World to Find It.](https://www.outsideonline.com/outdoor-adventure/water-activities/stone-skipping-kurt-steiner/) - Meet an amazing man who has dedicated his entire adult life to stone skipping, sacrificing everything to produce world-record throws that defy the laws of physics. To hear him tell it, he has no choice.
+
+- [Climbing Mt. YouTube](https://slate.com/culture/2025/02/into-thin-air-book-story-youtube-debate.html) - Jon Krakauer is online, defending Into Thin Air. Again.
+
+- [Buying a $250 Residency Card From a Tropical Island Let Me Bypass U.S. Crypto Laws](https://www.404media.co/buying-a-250-residency-card-from-a-tropical-island-let-me-bypass-u-s-crypto-laws/) - U.S. traders are buying 'digital residency' in Palau to skirt restrictions on the amount of cryptocurrency they can withdraw and the exchanges they can use. Major exchanges have already banned the ID, fearing abuse.
+
 - [Posing as ‘Alicia,’ This Man Scammed Hundreds Online. He Was Also a Victim.](https://www.wsj.com/world/asia/cyberscams-human-trafficking-forced-labor-ba2c6c1a) - A multibillion-dollar cyberfraud industry operating out of Southeast Asia relies on forced labor and torture.
 
 - [Wearing A Salmon On Your Head Is Back In Fashion For Orcas, After A 37-Year Break](https://www.iflscience.com/wearing-a-salmon-on-your-head-is-back-in-fashion-for-orcas-after-a-37-year-break-76971) - In 1987, there was a strange trend amongst killer whales. Recent sightings show it's back in fashion.
@@ -186,16 +198,4 @@
 - [The hijacking of $339,000 worth of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats) - This is an instance of a computer-based form of fraud dubbed 'part identity theft, part extortion'. Read more at straitstimes.com.
 
 - [Pigeons are still (sometimes) faster than your internet](https://www.washingtonpost.com/technology/2023/11/10/pigeons-are-faster-than-your-internet/) - Internet speeds have come a long way since the days of the dial-up modem, but sometimes you can’t beat the millennia-old method of carrier pigeon.
-
-- [A new look at our linguistic roots](https://arstechnica.com/science/2024/02/a-new-look-at-our-linguistic-roots/) - A controversial analytic technique offers new answers for Indo-European languages.
-
-- [The first known scorpion to live with ants carries mini hitchhikers](https://www.sciencenews.org/article/first-scorpion-live-ants-carries-hitchhikers-animals) - Small arachnids hitch a ride on the scorpion, possibly to get inside food-rich ant nests.
-
-- ['Date Me' Google Docs and the Hyper-Optimized Quest for Love](https://www.wired.com/story/date-me-google-docs-and-the-hyper-optimized-quest-for-love/) - Some people have ditched dating apps—and opted to bare their souls via a public, view-only link instead.
-
-- [AI Cameras Took Over One Small American Town. Now They're Everywhere](https://www.404media.co/fusus-ai-cameras-took-over-town-america/) - Hundreds of documents obtained by 404 Media show how Fusus, a system for linking a town’s security cameras into one central hub and adding AI to them, has spread across the country.
-
-- [Computer scientists designing the future can’t agree on what privacy means](https://www.technologyreview.com/2023/04/03/1070665/cmu-university-privacy-battle-smart-building-sensors-mites/) - Researchers at Carnegie Mellon University wanted to create a privacy-preserving smart sensor. Then, they were accused of violating their colleagues’ privacy.
-
-- [Tropicn: Tropicana withdraws letters 'AI' from its branding. Here's why](https://interestingengineering.com/innovation/tropicn-tropicana-withdraws-letters-ai-from-its-branding-heres-why) - The limited-time rebranding is really just a marketing stunt timed to coincide with CES 2024, one of the biggest tech showcases of the year.
 

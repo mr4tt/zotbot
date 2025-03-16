@@ -1,4 +1,6 @@
 # videos
+- [米津玄師 Kenshi Yonezu - BOW AND ARROW / 羽生結弦 Yuzuru Hanyu Short Program ver.](https://www.youtube.com/watch?v=Wcza_Do4IoY)
+
 - [I LOVE TOFU!!!](https://www.youtube.com/watch?v=Klhfo6sB4N4)
 
 - [Bread Bank (No Gluten) | Baku Season 4](https://www.youtube.com/watch?v=F6hC4qQbDzI)

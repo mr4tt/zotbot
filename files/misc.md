@@ -1,7 +1,11 @@
 # misc
+- [The Brick Bible](https://thebrickbible.com) - The Scriptures in LEGO from Genesis to Revelation
+
 - [Doodal](https://dood.al/)
 
 - [Pink Trombone](https://dood.al/pinktrombone/)
+
+- [Glicol](https://glicol.org/)
 
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos)
 
@@ -194,8 +198,4 @@
 - [HTTP Cats](https://http.cat/) - API for HTTP Cats
 
 - [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
-
-- [DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
-
-- [infinite-cat](https://www.petside.com/infinite-cat/) - Now part of the Petside family, The Infinite Cat Project is about one cat watching another cat (see below). A long line of 1856 cats, so far. The very first Infinaut is Frankie (seen at left admiring a flower) the owner of Paul Hamilton. In addition, the ICP also offers all manners of other cat-related diversions every day […]
 

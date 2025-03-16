@@ -1,4 +1,8 @@
 # computing_resources
+- [Introduction](https://fancycomponents.dev/introduction) - Ready to use, fancy React components to make the web fun again. Free & Open Source.
+
+- [Archive - Jordan’s Substack](https://jordanhasnolife.substack.com/archive) - Full archive of all the posts from Jordan’s Substack.
+
 - [srcl](https://sacred.computer) - SRCL is an open-source React component and style repository that helps you build web applications, desktop applications, and static websites with terminal aesthetics.
 
 - [A CRITICAL FIELD GUIDE FOR WORKING WITH MACHINE LEARNING DATASETS](https://knowingmachines.org/critical-field-guide) - Maybe you’re an engineer creating a new machine vision system to track birds. You might be a journalist using social media data to research Costa Rican households. You could be a researcher who stumbled upon your university’s archive of handwritten census cards from 1939. Or a designer creating a chatbot that relies on large language models like GPT...
@@ -194,8 +198,4 @@
 - [NSA Codebreaker Challenge](https://nsa-codebreaker.org/resources)
 
 - [CLARK | Browse Learning Objects](https://clark.center/browse?currPage=8&limit=10&orderBy=date&sortType=-1&collection=nccp&status=released)
-
-- [Low latency logging](www.reddit.com/r/rust/comments/15cm4ug/low_latency_logging/)
-
-- [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
 
