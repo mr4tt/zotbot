@@ -1251,6 +1251,10 @@ To view a single category, check the files/ folder.
 - [Pigeons are still (sometimes) faster than your internet](https://www.washingtonpost.com/technology/2023/11/10/pigeons-are-faster-than-your-internet/) - Internet speeds have come a long way since the days of the dial-up modem, but sometimes you can’t beat the millennia-old method of carrier pigeon.
 
 # wikipedia
+- [FYIFV - Wikipedia](https://en.wikipedia.org/wiki/FYIFV)
+
+- [FYIFV - Wikipedia](https://en.wikipedia.org/wiki/FYIFV)
+
 - [Post-Internet](https://en.wikipedia.org/w/index.php?title=Post-Internet&oldid=1279788560) - Post-Internet is a 21st-century art movement involving works that are derived from the Internet or its effects on aesthetics, culture and society.
 
 - [Moiré pattern](https://en.wikipedia.org/w/index.php?title=Moir%C3%A9_pattern&oldid=1279219736) - In mathematics, physics, and art, moiré patterns (UK:  MWAH-ray, US:  mwah-RAY, French: [mwaʁe] ) or moiré fringes are large-scale interference patterns that can be produced when a partially opaque ruled pattern with transparent gaps is overlaid on another similar pattern. For the moiré interference pattern to appear, the two patterns must not be co...
@@ -1446,10 +1450,6 @@ To view a single category, check the files/ folder.
 - [Trojan Room coffee pot](https://en.wikipedia.org/w/index.php?title=Trojan_Room_coffee_pot&oldid=1190704629) - The Trojan Room coffee pot was a coffee machine located in the Computer Laboratory of the University of Cambridge, England. Created in 1991 by Quentin Stafford-Fraser and Paul Jardetzky, it was migrated from their laboratory network to the web in 1993, becoming the world's first webcam. To save people working in the building the disappointment of fi...
 
 - [Veterstrikdiploma](https://en.wikipedia.org/w/index.php?title=Veterstrikdiploma&oldid=1174786622) - A veterstrikdiploma, also known as veterdiploma or strikdiploma (English: shoelacing diploma) is a diploma which children between 5 and 6 years can get in the Netherlands and Belgium after they manage to tie their shoelaces by themselves. It is often the first diploma a child achieves and thus has an important pedagogic meaning, giving the child the...
-
-- [Polar bear jail](https://en.wikipedia.org/w/index.php?title=Polar_bear_jail&oldid=1189644123) - The polar bear jail (officially known as the  Polar Bear Holding Facility) is a special building in Churchill, Manitoba, Canada where polar bears that are considered troublesome or dangerous are isolated until they can be relocated.Before the facility was established, polar bears which were considered dangerous were shot.  The jail was established i...
-
-- [Jeffrey Manchester](https://en.wikipedia.org/w/index.php?title=Jeffrey_Manchester&oldid=1173147482) - Jeffrey Allen Manchester (born 1972) is an American convicted spree-robber and former United States Army Reserve officer known as the 'Rooftop Robber' or simply 'Roofman' due to his modus operandi of entering his targets (most commonly McDonald's locations) by drilling through the roof and dropping in. Before being apprehended for the second time in...
 
 # misc
 - [The Brick Bible](https://thebrickbible.com) - The Scriptures in LEGO from Genesis to Revelation
