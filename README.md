@@ -80,6 +80,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Come On, Obviously The Purpose Of A System Is Not What It Does](https://www.astralcodexten.com/p/come-on-obviously-the-purpose-of) - ...
+
 - [Maid in Heaven / En Plein Air in Hell (My Beautiful Dark and Twisted Cheeto Problem)](https://artreview.com/october-2014-parker-ito/) - White Cube Masons Yard, London, 16 July – 27 September
 
 - [Fashion design with tariffs in mind](https://www.marketplace.org/2019/05/29/theres-a-reason-your-columbia-shirt-has-a-tiny-pocket-near-your-waistline/) - Why your Columbia shirt has a tiny pocket near your waistline.
