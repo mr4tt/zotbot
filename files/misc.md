@@ -1,4 +1,12 @@
 # misc
+- [Clickens](https://clickens.chicken.pics/malleable/38/12)
+
+- [winblues/blue95](https://github.com/winblues/blue95) - A desktop for your childhood home's computer room
+
+- [Glassmorph cursortracking](https://my.spline.design/glassmorphcursortracking-2ef6d3790000fd1a4f81c92fb3ff5bf5/)
+
+- [PORTER ROBINSLE](https://porterrobinsle.com/) - The daily Porter Robinson song guessing game
+
 - [The Brick Bible](https://thebrickbible.com) - The Scriptures in LEGO from Genesis to Revelation
 
 - [Doodal](https://dood.al/)
@@ -190,12 +198,4 @@
 - [ZType – Typing Game - Type to Shoot](https://zty.pe/)
 
 - [Viola the Bird](https://artsandculture.google.com/experiment/viola-the-bird/nAEJVwNkp-FnrQ) - Play a cello inspired instrument with Viola the Bird and the help of  machine learning! An experiment by David Li.
-
-- [How I Experience Web Today](https://how-i-experience-web-today.com/)
-
-- [Apollo-11/Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.agc at master · chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11/blob/master/Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.agc) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. - chrislgarry/Apollo-11
-
-- [HTTP Cats](https://http.cat/) - API for HTTP Cats
-
-- [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 

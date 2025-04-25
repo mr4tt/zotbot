@@ -265,6 +265,8 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
+- [Knock Thrice](https://knockthrice.ca/) - Knock Thrice - making whimsical wears for all fae folk.
+
 - [tern : Official Store](https://in.tern.et/) - tern is a streetwear clothing brand. Discover our latest clothes only available online. Shipping Worldwide
 
 - [Cute Things from Japan -- For your needs for Japanese craft supplies and planner items.](https://cutethingsfromjapan.com/) - Cute Things from Japan offers craft and planner supplies from Japan such as washi tapes, stickers, rubber stamps, origami, Traveler's Notebook accessories.
@@ -552,6 +554,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [no hello](https://nohello.net/) - please don't say just hello in chat
+
 - [Why Everyone Can (and Should) Be a Great Storyteller | Figma Blog](https://www.figma.com/blog/why-everyone-can-and-should-be-a-great-storyteller/) - Here’s why writing matters—and how to be a storyteller that brings ideas to life.
 
 - [Welp, I'm 30. (30 tips for my 13-year-old self)](https://blog.ncase.me/30) - A navel-gazing post for my 30th birthday
@@ -1052,6 +1056,16 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Sales of Hard Drives for the End of the World Boom Under Trump](https://www.404media.co/sales-of-hard-drives-prepper-disk-for-the-end-of-the-world-have-boomed-under-trump/) - PrepperDisk is a mini internet box that comes preloaded with offline backups of some of the content that is being deleted by the administration.
+
+- [Middle-Aged Man Trading Cards Go Viral in Rural Japan Town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/) - A trading card game consisting of real-life ojisan (middle-aged men) are going viral with kids in the city of Kawara in Fukuoka Prefecture.
+
+- [Shooters in helicopters will not gun down Catalina's mule deer population after all](https://www.latimes.com/california/story/2024-05-29/plans-to-shoot-catalina-deer-from-helicopter-with-rifles-scrapped) - The Catalina Island Conservancy, which controls 88% of the island, announced Wednesday it was scrapping plans to eradicate the non-native mule deer population by shooting them from helicopters with high-powered rifles.
+
+- [Nearly All Cybertrucks Have Been Recalled Because Tesla Used the Wrong Glue](https://www.wired.com/story/tesla-cybertrucks-made-with-the-wrong-glue-hit-with-yet-another-sticky-recall/) - Tesla says it will fix the sticky issue—which could cause panels to detach from trucks while driving—with a new adhesive “not prone to environmental embrittlement.”
+
+- [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/) - The Smishing Triad network sends up to 100,000 scam texts per day globally. One of those messages went to Grant Smith, who infiltrated their systems and exposed them to US authorities.
+
 - [The Cost of Avoiding Microplastics](https://www.theatlantic.com/health/archive/2024/09/avoiding-microplastics-luxury/679939/) - Even half measures are so expensive, they’re luxury goods.
 
 - [How to break free of Spotify’s algorithm](https://www.technologyreview.com/2024/08/16/1096276/spotify-algorithms-music-discovery-ux/) - By delivering what people seem to want, has Spotify killed the joy of music discovery?
@@ -1242,20 +1256,30 @@ To view a single category, check the files/ folder.
 
 - [Endangered Hawaiian monk seals keep getting eels stuck up their noses; scientists want them to stop](https://www.seattletimes.com/nation-world/make-better-choices-endangered-hawaiian-monk-seals-keep-getting-eels-stuck-up-their-noses-and-scientists-want-them-to-stop/) - The mystery began about two years ago, when Charles Littnan, lead scientist of the monk-seal program, got a strange email from researchers in the field. The subject line was short: "Eel in nose."
 
-- [New pictures show Wally the Walrus relaxing on a small boat in Crookhaven](https://www.irishexaminer.com/news/munster/arid-40360598.html) - Wally the walrus is set to get a ‘floating couch’ in an effort to prevent him from sinking more boats.
-
-- [If I Fits, I Sits: Starlink's Self-Heating Internet Satellite Dishes Are Attracting Cats](https://gizmodo.com/if-i-fits-i-sits-starlinks-self-heating-internet-sate-1848327155) - The dish's Snow Melt Mode prevents snow build-up from interfering with the signal—and apparently provides a toasty outdoor lounge space for critters.
-
-- [Escaped robber returns to annals of weird crime / Cops say 'Roofman' lived large in store](https://www.sfgate.com/news/article/escaped-robber-returns-to-annals-of-weird-crime-2706176.php) - Escaped robber returns to annals of weird crime / Cops say 'Roofman' lived large in...
-
-- [The hijacking of $339,000 worth of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats) - This is an instance of a computer-based form of fraud dubbed 'part identity theft, part extortion'. Read more at straitstimes.com.
-
-- [Pigeons are still (sometimes) faster than your internet](https://www.washingtonpost.com/technology/2023/11/10/pigeons-are-faster-than-your-internet/) - Internet speeds have come a long way since the days of the dial-up modem, but sometimes you can’t beat the millennia-old method of carrier pigeon.
-
 # wikipedia
+- [Secchi disk](https://en.wikipedia.org/w/index.php?title=Secchi_disk&oldid=1278072100) - The Secchi disk (or Secchi disc), as created in 1865 by Angelo Secchi, is a plain white, circular disk 30 cm (12 in) in diameter used to measure water transparency or turbidity in bodies of water. The disc is mounted on a pole or line and lowered slowly down in the water. The depth at which the disk is no longer visible is taken as a measure of the ...
+
+- [Project Babylon](https://en.wikipedia.org/w/index.php?title=Project_Babylon&oldid=1241072049) - Project Babylon was a space gun project commissioned by then Iraqi president Saddam Hussein. It involved building a series of "superguns". The design was based on research from the 1960s Project HARP led by the Canadian artillery expert Gerald Bull. There were most likely four different devices in the program. The project began in 1988; it was halte...
+
+- [<i>I, Libertine</i>](https://en.wikipedia.org/w/index.php?title=I,_Libertine&oldid=1282897253) - I, Libertine is a historical novel that began as a practical joke by late-night radio raconteur Jean Shepherd who aimed to lampoon the process of determining best-selling books. After generating substantial attention for a novel that did not actually exist, Shepherd approved a 1956 edition of the book written mainly by Theodore Sturgeon—which was la...
+
+- [Voynich manuscript](https://en.wikipedia.org/w/index.php?title=Voynich_manuscript&oldid=1284196333) - The Voynich manuscript is an illustrated codex, hand-written in an unknown script referred to as Voynichese. The vellum on which it is written has been carbon-dated to the early 15th century (1404–1438). Stylistic analysis has indicated the manuscript may have been composed in Italy during the Italian Renaissance. The origins, authorship, and purpos...
+
+- [Ceremonial first puck](https://en.wikipedia.org/w/index.php?title=Ceremonial_first_puck&oldid=1280053887) - The ceremonial first puck is a longstanding ritual of ice hockey in which a guest of honor drops a puck to mark the end of pregame festivities and the start of the game. Like baseball's ceremonial first pitch, this first puck does not actually begin play but is retrieved and presented to the guest of honor as a keepsake. In the National Hockey Leagu...
+
+- [The War of the Worlds (1938 radio drama)](https://en.wikipedia.org/w/index.php?title=The_War_of_the_Worlds_(1938_radio_drama)&oldid=1280994523) - "The War of the Worlds" was a Halloween episode of the radio series The Mercury Theatre on the Air directed and narrated by Orson Welles as an adaptation of H. G. Wells's novel The War of the Worlds (1898) that was performed and broadcast live at 8 pm ET on October 30, 1938, over the CBS Radio Network. The episode is infamous for inciting a panic by...
+
+- [Cat organ](https://en.wikipedia.org/w/index.php?title=Cat_organ&oldid=1283972435) - A cat organ (German: Katzenorgel, French: Orgue à chats), also called cat piano (German: Katzenklavier, French: piano à chats), is a hypothetical musical instrument which consists of a line of cats fixed in place with their tails stretched out underneath a keyboard so that they cry out when a key is pressed. The cats would be arranged according to t...
+
+- [Eggcorn](https://en.wikipedia.org/w/index.php?title=Eggcorn&oldid=1279610127) - An eggcorn is the alteration of a word or phrase through the mishearing or reinterpretation of one or more of its elements, creating a new phrase which is plausible when used in the same context. Thus, an eggcorn is an unexpectedly fitting or creative malapropism. Eggcorns often arise as people attempt to make sense of a stock phrase that uses a ter...
+
 - [FYIFV - Wikipedia](https://en.wikipedia.org/wiki/FYIFV)
 
 - [FYIFV - Wikipedia](https://en.wikipedia.org/wiki/FYIFV)
+
+- [Lavarand](https://en.wikipedia.org/w/index.php?title=Lavarand&oldid=1280165082) - Lavarand, also known as the Wall of Entropy, is a hardware random number generator designed by Silicon Graphics that worked by taking pictures of the patterns made by the floating material in lava lamps, extracting random data from the pictures allegedly using the result to seed a pseudorandom number generator.
+
+- [Air America (airline)](https://en.wikipedia.org/w/index.php?title=Air_America_(airline)&oldid=1274069619) - Air America was an American passenger and cargo airline established in 1946 and covertly owned and operated by the Central Intelligence Agency (CIA) from 1950 to 1976. It supplied and supported covert operations in Southeast Asia during the Vietnam War, including allegedly providing support for drug smuggling in Laos.
 
 - [Post-Internet](https://en.wikipedia.org/w/index.php?title=Post-Internet&oldid=1279788560) - Post-Internet is a 21st-century art movement involving works that are derived from the Internet or its effects on aesthetics, culture and society.
 
@@ -1433,27 +1457,15 @@ To view a single category, check the files/ folder.
 
 - [CONOP 8888](https://en.wikipedia.org/w/index.php?title=CONOP_8888&oldid=1204685566) - CONPLAN 8888, also known as Counter-Zombie Dominance, is a U.S. Department of Defense Strategic Command CONOP document  that describes a plan for the United States and its military defending against zombies. It was initially classified by the United States Intelligence Community, but was eventually declassified following a Freedom of Information Act...
 
-- [Zheng Pingru](https://en.wikipedia.org/w/index.php?title=Zheng_Pingru&oldid=1186918163) - Zheng Pingru (1918 – February 1940) was a Chinese socialite and spy who gathered intelligence on the Imperial Japanese Army during the Second Sino-Japanese War. She was executed after an unsuccessful attempt to assassinate Ding Mocun, the security chief of the Wang Jingwei regime, a puppet government for the Japanese. Her life is believed to be the ...
-
-- [DVD region code](https://en.wikipedia.org/w/index.php?title=DVD_region_code&oldid=1214139533) - DVD region codes are a digital rights management technique introduced in 1997. It is designed to allow rights holders to control the international distribution of a DVD release, including its content, release date, and price, all according to the appropriate region. This is achieved by way of region-locked DVD players, which will play back only DVDs...
-
-- [Speakers' Corner](https://en.wikipedia.org/w/index.php?title=Speakers%27_Corner&oldid=1201953157) - A Speakers' Corner is an area where free speech open-air public speaking, debate, and discussion are allowed. The original and best known is in the north-east corner of Hyde Park in London, England.  Historically there were a number of other areas designated as Speakers' Corners in other parks in London, such as Lincoln's Inn Fields, Finsbury Park, ...
-
-- [Montreal–Philippines cutlery controversy](https://en.wikipedia.org/w/index.php?title=Montreal%E2%80%93Philippines_cutlery_controversy&oldid=1190316846) - The Montreal–Philippines cutlery controversy was an incident in 2006 in which a Filipino-born Canadian boy was punished by his school in Roxboro, Montreal, for following traditional Filipino etiquette and eating his lunch with a fork and a spoon, rather than the Canadian tradition of a knife and fork. In response to the media coverage of the affair,...
-
-- [Santiago Calatrava](https://en.wikipedia.org/w/index.php?title=Santiago_Calatrava&oldid=1212342176) - Santiago Calatrava Valls (born 28 July 1951) is a Spanish architect, structural engineer, sculptor and painter, particularly known for his bridges supported by single leaning pylons, and his railway stations, stadiums, and museums, whose sculptural forms often resemble living organisms. His best-known works include the Olympic Sports Complex of Athe...
-
-- [John Rabe](https://en.wikipedia.org/w/index.php?title=John_Rabe&oldid=1207822865) - John Heinrich Detlef Rabe (23 November 1882 – 5 January 1950) was a German businessman and Nazi Party member best known for his efforts to stop war crimes during the Japanese Nanjing Massacre (also romanized as Nanking) and his work to protect and help Chinese civilians during the massacre that ensued. The Nanking Safety Zone, which he helped to est...
-
-- [Pirahã people](https://en.wikipedia.org/w/index.php?title=Pirah%C3%A3_people&oldid=1209357592) - The Pirahã (pronounced [piɾaˈhɐ̃]) are an indigenous people of the Amazon Rainforest in Brazil. They are the sole surviving subgroup of the Mura people, and are hunter-gatherers. They live mainly on the banks of the Maici River in Humaitá and Manicoré in the state of Amazonas. As of 2018, they number 800 individuals. The Pirahã people do not call th...
-
-- [Chicken gun](https://en.wikipedia.org/w/index.php?title=Chicken_gun&oldid=1194769968) - A chicken gun or flight impact simulator is a large-diameter, compressed-air gun used to fire bird carcasses at aircraft components in order to simulate high-speed bird strikes during the aircraft's flight. Jet engines and aircraft windshields are particularly vulnerable to damage from such strikes, and are the most common target in such tests. Alth...
-
-- [Trojan Room coffee pot](https://en.wikipedia.org/w/index.php?title=Trojan_Room_coffee_pot&oldid=1190704629) - The Trojan Room coffee pot was a coffee machine located in the Computer Laboratory of the University of Cambridge, England. Created in 1991 by Quentin Stafford-Fraser and Paul Jardetzky, it was migrated from their laboratory network to the web in 1993, becoming the world's first webcam. To save people working in the building the disappointment of fi...
-
-- [Veterstrikdiploma](https://en.wikipedia.org/w/index.php?title=Veterstrikdiploma&oldid=1174786622) - A veterstrikdiploma, also known as veterdiploma or strikdiploma (English: shoelacing diploma) is a diploma which children between 5 and 6 years can get in the Netherlands and Belgium after they manage to tie their shoelaces by themselves. It is often the first diploma a child achieves and thus has an important pedagogic meaning, giving the child the...
-
 # misc
+- [Clickens](https://clickens.chicken.pics/malleable/38/12)
+
+- [winblues/blue95](https://github.com/winblues/blue95) - A desktop for your childhood home's computer room
+
+- [Glassmorph cursortracking](https://my.spline.design/glassmorphcursortracking-2ef6d3790000fd1a4f81c92fb3ff5bf5/)
+
+- [PORTER ROBINSLE](https://porterrobinsle.com/) - The daily Porter Robinson song guessing game
+
 - [The Brick Bible](https://thebrickbible.com) - The Scriptures in LEGO from Genesis to Revelation
 
 - [Doodal](https://dood.al/)
@@ -1645,12 +1657,4 @@ To view a single category, check the files/ folder.
 - [ZType – Typing Game - Type to Shoot](https://zty.pe/)
 
 - [Viola the Bird](https://artsandculture.google.com/experiment/viola-the-bird/nAEJVwNkp-FnrQ) - Play a cello inspired instrument with Viola the Bird and the help of  machine learning! An experiment by David Li.
-
-- [How I Experience Web Today](https://how-i-experience-web-today.com/)
-
-- [Apollo-11/Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.agc at master · chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11/blob/master/Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.agc) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. - chrislgarry/Apollo-11
-
-- [HTTP Cats](https://http.cat/) - API for HTTP Cats
-
-- [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 

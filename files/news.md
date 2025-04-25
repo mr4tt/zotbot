@@ -1,4 +1,14 @@
 # news
+- [Sales of Hard Drives for the End of the World Boom Under Trump](https://www.404media.co/sales-of-hard-drives-prepper-disk-for-the-end-of-the-world-have-boomed-under-trump/) - PrepperDisk is a mini internet box that comes preloaded with offline backups of some of the content that is being deleted by the administration.
+
+- [Middle-Aged Man Trading Cards Go Viral in Rural Japan Town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/) - A trading card game consisting of real-life ojisan (middle-aged men) are going viral with kids in the city of Kawara in Fukuoka Prefecture.
+
+- [Shooters in helicopters will not gun down Catalina's mule deer population after all](https://www.latimes.com/california/story/2024-05-29/plans-to-shoot-catalina-deer-from-helicopter-with-rifles-scrapped) - The Catalina Island Conservancy, which controls 88% of the island, announced Wednesday it was scrapping plans to eradicate the non-native mule deer population by shooting them from helicopters with high-powered rifles.
+
+- [Nearly All Cybertrucks Have Been Recalled Because Tesla Used the Wrong Glue](https://www.wired.com/story/tesla-cybertrucks-made-with-the-wrong-glue-hit-with-yet-another-sticky-recall/) - Tesla says it will fix the sticky issue—which could cause panels to detach from trucks while driving—with a new adhesive “not prone to environmental embrittlement.”
+
+- [USPS Text Scammers Duped His Wife, So He Hacked Their Operation](https://www.wired.com/story/usps-scam-text-smishing-triad/) - The Smishing Triad network sends up to 100,000 scam texts per day globally. One of those messages went to Grant Smith, who infiltrated their systems and exposed them to US authorities.
+
 - [The Cost of Avoiding Microplastics](https://www.theatlantic.com/health/archive/2024/09/avoiding-microplastics-luxury/679939/) - Even half measures are so expensive, they’re luxury goods.
 
 - [How to break free of Spotify’s algorithm](https://www.technologyreview.com/2024/08/16/1096276/spotify-algorithms-music-discovery-ux/) - By delivering what people seem to want, has Spotify killed the joy of music discovery?
@@ -188,14 +198,4 @@
 - [Two of four stolen giant tortoises found in Dorset](https://www.bbc.com/news/uk-england-dorset-45314157) - Blastoise and Jeffery were found, but the other two - Squirtle and Wartortle - are still missing.
 
 - [Endangered Hawaiian monk seals keep getting eels stuck up their noses; scientists want them to stop](https://www.seattletimes.com/nation-world/make-better-choices-endangered-hawaiian-monk-seals-keep-getting-eels-stuck-up-their-noses-and-scientists-want-them-to-stop/) - The mystery began about two years ago, when Charles Littnan, lead scientist of the monk-seal program, got a strange email from researchers in the field. The subject line was short: "Eel in nose."
-
-- [New pictures show Wally the Walrus relaxing on a small boat in Crookhaven](https://www.irishexaminer.com/news/munster/arid-40360598.html) - Wally the walrus is set to get a ‘floating couch’ in an effort to prevent him from sinking more boats.
-
-- [If I Fits, I Sits: Starlink's Self-Heating Internet Satellite Dishes Are Attracting Cats](https://gizmodo.com/if-i-fits-i-sits-starlinks-self-heating-internet-sate-1848327155) - The dish's Snow Melt Mode prevents snow build-up from interfering with the signal—and apparently provides a toasty outdoor lounge space for critters.
-
-- [Escaped robber returns to annals of weird crime / Cops say 'Roofman' lived large in store](https://www.sfgate.com/news/article/escaped-robber-returns-to-annals-of-weird-crime-2706176.php) - Escaped robber returns to annals of weird crime / Cops say 'Roofman' lived large in...
-
-- [The hijacking of $339,000 worth of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats) - This is an instance of a computer-based form of fraud dubbed 'part identity theft, part extortion'. Read more at straitstimes.com.
-
-- [Pigeons are still (sometimes) faster than your internet](https://www.washingtonpost.com/technology/2023/11/10/pigeons-are-faster-than-your-internet/) - Internet speeds have come a long way since the days of the dial-up modem, but sometimes you can’t beat the millennia-old method of carrier pigeon.
 
