@@ -1458,6 +1458,8 @@ To view a single category, check the files/ folder.
 - [CONOP 8888](https://en.wikipedia.org/w/index.php?title=CONOP_8888&oldid=1204685566) - CONPLAN 8888, also known as Counter-Zombie Dominance, is a U.S. Department of Defense Strategic Command CONOP document  that describes a plan for the United States and its military defending against zombies. It was initially classified by the United States Intelligence Community, but was eventually declassified following a Freedom of Information Act...
 
 # misc
+- [Midlife Engineering – Sound therapy for a harmonious mind](https://www.midlife.engineering/) - Midlife Engineering is a sound therapy tool for the creatively restless. Craft ambient soundscapes to ease stress, sharpen focus, and spark creativity. Think of it as yoga for your ears, minus the awkward stretching and ability to do yoga (or make music).
+
 - [Clickens](https://clickens.chicken.pics/malleable/38/12)
 
 - [winblues/blue95](https://github.com/winblues/blue95) - A desktop for your childhood home's computer room
@@ -1655,6 +1657,4 @@ To view a single category, check the files/ folder.
 - [Element Speller](https://www.bgreco.net/periodic/)
 
 - [ZType – Typing Game - Type to Shoot](https://zty.pe/)
-
-- [Viola the Bird](https://artsandculture.google.com/experiment/viola-the-bird/nAEJVwNkp-FnrQ) - Play a cello inspired instrument with Viola the Bird and the help of  machine learning! An experiment by David Li.
 

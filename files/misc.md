@@ -1,4 +1,6 @@
 # misc
+- [Midlife Engineering – Sound therapy for a harmonious mind](https://www.midlife.engineering/) - Midlife Engineering is a sound therapy tool for the creatively restless. Craft ambient soundscapes to ease stress, sharpen focus, and spark creativity. Think of it as yoga for your ears, minus the awkward stretching and ability to do yoga (or make music).
+
 - [Clickens](https://clickens.chicken.pics/malleable/38/12)
 
 - [winblues/blue95](https://github.com/winblues/blue95) - A desktop for your childhood home's computer room
@@ -196,6 +198,4 @@
 - [Element Speller](https://www.bgreco.net/periodic/)
 
 - [ZType – Typing Game - Type to Shoot](https://zty.pe/)
-
-- [Viola the Bird](https://artsandculture.google.com/experiment/viola-the-bird/nAEJVwNkp-FnrQ) - Play a cello inspired instrument with Viola the Bird and the help of  machine learning! An experiment by David Li.
 
