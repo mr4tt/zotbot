@@ -1,4 +1,6 @@
 # news
+- [Carnivorous ‘Bone Collector’ Caterpillars Wear Corpses as Camouflage](https://www.scientificamerican.com/article/carnivorous-bone-collector-caterpillars-wear-corpses-as-camouflage/) - Nicknamed the “bone collector,” this newly confirmed caterpillar in Hawaii secretly scrounges off a spider landlord by covering itself with dead insect body parts
+
 - [Sales of Hard Drives for the End of the World Boom Under Trump](https://www.404media.co/sales-of-hard-drives-prepper-disk-for-the-end-of-the-world-have-boomed-under-trump/) - PrepperDisk is a mini internet box that comes preloaded with offline backups of some of the content that is being deleted by the administration.
 
 - [Middle-Aged Man Trading Cards Go Viral in Rural Japan Town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/) - A trading card game consisting of real-life ojisan (middle-aged men) are going viral with kids in the city of Kawara in Fukuoka Prefecture.
@@ -196,6 +198,4 @@
 - [Before There Was Tinder](https://www.thecut.com/2022/09/computer-dating-love-stories.html) - Five people on finding their life partners through 1960s “computer dating.”
 
 - [Two of four stolen giant tortoises found in Dorset](https://www.bbc.com/news/uk-england-dorset-45314157) - Blastoise and Jeffery were found, but the other two - Squirtle and Wartortle - are still missing.
-
-- [Endangered Hawaiian monk seals keep getting eels stuck up their noses; scientists want them to stop](https://www.seattletimes.com/nation-world/make-better-choices-endangered-hawaiian-monk-seals-keep-getting-eels-stuck-up-their-noses-and-scientists-want-them-to-stop/) - The mystery began about two years ago, when Charles Littnan, lead scientist of the monk-seal program, got a strange email from researchers in the field. The subject line was short: "Eel in nose."
 

@@ -320,6 +320,8 @@ To view a single category, check the files/ folder.
 - [0K47](https://0k47.com/) - The official website and shop of 0K47. Find the latest content, buy merch, and support our nerdy apparel.
 
 # crochet
+- [Free Crochet Patterns](https://www.nichetcrochet.com/free-crochet-patterns)
+
 - [Crochet gloves pattern - fingerless, full fingers or finger holes](http://www.woolcrafting.com/crochet-gloves-pattern.html)
 
 - [Gomu Gomu no Mi Amigurumi | Crochet One Piece](https://www.youtube.com/watch?v=7WfgKGGQzD8)
@@ -1056,6 +1058,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Carnivorous ‘Bone Collector’ Caterpillars Wear Corpses as Camouflage](https://www.scientificamerican.com/article/carnivorous-bone-collector-caterpillars-wear-corpses-as-camouflage/) - Nicknamed the “bone collector,” this newly confirmed caterpillar in Hawaii secretly scrounges off a spider landlord by covering itself with dead insect body parts
+
 - [Sales of Hard Drives for the End of the World Boom Under Trump](https://www.404media.co/sales-of-hard-drives-prepper-disk-for-the-end-of-the-world-have-boomed-under-trump/) - PrepperDisk is a mini internet box that comes preloaded with offline backups of some of the content that is being deleted by the administration.
 
 - [Middle-Aged Man Trading Cards Go Viral in Rural Japan Town](https://www.tokyoweekender.com/entertainment/middle-aged-man-trading-cards-go-viral-in-japan/) - A trading card game consisting of real-life ojisan (middle-aged men) are going viral with kids in the city of Kawara in Fukuoka Prefecture.
@@ -1253,8 +1257,6 @@ To view a single category, check the files/ folder.
 - [Before There Was Tinder](https://www.thecut.com/2022/09/computer-dating-love-stories.html) - Five people on finding their life partners through 1960s “computer dating.”
 
 - [Two of four stolen giant tortoises found in Dorset](https://www.bbc.com/news/uk-england-dorset-45314157) - Blastoise and Jeffery were found, but the other two - Squirtle and Wartortle - are still missing.
-
-- [Endangered Hawaiian monk seals keep getting eels stuck up their noses; scientists want them to stop](https://www.seattletimes.com/nation-world/make-better-choices-endangered-hawaiian-monk-seals-keep-getting-eels-stuck-up-their-noses-and-scientists-want-them-to-stop/) - The mystery began about two years ago, when Charles Littnan, lead scientist of the monk-seal program, got a strange email from researchers in the field. The subject line was short: "Eel in nose."
 
 # wikipedia
 - [Secchi disk](https://en.wikipedia.org/w/index.php?title=Secchi_disk&oldid=1278072100) - The Secchi disk (or Secchi disc), as created in 1865 by Angelo Secchi, is a plain white, circular disk 30 cm (12 in) in diameter used to measure water transparency or turbidity in bodies of water. The disc is mounted on a pole or line and lowered slowly down in the water. The depth at which the disk is no longer visible is taken as a measure of the ...
