@@ -1,4 +1,10 @@
 # videos
+- [The Best Ham Sandwich According to a Fish](https://www.youtube.com/watch?v=hINZMYqVqU8)
+
+- [Gary Johnson booed at the Libertarian Debate for Supporting Driver's Licenses](https://www.youtube.com/watch?v=ZITP93pqtdQ)
+
+- [Content Warnings of The Magnus Archives (Yakko's World Parody Song)](https://www.youtube.com/watch?v=wBJunlwKLjg)
+
 - [米津玄師 Kenshi Yonezu - BOW AND ARROW / 羽生結弦 Yuzuru Hanyu Short Program ver.](https://www.youtube.com/watch?v=Wcza_Do4IoY)
 
 - [I LOVE TOFU!!!](https://www.youtube.com/watch?v=Klhfo6sB4N4)

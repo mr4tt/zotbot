@@ -1,4 +1,12 @@
 # shops
+- [Products](https://www.microbiomearts.com/products) - Browse all products from Microbiome Arts.
+
+- [Meyoco](https://meyocostudio.com/collections/all) - Apparel and accessories designed by the artist Meyoco
+
+- [Chocolett](https://chocolett.com/) - Chocolett is a small artist shop who loves to design and create products such as stationery, accessories, stickers, artwork and more. Chocolett was created by Arlette Bauder who is an artist in Portland OR, A lot of the artwork in greatly influenced by kids books and is often bright and happy,
+
+- [Crowlines Shop](https://crowlines.net/) - Shirts, pins, keychains, and other Fun Stuff!
+
 - [Knock Thrice](https://knockthrice.ca/) - Knock Thrice - making whimsical wears for all fae folk.
 
 - [tern : Official Store](https://in.tern.et/) - tern is a streetwear clothing brand. Discover our latest clothes only available online. Shipping Worldwide
@@ -8,6 +16,8 @@
 - [Carmico](https://carmico.ca/) - Home page for Carmico, an apparel brand, dedicated to inclusivity and mindful business practices. You can find fashion, accessories, home goods and more here!
 
 - [roundbirbart](https://www.roundbirb.art/) - The ROUNDEST birb merchandise!
+
+- [Traintrackr - Live LED Maps](https://www.traintrackr.io/product)
 
 - [Grassfur](https://grassfur.bigcartel.com/)
 

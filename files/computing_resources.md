@@ -1,5 +1,15 @@
 # computing_resources
-- [Introduction](https://fancycomponents.dev/introduction) - Ready to use, fancy React components to make the web fun again. Free & Open Source.
+- [ShellCheck – shell script analysis tool](https://www.shellcheck.net/) - ShellCheck finds bugs in your shell scripts
+
+- [Introduction to Cryptography](https://sagrawalx.github.io/crypt/)
+
+- [Fancy React Components](https://fancycomponents.dev/introduction) - Ready to use, fancy React components to make the web fun again. Free & Open Source.
+
+- [Python strftime reference cheatsheet](https://strftime.org/)
+
+- [Knowing where your engineer salary comes from](https://www.seangoedecke.com/where-the-money-comes-from/) - How tech companies make money and why it's important
+
+- [CTF Handbook](https://ctf101.org/) - Capture the Flag Competition Wiki
 
 - [Archive - Jordan’s Substack](https://jordanhasnolife.substack.com/archive) - Full archive of all the posts from Jordan’s Substack.
 
@@ -8,8 +18,6 @@
 - [A CRITICAL FIELD GUIDE FOR WORKING WITH MACHINE LEARNING DATASETS](https://knowingmachines.org/critical-field-guide) - Maybe you’re an engineer creating a new machine vision system to track birds. You might be a journalist using social media data to research Costa Rican households. You could be a researcher who stumbled upon your university’s archive of handwritten census cards from 1939. Or a designer creating a chatbot that relies on large language models like GPT...
 
 - [Book: Alice’s Adventures in a differentiable wonderland](https://sscardapane.it/alice-book/) - My personal website, where I collect slides, publications, and presentations.
-
-- [Introduction to Cryptography — About](https://sagrawalx.github.io/crypt/)
 
 - [Alistair Gray - Sociological considerations in designing an internal documentation platform](https://www.youtube.com/watch?v=DxbXKLl-URo) - https://www.writethedocs.org/conf/por...
 
@@ -190,12 +198,4 @@
 - [GitHub Next](https://next.github.com) - GitHub Next investigates the future of software development
 
 - [Monaspace](https://monaspace.githubnext.com/) - An innovative superfamily of fonts for code
-
-- [Four ways to underline text in LaTeX](https://alexwlchan.net/2017/latex-underlines/) - I'm very picky about the way underlines look, and have spent a lot of time trying to get the perfect underline in LaTeX.
-
-- [Server-side sandboxing: An introduction | Figma Blog](https://www.figma.com/blog/server-side-sandboxing-an-introduction/) - The first of our three-part series on deploying and operating sandboxing techniques
-
-- [NSA Codebreaker Challenge](https://nsa-codebreaker.org/resources)
-
-- [CLARK | Browse Learning Objects](https://clark.center/browse?currPage=8&limit=10&orderBy=date&sortType=-1&collection=nccp&status=released)
 

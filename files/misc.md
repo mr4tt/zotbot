@@ -1,4 +1,14 @@
 # misc
+- [Revenge Font](https://revengefont.com/) - Someone vandalised our building and we made a font out of it. Download it and donate towards local initiatives that will improve the art in East London.
+
+- [Unsure Calculator](https://filiph.github.io/unsure/) - The Unsure Calculator is an online tool that lets you calculate with numbers you’re not sure about.
+
+- [Owls in Towels](https://owlsintowels.org/)
+
+- [Reports From Unknown Places](https://www.ninnsalaun.com/today)
+
+- [roughViz.js](https://www.jwilber.me/roughviz/)
+
 - [Midlife Engineering – Sound therapy for a harmonious mind](https://www.midlife.engineering/) - Midlife Engineering is a sound therapy tool for the creatively restless. Craft ambient soundscapes to ease stress, sharpen focus, and spark creativity. Think of it as yoga for your ears, minus the awkward stretching and ability to do yoga (or make music).
 
 - [Clickens](https://clickens.chicken.pics/malleable/38/12)
@@ -38,8 +48,6 @@
 - [Gregg Shorthand](https://greggshorthand.github.io/index.html)
 
 - [Wikipedia: The Text Adventure](https://kevan.org/wikitext/) - A playable text adventure version of Wikipedia. Start anywhere that has a Wikipedia article, and explore the world a step at a time.
-
-- [Traintrackr - Live LED Maps](https://www.traintrackr.io/product)
 
 - [GitHub - Jaennaet/pISSStream: macOS menu bar app that shows how full the International Space Station's urine tank is in real time](https://github.com/Jaennaet/pISSStream) - macOS menu bar app that shows how full the International Space Station's urine tank is in real time - Jaennaet/pISSStream
 
@@ -190,12 +198,4 @@
 - [Holotypic Occlupanid Research Group](https://www.horg.com/horg) - This site contains ongoing research in the classification of occlupanids.
 
 - [OpenPods](https://github.com/adolfintel/OpenPods) - The Free and Open Source app for monitoring your AirPods on Android
-
-- [Home | Shrimp Welfare Project](https://www.shrimpwelfareproject.org) - Shrimp Welfare Project aims to improve the lives of billions of farmed shrimps in India and Southeast Asia.
-
-- [AmputatorBot: Remove AMP from your URLs](https://www.amputatorbot.com) - AMP is threatening your privacy and the Open Web. With AmputatorBot, you can remove it from your URLs. AmputatorBot is available in many forms: here, as bots on Reddit and Twitter and as a free and public API
-
-- [Element Speller](https://www.bgreco.net/periodic/)
-
-- [ZType – Typing Game - Type to Shoot](https://zty.pe/)
 

@@ -1,4 +1,6 @@
 # general_resources
+- [Amazon US price tracker, price history, price watch, price drop alerts, and price notifications.](https://camelcamelcamel.com/) - Page 1 at camelcamelcamel: Amazon US price tracker, price history, price watch, price drop alerts, and price notifications.
+
 - [no hello](https://nohello.net/) - please don't say just hello in chat
 
 - [Why Everyone Can (and Should) Be a Great Storyteller | Figma Blog](https://www.figma.com/blog/why-everyone-can-and-should-be-a-great-storyteller/) - Here’s why writing matters—and how to be a storyteller that brings ideas to life.

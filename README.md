@@ -80,6 +80,16 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [The Crane Wife by CJ Hauser](https://www.theparisreview.org/blog/2019/07/16/the-crane-wife/)
+
+- [MalwareTech – Darknet Diaries](https://darknetdiaries.com/episode/158/) - MalwareTech was an anonymous security researcher, until he accidentally stopped WannaCry, one of the largest ransomware attacks in history. That single act of heroism shattered his anonymity and pulled him into a world he never expected.
+
+- [The Genius of Jokic](https://www.theringer.com/2025/04/24/nba/nikola-jokic-nba-playoffs-2025-denver-nuggets-brain-smarts-iq) - To appreciate the Denver Nuggets’ generational star, you have to appreciate what truly separates him: his brain. “He’s probably the smartest player that’s ever played,” says Christian Braun.
+
+- [Chongqing, the world’s largest city – in pictures](https://www.theguardian.com/world/gallery/2025/apr/27/chongqing-the-worlds-largest-city-in-pictures) - The largest city in the world is as big as Austria, but few people have ever heard of it. The megacity of 34 million people in central of China is the emblem of the fastest urban revolution on the planet. The Communist party decided 30 years ago to unify and populate vast rural areas, an experiment that has become a symbol of the Chinese ability to ...
+
+- [This blog is hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/?utm_source=cassidoo)
+
 - [Come On, Obviously The Purpose Of A System Is Not What It Does](https://www.astralcodexten.com/p/come-on-obviously-the-purpose-of) - ...
 
 - [Maid in Heaven / En Plein Air in Hell (My Beautiful Dark and Twisted Cheeto Problem)](https://artreview.com/october-2014-parker-ito/) - White Cube Masons Yard, London, 16 July – 27 September
@@ -265,6 +275,14 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
+- [Products](https://www.microbiomearts.com/products) - Browse all products from Microbiome Arts.
+
+- [Meyoco](https://meyocostudio.com/collections/all) - Apparel and accessories designed by the artist Meyoco
+
+- [Chocolett](https://chocolett.com/) - Chocolett is a small artist shop who loves to design and create products such as stationery, accessories, stickers, artwork and more. Chocolett was created by Arlette Bauder who is an artist in Portland OR, A lot of the artwork in greatly influenced by kids books and is often bright and happy,
+
+- [Crowlines Shop](https://crowlines.net/) - Shirts, pins, keychains, and other Fun Stuff!
+
 - [Knock Thrice](https://knockthrice.ca/) - Knock Thrice - making whimsical wears for all fae folk.
 
 - [tern : Official Store](https://in.tern.et/) - tern is a streetwear clothing brand. Discover our latest clothes only available online. Shipping Worldwide
@@ -274,6 +292,8 @@ To view a single category, check the files/ folder.
 - [Carmico](https://carmico.ca/) - Home page for Carmico, an apparel brand, dedicated to inclusivity and mindful business practices. You can find fashion, accessories, home goods and more here!
 
 - [roundbirbart](https://www.roundbirb.art/) - The ROUNDEST birb merchandise!
+
+- [Traintrackr - Live LED Maps](https://www.traintrackr.io/product)
 
 - [Grassfur](https://grassfur.bigcartel.com/)
 
@@ -388,6 +408,12 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [The Best Ham Sandwich According to a Fish](https://www.youtube.com/watch?v=hINZMYqVqU8)
+
+- [Gary Johnson booed at the Libertarian Debate for Supporting Driver's Licenses](https://www.youtube.com/watch?v=ZITP93pqtdQ)
+
+- [Content Warnings of The Magnus Archives (Yakko's World Parody Song)](https://www.youtube.com/watch?v=wBJunlwKLjg)
+
 - [米津玄師 Kenshi Yonezu - BOW AND ARROW / 羽生結弦 Yuzuru Hanyu Short Program ver.](https://www.youtube.com/watch?v=Wcza_Do4IoY)
 
 - [I LOVE TOFU!!!](https://www.youtube.com/watch?v=Klhfo6sB4N4)
@@ -556,6 +582,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Amazon US price tracker, price history, price watch, price drop alerts, and price notifications.](https://camelcamelcamel.com/) - Page 1 at camelcamelcamel: Amazon US price tracker, price history, price watch, price drop alerts, and price notifications.
+
 - [no hello](https://nohello.net/) - please don't say just hello in chat
 
 - [Why Everyone Can (and Should) Be a Great Storyteller | Figma Blog](https://www.figma.com/blog/why-everyone-can-and-should-be-a-great-storyteller/) - Here’s why writing matters—and how to be a storyteller that brings ideas to life.
@@ -770,7 +798,17 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
-- [Introduction](https://fancycomponents.dev/introduction) - Ready to use, fancy React components to make the web fun again. Free & Open Source.
+- [ShellCheck – shell script analysis tool](https://www.shellcheck.net/) - ShellCheck finds bugs in your shell scripts
+
+- [Introduction to Cryptography](https://sagrawalx.github.io/crypt/)
+
+- [Fancy React Components](https://fancycomponents.dev/introduction) - Ready to use, fancy React components to make the web fun again. Free & Open Source.
+
+- [Python strftime reference cheatsheet](https://strftime.org/)
+
+- [Knowing where your engineer salary comes from](https://www.seangoedecke.com/where-the-money-comes-from/) - How tech companies make money and why it's important
+
+- [CTF Handbook](https://ctf101.org/) - Capture the Flag Competition Wiki
 
 - [Archive - Jordan’s Substack](https://jordanhasnolife.substack.com/archive) - Full archive of all the posts from Jordan’s Substack.
 
@@ -779,8 +817,6 @@ To view a single category, check the files/ folder.
 - [A CRITICAL FIELD GUIDE FOR WORKING WITH MACHINE LEARNING DATASETS](https://knowingmachines.org/critical-field-guide) - Maybe you’re an engineer creating a new machine vision system to track birds. You might be a journalist using social media data to research Costa Rican households. You could be a researcher who stumbled upon your university’s archive of handwritten census cards from 1939. Or a designer creating a chatbot that relies on large language models like GPT...
 
 - [Book: Alice’s Adventures in a differentiable wonderland](https://sscardapane.it/alice-book/) - My personal website, where I collect slides, publications, and presentations.
-
-- [Introduction to Cryptography — About](https://sagrawalx.github.io/crypt/)
 
 - [Alistair Gray - Sociological considerations in designing an internal documentation platform](https://www.youtube.com/watch?v=DxbXKLl-URo) - https://www.writethedocs.org/conf/por...
 
@@ -962,16 +998,8 @@ To view a single category, check the files/ folder.
 
 - [Monaspace](https://monaspace.githubnext.com/) - An innovative superfamily of fonts for code
 
-- [Four ways to underline text in LaTeX](https://alexwlchan.net/2017/latex-underlines/) - I'm very picky about the way underlines look, and have spent a lot of time trying to get the perfect underline in LaTeX.
-
-- [Server-side sandboxing: An introduction | Figma Blog](https://www.figma.com/blog/server-side-sandboxing-an-introduction/) - The first of our three-part series on deploying and operating sandboxing techniques
-
-- [NSA Codebreaker Challenge](https://nsa-codebreaker.org/resources)
-
-- [CLARK | Browse Learning Objects](https://clark.center/browse?currPage=8&limit=10&orderBy=date&sortType=-1&collection=nccp&status=released)
-
 # stories
-- [Clarkesworld Magazine - Science Fiction & Fantasy](https://clarkesworldmagazine.com/kim_02_24/) - Clarkesworld Science Fiction and Fantasy Magazine and Podcast. This page: Why Don't We Just Kill the Kid In the Omelas Hole by Isabel J. Kim
+- [Why Don't We Just Kill the Kid In the Omelas Hole](https://clarkesworldmagazine.com/kim_02_24/) - Clarkesworld Science Fiction and Fantasy Magazine and Podcast. This page: Why Don't We Just Kill the Kid In the Omelas Hole by Isabel J. Kim
 
 - [The Worms that Ate the Universe](https://www.uncannymagazine.com/article/the-worms-that-ate-the-universe/) - The planet of the worms is a cold, barren, sunless place. The worms do not think. They feel nothing but hunger, and so they eat. They eat through the planet’s surface. They eat through the planet’s molten core. Over time, the planet grows speckled and spongelike, riddled with tunnels and holes. But the worms don’t […]
 
@@ -1058,6 +1086,16 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [With Acts of Subversion, Some Russians Fight Propaganda in Schools](https://www.nytimes.com/2025/05/06/world/europe/russia-putin-schools-patriotic-education.html) - Three years into Russia’s invasion of Ukraine, antiwar parents and some teachers say they are going to great lengths to shield children from state-mandated patriotic education classes.
+
+- [‘A Billion Streams and No Fans’: Inside a $10 Million AI Music Fraud Case](https://www.wired.com/story/ai-bots-streaming-music/) - A chart-topping jazz album! Loads of Spotify and Apple Music plays! Just one problem: The success might not be real.
+
+- [The Epic Rise and Fall of a Dark-Web Psychedelics Kingpin](https://www.wired.com/story/rise-fall-dark-web-psychedelics-kingpin-dmt/) - Interdimensional travel, sex with aliens, communion with God. Anything is possible with just a sprinkle of DMT. Akasha Song’s secret labs made millions of doses—and dollars—until the feds showed up.
+
+- [3 Teens Almost Got Away With Murder. Then Police Found Their Google Searches](https://www.wired.com/story/find-my-iphone-arson-case/) - An arson attack in Colorado had detectives stumped. The way they solved the case could put everyone at risk.
+
+- [Duck Caught on Radar Going Almost Twice the Speed Limit Turns Out to Be Fast-Flying 'Repeat Offender'](https://people.com/repeat-offender-duck-caught-on-speed-camera-twice-seven-years-apart-to-the-day-11734882) - A mallard duck was caught speeding — flying 52 km per hour in a 30 km per hour zone — on a radar camera in Switzerland. The duck is 'a notorious speeder and repeat offender,' the Municipality of Köniz said.
+
 - [Carnivorous ‘Bone Collector’ Caterpillars Wear Corpses as Camouflage](https://www.scientificamerican.com/article/carnivorous-bone-collector-caterpillars-wear-corpses-as-camouflage/) - Nicknamed the “bone collector,” this newly confirmed caterpillar in Hawaii secretly scrounges off a spider landlord by covering itself with dead insect body parts
 
 - [Sales of Hard Drives for the End of the World Boom Under Trump](https://www.404media.co/sales-of-hard-drives-prepper-disk-for-the-end-of-the-world-have-boomed-under-trump/) - PrepperDisk is a mini internet box that comes preloaded with offline backups of some of the content that is being deleted by the administration.
@@ -1248,17 +1286,17 @@ To view a single category, check the files/ folder.
 
 - [These Kids Made Their Influencer Parents Wealthy. Will They See a Dime of That Money?](https://www.cosmopolitan.com/lifestyle/a60125272/sharenting-parenting-influencer-cost-children/) - In the unregulated world of vloggers, children are, for the most part, not entitled to a single cent they help earn. We spoke to creators—and the child of a mommy blogger—to understand how this unusual family business actually works.
 
-- [An engineer bought a prison laptop on eBay. Then 1,200 incarcerated students lost their devices.](https://www.opencampusmedia.org/2024/03/04/an-engineer-bought-a-prison-laptop-on-ebay-then-1200-incarcerated-students-lost-their-devices/) - Students said they were given little information about when and if the devices would be returned, and many wondered if they’d lose access to the work they saved.
-
-- [The job applicants shut out by AI: ‘The interviewer sounded like Siri’](https://www.theguardian.com/technology/2024/mar/06/ai-interviews-job-applications) - Employers are letting artificial intelligence conduct job interviews. Candidates are trying to beat the system
-
-- [How Casinos Enable Gambling Addicts](https://www.theatlantic.com/magazine/archive/2016/12/losing-it-all/505814/) - Modern slot machines develop an unbreakable hold on many players—some of whom wind up losing their jobs, their families, and even, as in the case of Scott Stevens, their lives.
-
-- [Before There Was Tinder](https://www.thecut.com/2022/09/computer-dating-love-stories.html) - Five people on finding their life partners through 1960s “computer dating.”
-
-- [Two of four stolen giant tortoises found in Dorset](https://www.bbc.com/news/uk-england-dorset-45314157) - Blastoise and Jeffery were found, but the other two - Squirtle and Wartortle - are still missing.
-
 # wikipedia
+- [FYIFV](https://en.wikipedia.org/wiki/FYIFV) - FYIFV (standing for "Fuck You, I'm Fully Vested") or FYIV[1] is a piece of early Microsoft jargon that has become an urban legend: the claim that employees whose stock options were fully vested (that is, could be exercised) would occasionally wear T-shirts or buttons with the initials "FYIFV" to indicate they were sufficiently financially independen...
+
+- [Go Away Green](https://en.wikipedia.org/w/index.php?title=Go_Away_Green&oldid=1279685110) - Go Away Green refers to a range of paint colors used in Disney Parks to divert attention away from infrastructure. It has been compared to military camouflage like Olive Drab. Imagineer John Hench wrote about developing such colors, "We chose a neutral gray-brown for the railing, a 'go away' color that did not call attention to itself, even though i...
+
+- [Juan Pujol García](https://en.wikipedia.org/w/index.php?title=Juan_Pujol_Garc%C3%ADa&oldid=1290865043) - Juan Pujol García  (Spanish: [ˈxwan puˈʝol ɣaɾˈθi.a]; 14 February 1912 – 10 October 1988), also known as Joan Pujol i García (Catalan: [ʒuˈan puˈʒɔl i ɣəɾˈsi.ə]), was a Spanish spy who acted as a double agent loyal to Great Britain against Nazi Germany during World War II, when he relocated to Britain to carry out fictitious spying activities for th...
+
+- [Mike Winkelmann](https://en.wikipedia.org/w/index.php?title=Mike_Winkelmann&oldid=1288438508) - Michael Joseph Winkelmann (born June 20, 1981), known professionally as Beeple, is an American digital artist, graphic designer, and animator known for selling NFTs. In his art, he uses various media to create comical, phantasmagoric works which make political and social commentary while using pop culture figures as references. British auction house...
+
+- [<i>Blue Mustang</i>](https://en.wikipedia.org/w/index.php?title=Blue_Mustang&oldid=1286178579) - Blue Mustang (colloquially known as Blucifer) is a cast-fiberglass sculpture of a mustang located at Denver International Airport (DEN). Colored bright blue, with illuminated glowing red eyes, it is notable both for its striking appearance and for having killed its sculptor, Luis Jiménez, when a section of it fell on him at his studio.
+
 - [Secchi disk](https://en.wikipedia.org/w/index.php?title=Secchi_disk&oldid=1278072100) - The Secchi disk (or Secchi disc), as created in 1865 by Angelo Secchi, is a plain white, circular disk 30 cm (12 in) in diameter used to measure water transparency or turbidity in bodies of water. The disc is mounted on a pole or line and lowered slowly down in the water. The depth at which the disk is no longer visible is taken as a measure of the ...
 
 - [Project Babylon](https://en.wikipedia.org/w/index.php?title=Project_Babylon&oldid=1241072049) - Project Babylon was a space gun project commissioned by then Iraqi president Saddam Hussein. It involved building a series of "superguns". The design was based on research from the 1960s Project HARP led by the Canadian artillery expert Gerald Bull. There were most likely four different devices in the program. The project began in 1988; it was halte...
@@ -1274,10 +1312,6 @@ To view a single category, check the files/ folder.
 - [Cat organ](https://en.wikipedia.org/w/index.php?title=Cat_organ&oldid=1283972435) - A cat organ (German: Katzenorgel, French: Orgue à chats), also called cat piano (German: Katzenklavier, French: piano à chats), is a hypothetical musical instrument which consists of a line of cats fixed in place with their tails stretched out underneath a keyboard so that they cry out when a key is pressed. The cats would be arranged according to t...
 
 - [Eggcorn](https://en.wikipedia.org/w/index.php?title=Eggcorn&oldid=1279610127) - An eggcorn is the alteration of a word or phrase through the mishearing or reinterpretation of one or more of its elements, creating a new phrase which is plausible when used in the same context. Thus, an eggcorn is an unexpectedly fitting or creative malapropism. Eggcorns often arise as people attempt to make sense of a stock phrase that uses a ter...
-
-- [FYIFV - Wikipedia](https://en.wikipedia.org/wiki/FYIFV)
-
-- [FYIFV - Wikipedia](https://en.wikipedia.org/wiki/FYIFV)
 
 - [Lavarand](https://en.wikipedia.org/w/index.php?title=Lavarand&oldid=1280165082) - Lavarand, also known as the Wall of Entropy, is a hardware random number generator designed by Silicon Graphics that worked by taking pictures of the patterns made by the floating material in lava lamps, extracting random data from the pictures allegedly using the result to seed a pseudorandom number generator.
 
@@ -1453,13 +1487,17 @@ To view a single category, check the files/ folder.
 
 - [Snake wine](https://en.wikipedia.org/w/index.php?title=Snake_wine&oldid=1191756310) - Snake wine (Chinese: 蛇酒; pinyin: shé-jiǔ; Vietnamese: rượu rắn; Khmer: ស្រាពស់, sra poas) is an alcoholic beverage produced by infusing whole snakes in rice wine or grain alcohol. The drink was first recorded to have been consumed in China during the Western Zhou dynasty (c. 1040–770 BC) and believed in folklore to reinvigorate a person according to...
 
-- [National conventions for writing telephone numbers](https://en.wikipedia.org/w/index.php?title=National_conventions_for_writing_telephone_numbers&oldid=1217990549) - National conventions for writing telephone numbers vary by country. The International Telecommunication Union (ITU) publishes a recommendation entitled Notation for national and international telephone numbers, e-mail addresses and Web addresses. Recommendation E.123 specifies the format of telephone numbers assigned to telephones and similar commun...
-
-- [No one likes us, we don't care](https://en.wikipedia.org/w/index.php?title=No_one_likes_us,_we_don%27t_care&oldid=1195704256) - "No one likes us, we don't care" is a sports chant that originated as a football chant sung by supporters of the English football club Millwall in the late 1970s. It is sung to the tune of "(We Are) Sailing" by Rod Stewart.  The late 1960s saw the rise of fan violence and football hooliganism throughout England; Millwall was one of several English t...
-
-- [CONOP 8888](https://en.wikipedia.org/w/index.php?title=CONOP_8888&oldid=1204685566) - CONPLAN 8888, also known as Counter-Zombie Dominance, is a U.S. Department of Defense Strategic Command CONOP document  that describes a plan for the United States and its military defending against zombies. It was initially classified by the United States Intelligence Community, but was eventually declassified following a Freedom of Information Act...
-
 # misc
+- [Revenge Font](https://revengefont.com/) - Someone vandalised our building and we made a font out of it. Download it and donate towards local initiatives that will improve the art in East London.
+
+- [Unsure Calculator](https://filiph.github.io/unsure/) - The Unsure Calculator is an online tool that lets you calculate with numbers you’re not sure about.
+
+- [Owls in Towels](https://owlsintowels.org/)
+
+- [Reports From Unknown Places](https://www.ninnsalaun.com/today)
+
+- [roughViz.js](https://www.jwilber.me/roughviz/)
+
 - [Midlife Engineering – Sound therapy for a harmonious mind](https://www.midlife.engineering/) - Midlife Engineering is a sound therapy tool for the creatively restless. Craft ambient soundscapes to ease stress, sharpen focus, and spark creativity. Think of it as yoga for your ears, minus the awkward stretching and ability to do yoga (or make music).
 
 - [Clickens](https://clickens.chicken.pics/malleable/38/12)
@@ -1499,8 +1537,6 @@ To view a single category, check the files/ folder.
 - [Gregg Shorthand](https://greggshorthand.github.io/index.html)
 
 - [Wikipedia: The Text Adventure](https://kevan.org/wikitext/) - A playable text adventure version of Wikipedia. Start anywhere that has a Wikipedia article, and explore the world a step at a time.
-
-- [Traintrackr - Live LED Maps](https://www.traintrackr.io/product)
 
 - [GitHub - Jaennaet/pISSStream: macOS menu bar app that shows how full the International Space Station's urine tank is in real time](https://github.com/Jaennaet/pISSStream) - macOS menu bar app that shows how full the International Space Station's urine tank is in real time - Jaennaet/pISSStream
 
@@ -1651,12 +1687,4 @@ To view a single category, check the files/ folder.
 - [Holotypic Occlupanid Research Group](https://www.horg.com/horg) - This site contains ongoing research in the classification of occlupanids.
 
 - [OpenPods](https://github.com/adolfintel/OpenPods) - The Free and Open Source app for monitoring your AirPods on Android
-
-- [Home | Shrimp Welfare Project](https://www.shrimpwelfareproject.org) - Shrimp Welfare Project aims to improve the lives of billions of farmed shrimps in India and Southeast Asia.
-
-- [AmputatorBot: Remove AMP from your URLs](https://www.amputatorbot.com) - AMP is threatening your privacy and the Open Web. With AmputatorBot, you can remove it from your URLs. AmputatorBot is available in many forms: here, as bots on Reddit and Twitter and as a free and public API
-
-- [Element Speller](https://www.bgreco.net/periodic/)
-
-- [ZType – Typing Game - Type to Shoot](https://zty.pe/)
 

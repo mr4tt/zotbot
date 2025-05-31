@@ -1,4 +1,14 @@
 # news
+- [With Acts of Subversion, Some Russians Fight Propaganda in Schools](https://www.nytimes.com/2025/05/06/world/europe/russia-putin-schools-patriotic-education.html) - Three years into Russia’s invasion of Ukraine, antiwar parents and some teachers say they are going to great lengths to shield children from state-mandated patriotic education classes.
+
+- [‘A Billion Streams and No Fans’: Inside a $10 Million AI Music Fraud Case](https://www.wired.com/story/ai-bots-streaming-music/) - A chart-topping jazz album! Loads of Spotify and Apple Music plays! Just one problem: The success might not be real.
+
+- [The Epic Rise and Fall of a Dark-Web Psychedelics Kingpin](https://www.wired.com/story/rise-fall-dark-web-psychedelics-kingpin-dmt/) - Interdimensional travel, sex with aliens, communion with God. Anything is possible with just a sprinkle of DMT. Akasha Song’s secret labs made millions of doses—and dollars—until the feds showed up.
+
+- [3 Teens Almost Got Away With Murder. Then Police Found Their Google Searches](https://www.wired.com/story/find-my-iphone-arson-case/) - An arson attack in Colorado had detectives stumped. The way they solved the case could put everyone at risk.
+
+- [Duck Caught on Radar Going Almost Twice the Speed Limit Turns Out to Be Fast-Flying 'Repeat Offender'](https://people.com/repeat-offender-duck-caught-on-speed-camera-twice-seven-years-apart-to-the-day-11734882) - A mallard duck was caught speeding — flying 52 km per hour in a 30 km per hour zone — on a radar camera in Switzerland. The duck is 'a notorious speeder and repeat offender,' the Municipality of Köniz said.
+
 - [Carnivorous ‘Bone Collector’ Caterpillars Wear Corpses as Camouflage](https://www.scientificamerican.com/article/carnivorous-bone-collector-caterpillars-wear-corpses-as-camouflage/) - Nicknamed the “bone collector,” this newly confirmed caterpillar in Hawaii secretly scrounges off a spider landlord by covering itself with dead insect body parts
 
 - [Sales of Hard Drives for the End of the World Boom Under Trump](https://www.404media.co/sales-of-hard-drives-prepper-disk-for-the-end-of-the-world-have-boomed-under-trump/) - PrepperDisk is a mini internet box that comes preloaded with offline backups of some of the content that is being deleted by the administration.
@@ -188,14 +198,4 @@
 - [Google Used a Black, Deaf Worker to Tout Its Diversity. Now She’s Suing for Discrimination](https://www.wired.com/story/google-black-deaf-worker-diversity-suing-discrimination/) - Jalon Hall was featured on Google’s corporate social media accounts “for making #LifeAtGoogle more inclusive!” She says the company discriminated against her on the basis of her disability and race.
 
 - [These Kids Made Their Influencer Parents Wealthy. Will They See a Dime of That Money?](https://www.cosmopolitan.com/lifestyle/a60125272/sharenting-parenting-influencer-cost-children/) - In the unregulated world of vloggers, children are, for the most part, not entitled to a single cent they help earn. We spoke to creators—and the child of a mommy blogger—to understand how this unusual family business actually works.
-
-- [An engineer bought a prison laptop on eBay. Then 1,200 incarcerated students lost their devices.](https://www.opencampusmedia.org/2024/03/04/an-engineer-bought-a-prison-laptop-on-ebay-then-1200-incarcerated-students-lost-their-devices/) - Students said they were given little information about when and if the devices would be returned, and many wondered if they’d lose access to the work they saved.
-
-- [The job applicants shut out by AI: ‘The interviewer sounded like Siri’](https://www.theguardian.com/technology/2024/mar/06/ai-interviews-job-applications) - Employers are letting artificial intelligence conduct job interviews. Candidates are trying to beat the system
-
-- [How Casinos Enable Gambling Addicts](https://www.theatlantic.com/magazine/archive/2016/12/losing-it-all/505814/) - Modern slot machines develop an unbreakable hold on many players—some of whom wind up losing their jobs, their families, and even, as in the case of Scott Stevens, their lives.
-
-- [Before There Was Tinder](https://www.thecut.com/2022/09/computer-dating-love-stories.html) - Five people on finding their life partners through 1960s “computer dating.”
-
-- [Two of four stolen giant tortoises found in Dorset](https://www.bbc.com/news/uk-england-dorset-45314157) - Blastoise and Jeffery were found, but the other two - Squirtle and Wartortle - are still missing.
 
