@@ -80,6 +80,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [28 slightly rude notes on writing](https://www.experimental-history.com/p/28-slightly-rude-notes-on-writing) - OR: catapulting myself into a pit of tarantulas
+
 - [The Crane Wife by CJ Hauser](https://www.theparisreview.org/blog/2019/07/16/the-crane-wife/)
 
 - [MalwareTech – Darknet Diaries](https://darknetdiaries.com/episode/158/) - MalwareTech was an anonymous security researcher, until he accidentally stopped WannaCry, one of the largest ransomware attacks in history. That single act of heroism shattered his anonymity and pulled him into a world he never expected.
@@ -1287,6 +1289,10 @@ To view a single category, check the files/ folder.
 - [These Kids Made Their Influencer Parents Wealthy. Will They See a Dime of That Money?](https://www.cosmopolitan.com/lifestyle/a60125272/sharenting-parenting-influencer-cost-children/) - In the unregulated world of vloggers, children are, for the most part, not entitled to a single cent they help earn. We spoke to creators—and the child of a mommy blogger—to understand how this unusual family business actually works.
 
 # wikipedia
+- [List of unusual units of measurement](https://en.wikipedia.org/w/index.php?title=List_of_unusual_units_of_measurement&oldid=1292736290) - An unusual unit of measurement is a unit of measurement that does not form part of a coherent system of measurement, especially because its exact quantity may not be well known or because it may be an inconvenient multiple or fraction of a base unit. Many of the unusual units of measurements listed here are colloquial measurements, units devised to ...
+
+- [Olo (color)](https://en.wikipedia.org/w/index.php?title=Olo_(color)&oldid=1292414039) - Olo is an imaginary color that can be seen by shooting lasers into the retina to isolate the response M cone cells. It is impossible to view under normal viewing conditions, due to the overlap between the wavelengths of light which stimulate M cone cells, and those that stimulate S and L cone cells. In other words, there is no monochromatic stimulus...
+
 - [FYIFV](https://en.wikipedia.org/wiki/FYIFV) - FYIFV (standing for "Fuck You, I'm Fully Vested") or FYIV[1] is a piece of early Microsoft jargon that has become an urban legend: the claim that employees whose stock options were fully vested (that is, could be exercised) would occasionally wear T-shirts or buttons with the initials "FYIFV" to indicate they were sufficiently financially independen...
 
 - [Go Away Green](https://en.wikipedia.org/w/index.php?title=Go_Away_Green&oldid=1279685110) - Go Away Green refers to a range of paint colors used in Disney Parks to divert attention away from infrastructure. It has been compared to military camouflage like Olive Drab. Imagineer John Hench wrote about developing such colors, "We chose a neutral gray-brown for the railing, a 'go away' color that did not call attention to itself, even though i...
@@ -1482,10 +1488,6 @@ To view a single category, check the files/ folder.
 - [List of common misconceptions](https://en.wikipedia.org/w/index.php?title=List_of_common_misconceptions&oldid=1231212291) - Each entry on this list of common misconceptions is worded as a correction; the misconceptions themselves are implied rather than stated. These entries are concise summaries of the main subject articles, which can be consulted for more detail.
 
 - [Corporate Memphis](https://en.wikipedia.org/w/index.php?title=Corporate_Memphis&oldid=1229117026) - Corporate Memphis (alternative names: Alegria art, big tech art, flat art, or corporate artstyle) is an art style named after the Memphis Group that features flat areas of color and geometric elements. Widely associated with Big Tech illustrations in the late 2010s and early 2020s, it has been met with a polarized response, with criticism focusing o...
-
-- [Graffiti (Palm OS)](https://en.wikipedia.org/w/index.php?title=Graffiti_(Palm_OS)&oldid=1211852576) - Graffiti is an essentially single-stroke shorthand handwriting recognition system used in PDAs based on the Palm OS. Graffiti was originally written by Palm, Inc. as the recognition system for GEOS-based devices such as HP's OmniGo 100 and 120 or the Magic Cap-line and was available as an alternate recognition system for the Apple Newton MessagePad,...
-
-- [Snake wine](https://en.wikipedia.org/w/index.php?title=Snake_wine&oldid=1191756310) - Snake wine (Chinese: 蛇酒; pinyin: shé-jiǔ; Vietnamese: rượu rắn; Khmer: ស្រាពស់, sra poas) is an alcoholic beverage produced by infusing whole snakes in rice wine or grain alcohol. The drink was first recorded to have been consumed in China during the Western Zhou dynasty (c. 1040–770 BC) and believed in folklore to reinvigorate a person according to...
 
 # misc
 - [Revenge Font](https://revengefont.com/) - Someone vandalised our building and we made a font out of it. Download it and donate towards local initiatives that will improve the art in East London.

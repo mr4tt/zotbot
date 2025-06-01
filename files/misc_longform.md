@@ -1,4 +1,6 @@
 # misc_longform
+- [28 slightly rude notes on writing](https://www.experimental-history.com/p/28-slightly-rude-notes-on-writing) - OR: catapulting myself into a pit of tarantulas
+
 - [The Crane Wife by CJ Hauser](https://www.theparisreview.org/blog/2019/07/16/the-crane-wife/)
 
 - [MalwareTech – Darknet Diaries](https://darknetdiaries.com/episode/158/) - MalwareTech was an anonymous security researcher, until he accidentally stopped WannaCry, one of the largest ransomware attacks in history. That single act of heroism shattered his anonymity and pulled him into a world he never expected.
