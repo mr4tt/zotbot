@@ -1289,6 +1289,8 @@ To view a single category, check the files/ folder.
 - [These Kids Made Their Influencer Parents Wealthy. Will They See a Dime of That Money?](https://www.cosmopolitan.com/lifestyle/a60125272/sharenting-parenting-influencer-cost-children/) - In the unregulated world of vloggers, children are, for the most part, not entitled to a single cent they help earn. We spoke to creators—and the child of a mommy blogger—to understand how this unusual family business actually works.
 
 # wikipedia
+- [Onfim](https://en.wikipedia.org/w/index.php?title=Onfim&oldid=1289845358) - Anthemius (Old Novgorodian: Онѳимє, romanized: Onthime; fl. c. 1220–60), better known by the modern Russian spelling of his name, Onfim (Russian: Онфим), was a boy who lived in Novgorod (now Veliky Novgorod, Russia) in the 13th century, sometime around 1220 or 1260. He left his notes and homework exercises scratched in soft birch bark, which was pre...
+
 - [List of unusual units of measurement](https://en.wikipedia.org/w/index.php?title=List_of_unusual_units_of_measurement&oldid=1292736290) - An unusual unit of measurement is a unit of measurement that does not form part of a coherent system of measurement, especially because its exact quantity may not be well known or because it may be an inconvenient multiple or fraction of a base unit. Many of the unusual units of measurements listed here are colloquial measurements, units devised to ...
 
 - [Olo (color)](https://en.wikipedia.org/w/index.php?title=Olo_(color)&oldid=1292414039) - Olo is an imaginary color that can be seen by shooting lasers into the retina to isolate the response M cone cells. It is impossible to view under normal viewing conditions, due to the overlap between the wavelengths of light which stimulate M cone cells, and those that stimulate S and L cone cells. In other words, there is no monochromatic stimulus...
@@ -1486,8 +1488,6 @@ To view a single category, check the files/ folder.
 - [Jonestown](https://en.wikipedia.org/w/index.php?title=Jonestown&oldid=1231039360) - The Peoples Temple Agricultural Project, better known by its informal name "Jonestown", was a remote settlement in Guyana established by the Peoples Temple, an American cult under the leadership of Jim Jones. Jonestown became internationally infamous when, on November 18, 1978, a total of 918 people died at the settlement, at the nearby airstrip in ...
 
 - [List of common misconceptions](https://en.wikipedia.org/w/index.php?title=List_of_common_misconceptions&oldid=1231212291) - Each entry on this list of common misconceptions is worded as a correction; the misconceptions themselves are implied rather than stated. These entries are concise summaries of the main subject articles, which can be consulted for more detail.
-
-- [Corporate Memphis](https://en.wikipedia.org/w/index.php?title=Corporate_Memphis&oldid=1229117026) - Corporate Memphis (alternative names: Alegria art, big tech art, flat art, or corporate artstyle) is an art style named after the Memphis Group that features flat areas of color and geometric elements. Widely associated with Big Tech illustrations in the late 2010s and early 2020s, it has been met with a polarized response, with criticism focusing o...
 
 # misc
 - [Revenge Font](https://revengefont.com/) - Someone vandalised our building and we made a font out of it. Download it and donate towards local initiatives that will improve the art in East London.
