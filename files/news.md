@@ -1,4 +1,12 @@
 # news
+- [A New Pyramid-Like Shape Always Lands the Same Side Up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/) - A tetrahedron is the simplest Platonic solid. Mathematicians have now made one that’s stable only on one side, confirming a decades-old conjecture.
+
+- [Cozy video games can quell stress and anxiety.](https://www.reuters.com/graphics/VIDEO-GAMES/MENTAL-HEALTH/akpeewkqgpr/) - Explore a charming town, meet quirky villagers, and take in the cozy vibes!
+
+- [When Your Child Is a Psychopath](https://www.theatlantic.com/magazine/archive/2017/06/when-your-child-is-a-psychopath/524502/) - The condition has long been considered untreatable. Experts can spot it in a child as young as 3 or 4. But a new clinical approach offers hope.
+
+- [The Silicon Valley Suicides](https://www.theatlantic.com/magazine/archive/2015/12/the-silicon-valley-suicides/413140/) - Why are so many kids with bright prospects killing themselves in Palo Alto?
+
 - [With Acts of Subversion, Some Russians Fight Propaganda in Schools](https://www.nytimes.com/2025/05/06/world/europe/russia-putin-schools-patriotic-education.html) - Three years into Russia’s invasion of Ukraine, antiwar parents and some teachers say they are going to great lengths to shield children from state-mandated patriotic education classes.
 
 - [‘A Billion Streams and No Fans’: Inside a $10 Million AI Music Fraud Case](https://www.wired.com/story/ai-bots-streaming-music/) - A chart-topping jazz album! Loads of Spotify and Apple Music plays! Just one problem: The success might not be real.
@@ -190,12 +198,4 @@
 - [Students who grew up with search engines might change STEM education forever](https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z) - Professors are struggling to teach Gen Z
 
 - [The IRS Finally Has an Answer to TurboTax](https://www.theatlantic.com/technology/archive/2024/03/irs-direct-file/677818/) - Against all odds, the government has created an actually good piece of technology.
-
-- [DNA Tests Are Uncovering the True Prevalence of Incest](https://www.theatlantic.com/health/archive/2024/03/dna-tests-incest/677791/) - People are discovering the truth about their biological parents with DNA—and learning that incest is far more common than many think.
-
-- [The Danger of the President’s Nuclear Powers | Opinion](https://www.nytimes.com/interactive/2024/03/07/opinion/nuclear-weapons-president.html) - In the United States, it’s up to one person to decide whether the world becomes engulfed in nuclear war.
-
-- [Google Used a Black, Deaf Worker to Tout Its Diversity. Now She’s Suing for Discrimination](https://www.wired.com/story/google-black-deaf-worker-diversity-suing-discrimination/) - Jalon Hall was featured on Google’s corporate social media accounts “for making #LifeAtGoogle more inclusive!” She says the company discriminated against her on the basis of her disability and race.
-
-- [These Kids Made Their Influencer Parents Wealthy. Will They See a Dime of That Money?](https://www.cosmopolitan.com/lifestyle/a60125272/sharenting-parenting-influencer-cost-children/) - In the unregulated world of vloggers, children are, for the most part, not entitled to a single cent they help earn. We spoke to creators—and the child of a mommy blogger—to understand how this unusual family business actually works.
 

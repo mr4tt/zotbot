@@ -1,4 +1,12 @@
 # misc
+- [The Punctuation Guide](https://www.thepunctuationguide.com/?utm_source=cassidoo) - The web's most comprehensive guide to American punctuation.
+
+- [Lake Washington salmon counts | Washington Department of Fish & Wildlife](https://wdfw.wa.gov/fishing/reports/counts/lake-washington) - Lake Washington sockeye salmon have been counted each year since 1972 as they enter freshwater at the Hiram M. Chittenden Locks.
+
+- [Date Night Questions](https://www.datenightquestions.com/) - Creating better date nights and closer connections, one question at a time
+
+- [pointerpointer.com](https://pointerpointer.com/) - Please hold still while we locate your pointer...
+
 - [Revenge Font](https://revengefont.com/) - Someone vandalised our building and we made a font out of it. Download it and donate towards local initiatives that will improve the art in East London.
 
 - [Unsure Calculator](https://filiph.github.io/unsure/) - The Unsure Calculator is an online tool that lets you calculate with numbers you’re not sure about.
@@ -35,11 +43,7 @@
 
 - [Shift Happens typewriter simulator](https://shifthappens.site/typewriter/) - A fun way to experience a typewriter without needing to have one!
 
-- [The Colour Clock](http://www.thecolourclock.com/) - Time as a hexadecimal colour
-
 - [Silent Poems](https://silentpoems.net/)
-
-- [The Colour Clock](http://www.thecolourclock.com/) - Time as a hexadecimal colour
 
 - [Simulate sun shadows](https://shademap.app) - Every mountain, building and tree shadow in the world simulated for any date and time
 
@@ -194,8 +198,4 @@
 - [Bubble Tea: A Breakdown](https://taiwandatastories.com/bubble-tea-guide/)
 
 - [Compromise](https://compromise.cool/)
-
-- [Holotypic Occlupanid Research Group](https://www.horg.com/horg) - This site contains ongoing research in the classification of occlupanids.
-
-- [OpenPods](https://github.com/adolfintel/OpenPods) - The Free and Open Source app for monitoring your AirPods on Android
 

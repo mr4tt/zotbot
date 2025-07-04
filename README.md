@@ -410,6 +410,10 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [the cat from ipanema](https://www.youtube.com/watch?v=dg4dmNvxdu0)
+
+- [Patrick Page - HOT TO GO , Dramatic Reading (Chappell Roan)](https://www.youtube.com/watch?v=Ax5WqfqSPX8)
+
 - [The Best Ham Sandwich According to a Fish](https://www.youtube.com/watch?v=hINZMYqVqU8)
 
 - [Gary Johnson booed at the Libertarian Debate for Supporting Driver's Licenses](https://www.youtube.com/watch?v=ZITP93pqtdQ)
@@ -1088,6 +1092,14 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [A New Pyramid-Like Shape Always Lands the Same Side Up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/) - A tetrahedron is the simplest Platonic solid. Mathematicians have now made one that’s stable only on one side, confirming a decades-old conjecture.
+
+- [Cozy video games can quell stress and anxiety.](https://www.reuters.com/graphics/VIDEO-GAMES/MENTAL-HEALTH/akpeewkqgpr/) - Explore a charming town, meet quirky villagers, and take in the cozy vibes!
+
+- [When Your Child Is a Psychopath](https://www.theatlantic.com/magazine/archive/2017/06/when-your-child-is-a-psychopath/524502/) - The condition has long been considered untreatable. Experts can spot it in a child as young as 3 or 4. But a new clinical approach offers hope.
+
+- [The Silicon Valley Suicides](https://www.theatlantic.com/magazine/archive/2015/12/the-silicon-valley-suicides/413140/) - Why are so many kids with bright prospects killing themselves in Palo Alto?
+
 - [With Acts of Subversion, Some Russians Fight Propaganda in Schools](https://www.nytimes.com/2025/05/06/world/europe/russia-putin-schools-patriotic-education.html) - Three years into Russia’s invasion of Ukraine, antiwar parents and some teachers say they are going to great lengths to shield children from state-mandated patriotic education classes.
 
 - [‘A Billion Streams and No Fans’: Inside a $10 Million AI Music Fraud Case](https://www.wired.com/story/ai-bots-streaming-music/) - A chart-topping jazz album! Loads of Spotify and Apple Music plays! Just one problem: The success might not be real.
@@ -1280,15 +1292,13 @@ To view a single category, check the files/ folder.
 
 - [The IRS Finally Has an Answer to TurboTax](https://www.theatlantic.com/technology/archive/2024/03/irs-direct-file/677818/) - Against all odds, the government has created an actually good piece of technology.
 
-- [DNA Tests Are Uncovering the True Prevalence of Incest](https://www.theatlantic.com/health/archive/2024/03/dna-tests-incest/677791/) - People are discovering the truth about their biological parents with DNA—and learning that incest is far more common than many think.
-
-- [The Danger of the President’s Nuclear Powers | Opinion](https://www.nytimes.com/interactive/2024/03/07/opinion/nuclear-weapons-president.html) - In the United States, it’s up to one person to decide whether the world becomes engulfed in nuclear war.
-
-- [Google Used a Black, Deaf Worker to Tout Its Diversity. Now She’s Suing for Discrimination](https://www.wired.com/story/google-black-deaf-worker-diversity-suing-discrimination/) - Jalon Hall was featured on Google’s corporate social media accounts “for making #LifeAtGoogle more inclusive!” She says the company discriminated against her on the basis of her disability and race.
-
-- [These Kids Made Their Influencer Parents Wealthy. Will They See a Dime of That Money?](https://www.cosmopolitan.com/lifestyle/a60125272/sharenting-parenting-influencer-cost-children/) - In the unregulated world of vloggers, children are, for the most part, not entitled to a single cent they help earn. We spoke to creators—and the child of a mommy blogger—to understand how this unusual family business actually works.
-
 # wikipedia
+- [Honeypot ant](https://en.wikipedia.org/w/index.php?title=Honeypot_ant&oldid=1297155934) - Honeypot ants, also called honey ants, are ants which have specialized workers—repletes, plerergates or rotunds—that consume large amounts of food to the point that their abdomens swell enormously. This phenomenon of extreme inflation of the trunk is called physogastry. Other ants then extract nourishment from them, through the process of trophallax...
+
+- [Ketchup as a vegetable](https://en.wikipedia.org/w/index.php?title=Ketchup_as_a_vegetable&oldid=1248347912) - The ketchup as a vegetable controversy stemmed from proposed regulations of school lunches by the USDA's Food and Nutrition Service (FNS) in 1981, early in the presidency of Ronald Reagan. The regulations were intended to provide meal planning flexibility to local school lunch administrators coping with cuts to the National School Lunch Program enac...
+
+- [Sluggard waker](https://en.wikipedia.org/w/index.php?title=Sluggard_waker&oldid=1249787093) - A sluggard waker was an 18th-century job undertaken by a parishioner (usually the parish clerk), in British churches. The sole task of the sluggard waker was to watch the congregation during the services and tap anyone who appeared to be falling asleep sharply on the head. The actual tapping was not done by hand, nor was it done particularly gently ...
+
 - [Onfim](https://en.wikipedia.org/w/index.php?title=Onfim&oldid=1289845358) - Anthemius (Old Novgorodian: Онѳимє, romanized: Onthime; fl. c. 1220–60), better known by the modern Russian spelling of his name, Onfim (Russian: Онфим), was a boy who lived in Novgorod (now Veliky Novgorod, Russia) in the 13th century, sometime around 1220 or 1260. He left his notes and homework exercises scratched in soft birch bark, which was pre...
 
 - [List of unusual units of measurement](https://en.wikipedia.org/w/index.php?title=List_of_unusual_units_of_measurement&oldid=1292736290) - An unusual unit of measurement is a unit of measurement that does not form part of a coherent system of measurement, especially because its exact quantity may not be well known or because it may be an inconvenient multiple or fraction of a base unit. Many of the unusual units of measurements listed here are colloquial measurements, units devised to ...
@@ -1483,13 +1493,15 @@ To view a single category, check the files/ folder.
 
 - [Alan MacMasters hoax](https://en.wikipedia.org/w/index.php?title=Alan_MacMasters_hoax&oldid=1236066379) - On 10 February 2012, photography and ICT student Alan MacMasters attended a university lecture where the class was cautioned against using Wikipedia as a source. The lecturer mentioned that his friend had falsely claimed to be the inventor of the toaster on the Wikipedia page. Following the lecture, Alan and his friends edited the Wikipedia toaster ...
 
-- [Heaven's Gate (religious group)](https://en.wikipedia.org/w/index.php?title=Heaven%27s_Gate_(religious_group)&oldid=1229163453) - Heaven's Gate was an American new religious movement known primarily for the mass suicides  committed by its members in 1997. Commonly designated a cult, it was founded in 1974 and led by Bonnie Nettles (1927–1985) and Marshall Applewhite (1931–1997), known within the movement as Ti and Do, respectively. Nettles and Applewhite first met in 1972 and ...
-
-- [Jonestown](https://en.wikipedia.org/w/index.php?title=Jonestown&oldid=1231039360) - The Peoples Temple Agricultural Project, better known by its informal name "Jonestown", was a remote settlement in Guyana established by the Peoples Temple, an American cult under the leadership of Jim Jones. Jonestown became internationally infamous when, on November 18, 1978, a total of 918 people died at the settlement, at the nearby airstrip in ...
-
-- [List of common misconceptions](https://en.wikipedia.org/w/index.php?title=List_of_common_misconceptions&oldid=1231212291) - Each entry on this list of common misconceptions is worded as a correction; the misconceptions themselves are implied rather than stated. These entries are concise summaries of the main subject articles, which can be consulted for more detail.
-
 # misc
+- [The Punctuation Guide](https://www.thepunctuationguide.com/?utm_source=cassidoo) - The web's most comprehensive guide to American punctuation.
+
+- [Lake Washington salmon counts | Washington Department of Fish & Wildlife](https://wdfw.wa.gov/fishing/reports/counts/lake-washington) - Lake Washington sockeye salmon have been counted each year since 1972 as they enter freshwater at the Hiram M. Chittenden Locks.
+
+- [Date Night Questions](https://www.datenightquestions.com/) - Creating better date nights and closer connections, one question at a time
+
+- [pointerpointer.com](https://pointerpointer.com/) - Please hold still while we locate your pointer...
+
 - [Revenge Font](https://revengefont.com/) - Someone vandalised our building and we made a font out of it. Download it and donate towards local initiatives that will improve the art in East London.
 
 - [Unsure Calculator](https://filiph.github.io/unsure/) - The Unsure Calculator is an online tool that lets you calculate with numbers you’re not sure about.
@@ -1526,11 +1538,7 @@ To view a single category, check the files/ folder.
 
 - [Shift Happens typewriter simulator](https://shifthappens.site/typewriter/) - A fun way to experience a typewriter without needing to have one!
 
-- [The Colour Clock](http://www.thecolourclock.com/) - Time as a hexadecimal colour
-
 - [Silent Poems](https://silentpoems.net/)
-
-- [The Colour Clock](http://www.thecolourclock.com/) - Time as a hexadecimal colour
 
 - [Simulate sun shadows](https://shademap.app) - Every mountain, building and tree shadow in the world simulated for any date and time
 
@@ -1685,8 +1693,4 @@ To view a single category, check the files/ folder.
 - [Bubble Tea: A Breakdown](https://taiwandatastories.com/bubble-tea-guide/)
 
 - [Compromise](https://compromise.cool/)
-
-- [Holotypic Occlupanid Research Group](https://www.horg.com/horg) - This site contains ongoing research in the classification of occlupanids.
-
-- [OpenPods](https://github.com/adolfintel/OpenPods) - The Free and Open Source app for monitoring your AirPods on Android
 

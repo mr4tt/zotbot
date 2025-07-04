@@ -1,4 +1,8 @@
 # videos
+- [the cat from ipanema](https://www.youtube.com/watch?v=dg4dmNvxdu0)
+
+- [Patrick Page - HOT TO GO , Dramatic Reading (Chappell Roan)](https://www.youtube.com/watch?v=Ax5WqfqSPX8)
+
 - [The Best Ham Sandwich According to a Fish](https://www.youtube.com/watch?v=hINZMYqVqU8)
 
 - [Gary Johnson booed at the Libertarian Debate for Supporting Driver's Licenses](https://www.youtube.com/watch?v=ZITP93pqtdQ)
