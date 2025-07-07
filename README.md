@@ -277,7 +277,11 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
-- [Products](https://www.microbiomearts.com/products) - Browse all products from Microbiome Arts.
+- [JoannaShenArt](https://joannashenart.bigcartel.com/) - Welcome to JoannaShenArt, where Jo turns her unique nature, food, and Asian culture inspired designs into lifestyle merchandise that adds an extra...
+
+- [Microbiome Arts](https://www.microbiomearts.com/products) - Browse all products from Microbiome Arts.
+
+- [Thanksxu](https://thanksxu.com/) - art, charm, and buns~
 
 - [Meyoco](https://meyocostudio.com/collections/all) - Apparel and accessories designed by the artist Meyoco
 

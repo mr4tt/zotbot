@@ -1,5 +1,9 @@
 # shops
-- [Products](https://www.microbiomearts.com/products) - Browse all products from Microbiome Arts.
+- [JoannaShenArt](https://joannashenart.bigcartel.com/) - Welcome to JoannaShenArt, where Jo turns her unique nature, food, and Asian culture inspired designs into lifestyle merchandise that adds an extra...
+
+- [Microbiome Arts](https://www.microbiomearts.com/products) - Browse all products from Microbiome Arts.
+
+- [Thanksxu](https://thanksxu.com/) - art, charm, and buns~
 
 - [Meyoco](https://meyocostudio.com/collections/all) - Apparel and accessories designed by the artist Meyoco
 
