@@ -810,6 +810,10 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [DEF CON 31 War Stories - Tracking the Worlds Dumbest Cyber Mercenaries - Cooper Quintin](https://www.youtube.com/watch?v=zccAvgC4UxU) - Creative Commons Attribution license (reuse allowed)
+
+- [DEF CON 22 - Deviant Ollam & Howard Payne - Elevator Hacking - From the Pit to the Penthouse](https://www.youtube.com/watch?v=oHf1vD5_b5I) - Elevator Hacking - From the Pit to the Penthouse  Deviant Ollam The CORE Group  Howard Payne The CORE Group  Throughout the history of hacker culture, elevators have played a key role. From the mystique of students at MIT taking late-night rides upon car tops (don't do that, please!) to the work of modern pen testers who use elevators to bypass buil...
+
 - [The Illustrated TLS 1.3 Connection](https://tls13.xargs.org/) - Every byte of a TLS connection explained and reproduced
 
 - [ShellCheck – shell script analysis tool](https://www.shellcheck.net/) - ShellCheck finds bugs in your shell scripts
@@ -1010,6 +1014,34 @@ To view a single category, check the files/ folder.
 
 - [GitHub Next](https://next.github.com) - GitHub Next investigates the future of software development
 
+- [Monaspace](https://monaspace.githubnext.com/) - An innovative superfamily of fonts for code
+
+- [Four ways to underline text in LaTeX](https://alexwlchan.net/2017/latex-underlines/) - I'm very picky about the way underlines look, and have spent a lot of time trying to get the perfect underline in LaTeX.
+
+- [Server-side sandboxing: An introduction | Figma Blog](https://www.figma.com/blog/server-side-sandboxing-an-introduction/) - The first of our three-part series on deploying and operating sandboxing techniques
+
+- [NSA Codebreaker Challenge](https://nsa-codebreaker.org/resources)
+
+- [CLARK | Browse Learning Objects](https://clark.center/browse?currPage=8&limit=10&orderBy=date&sortType=-1&collection=nccp&status=released)
+
+- [Low latency logging](www.reddit.com/r/rust/comments/15cm4ug/low_latency_logging/)
+
+- [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
+
+- [The Grug Brained Developer](https://grugbrain.dev/)
+
+- [Dark theme generator](https://colorffy.com/) - Generate your custom dark theme with our easy-to-use CSS and SCSS Dark Theme Generator to easily create and manage your CSS and SCSS custom theme variables.
+
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+- [SICP Distilled](https://www.sicpdistilled.com/section/1.1.1/)
+
+- [Try Clojure](https://tryclojure.org/) - Clojure tutorial in a browser REPL.
+
+- [Nutshell: make expandable, embeddable explanations](https://ncase.me/nutshell/) - a tool to let your readers dive into details
+
+- [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
+
 # stories
 - [Why Don't We Just Kill the Kid In the Omelas Hole](https://clarkesworldmagazine.com/kim_02_24/) - Clarkesworld Science Fiction and Fantasy Magazine and Podcast. This page: Why Don't We Just Kill the Kid In the Omelas Hole by Isabel J. Kim
 
@@ -1098,6 +1130,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The viral AI avatar app Lensa undressed me—without my consent](https://www.technologyreview.com/2022/12/12/1064751/the-viral-ai-avatar-app-lensa-undressed-me-without-my-consent/) - My avatars were cartoonishly pornified, while my male colleagues got to be astronauts, explorers, and inventors.
+
+- [We did the math on AI’s energy footprint. Here’s the story you haven’t heard.](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/) - The emissions from individual AI text, image, and video queries seem small—until you add up what the industry isn’t tracking and consider where it’s heading next.
+
 - [A New Pyramid-Like Shape Always Lands the Same Side Up](https://www.quantamagazine.org/a-new-pyramid-like-shape-always-lands-the-same-side-up-20250625/) - A tetrahedron is the simplest Platonic solid. Mathematicians have now made one that’s stable only on one side, confirming a decades-old conjecture.
 
 - [Cozy video games can quell stress and anxiety.](https://www.reuters.com/graphics/VIDEO-GAMES/MENTAL-HEALTH/akpeewkqgpr/) - Explore a charming town, meet quirky villagers, and take in the cozy vibes!
@@ -1297,6 +1333,180 @@ To view a single category, check the files/ folder.
 - [Students who grew up with search engines might change STEM education forever](https://www.theverge.com/22684730/students-file-folder-directory-structure-education-gen-z) - Professors are struggling to teach Gen Z
 
 - [The IRS Finally Has an Answer to TurboTax](https://www.theatlantic.com/technology/archive/2024/03/irs-direct-file/677818/) - Against all odds, the government has created an actually good piece of technology.
+
+- [DNA Tests Are Uncovering the True Prevalence of Incest](https://www.theatlantic.com/health/archive/2024/03/dna-tests-incest/677791/) - People are discovering the truth about their biological parents with DNA—and learning that incest is far more common than many think.
+
+- [The Danger of the President’s Nuclear Powers | Opinion](https://www.nytimes.com/interactive/2024/03/07/opinion/nuclear-weapons-president.html) - In the United States, it’s up to one person to decide whether the world becomes engulfed in nuclear war.
+
+- [Google Used a Black, Deaf Worker to Tout Its Diversity. Now She’s Suing for Discrimination](https://www.wired.com/story/google-black-deaf-worker-diversity-suing-discrimination/) - Jalon Hall was featured on Google’s corporate social media accounts “for making #LifeAtGoogle more inclusive!” She says the company discriminated against her on the basis of her disability and race.
+
+- [These Kids Made Their Influencer Parents Wealthy. Will They See a Dime of That Money?](https://www.cosmopolitan.com/lifestyle/a60125272/sharenting-parenting-influencer-cost-children/) - In the unregulated world of vloggers, children are, for the most part, not entitled to a single cent they help earn. We spoke to creators—and the child of a mommy blogger—to understand how this unusual family business actually works.
+
+- [An engineer bought a prison laptop on eBay. Then 1,200 incarcerated students lost their devices.](https://www.opencampusmedia.org/2024/03/04/an-engineer-bought-a-prison-laptop-on-ebay-then-1200-incarcerated-students-lost-their-devices/) - Students said they were given little information about when and if the devices would be returned, and many wondered if they’d lose access to the work they saved.
+
+- [The job applicants shut out by AI: ‘The interviewer sounded like Siri’](https://www.theguardian.com/technology/2024/mar/06/ai-interviews-job-applications) - Employers are letting artificial intelligence conduct job interviews. Candidates are trying to beat the system
+
+- [How Casinos Enable Gambling Addicts](https://www.theatlantic.com/magazine/archive/2016/12/losing-it-all/505814/) - Modern slot machines develop an unbreakable hold on many players—some of whom wind up losing their jobs, their families, and even, as in the case of Scott Stevens, their lives.
+
+- [Before There Was Tinder](https://www.thecut.com/2022/09/computer-dating-love-stories.html) - Five people on finding their life partners through 1960s “computer dating.”
+
+- [Two of four stolen giant tortoises found in Dorset](https://www.bbc.com/news/uk-england-dorset-45314157) - Blastoise and Jeffery were found, but the other two - Squirtle and Wartortle - are still missing.
+
+- [Endangered Hawaiian monk seals keep getting eels stuck up their noses; scientists want them to stop](https://www.seattletimes.com/nation-world/make-better-choices-endangered-hawaiian-monk-seals-keep-getting-eels-stuck-up-their-noses-and-scientists-want-them-to-stop/) - The mystery began about two years ago, when Charles Littnan, lead scientist of the monk-seal program, got a strange email from researchers in the field. The subject line was short: "Eel in nose."
+
+- [New pictures show Wally the Walrus relaxing on a small boat in Crookhaven](https://www.irishexaminer.com/news/munster/arid-40360598.html) - Wally the walrus is set to get a ‘floating couch’ in an effort to prevent him from sinking more boats.
+
+- [If I Fits, I Sits: Starlink's Self-Heating Internet Satellite Dishes Are Attracting Cats](https://gizmodo.com/if-i-fits-i-sits-starlinks-self-heating-internet-sate-1848327155) - The dish's Snow Melt Mode prevents snow build-up from interfering with the signal—and apparently provides a toasty outdoor lounge space for critters.
+
+- [Escaped robber returns to annals of weird crime / Cops say 'Roofman' lived large in store](https://www.sfgate.com/news/article/escaped-robber-returns-to-annals-of-weird-crime-2706176.php) - Escaped robber returns to annals of weird crime / Cops say 'Roofman' lived large in...
+
+- [The hijacking of $339,000 worth of rare Japanese KitKats](https://www.straitstimes.com/world/united-states/how-to-kidnap-339000-in-rare-japanese-kitkats) - This is an instance of a computer-based form of fraud dubbed 'part identity theft, part extortion'. Read more at straitstimes.com.
+
+- [Pigeons are still (sometimes) faster than your internet](https://www.washingtonpost.com/technology/2023/11/10/pigeons-are-faster-than-your-internet/) - Internet speeds have come a long way since the days of the dial-up modem, but sometimes you can’t beat the millennia-old method of carrier pigeon.
+
+- [A new look at our linguistic roots](https://arstechnica.com/science/2024/02/a-new-look-at-our-linguistic-roots/) - A controversial analytic technique offers new answers for Indo-European languages.
+
+- [The first known scorpion to live with ants carries mini hitchhikers](https://www.sciencenews.org/article/first-scorpion-live-ants-carries-hitchhikers-animals) - Small arachnids hitch a ride on the scorpion, possibly to get inside food-rich ant nests.
+
+- ['Date Me' Google Docs and the Hyper-Optimized Quest for Love](https://www.wired.com/story/date-me-google-docs-and-the-hyper-optimized-quest-for-love/) - Some people have ditched dating apps—and opted to bare their souls via a public, view-only link instead.
+
+- [AI Cameras Took Over One Small American Town. Now They're Everywhere](https://www.404media.co/fusus-ai-cameras-took-over-town-america/) - Hundreds of documents obtained by 404 Media show how Fusus, a system for linking a town’s security cameras into one central hub and adding AI to them, has spread across the country.
+
+- [Computer scientists designing the future can’t agree on what privacy means](https://www.technologyreview.com/2023/04/03/1070665/cmu-university-privacy-battle-smart-building-sensors-mites/) - Researchers at Carnegie Mellon University wanted to create a privacy-preserving smart sensor. Then, they were accused of violating their colleagues’ privacy.
+
+- [Tropicn: Tropicana withdraws letters 'AI' from its branding. Here's why](https://interestingengineering.com/innovation/tropicn-tropicana-withdraws-letters-ai-from-its-branding-heres-why) - The limited-time rebranding is really just a marketing stunt timed to coincide with CES 2024, one of the biggest tech showcases of the year.
+
+- [This Clever New Idea Could Fix AirTag Stalking While Maximizing Privacy](https://www.wired.com/story/apple-airtag-privacy-stalking-cryptographic-solution/) - Apple updated its location-tracking system in an attempt to cut down on AirTag abuse while still preserving privacy. Researchers think they’ve found a better balance.
+
+- [McDonald’s Ice Cream Machine Hackers Say They Found the ‘Smoking Gun’ That Killed Their Startup](https://www.wired.com/story/kytch-taylor-mcdonalds-ice-cream-machine-smoking-gun/) - Kytch, the company that tried to fix McDonald’s broken ice cream machines, has unearthed a 3-year-old email it says proves claims of an alleged plot to undermine their business.
+
+- [Child Abusers Are Getting Better at Using Crypto to Cover Their Tracks](https://www.wired.com/story/csam-sellers-monero-rise/) - Crypto tracing firm Chainalysis found that sellers of child sexual abuse materials are successfully using “mixers” and “privacy coins” like Monero to launder their profits and evade law enforcement.
+
+- [How the Talmud Became a Best-Seller in South Korea](https://www.newyorker.com/books/page-turner/how-the-talmud-became-a-best-seller-in-south-korea) - In 2011, the South Korean Ambassador to Israel said on Israeli public television that “each Korean family has at least one copy of the Talmud.”
+
+- [The story behind the iconic Vietnam episode of 'Hey Arnold!'](https://www.nbcnews.com/news/asian-america/story-behind-iconic-vietnam-episode-hey-arnold-n1273598) - For the 25th anniversary of the “Hey Arnold!” pilot, show creator Craig Bartlett talked to NBC Asian America about the storyline surrounding Mr. Hyunh, a Vietnamese refugee.
+
+- [The Cold War Over Hacking McDonald’s Ice Cream Machines](https://www.wired.com/story/they-hacked-mcdonalds-ice-cream-makers-started-cold-war/) - Secret codes. Legal threats. Betrayal. How one couple built a device to fix McDonald’s notoriously broken soft-serve machines—and how the fast-food giant froze them out.
+
+- [The Sobering Details Behind the Latest Seed Monopoly Chart](https://civileats.com/2019/01/11/the-sobering-details-behind-the-latest-seed-monopoly-chart/) - As four seed companies now control more than 60 percent of the global market, a seed policy expert argues that consolidation poses major risks to our food supply.
+
+- [A Pixies song is accidentally turning off Google alarms](https://fortune.com/2023/05/04/google-pixel-phone-pixies-song-where-is-my-mind-accidentally-turning-off-alarms/) - The company's Pixel phone responds to voice commands, and sometimes that can have inadvertent effects.
+
+- [Roombas at the End of the World - IEEE Spectrum](https://spectrum.ieee.org/south-pole-roombas) - Robotic romance, ransoms, and raccoon suits at the South Pole
+
+- [They Cracked the Code to a Locked USB Drive Worth $235 Million in Bitcoin. Then It Got Weird](https://www.wired.com/story/unciphered-ironkey-password-cracking-bitcoin/) - Stefan Thomas lost the password to an encrypted USB drive holding 7,002 bitcoins. One team of hackers believes they can unlock it—if they can get Thomas to let them.
+
+- [Giant Rodents 'Invaded' a Wealthy Gated Community. What Happened Next is a Lesson for Cities in the Climate Change Era](https://time.com/6173837/capybaras-argentina-climate-change/) - Nordelta had to adapt after its population of giant rodents started to boom last year.
+
+- ['Satoshi Nakamoto' Just Posted. WTF Is Going On?](https://www.vice.com/en/article/ak347b/satoshi-nakamoto-just-posted-wtf-is-going-on) - Did the anonymous inventor of Bitcoin really just break their silence? Let's go down the rabbit hole.
+
+- [New Evidence Found of Rape and Torture by Russian Forces in Ukraine](https://www.nytimes.com/2023/10/21/world/europe/russia-war-crimes-ukraine.html) - A U.N. report documented cases in the southern regions of Kherson and Zaporizhzhia, which remain partly under Moscow’s control.
+
+- [Thousands of remote IT workers sent wages to North Korea to help fund weapons program, FBI says](https://apnews.com/article/north-korea-weapons-program-it-workers-f3df7c120522b0581db5c0b9682ebc9b) - Federal authorities say that thousands of information technology workers contracting with U.S. companies secretly sent millions of dollars of their wages to North Korea for use in its ballistic missile program.
+
+- [Inside FTX’s All-Night Race to Stop a $1 Billion Crypto Heist | WIRED](https://www.wired.com/story/ftx-1-billion-crypto-heist/)
+
+- [They Studied Dishonesty. Was Their Work a Lie?](https://www.newyorker.com/magazine/2023/10/09/they-studied-dishonesty-was-their-work-a-lie) - Dan Ariely and Francesca Gino became famous for their research into why we bend the truth. Now they’ve both been accused of fabricating data.
+
+- [Willy Wonka and the Medical Software Factory](https://www.nytimes.com/2018/12/20/business/epic-systems-campus-verona-wisconsin.html) - The engineers at Epic Systems work on a campus full of childish whimsy but also sit in on open-heart surgery. Is this the indulgence of an oddball founder, or a better way to run an I.T. company?
+
+- [Swipe Right to Hire Me: How Tinder Became China’s Hottest Networking App](https://www.sixthtone.com/news/1013710) - Young Chinese are increasingly using the dating app to hunt for potential job openings amid soaring graduate unemployment. But the trend is sparking concern among the platform’s users — and inside Tinder itself.
+
+- [And Now a Word From Voice-over Actors](https://www.chicagomag.com/chicago-magazine/september-2023/everyone-tells-me-i-have-a-great-voice/) - It may seem easy, but making a career out of talking isn't as simple as it sounds.
+
+- [Elon Musk Does It. Sergey Brin Does It. Your Boss Might Do It. Welcome to the Workplace Shroom Boom](https://www.wired.co.uk/article/microdosing-workplace-shroom-boom) - Microdosing in the workplace is becoming increasingly common in Europe, even though it’s illegal in many countries and the benefits aren’t entirely proven.
+
+- [The cognitive dissonance of watching the end of Roe unfold online](https://www.technologyreview.com/2022/08/09/1056733/end-roe-dobbs-online-reaction-tech-policy-history/) - People learned about the decision on the same devices they’ll use to help those in need circumvent it.
+
+- [The Mystery of Chernobyl’s Post-Invasion Radiation Spikes](https://www.wired.com/story/chernobyl-radiation-spike-mystery/) - Soon after Russian troops invaded Ukraine in February 2022, sensors in the Chernobyl Exclusion Zone reported radiation spikes. A researcher now believes he’s found evidence the data was manipulated.
+
+- [These women fell in love with an AI-voiced chatbot. Then it died](https://restofworld.org/2023/boyfriend-chatbot-ai-voiced-shutdown/) - An AI-voiced virtual lover called users every morning. Its shutdown left them heartbroken.
+
+- [Right to repair’s unlikely new adversary: Scientologists](https://arstechnica.com/gadgets/2023/08/right-to-repairs-new-unlikely-adversary-scientologists/) - "A totally unreasonable proposal."
+
+- [Unmasking Trickbot, One of the World’s Top Cybercrime Gangs](https://www.wired.com/story/trickbot-trickleaks-bentley/) - A WIRED investigation into a cache of documents posted by an unknown figure lays bare the Trickbot ransomware gang’s secrets, including the identity of a central member.
+
+- [Age of Empires and live ants used to test theoretical ideas on combat](https://arstechnica.com/science/2023/08/age-of-empires-and-live-ants-used-to-test-theoretical-ideas-on-combat/) - Theories dating back to World War I put to the test with Australian meat ants.
+
+- [The FBI accused him of spying for China. It ruined his life.](https://www.technologyreview.com/2021/06/27/1027350/anming-hu-china-initiative-research-espionage-spying/) - Anming Hu’s case was meant to be a victory for the “China Initiative,” a US effort to root out spies. Instead, it turned more attention on the FBI.
+
+- [One Drive, Double Agent - OneDrive Ransomware](https://www.safebreach.com/resources/one-drive-double-agent-clouded-onedrive-turns-sides/) - See how a SafeBreach Labs researcher leveraged Microsoft OneDrive to develop a new undetectable-by-design ransomware variant.
+
+- [He Had a Dark Secret. It Changed His Best Friend’s Life.](https://www.nytimes.com/2022/07/08/nyregion/brooklyn-homeless-shelter-friendship.html) - Tin Chin and Mo Lin were inseparable at the homeless shelter. But one of the men wasn’t who he seemed to be.
+
+- [The Vanishing Family - The New York Times](https://www.nytimes.com/2023/07/20/magazine/family-genetics-frontotemporal-dementia.html)
+
+- [US soldier facing disciplinary action flees into North Korea](https://www.reuters.com/world/us-national-crosses-military-demarcation-line-into-north-korea-yonhap-2023-07-18/) - The soldier was believed to be in North Korean custody, U.S. officials said, creating a fresh crisis for Washington in its dealings with the nuclear-armed state.
+
+- [Their Crypto Company Collapsed. They Went to Bali.](https://www.nytimes.com/2023/06/09/technology/three-arrows-cryto-bali.html) - The implosion of Three Arrows Capital, a cryptocurrency hedge fund, devastated the industry. Its two founders spent the next year surfing, meditating and traveling the world.
+
+- [The thorny social politics of location sharing](https://www.vox.com/culture/23742552/location-sharing-iphone-friends-privacy-risks) - "I love you, now let me watch your location 24/7."
+
+- [Elon Musk’s Neuralink is neuroscience theater](https://www.technologyreview.com/2020/08/30/1007786/elon-musks-neuralink-demo-update-neuroscience-theater/) - Elon Musk’s livestreamed brain implant event made promises that will be hard to keep.
+
+- [Testing a new encrypted messaging app's extraordinary claims](https://crnkovic.dev/testing-converso/) - How I accidentally breached a nonexistent database and found every private key in a 'state-of-the-art' encrypted messenger called Converso.
+
+- [Flowers pollinated by honeybees make lower-quality seeds](https://www.sciencenews.org/article/flowers-pollinate-honeybees-low-seeds) - Honeybees are one of the most common pollinators. But their flower-visiting habits make it harder for some plants to produce good seeds.
+
+- [The revolt of the Christian home-schoolers](https://www.washingtonpost.com/education/interactive/2023/christian-home-schoolers-revolt/) - They were taught that public schools are evil. Then a Virginia couple defied their families and enrolled their kids.
+
+- [Chinese Labs Are Selling Fentanyl Ingredients for Millions in Crypto](https://www.wired.com/story/fentanyl-ingredients-chinese-labs-cryptocurrency/) - And it's happening in plain sight.
+
+- [This Is Catfishing on an Industrial Scale](https://www.wired.com/story/catfishing-customer-support-love/) - Hired as customer service reps, these freelancers were instead tasked with luring in the lonely and lovestruck through a network of dating and hookup sites.
+
+- [The Truth About Dentistry](https://www.theatlantic.com/magazine/archive/2019/05/the-trouble-with-dentistry/586039/) - It’s much less scientific—and more prone to gratuitous procedures—than you may think.
+
+- [FBI: Rent-a-Hitman site nabbed Air National Guardsman who was “excited” to kill](https://arstechnica.com/tech-policy/2023/04/fbi-rent-a-hitman-site-nabbed-air-national-guardsman-who-was-excited-to-kill/) - FBI: Guardsman owned AR-15 and was willing to take fingers and ears as trophies.
+
+- [The case against pet ownership](https://www.vox.com/future-perfect/2023/4/11/23673393/pets-dogs-cats-animal-welfare-boredom) - Why we should aim for a world with fewer but happier pets.
+
+- [Ex-Pentagon Analyst Sentenced to 30 Months in Leak Case](https://www.nytimes.com/2020/06/18/us/politics/henry-frese-leaks.html) - The former counterterrorism analyst had pleaded guilty to sharing classified information with reporters about foreign weapon systems.
+
+- [After disrupting businesses, Google Drive’s secret file cap is dead for now](https://arstechnica.com/gadgets/2023/04/google-drive-cancels-its-surprise-file-cap-promises-to-communicate-better/) - The reaction to Google Drive's secret 5 million file limit makes Google hit "undo."
+
+- [Scientists triggered the flow of spinal fluid in the awake brain](https://www.sciencenews.org/article/scientists-spinal-fluid-awake-brain) - If future studies confirm these waking waves wash away toxic proteins from the brain, the finding could lead to new treatments for brain disorders.
+
+- [My journey down the rabbit hole of every journalist’s favorite app](https://www.politico.com/news/2022/02/16/my-journey-down-the-rabbit-hole-of-every-journalists-favorite-app-00009216) - Otter.ai has saved reporters countless hours transcribing interviews. Caveat emptor.
+
+- [How Roblox ‘Beamers’ Get Rich Stealing from Children](https://www.vice.com/en/article/88gd4a/roblox-beaming-hackers) - Underneath the gaming platform worth $68 billion and used by over half of all children in America is a ballooning and highly profitable ecosystem of hackers and traders.
+
+- [A Shark Discovery ‘Didn’t Look Right.’ It Might Have Been a Plastic Toy.](https://www.nytimes.com/2023/03/24/science/goblin-shark-plastic-toy.html) - Scientists have retracted a study that showed a rare goblin shark washed up on a Greek beach after other researchers voiced doubts about the find.
+
+- [Astronaut Sultan Alneyadi sees 16 sunsets daily on the space station. How will he observe Ramadan?](https://www.cnn.com/2023/03/22/world/ramadan-astronauts-space-station-scn/index.html) - Observance of Muslim or Jewish holidays often depends on the sunset, but that can be hard for astronauts on board the International Space Station. They see 16 sunrises and sunsets daily. As Ramadan starts March 22, here's what astronaut Sultan Alneyadi plans to do.
+
+- [What cats’ love of boxes and squares can tell us about their visual perception](https://arstechnica.com/science/2021/05/what-cats-love-of-boxes-and-squares-can-tell-us-about-their-visual-perception/) - "Vision has evolved to answer questions having to do with boundaries and contours."
+
+- [A US Agency Rejected Face Recognition—and Landed in Big Trouble](https://www.wired.com/story/a-us-agency-rejected-face-recognition-and-landed-in-big-trouble/) - Officials working on Login.gov, used to access dozens of government sites, worried about algorithmic bias. Their decision breached federal security rules.
+
+- [Scientists have now recorded brain waves from freely moving octopuses](https://www.sciencenews.org/article/scientists-recorded-brain-waves-free-octopus) - The data reveal some unexpected patterns, though it’s too early to know how octopus brains control the animals’ behavior, a new study finds.
+
+- [This mutant Venus flytrap mysteriously lost its ability to “count”](https://arstechnica.com/science/2023/01/this-mutant-venus-flytrap-mysteriously-lost-its-ability-to-count-to-5/) - The mutant can no longer decode calcium signature that causes trap to shut quickly.
+
+- [Rare Jurassic-era bug found at Arkansas Walmart](https://www.bbc.com/news/world-us-canada-64814931) - A teacher who spotted the bug took it home - then realised during a class how unusual it was.
+
+- [Honeybees waggle to communicate. But to do it well, they need dance lessons](https://www.sciencenews.org/article/bee-honeybees-waggle-dance-communicate-lessons-learn-hive) - Young honeybees can’t perfect waggling on their own after all. Without older sisters to practice with, youngsters fail to nail distances.
+
+- [Los Angeles Is a Fantastic Walking City. No, Really.](https://www.nytimes.com/2023/03/07/magazine/los-angeles-walking-rosecrans-avenue.html) - A stroll down Rosecrans Avenue is not a pleasure. But it does offer a 27-mile canvas of the city’s vastness and its diverse communities coexisting.
+
+- [What HBO’s “Chernobyl” Got Right, and What It Got Terribly Wrong | The New Yorker](https://www.newyorker.com/news/our-columnists/what-hbos-chernobyl-got-right-and-what-it-got-terribly-wrong)
+
+- [Phosphorus Saved Our Way of Life—and Now Threatens to End It](https://www.newyorker.com/magazine/2023/03/06/phosphorus-saved-our-way-of-life-and-now-threatens-to-end-it) - Fertilizers filled with the nutrient boosted our ability to feed the planet. Today, they’re creating vast and growing dead zones in our lakes and seas.
+
+- [New research into why woodpeckers don’t get concussions busts a popular myth](https://arstechnica.com/science/2022/07/study-woodpeckers-heads-behave-more-like-hammers-than-shock-absorbers/) - Absorption of the head's kinetic energy would actually impair the bird's pecking ability.
+
+- [I disconnected from the electric grid for 8 months—in Manhattan](https://arstechnica.com/science/2023/01/i-disconnected-from-the-electric-grid-for-8-months-in-manhattan/) - What started as an experiment has turned into a habit I hope will inspire others.
+
+- [Rats love driving tiny cars, even when they don’t get treats | Ars Technica](https://arstechnica.com/science/2019/11/these-rats-learned-to-drive-tiny-cars-for-science/?utm_medium=social&utm_social-type=owned&utm_brand=ars&utm_source=twitter)
+
+- [What the first look at the genetics of Chernobyl's dogs revealed](//www.sciencenews.org/article/genetics-chernobyl-dogs-revealed) - Dogs living in the Chernobyl Nuclear Power Plant industrial area are genetically distinct from other dogs, but scientists don’t yet know if radiation is the reason.
+
+- [VW wouldn’t help locate car with abducted child because GPS subscription expired](https://arstechnica.com/tech-policy/2023/02/vw-wouldnt-help-locate-car-with-abducted-child-because-gps-subscription-expired/) - VW says its Car-Net service shouldn't have demanded $150 payment from detective.
+
+- [Google has gotten so cheap, employees now have to share desks](https://arstechnica.com/gadgets/2023/02/google-has-gotten-so-cheap-employees-now-have-to-share-desks/) - Google's cost-cutters take aim at the company's office space and workspace culture.
+
+- [The US Supreme Court Doesn’t Understand the Internet](https://www.wired.com/story/the-supreme-court-section-230-the-internet/) - A case before the court is challenging social media platforms’ legal protections. The outcome could be huge for the future of the web.
+
+- [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
 - [Honeypot ant](https://en.wikipedia.org/w/index.php?title=Honeypot_ant&oldid=1297155934) - Honeypot ants, also called honey ants, are ants which have specialized workers—repletes, plerergates or rotunds—that consume large amounts of food to the point that their abdomens swell enormously. This phenomenon of extreme inflation of the trunk is called physogastry. Other ants then extract nourishment from them, through the process of trophallax...
@@ -1499,7 +1709,357 @@ To view a single category, check the files/ folder.
 
 - [Alan MacMasters hoax](https://en.wikipedia.org/w/index.php?title=Alan_MacMasters_hoax&oldid=1236066379) - On 10 February 2012, photography and ICT student Alan MacMasters attended a university lecture where the class was cautioned against using Wikipedia as a source. The lecturer mentioned that his friend had falsely claimed to be the inventor of the toaster on the Wikipedia page. Following the lecture, Alan and his friends edited the Wikipedia toaster ...
 
+- [Heaven's Gate (religious group)](https://en.wikipedia.org/w/index.php?title=Heaven%27s_Gate_(religious_group)&oldid=1229163453) - Heaven's Gate was an American new religious movement known primarily for the mass suicides  committed by its members in 1997. Commonly designated a cult, it was founded in 1974 and led by Bonnie Nettles (1927–1985) and Marshall Applewhite (1931–1997), known within the movement as Ti and Do, respectively. Nettles and Applewhite first met in 1972 and ...
+
+- [Jonestown](https://en.wikipedia.org/w/index.php?title=Jonestown&oldid=1231039360) - The Peoples Temple Agricultural Project, better known by its informal name "Jonestown", was a remote settlement in Guyana established by the Peoples Temple, an American cult under the leadership of Jim Jones. Jonestown became internationally infamous when, on November 18, 1978, a total of 918 people died at the settlement, at the nearby airstrip in ...
+
+- [List of common misconceptions](https://en.wikipedia.org/w/index.php?title=List_of_common_misconceptions&oldid=1231212291) - Each entry on this list of common misconceptions is worded as a correction; the misconceptions themselves are implied rather than stated. These entries are concise summaries of the main subject articles, which can be consulted for more detail.
+
+- [Corporate Memphis](https://en.wikipedia.org/w/index.php?title=Corporate_Memphis&oldid=1229117026) - Corporate Memphis (alternative names: Alegria art, big tech art, flat art, or corporate artstyle) is an art style named after the Memphis Group that features flat areas of color and geometric elements. Widely associated with Big Tech illustrations in the late 2010s and early 2020s, it has been met with a polarized response, with criticism focusing o...
+
+- [Graffiti (Palm OS)](https://en.wikipedia.org/w/index.php?title=Graffiti_(Palm_OS)&oldid=1211852576) - Graffiti is an essentially single-stroke shorthand handwriting recognition system used in PDAs based on the Palm OS. Graffiti was originally written by Palm, Inc. as the recognition system for GEOS-based devices such as HP's OmniGo 100 and 120 or the Magic Cap-line and was available as an alternate recognition system for the Apple Newton MessagePad,...
+
+- [Snake wine](https://en.wikipedia.org/w/index.php?title=Snake_wine&oldid=1191756310) - Snake wine (Chinese: 蛇酒; pinyin: shé-jiǔ; Vietnamese: rượu rắn; Khmer: ស្រាពស់, sra poas) is an alcoholic beverage produced by infusing whole snakes in rice wine or grain alcohol. The drink was first recorded to have been consumed in China during the Western Zhou dynasty (c. 1040–770 BC) and believed in folklore to reinvigorate a person according to...
+
+- [National conventions for writing telephone numbers](https://en.wikipedia.org/w/index.php?title=National_conventions_for_writing_telephone_numbers&oldid=1217990549) - National conventions for writing telephone numbers vary by country. The International Telecommunication Union (ITU) publishes a recommendation entitled Notation for national and international telephone numbers, e-mail addresses and Web addresses. Recommendation E.123 specifies the format of telephone numbers assigned to telephones and similar commun...
+
+- [No one likes us, we don't care](https://en.wikipedia.org/w/index.php?title=No_one_likes_us,_we_don%27t_care&oldid=1195704256) - "No one likes us, we don't care" is a sports chant that originated as a football chant sung by supporters of the English football club Millwall in the late 1970s. It is sung to the tune of "(We Are) Sailing" by Rod Stewart.  The late 1960s saw the rise of fan violence and football hooliganism throughout England; Millwall was one of several English t...
+
+- [CONOP 8888](https://en.wikipedia.org/w/index.php?title=CONOP_8888&oldid=1204685566) - CONPLAN 8888, also known as Counter-Zombie Dominance, is a U.S. Department of Defense Strategic Command CONOP document  that describes a plan for the United States and its military defending against zombies. It was initially classified by the United States Intelligence Community, but was eventually declassified following a Freedom of Information Act...
+
+- [Zheng Pingru](https://en.wikipedia.org/w/index.php?title=Zheng_Pingru&oldid=1186918163) - Zheng Pingru (1918 – February 1940) was a Chinese socialite and spy who gathered intelligence on the Imperial Japanese Army during the Second Sino-Japanese War. She was executed after an unsuccessful attempt to assassinate Ding Mocun, the security chief of the Wang Jingwei regime, a puppet government for the Japanese. Her life is believed to be the ...
+
+- [DVD region code](https://en.wikipedia.org/w/index.php?title=DVD_region_code&oldid=1214139533) - DVD region codes are a digital rights management technique introduced in 1997. It is designed to allow rights holders to control the international distribution of a DVD release, including its content, release date, and price, all according to the appropriate region. This is achieved by way of region-locked DVD players, which will play back only DVDs...
+
+- [Speakers' Corner](https://en.wikipedia.org/w/index.php?title=Speakers%27_Corner&oldid=1201953157) - A Speakers' Corner is an area where free speech open-air public speaking, debate, and discussion are allowed. The original and best known is in the north-east corner of Hyde Park in London, England.  Historically there were a number of other areas designated as Speakers' Corners in other parks in London, such as Lincoln's Inn Fields, Finsbury Park, ...
+
+- [Montreal–Philippines cutlery controversy](https://en.wikipedia.org/w/index.php?title=Montreal%E2%80%93Philippines_cutlery_controversy&oldid=1190316846) - The Montreal–Philippines cutlery controversy was an incident in 2006 in which a Filipino-born Canadian boy was punished by his school in Roxboro, Montreal, for following traditional Filipino etiquette and eating his lunch with a fork and a spoon, rather than the Canadian tradition of a knife and fork. In response to the media coverage of the affair,...
+
+- [Santiago Calatrava](https://en.wikipedia.org/w/index.php?title=Santiago_Calatrava&oldid=1212342176) - Santiago Calatrava Valls (born 28 July 1951) is a Spanish architect, structural engineer, sculptor and painter, particularly known for his bridges supported by single leaning pylons, and his railway stations, stadiums, and museums, whose sculptural forms often resemble living organisms. His best-known works include the Olympic Sports Complex of Athe...
+
+- [John Rabe](https://en.wikipedia.org/w/index.php?title=John_Rabe&oldid=1207822865) - John Heinrich Detlef Rabe (23 November 1882 – 5 January 1950) was a German businessman and Nazi Party member best known for his efforts to stop war crimes during the Japanese Nanjing Massacre (also romanized as Nanking) and his work to protect and help Chinese civilians during the massacre that ensued. The Nanking Safety Zone, which he helped to est...
+
+- [Pirahã people](https://en.wikipedia.org/w/index.php?title=Pirah%C3%A3_people&oldid=1209357592) - The Pirahã (pronounced [piɾaˈhɐ̃]) are an indigenous people of the Amazon Rainforest in Brazil. They are the sole surviving subgroup of the Mura people, and are hunter-gatherers. They live mainly on the banks of the Maici River in Humaitá and Manicoré in the state of Amazonas. As of 2018, they number 800 individuals. The Pirahã people do not call th...
+
+- [Chicken gun](https://en.wikipedia.org/w/index.php?title=Chicken_gun&oldid=1194769968) - A chicken gun or flight impact simulator is a large-diameter, compressed-air gun used to fire bird carcasses at aircraft components in order to simulate high-speed bird strikes during the aircraft's flight. Jet engines and aircraft windshields are particularly vulnerable to damage from such strikes, and are the most common target in such tests. Alth...
+
+- [Trojan Room coffee pot](https://en.wikipedia.org/w/index.php?title=Trojan_Room_coffee_pot&oldid=1190704629) - The Trojan Room coffee pot was a coffee machine located in the Computer Laboratory of the University of Cambridge, England. Created in 1991 by Quentin Stafford-Fraser and Paul Jardetzky, it was migrated from their laboratory network to the web in 1993, becoming the world's first webcam. To save people working in the building the disappointment of fi...
+
+- [Veterstrikdiploma](https://en.wikipedia.org/w/index.php?title=Veterstrikdiploma&oldid=1174786622) - A veterstrikdiploma, also known as veterdiploma or strikdiploma (English: shoelacing diploma) is a diploma which children between 5 and 6 years can get in the Netherlands and Belgium after they manage to tie their shoelaces by themselves. It is often the first diploma a child achieves and thus has an important pedagogic meaning, giving the child the...
+
+- [Polar bear jail](https://en.wikipedia.org/w/index.php?title=Polar_bear_jail&oldid=1189644123) - The polar bear jail (officially known as the  Polar Bear Holding Facility) is a special building in Churchill, Manitoba, Canada where polar bears that are considered troublesome or dangerous are isolated until they can be relocated.Before the facility was established, polar bears which were considered dangerous were shot.  The jail was established i...
+
+- [Jeffrey Manchester](https://en.wikipedia.org/w/index.php?title=Jeffrey_Manchester&oldid=1173147482) - Jeffrey Allen Manchester (born 1972) is an American convicted spree-robber and former United States Army Reserve officer known as the 'Rooftop Robber' or simply 'Roofman' due to his modus operandi of entering his targets (most commonly McDonald's locations) by drilling through the roof and dropping in. Before being apprehended for the second time in...
+
+- [Bogdanov affair](https://en.wikipedia.org/w/index.php?title=Bogdanov_affair&oldid=1183687764) - The Bogdanov affair was an academic dispute regarding the legitimacy of a series of theoretical physics papers written by French twins Igor and Grichka Bogdanov (alternatively spelled Bogdanoff). The papers were published in reputable scientific journals, and were alleged by their authors to culminate in a theory for describing what occurred before ...
+
+- [Snowplow Game](https://en.wikipedia.org/w/index.php?title=Snowplow_Game&oldid=1189473593) - The Snowplow Game was a regular-season game played between the Miami Dolphins and New England Patriots on December 12, 1982, at Schaefer Stadium in Foxborough, Massachusetts. Due in part to icy conditions, the game remained scoreless until late in the fourth quarter, when the snowplow operator was called in to clear a spot on the snowy field specifi...
+
+- [Carbuncle Cup](https://en.wikipedia.org/w/index.php?title=Carbuncle_Cup&oldid=1147643079) - The Carbuncle Cup was an architecture prize, given annually by the magazine Building Design to "the ugliest building in the United Kingdom completed in the last 12 months". It was intended to be a humorous response to the prestigious Stirling Prize, given by the Royal Institute of British Architects.The cup was launched in 2006, with the first winne...
+
+- [Miura fold](https://en.wikipedia.org/w/index.php?title=Miura_fold&oldid=1168868721) - The Miura fold (ミウラ折り, Miura-ori) is a method of folding a flat surface such as a sheet of paper into a smaller area. The fold is named for its inventor, Japanese astrophysicist Kōryō Miura.The crease patterns of the Miura fold form a tessellation of the surface by parallelograms. In one direction, the creases lie along straight lines, with each par...
+
+- [Pirate Party of Catalonia](https://en.wikipedia.org/w/index.php?title=Pirate_Party_of_Catalonia&oldid=1195753686) - Pirates of Catalonia (Catalan: Pirates de Catalunya, PIRATA.CAT) is a political party in Catalonia. The party is based on the model of the Swedish Pirate Party and is a member of the Pirate Parties International, it supports intellectual property reform, open access to culture and knowledge, transparency and direct democracy.The party was founded in...
+
+- [Mystery Seeker](https://en.wikipedia.org/w/index.php?title=Mystery_Seeker&oldid=1146656552) - Mystery Seeker was a website based on the Google search engine. that until November 30, 2009 had been known as Mystery Google.  The WHOIS domain name record for mysterygoogle.com was created on 10 February 2009 with registrant Google Inc, but since February 26, 2017 it has had no website.  The website has been featured in a number of technology blog...
+
+- [Reverse Polish notation](https://en.wikipedia.org/w/index.php?title=Reverse_Polish_notation&oldid=1199898249) - Reverse Polish notation (RPN), also known as reverse Łukasiewicz notation, Polish postfix notation or simply postfix notation, is a mathematical notation in which operators follow their operands, in contrast to prefix or Polish notation (PN), in which operators precede their operands. The notation does not need any parentheses for as long as each op...
+
+- [Lake Nyos disaster](https://en.wikipedia.org/w/index.php?title=Lake_Nyos_disaster&oldid=1198146078) - On 21 August 1986, a limnic eruption at Lake Nyos in northwestern Cameroon killed 1,746 people and 3,500 livestock.The eruption triggered the sudden release of about 100,000–300,000 tons (1.6 million tons, according to some sources) of carbon dioxide (CO2). The gas cloud initially rose at nearly 100 kilometres per hour (62 mph; 28 m/s) and then, bei...
+
+- [Mass suicides in 1945 Nazi Germany](https://en.wikipedia.org/w/index.php?title=Mass_suicides_in_1945_Nazi_Germany&oldid=1195387051) - During the final weeks of Nazi Germany and World War II in Europe, many civilians, government officials, and military personnel throughout Germany and German-occupied Europe committed suicide. In addition to high-ranking Nazi officials like Adolf Hitler, Joseph Goebbels, Heinrich Himmler, Philipp Bouhler, and Martin Bormann, many others chose suicid...
+
+- [Road of Life](https://en.wikipedia.org/w/index.php?title=Road_of_Life&oldid=1189240814) - The Road of Life (Доро́га жи́зни, doroga žizni) was the set of ice road transport routes across Lake Ladoga to Leningrad during the Second World War. They were the only Soviet winter surface routes into the city while it was besieged by the German Army Group North under Feldmarschall Wilhelm Ritter von Leeb.The routes operated in the winters of 1941...
+
+- [Sanrizuka Struggle](https://en.wikipedia.org/w/index.php?title=Sanrizuka_Struggle&oldid=1187611033) - The Sanrizuka Struggle (三里塚闘争, Sanrizuka tōsō) refers to a civil conflict and riots involving the Japanese government and the agricultural community of Sanrizuka, comprising organised opposition by farmers, local residents, and leftist groups to the construction of Narita International Airport (then New Tokyo International Airport). The struggle ste...
+
+- [Page 3](https://en.wikipedia.org/w/index.php?title=Page_3&oldid=1193363611) - Page 3, or Page Three, was a British newspaper convention of publishing a large image of a topless female glamour model (known as a Page 3 girl) on the third page of mainstream red-top tabloids. The Sun introduced the feature in November 1970, which boosted its readership and prompted competing tabloids—including The Daily Mirror, The Sunday People,...
+
+- [Anti-computer tactics](https://en.wikipedia.org/w/index.php?title=Anti-computer_tactics&oldid=1181771353) - Anti-computer tactics are methods used by humans to try to beat computer opponents at various games, most typically board games such as chess and Arimaa.  They are most associated with competitions against computer AIs that are playing to their utmost to win, rather than AIs merely programmed to be an interesting challenge that can be given intentio...
+
+- [<i>Manifold Destiny</i> (cookbook)](https://en.wikipedia.org/w/index.php?title=Manifold_Destiny_(cookbook)&oldid=1175085406) - Manifold Destiny is a 1989 cookbook (ISBN 0679723374), its updated 1998 edition (ISBN 0375751408) and a 2008 update (ISBN 1416596232) on the subject of cooking on the surface of a car engine. It was written by Chris Maynard and Bill Scheller, a photographer and a travel writer who were also rally drivers.The authors claimed inspiration from a trip f...
+
+- [Hand of Glory](https://en.wikipedia.org/w/index.php?title=Hand_of_Glory&oldid=1191567439) - A Hand of Glory is the dried and pickled hand of a hanged man, often specified as being the left (Latin: sinister) hand, or, if the person was hanged for murder, the hand that "did the deed." Old European beliefs attribute great powers to a Hand of Glory combined with a candle made from fat from the corpse of the same malefactor who died on the gall...
+
+- [Beagle Brigade](https://en.wikipedia.org/w/index.php?title=Beagle_Brigade&oldid=1197943839) - Beagle Brigade is a team of beagles and their human handlers who, as part of the United States Department of Agriculture's Animal and Plant Health Inspection Service (APHIS), inspect luggage at U.S. airports searching for agricultural products.  According to the USDA, the Beagle Brigade program averages around 75,000 seizures of prohibited agricultu...
+
+- [China–Hong Kong football rivalry](https://en.wikipedia.org/w/index.php?title=China–Hong_Kong_football_rivalry&oldid=1193679365) - The China–Hong Kong football rivalry is a sports rivalry between the national association football teams of the People's Republic of China and Hong Kong. The rivalry has been exacerbated by Hong Kong's status as a Special Administrative Region of China, with major political and ideological differences than on the mainland, a legacy of having been un...
+
+- [Chinese number gestures](https://en.wikipedia.org/w/index.php?title=Chinese_number_gestures&oldid=1186927843) - Chinese number gestures are a method to signify the natural numbers one through ten using one hand.  This method may have been developed to bridge the many varieties of Chinese—for example, the numbers 4 (Chinese: 四; pinyin: sì) and 10 (Chinese: 十; pinyin: shí) are hard to distinguish in some dialects. Some suggest that it was also used by business ...
+
+- [The purpose of a system is what it does](https://en.wikipedia.org/w/index.php?title=The_purpose_of_a_system_is_what_it_does&oldid=1195089743) - The purpose of a system is what it does (POSIWID) is a systems thinking heuristic coined by Stafford Beer, who observed that there is "no point in claiming that the purpose of a system is to do what it constantly fails to do." The term is widely used by systems theorists, and is generally invoked to counter the notion that the purpose of a system ca...
+
+- [Response to sneezing](https://en.wikipedia.org/w/index.php?title=Response_to_sneezing&oldid=1194916949) - In English-speaking countries, the common verbal response to another person's sneeze is "[God] bless you", or, less commonly in the United States and Canada, "Gesundheit", the German word for health (and the response to sneezing in German-speaking countries).  There are several proposed bless-you origins for use in the context of sneezing. In non-En...
+
+- [Child Abusers Are Getting Better at Using Crypto to Cover Their Tracks](https://www.wired.com/story/csam-sellers-monero-rise/) - Crypto tracing firm Chainalysis found that sellers of child sexual abuse materials are successfully using “mixers” and “privacy coins” like Monero to launder their profits and evade law enforcement.
+
+- [Glorified rice](https://en.wikipedia.org/w/index.php?title=Glorified_rice&oldid=1176811015) - Glorified rice is a dessert salad popular in the Midwestern cuisine served in Minnesota and other states in the Upper Midwest, United States and other places with Norwegian populations. It is popular in more rural areas with sizable Lutheran populations of Scandinavian heritage. It is made from rice, crushed pineapple, and whipped cream. It is often...
+
+- [Nutri-Score](https://en.wikipedia.org/w/index.php?title=Nutri-Score&oldid=1191945284) - The Nutri-Score, also known as the 5-Colour Nutrition label or 5-CNL, is a five-colour nutrition label and nutritional rating system, and an attempt to simplify the nutritional rating system demonstrating the overall nutritional value of food products. It assigns products a rating letter from A (best) to E (worst), with associated colors from green ...
+
+- [Alex (parrot)](https://en.wikipedia.org/w/index.php?title=Alex_(parrot)&oldid=1187540125) - Alex (May 18, 1976 – September 6, 2007) was a grey parrot and the subject of a thirty-year experiment by animal psychologist Irene Pepperberg, initially at the University of Arizona and later at Harvard University and Brandeis University. When Alex was about one year old, Pepperberg bought him at a pet shop. In her book "Alex & Me", Pepperberg descr...
+
+- [AquAdvantage salmon](https://en.wikipedia.org/w/index.php?title=AquAdvantage_salmon&oldid=1187028882) - AquAdvantage salmon is a genetically engineered (GE) fish, a GE Atlantic salmon developed by AquaBounty Technologies in 1989. The typical  growth hormone-regulating gene  in the Atlantic salmon was replaced with the growth hormone-regulating gene from Pacific Chinook salmon, with a promoter sequence from ocean pout. This gene enables GM salmon to gr...
+
+- [Freetown Christiania](https://en.wikipedia.org/w/index.php?title=Freetown_Christiania&oldid=1188832743) - Freetown Christiania (Danish: Fristaden Christiania), also known as Christiania or simply the Staden, is an intentional community and commune in the Christianshavn neighbourhood of the Danish capital city of Copenhagen. It began in 1971 as a squatted military base. Its Pusher Street is famous for its open trade of cannabis, which is illegal in Denma...
+
+- [Methbot](https://en.wikipedia.org/w/index.php?title=Methbot&oldid=1081864516) - Methbot was an advertising fraud scheme.
+
+- [Jonathan (tortoise)](https://en.wikipedia.org/w/index.php?title=Jonathan_(tortoise)&oldid=1180605362) - Jonathan (hatched c. 1832) is a Seychelles giant tortoise (Aldabrachelys gigantea hololissa), a subspecies of the Aldabra giant tortoise (Aldabrachelys gigantea); he is the oldest known living land animal. Jonathan resides on the island of Saint Helena, a British Overseas Territory in the South Atlantic Ocean.
+
+- [Sixty-fourth note](https://en.wikipedia.org/w/index.php?title=Sixty-fourth_note&oldid=1183451525) - In music notation, a sixty-fourth note (North American), or hemidemisemiquaver or semidemisemiquaver (British), sometimes called a half-thirty-second note, is a note played for half the duration of a thirty-second note (or demisemiquaver), hence the name. It first occurs in the late 17th century and, apart from rare occurrences of hundred twenty-eig...
+
+- [Caning of Michael Fay](https://en.wikipedia.org/w/index.php?title=Caning_of_Michael_Fay&oldid=1184862280) - In 1994, Singaporean authorities sentenced American teenager Michael Fay to be lashed six times with a cane for violating the Vandalism Act. This caused a temporary strain in relations between Singapore and the United States.Fay was arrested for stealing road signs and vandalizing 18 cars over a ten-day period in September 1993. Fay pled guilty, but...
+
+- [Scunthorpe problem](https://en.wikipedia.org/w/index.php?title=Scunthorpe_problem&oldid=1186404032) - The Scunthorpe problem is the unintentional blocking of online content by a spam filter or search engine because their text contains a string (or substring) of letters that appear to have an obscene or otherwise unacceptable meaning. Names, abbreviations, and technical terms are most often cited as being affected by the issue. The problem arises sin...
+
+- [Simmons–Tierney bet](https://en.wikipedia.org/w/index.php?title=Simmons%E2%80%93Tierney_bet&oldid=1136672798) - The Simmons–Tierney bet was a wager made in August 2005 between Houston banking executive Matthew R. Simmons and New York Times columnist John Tierney. The stakes of the bet were US$10,000.00. The subject of the bet was the year-end average of the daily price-per-barrel of crude oil for the entire calendar year of 2010 adjusted for inflation, which ...
+
+- [Walburga Oesterreich](https://en.wikipedia.org/w/index.php?title=Walburga_Oesterreich&oldid=1172211470) - Walburga Oesterreich (née Korschel; 1880 – April 8, 1961), nicknamed "Dolly" and "Queen of Los Angeles", was a German-born American housewife, married to a wealthy textile manufacturer Fred William Oesterreich (December 8, 1877 – August 22, 1922), who gained notoriety for the shooting death of her husband and the subsequent bizarre revelation that s...
+
+- [Long-term nuclear waste warning messages](https://en.wikipedia.org/w/index.php?title=Long-term_nuclear_waste_warning_messages&oldid=1184164551) - Long-term nuclear waste warning messages are communication attempts intended to deter human intrusion at nuclear waste repositories in the far future, within or above the order of magnitude of 10,000 years. Nuclear semiotics is an interdisciplinary field of research, first done by the American Human Interference Task Force in 1981. A 1993 report fro...
+
+- [Vulnerability of nuclear plants to attack](https://en.wikipedia.org/w/index.php?title=Vulnerability_of_nuclear_plants_to_attack&oldid=1183996705) - The vulnerability of nuclear plants to deliberate attack is of concern in the area of nuclear safety and security. Nuclear power plants, civilian research reactors, certain naval fuel facilities, uranium enrichment plants, fuel fabrication plants, and even potentially uranium mines are vulnerable to attacks which could lead to widespread radioactive...
+
+- [The Thing (listening device)](https://en.wikipedia.org/w/index.php?title=The_Thing_(listening_device)&oldid=1176179694) - The Thing, also known as the Great Seal bug, was one of the first covert listening devices (or "bugs") to use passive techniques to transmit an audio signal. It was concealed inside a gift given by the Soviet Union to W. Averell Harriman, the United States Ambassador to the Soviet Union, on August 4, 1945. Because it was passive, needing electromagn...
+
+- [Metcalf sniper attack](https://en.wikipedia.org/w/index.php?title=Metcalf_sniper_attack&oldid=1166208708) - On April 16, 2013, an attack was carried out on Pacific Gas and Electric Company's Metcalf transmission substation in Coyote, California, near the border of San Jose. The attack, in which gunmen fired on 17 electrical transformers, resulted in more than $15 million worth of equipment damage, but it had little impact on the station's electrical power...
+
+- [1989 California medfly attack](https://en.wikipedia.org/w/index.php?title=1989_California_medfly_attack&oldid=1167439453) - In 1989, a sudden invasion of Mediterranean fruit flies (Ceratitis capitata, "medflies") appeared in California and began devastating crops. Scientists were puzzled and said that the sudden appearance of the insects "defies logic", and some speculated "biological terrorists" were responsible. Analysis suggested that an outside hand played a role in ...
+
+- [Joe Ades](https://en.wikipedia.org/w/index.php?title=Joe_Ades&oldid=1173242669) - Joseph Ades (; 18 December 1934 – 1 February 2009), also known as the "Gentleman Peeler", was a well-known street peeler seller in New York City, United States.
+
+- [Pigeon photography](https://en.wikipedia.org/w/index.php?title=Pigeon_photography&oldid=1169540537) - Pigeon photography is an aerial photography technique invented in 1907 by the German apothecary Julius Neubronner, who also used pigeons to deliver medications. A homing pigeon was fitted with an aluminium breast harness to which a lightweight time-delayed miniature camera could be attached. Neubronner's German patent application was initially rejec...
+
+- [John Willis (gangster)](https://en.wikipedia.org/w/index.php?title=John_Willis_(gangster)&oldid=1152225948) - John Willis (born May 11, 1971), nicknamed Bac Guai John in Cantonese, or White Devil John, is an American mobster linked with the Chinese mafia in Boston and New York. Willis claims to have been the only white person within Chinese organized crime, an assertion backed by FBI agent Scott O'Donnell, who stated he has "never seen" a case like that of ...
+
+- [Daffynition](https://en.wikipedia.org/w/index.php?title=Daffynition&oldid=1178043085) - A daffynition (a portmanteau blend of daffy and definition) is a form of pun involving the reinterpretation of an existing word, on the basis that it sounds like another word (or group of words). Presented in the form of dictionary definitions, they are similar to transpositional puns, but often much less complex and easier to create. Under the name...
+
+- [Herringbone seating](https://en.wikipedia.org/w/index.php?title=Herringbone_seating&oldid=1030236899) - A herringbone seating arrangement describes the positioning of seats partially and equally askew in one direction. As the name suggests, the arrangement of the seats looks very similar to the skeleton of a fish, and has been called "fish-bone seats" in a few languages. The term is derived from the arrangement of interlocking brickwork, and has been ...
+
+- [Two hundred fifty-sixth note](https://en.wikipedia.org/w/index.php?title=Two_hundred_fifty-sixth_note&oldid=1180091999) - In music, a two hundred fifty-sixth note, or occasionally demisemihemidemisemiquaver (British), is a note played for 1⁄256 of the duration of a whole note. It lasts half as long as a hundred twenty-eighth note and takes up one quarter of the length of a sixty-fourth note. In musical notation it has a total of six flags or beams. Since human pitch pe...
+
+- [Grain entrapment](https://en.wikipedia.org/w/index.php?title=Grain_entrapment&oldid=1177367817) - Grain entrapment, or grain engulfment, occurs when a person becomes submerged in grain and cannot get out without assistance. It most frequently occurs in grain bins and other storage facilities such as silos or grain elevators, or in grain transportation vehicles, but has also been known to occur around any large quantity of grain, even freestandin...
+
+- [Toynbee tiles](https://en.wikipedia.org/w/index.php?title=Toynbee_tiles&oldid=1173880939) - The Toynbee tiles, also called Toynbee plaques, are messages of unknown origin found embedded in asphalt of streets in about two dozen major cities in the United States and four South American cities. Since the 1980s, several hundred tiles have been discovered. They are generally about the size of an American license plate (roughly 30 by 15 cm or 12...
+
+- [Don't be evil](https://en.wikipedia.org/w/index.php?title=Don%27t_be_evil&oldid=1170692865) - "Don't be evil" is Google's former motto, and a phrase used in Google's corporate code of conduct. Following Google's corporate restructuring under the conglomerate Alphabet Inc. in October 2015, Alphabet took "Do the right thing" as its motto, also forming the opening of its corporate code of conduct. The original motto was retained in Google's cod...
+
+- [California nut crimes](https://en.wikipedia.org/w/index.php?title=California_nut_crimes&oldid=1177496163) - California nut crimes refers to the organised theft of nuts (almonds, pistachios, cashews, and pecans) in California. Reported cases of nut theft go as far back as 2006 with the worth of stolen nuts being millions of dollars. The thefts demonstrate a high level of sophistication, encompassing identity theft and a deep understanding of computer secur...
+
+- [Morris worm](https://en.wikipedia.org/w/index.php?title=Morris_worm&oldid=1161946775) - The Morris worm or Internet worm of November 2, 1988, is one of the oldest computer worms distributed via the Internet, and the first to gain significant mainstream media attention. It resulted in the first felony conviction in the US under the 1986 Computer Fraud and Abuse Act. It was written by a graduate student at Cornell University, Robert Tapp...
+
+- [Area denial weapon](https://en.wikipedia.org/w/index.php?title=Area_denial_weapon&oldid=1170185309) - An area denial weapon is a defensive device used to prevent an adversary from occupying or traversing an area of land, sea or air. The specific method may not be totally effective in preventing passage, but is sufficient to severely restrict, slow down, or endanger the opponent. Some area denial weapons pose risks to civilians entering the area even...
+
+- [Island of California](https://en.wikipedia.org/w/index.php?title=Island_of_California&oldid=1176021305) - The Island of California (Spanish: Isla de California) refers to a long-held global misconception, dating from the 16th century, that California  was not part of mainland North America but rather a large island separated from the continent by a strait now known as the Gulf of California. One of the most famous cartographic errors in history, it was ...
+
+- [The Million Dollar Homepage](https://www.wired.com/story/fentanyl-ingredients-chinese-labs-cryptocurrency/) - The Million Dollar Homepage is a website conceived in 2005 by Alex Tew, a student from Wiltshire, England, to raise money for his university education. The home page consists of a million pixels arranged in a 1000 × 1000 pixel grid; the image-based links on it were sold for $1 per pixel in  10 × 10 blocks. The purchasers of these pixel blocks provid...
+
+- [Operation Paperclip](https://en.wikipedia.org/w/index.php?title=Operation_Paperclip&oldid=1177003758) - Operation Paperclip was a secret United States intelligence program in which more than 1,600 German scientists, engineers, and technicians were taken from the former Nazi Germany to the U.S. for government employment after the end of World War II in Europe, between 1945 and 1959. Conducted by the Joint Intelligence Objectives Agency (JIOA), it was l...
+
+- [American cover-up of Japanese war crimes](https://en.wikipedia.org/wiki/American_cover-up_of_Japanese_war_crimes) - The occupying US government undertook the cover-up of Japanese war crimes after the end of World War II, granting political immunity to military personnel who had engaged in human experimentation and other crimes against humanity, predominantly in mainland China. The pardon of Japanese war criminals, among whom were Unit 731's commanding officers Ge...
+
+- [Asahi Linux](https://en.wikipedia.org/wiki/Asahi_Linux) - Asahi Linux is a project that ports the Linux kernel and related software to Apple silicon-powered Macs. The software design project was started and is led by Hector Martin. Work began in early 2021, a few months after Apple formally announced the transition to Apple silicon. An initial alpha release followed in 2022. The project has been made chall...
+
+- [Disposition Matrix](https://en.wikipedia.org/w/index.php?title=Disposition_Matrix&oldid=1175243099) - The Disposition Matrix, informally known as a kill list, is a database of information for tracking, capturing, rendering, or killing suspected enemies of the United States. Developed by the Obama administration beginning in 2010, it goes beyond existing kill lists and is intended to become a permanent fixture of U.S. policy. The process determining ...
+
+- [Max Jacobson](https://en.wikipedia.org/w/index.php?title=Max_Jacobson&oldid=1175860925) - Max Jacobson (3 July 1900 – 1 December 1979) was an American physician and medical researcher who treated numerous high-profile clients in the United States, including President John F. Kennedy. Jacobson came to be known as "Miracle Max" and "Dr. Feelgood" because he administered highly addictive "vitamin shots" laced with various substances that in...
+
+- [Sinking of MV Sewol](https://en.wikipedia.org/w/index.php?title=Sinking_of_MV_Sewol&oldid=1174672858) - The ferry MV Sewol sank on the morning of April 16, 2014, en route from Incheon towards Jeju in South Korea. The 6,825-ton vessel sent a distress signal from about 2.7 kilometres (1.7 mi; 1.5 nmi) north of Byeongpungdo at 08:58 KST (23:58 UTC, April 15, 2014). Out of 476 passengers and crew, 306 died in the disaster, including around 250 students fr...
+
+- [Zoot Suit Riots](https://en.wikipedia.org/w/index.php?title=Zoot_Suit_Riots&oldid=1175489390) - The Zoot Suit Riots were a series of riots that took place from June 3–8, 1943, in Los Angeles, California, United States, involving American servicemen stationed in Southern California and young Latino and Mexican American city residents. It was one of the dozen wartime industrial cities that suffered race-related riots in the summer of 1943, along...
+
+- [Uruguayan Air Force Flight 571](https://en.wikipedia.org/w/index.php?title=Uruguayan_Air_Force_Flight_571&oldid=1174909375) - Uruguayan Air Force Flight 571 was the chartered flight of a Fairchild FH-227D from Montevideo, Uruguay, to Santiago, Chile, that crashed in the Andes mountains on October 13, 1972. The accident and subsequent survival became known as the Andes flight disaster (Tragedia de los Andes) and the Miracle of the Andes (Milagro de los Andes). The inexperie...
+
+- [Baker-Miller pink](https://en.wikipedia.org/w/index.php?title=Baker-Miller_pink&oldid=1169008129) - Baker-Miller Pink, also known as P-618, Schauss pink, or Drunk-Tank Pink is a tone of pink which has been observed to temporarily reduce hostile, violent or aggressive behavior. It was originally created by mixing white indoor latex paint with red trim semi-gloss outdoor paint in a 1:8 ratio by volume.Alexander Schauss did extensive research into th...
+
+- [Saddle Ridge Hoard](https://en.wikipedia.org/w/index.php?title=Saddle_Ridge_Hoard&oldid=1174322497) - The Saddle Ridge Hoard is the name given to a hoard of 1,427 gold coins unearthed in the Gold Country of the Sierra Nevada, California in 2013. The face value of the coins totaled $27,980, but was assessed to be worth $10 million. The hoard contains $27,460 in twenty-dollar coins, $500 in ten-dollar coins, and $20 in five-dollar coins, all dating fr...
+
+- [2008 submarine cable disruption](https://en.wikipedia.org/w/index.php?title=2008_submarine_cable_disruption&oldid=1136808398) - The 2008 submarine cable disruption refers to three separate incidents of major damage to submarine optical communication cables around the world. The first incident caused damage involving up to five high-speed Internet submarine communications cables in the Mediterranean Sea and Middle East from 23 January to 4 February 2008, causing internet disr...
+
+- [Lenin was a mushroom](https://en.wikipedia.org/w/index.php?title=Lenin_was_a_mushroom&oldid=1167093811) - Lenin was a mushroom (Russian: Ленин — гриб) was a highly influential televised hoax by Soviet musician Sergey Kuryokhin and reporter Sergey Sholokhov. It was first broadcast on 17 May 1991 on Leningrad Television.
+
+- [Hebenon](https://en.wikipedia.org/w/index.php?title=Hebenon&oldid=1138233512) - Hebenon (or hebona) is a botanical substance described in William Shakespeare's tragic play Hamlet. The identity and nature of the poison has been a source of speculation for centuries.
+
+- [Rotating locomotion in living systems](https://en.wikipedia.org/w/index.php?title=Rotating_locomotion_in_living_systems&oldid=1174826204) - Several organisms are capable of rolling locomotion. However, true wheels and propellers—despite their utility in human vehicles—do not seem to play a significant role in the movement of living things (with the exception of certain flagella, which work like corkscrews). Biologists have offered several explanations for the apparent absence of biologi...
+
+- [Ronald Opus](https://en.wikipedia.org/w/index.php?title=Ronald_Opus&oldid=1173224673) - Ronald Opus is the subject of a fictional murder case, often misreported as a true story. The case was originally told by Don Harper Mills, then president of the American Academy of Forensic Sciences, in a speech at a banquet in 1987. After it began to circulate on the internet as a factual story and attained the status of urban legend, Mills stated...
+
+- [Big Four (debutantes)](https://en.wikipedia.org/w/index.php?title=Big_Four_(debutantes)&oldid=1161998232) - Chicago's Big Four were a quartet of debutantes in the Chicago social scene during World War I, described as "the four most attractive and socially desirable young women in Chicago."
+
+- [Siege of Suiyang](https://en.wikipedia.org/w/index.php?title=Siege_of_Suiyang&oldid=1174810471) - The siege of Suiyang (Chinese: 睢陽之戰; pinyin: Suīyáng zhī zhàn) was a military campaign during the An Lushan Rebellion, launched by the rebel Yan army to capture the city of Suiyang from the loyalist forces of the Tang army. Although the battle was ultimately won by the Yan army, it suffered a major loss of manpower and time. The battle was noted for...
+
+- [<i>Hapax legomenon</i>](https://en.wikipedia.org/w/index.php?title=Hapax_legomenon&oldid=1172394301) - In corpus linguistics, a hapax legomenon ( also  or ; pl. hapax legomena; sometimes abbreviated to hapax, plural hapaxes) is a word or an expression that occurs only once within a context: either in the written record of an entire language, in the works of an author, or in a single text. The term is sometimes incorrectly used to describe a word that...
+
+- [Ghost word](https://en.wikipedia.org/w/index.php?title=Ghost_word&oldid=1172860859) - A ghost word is a word published in a dictionary or similarly authoritative reference work even though it had not previously had any meaning or been used intentionally. A ghost word generally originates from readers interpreting a typographical or linguistic error as a word they are not familiar with, and then publishing that word elsewhere under th...
+
+- [Taito (kanji)](https://en.wikipedia.org/w/index.php?title=Taito_(kanji)&oldid=1167452740) - Taito, daito, or otodo (𱁬/) is a kokuji ("kanji character invented in Japan") written with 84 strokes, and thus the most graphically complex CJK character—collectively referring to Chinese characters and derivatives used in the written Chinese, Japanese, and Korean languages. This rare and complex character graphically places the 36-stroke tai 䨺 (wi...
+
+- [E-meter](https://en.wikipedia.org/w/index.php?title=E-meter&oldid=1169875691) - The E-meter, originally the electropsychometer, is an electronic device for displaying the electrodermal activity (EDA) of a human being. It is used for auditing in Scientology and divergent groups. The efficacy and legitimacy of Scientology's use of the E-meter has been subject to extensive litigation and in accordance with a federal court order, t...
+
+- [Shabbos App](https://en.wikipedia.org/w/index.php?title=Shabbos_App&oldid=1169474887) - The Shabbos App claimed to be a proposed Android app to enable Orthodox Jews, and Jewish Sabbath-observers, to use a smartphone on the Sabbath. The app was supposed to appear in late 2014. Some argued from the outset that this project was nothing more than an elaborate hoax or prank.
+
+- [Dr. Dynasaur](https://en.wikipedia.org/w/index.php?title=Dr._Dynasaur&oldid=1111483398) - Dr. Dynasaur is a publicly funded healthcare program in the U.S. state of Vermont, created in 1989. Vermont had an estimated 140,000 people under age 18 (90,000 under 300% above the Federal Poverty Level (FPL). Dr. Dynasaur covered 56,000 of these uninsured. After adding the coverage of this program to those already covered by private health insuran...
+
+- [Alfonso de Borbón y Borbón](https://en.wikipedia.org/w/index.php?title=Alfonso_de_Borb%C3%B3n_y_Borb%C3%B3n&oldid=1172773197) - Alfonso de Borbón y Borbón (Madrid, 15 November 1866 - Madrid, 28 April 1934) was a Spanish nobleman, the great-great-grandson of Charles III of Spain, and is known for having had 88 forenames. This is recognised as a record by Guinness World Records.Alfonso was a son of Infante Sebastian of Portugal and Spain, and his second wife, Infanta Maria Chr...
+
+- [La Sombrita](https://en.wikipedia.org/w/index.php?title=La_Sombrita&oldid=1171473514) - La Sombrita (Spanish for "The Little Shade") is a prototype sunshade created for the Los Angeles Department of Transportation (LADOT). Its purpose was to assist female bus riders by offering shade during the hottest hours of the day and providing sidewalk lighting at night. This was especially targeted at locations where the swift construction of tr...
+
+- [Ginevra King](https://en.wikipedia.org/w/index.php?title=Ginevra_King&oldid=1163024520) - Ginevra King Pirie (November 30, 1898 – December 13, 1980) was an American socialite and heiress. As one of Chicago's "Big Four" debutantes during World War I, she inspired many characters in the novels and stories of writer F. Scott Fitzgerald; in particular, the character of Daisy Buchanan in The Great Gatsby. A 16-year-old King met an 18-year-old...
+
+- [Scaly boy](https://en.wikipedia.org/w/index.php?title=Scaly_boy&oldid=1170094787) - The scaly boy (Aboma etheostoma) is a species of goby native to the Pacific coast of Central America from Mexico to Panama.  This species is the only known member of its genus.
+
+- [Telegarden](https://en.wikipedia.org/w/index.php?title=Telegarden&oldid=1168870997) - The TeleGarden was a telerobotic community garden for the Internet. Starting in the mid-1990s, it allowed users to view, plant and take care of a small garden, using an Adept-1 industrial robotic arm controlled online.
+
+- [Marcus McDilda](https://en.wikipedia.org/w/index.php?title=Marcus_McDilda&oldid=1168320029) - Lieutenant Marcus Elmo McDilda (December 15, 1921 – August 16, 1998) was an American P-51 fighter pilot who was shot down over Osaka and captured by the Japanese on 8 August 1945, two days after the atomic bombing of Hiroshima.
+
+- [Turnspit dog](https://en.wikipedia.org/w/index.php?title=Turnspit_dog&oldid=1159143033) - The turnspit dog is an extinct short-legged, long-bodied dog bred to run on a wheel, called a turnspit or dog wheel, to turn meat. It is mentioned in Of English Dogs in 1576 under the name "Turnespete". William Bingley's Memoirs of British Quadrupeds (1809) also talks of a dog employed to help chefs and cooks. It is also known as the Kitchen Dog, th...
+
+- [Netflix Prize](https://en.wikipedia.org/w/index.php?title=Netflix_Prize&oldid=1167025855) - The Netflix Prize was an open competition for the best collaborative filtering algorithm to predict user ratings for films, based on previous ratings without any other information about the users or films, i.e. without the users being identified except by numbers assigned for the contest. The competition was held by Netflix, a video streaming servic...
+
+- [Timothy Dexter](https://en.wikipedia.org/w/index.php?title=Timothy_Dexter&oldid=1162124222) - Timothy Dexter (January 22, 1747 – October 23, 1806) was an American businessman noted for his eccentric behavior and writings. He became wealthy through marriage and a series of improbably successful investments, and spent his fortune lavishly. Though barely educated or literate, Dexter considered himself "the greatest philosopher in the Western Wo...
+
+- [Joan of Leeds](https://en.wikipedia.org/w/index.php?title=Joan_of_Leeds&oldid=1094155891) - Joan of Leeds or Johannas de Ledes (fl. early 14th century) was an English nun, who, bored with her monastic and enclosed life, at some point in 1318 escaped from St Clement's by York priory to journey to Beverley, where she was accused of living with a man. To escape, she feigned mortal illness and constructed a dummy of herself, which her colleagu...
+
+- [Children (composition)](https://en.wikipedia.org/w/index.php?title=Children_(composition)&oldid=1164899634) - "Children" is an instrumental composition by Italian composer Robert Miles. It was first released in Italy in January 1995 as part of the EP Soundtracks on Joe Vannelli's DBX label, but it did not chart. Vannelli brought the track to a nightclub in Miami where it was heard by Simon Berry of Platipus Records. Berry worked with Vannelli and James Bart...
+
+- [Irish road bowling](https://en.wikipedia.org/w/index.php?title=Irish_road_bowling&oldid=1161380125) - Road bowling (Irish: Ból an bhóthair; also called [long] bullets) is an Irish  sport in which competitors attempt to take the fewest throws to propel a metal ball along a predetermined course of country roads. The sport originated in Ireland and is mainly played in counties Armagh and Cork. Road bowling in Ireland is governed by the voluntary Irish ...
+
+- [Animals taking public transportation](https://en.wikipedia.org/w/index.php?title=Animals_taking_public_transportation&oldid=1165310352) - Some domestic pets, feral animals and wild animals have learned to use human public transportation to travel independently. This is tolerated or even celebrated by passengers, although most public transportation systems only allow service animals and forbid pets. According to urban wildlife specialist Suzanne MacDonald, animal "commuters" are usuall...
+
+- [Vanity sizing](https://en.wikipedia.org/w/index.php?title=Vanity_sizing&oldid=1133337064) - Vanity sizing, or size inflation, is the phenomenon of ready-to-wear clothing of the same nominal size becoming bigger in physical size over time. This has been documented primarily in the United States and the United Kingdom. The use of US standard clothing sizes by manufacturers as the official guidelines for clothing sizes was abandoned in 1983. ...
+
+- [First Lady Bake-Off](https://en.wikipedia.org/w/index.php?title=First_Lady_Bake-Off&oldid=1163430199) - The First Lady Bake-Off, renamed the Presidential Cookie Poll in 2016, was a baking competition held by Family Circle from 1992 until 2016 between the spouses of leading presidential candidates. It originated after Hillary Clinton made a political gaffe which was interpreted by some as disparaging baking or housewives. The competition later became k...
+
+- [Diesel therapy](https://en.wikipedia.org/w/index.php?title=Diesel_therapy&oldid=1162966182) - Diesel therapy is a form of punishment in the United States in which prisoners are shackled and then transported for days or weeks; the term refers to the diesel fuel used in prisoner transport vehicles.It has been alleged that some inmates are deliberately sent to incorrect destinations as an exercise of diesel therapy. Voluntary surrender at the p...
+
+- [Norfolk Southern–Gregson Street Overpass](https://en.wikipedia.org/w/index.php?title=Norfolk_Southern%E2%80%93Gregson_Street_Overpass&oldid=1161221991) - The Norfolk Southern–Gregson Street Overpass, also known as the 11-foot-8 Bridge, is a railroad bridge in Durham, North Carolina, United States. Built in 1940, the bridge allows passenger and freight trains to cross over South Gregson Street in downtown Durham. The bridge was designed in the 1920s, with a clearance for vehicles of 11 feet 8 inches (...
+
+- [List of notable people banned from entering the United States](https://en.wikipedia.org/w/index.php?title=List_of_notable_people_banned_from_entering_the_United_States&oldid=1154343340) - The following is a list of notable people who are or were barred from entering the United States. The Bureau of Immigration and Customs Enforcement (ICE) of the United States Department of Homeland Security (DHS) handles deportation in the United States, often in conjunction with advice from the U.S. Department of State. Such bans are often temporar...
+
+- [<i>Zeitpyramide</i>](https://en.wikipedia.org/w/index.php?title=Zeitpyramide&oldid=1160430743) - The Zeitpyramide (lit. 'time pyramid') is a work of public art by Manfred Laber under construction in Wemding, Germany. The pyramid was begun in 1993 – the 1,200 year anniversary of the town. It will take another 1,160 years to complete and is scheduled to be finished in the year 3183. The project at the end of 2023 will be 3.3% complete with the fi...
+
+- [Wow! signal](https://en.wikipedia.org/w/index.php?title=Wow!_signal&oldid=1163860584) - The Wow! signal was a strong narrowband radio signal detected on August 15, 1977, by Ohio State University's Big Ear radio telescope in the United States, then used to support the search for extraterrestrial intelligence. The signal appeared to come from the direction of the constellation Sagittarius and bore the expected hallmarks of extraterrestri...
+
+- [Pirate Joe's](https://en.wikipedia.org/w/index.php?title=Pirate_Joe%27s&oldid=1112002529) - Pirate Joe's was a specialty grocery store in Vancouver, British Columbia, Canada, owned by Michael Hallatt. Its inventory consisted entirely of store brand products resold from locations of the U.S.-based grocery chain Trader Joe's, which does not operate any locations in Canada. Despite the high costs of operating the store because of its business...
+
+- [Thigmonasty](https://en.wikipedia.org/w/index.php?title=Thigmonasty&oldid=1143962145) - In biology, thigmonasty or seismonasty is the nastic (non-directional) response of a plant or fungus to touch or vibration. Conspicuous examples of thigmonasty include many species in the leguminous subfamily Mimosoideae, active carnivorous plants such as Dionaea and a wide range of pollination mechanisms.
+
+- [996 working hour system](https://en.wikipedia.org/w/index.php?title=996_working_hour_system&oldid=1158983563) - The 996 working hour system (Chinese: 996工作制) is a work schedule practiced by some companies in China. It derives its name from its requirement that employees work from 9:00 am to 9:00 pm, 6 days per week; i.e. 72 hours per week. A number of Mainland Chinese internet companies have adopted this system as their official work schedule. Critics argue t...
+
+- [Operation Coffee Cup](https://en.wikipedia.org/w/index.php?title=Operation_Coffee_Cup&oldid=1031013696) - Operation Coffee Cup was a campaign conducted by the American Medical Association (AMA) during the late 1950s and early 1960s in opposition to the Democrats' plans to extend Social Security to include health insurance for the elderly, later known as Medicare. As part of the plan, doctors' wives would organize coffee meetings in an attempt to convinc...
+
+- [Nut rage incident](https://en.wikipedia.org/w/index.php?title=Nut_rage_incident&oldid=1159420912) - The nut rage incident, also referred to as nutgate (Korean: 땅콩 회항, Ttangkong hoehang), was an air rage incident that occurred on December 5, 2014, at John F. Kennedy International Airport in New York City onboard Korean Air Flight 086. Korean Air vice president Heather Cho (Korean name: Cho Hyun-ah), dissatisfied with the way a flight attendant serv...
+
+- [David Brandt (farmer)](https://en.wikipedia.org/w/index.php?title=David_Brandt_(farmer)&oldid=1158482125) - David Brandt (1946 or 1947 – May 21, 2023) was an American farmer known for working on sustainable agriculture techniques, specifically no-till farming and cover crops. Outside of the agriculture field, he was known on the internet for being the face of a meme.
+
+- [Operation Monopoly](https://en.wikipedia.org/w/index.php?title=Operation_Monopoly&oldid=1158972318) - Operation Monopoly was a covert plan by the United States Federal Bureau of Investigation (FBI) to build a tunnel underneath the Soviet Embassy in Washington, D.C., to gather secret intelligence in effect from 1977 until its public discovery in 2001.The embassy of the Soviet Union was relocated to a new building complex in 1977. The US government fe...
+
+- [Baby Tooth Survey](https://en.wikipedia.org/w/index.php?title=Baby_Tooth_Survey&oldid=1127916860) - The Baby Tooth Survey was initiated by the Greater St. Louis Citizens' Committee for Nuclear Information in conjunction with Saint Louis University and the Washington University School of Dental Medicine as a means of determining the effects of nuclear fallout in the human anatomy by examining the levels of radioactive material absorbed into the dec...
+
+- [List of animals awarded human credentials](https://en.wikipedia.org/w/index.php?title=List_of_animals_awarded_human_credentials&oldid=1143954660) - This list of animals awarded human credentials includes nonhuman animals who have been submitted as applicants to suspected diploma mills, and have been awarded a diploma. On occasion, they have been admitted and granted a degree, as reported in reliable sources. Animals are often used as a device to clearly demonstrate the lax standards or fraudule...
+
+- [MaxMind](https://en.wikipedia.org/w/index.php?title=MaxMind&oldid=1155172645) - MaxMind is a Massachusetts-based data company that provides location data for IP addresses and other data for IP addresses, and fraud detection data used to screen hundreds of millions of online transactions monthly for more than 7,000 businesses.
+
+- [Interservice rivalry](https://en.wikipedia.org/w/index.php?title=Interservice_rivalry&oldid=1152663362) - Interservice rivalry is rivalry between different branches of a country's armed forces. This may include competition between land, marine, naval, coastal, air, or space forces.Interservice rivalry can occur over such topics as the appropriation of the military budget, prestige, or the possession of certain types of equipment or units. The latter cas...
+
+- [Kodinhi](https://en.wikipedia.org/w/index.php?title=Kodinhi&oldid=1147115751) - Kodinhi is a village in Malappuram district in Kerala, India. The village is situated close to the town of Tirurangadi and, as of 2008, is home to around 2,000 families. Administered by the Nannambra panchayat, the village came to international attention for the unusually large number of multiple births in the region, especially twins, although Indi...
+
+- [Hyper Text Coffee Pot Control Protocol](https://en.wikipedia.org/w/index.php?title=Hyper_Text_Coffee_Pot_Control_Protocol&oldid=1151694030) - The Hyper Text Coffee Pot Control Protocol (HTCPCP) is a facetious communication protocol for controlling, monitoring, and diagnosing coffee pots. It is specified in RFC 2324, published on 1 April 1998 as an April Fools' Day RFC, as part of an April Fools prank. An extension, HTCPCP-TEA, was published as RFC 7168 on 1 April 2014 to support brewing t...
+
+- [<i>Kremen v. Cohen</i>](https://en.wikipedia.org/w/index.php?title=Kremen_v._Cohen&oldid=1146734203) - Kremen v. Cohen, 337 F.3d 1024 (9th Cir., 2003), was a court ruling at the United States Court of Appeals for the Ninth Circuit. The ruling was an important early cyberlaw precedent, determining that an Internet domain name is an item of property that can be bought, sold, and stolen.
+
+- [Abdul Qadeer Khan](https://en.wikipedia.org/w/index.php?title=Abdul_Qadeer_Khan&oldid=1152219137) - Abdul Qadeer Khan, NI, HI, FPAS ( (listen); Urdu: عبد القدیر خان; 1 April 1936 – 10 October 2021), known as A. Q. Khan, was a Pakistani nuclear physicist and metallurgical engineer who is colloquially known as the "father of Pakistan's atomic weapons program".An émigré (Muhajir) from India who migrated to Pakistan in 1952, Khan was educated in the m...
+
+- [Henry Molaison](https://en.wikipedia.org/w/index.php?title=Henry_Molaison&oldid=1153648933) - Henry Gustav Molaison (February 26, 1926 – December 2, 2008), known widely as H.M., was an American who had a bilateral medial temporal lobectomy to surgically resect the anterior two thirds of his hippocampi, parahippocampal cortices, entorhinal cortices, piriform cortices, and amygdalae in an attempt to cure his epilepsy. Although the surgery was ...
+
+- [Cenn Fáelad mac Ailella](https://en.wikipedia.org/w/index.php?title=Cenn_F%C3%A1elad_mac_Ailella&oldid=1145164994) - Cenn Fáelad mac Ailella (alias Cennfaeladh) (died 679) was an early medieval Irish scholar renowned for having his memory markedly improve and possibly becoming eidetic after suffering a head wound in battle.
+
+- [<i>Who Moved My Cheese?</i>](https://en.wikipedia.org/w/index.php?title=Who_Moved_My_Cheese%3F&oldid=1142197437) - Who Moved My Cheese? An Amazing Way to Deal with Change in Your Work and in Your Life, published on September 8, 1998, is a bestselling seminal work and motivational business fable by Spencer Johnson. The text describes the way one reacts to major change in one's work and life, and four typical reactions to those changes by two mice and two "Littlep...
+
+- [Operation Legacy](https://en.wikipedia.org/w/index.php?title=Operation_Legacy&oldid=1152151235) - Operation Legacy was a British Colonial Office (later Foreign Office) programme to destroy or hide files, to prevent them being inherited by its ex-colonies. It ran from the 1950s until the 1970s, when the decolonisation of the British Empire was at its height.
+
+- [Mill Ends Park](https://en.wikipedia.org/w/index.php?title=Mill_Ends_Park&oldid=1151008967) - Mill Ends Park (sometimes mistakenly called Mill's End Park) is a tiny urban park, consisting of one tree, located in the median strip of SW Naito Parkway next to Tom McCall Waterfront Park along the Willamette River near SW Taylor Street in downtown Portland, Oregon, United States. The park is a small circle 2 ft (0.61 m) across, with a total area ...
+
+- [AlphaBay](https://en.wikipedia.org/w/index.php?title=AlphaBay&oldid=1147581630) - AlphaBay is a darknet market operating both as an onion service on the Tor network and as an I2P node on I2P. After it was shut down in July 2017 following law enforcement action in the United States, Canada, and Thailand as part of Operation Bayonet, it was relaunched in August 2021 by the self-described co-founder and security administrator DeSnak...
+
+- [Whale fall](https://en.wikipedia.org/w/index.php?title=Whale_fall&oldid=1146047663) - A whale fall occurs when the carcass of a whale has fallen onto the ocean floor at a depth greater than 1,000 m (3,300 ft), in the bathyal or abyssal zones. On the sea floor, these carcasses can create complex localized ecosystems that supply sustenance to deep-sea organisms for decades. This is unlike in shallower waters, where a whale carcass will...
+
+- [The Third Wave (experiment)](https://en.wikipedia.org/w/index.php?title=The_Third_Wave_(experiment)&oldid=1149144794) - The Third Wave was an experimental social movement created by California high school history teacher Ron Jones in 1967 to explain how the German population could have accepted the actions of the Nazi regime during the rise of the Third Reich and the Second World War.While Jones taught his students about Nazi Germany during his senior level Contempor...
+
+- [Winchester Mystery House](https://en.wikipedia.org/w/index.php?title=Winchester_Mystery_House&oldid=1146131249) - The Winchester Mystery House is a mansion in San Jose, California, that was once the personal residence of Sarah Winchester, the widow of firearms magnate William Wirt Winchester. The house became a tourist attraction nine months after Winchester's death in 1922. The Victorian and Gothic style mansion is renowned for its size and its architectural c...
+
+- [Portuguese man o' war](https://en.wikipedia.org/w/index.php?title=Portuguese_man_o%27_war&oldid=1149349729) - The Portuguese man o' war (Physalia physalis), also known as the man-of-war, is a marine hydrozoan found in the Atlantic Ocean and the Indian Ocean. It is considered to be the same species as the Pacific man o' war or blue bottle, which is found mainly in the Pacific Ocean. The Portuguese man o' war is the only species in the genus Physalia, which i...
+
+- [Robert Bork](https://en.wikipedia.org/w/index.php?title=Robert_Bork&oldid=1148934587) - Robert Heron Bork (March 1, 1927 – December 19, 2012) was an American jurist who served as the solicitor general of the United States from 1973 until 1977. A professor at Yale Law School by occupation, he was later acting U.S. attorney general and a judge on the U.S. Court of Appeals for the D.C. Circuit from 1982 to 1988. In 1987, President Ronald ...
+
+- [Lion of Gripsholm Castle](https://en.wikipedia.org/w/index.php?title=Lion_of_Gripsholm_Castle&oldid=1145956492) - The Lion of Gripsholm Castle is a notable example of bad taxidermy located in Gripsholm Castle, Sweden. The lion is badly stuffed and is considered to have a comically deformed face.In 1731, the Bey of Algiers presented King Frederick I of Sweden with a lion, one of the first lions in Scandinavia.  When alive, the lion was kept in a cage near Juniba...
+
+- [Complaint tablet to Ea-nasir](https://en.wikipedia.org/w/index.php?title=Complaint_tablet_to_Ea-nasir&oldid=1146263756) - The complaint tablet to Ea-nāṣir (UET V 81) is a clay tablet that was sent to ancient Ur, written c. 1750 BCE. It is a complaint to a merchant named Ea-nasir from a customer named Nanni. Written in Akkadian cuneiform, it is considered to be the oldest known written complaint. It is currently kept in the British Museum. The tablet has also become an ...
+
+- [<i>My Immortal</i> (fan fiction)](https://en.wikipedia.org/w/index.php?title=My_Immortal_(fan_fiction)&oldid=1146340684) - My Immortal is a Harry Potter-based fan fiction serially published on FanFiction.net between 2006 and 2007. Though notable for its convoluted narrative and constant digressions, the story largely centers on a non-canonical female vampire character named "Ebony Dark'ness Dementia Raven Way" and her relationships with the characters of the Harry Potte...
+
+- [<i>Harry Potter and the Methods of Rationality</i>](https://en.wikipedia.org/w/index.php?title=Harry_Potter_and_the_Methods_of_Rationality&oldid=1146418992) - Harry Potter and the Methods of Rationality (HPMOR) is a Harry Potter fan fiction by Eliezer Yudkowsky, published on FanFiction.Net. It adapts the story of Harry Potter to explain complex concepts in cognitive science, philosophy, and the scientific method. Yudkowsky published HPMOR as a serial from February 28, 2010 to March 14, 2015, totaling 122 ...
+
+- [<i>Hogwarts School of Prayer and Miracles</i>](https://en.wikipedia.org/w/index.php?title=Hogwarts_School_of_Prayer_and_Miracles&oldid=1129089376) - Hogwarts School of Prayer and Miracles is a Harry Potter-based fan fiction, serially published on FanFiction.Net by Grace Anne Parsons under the username proudhousewife. The fan fiction rewrites the Harry Potter series as an Evangelical version and replaces magic with prayer and religious phenomena. The fanfiction went viral because of its extreme r...
+
+- [Quicksand](https://en.wikipedia.org/w/index.php?title=Quicksand&oldid=1144418459) - Quicksand, also known as sinking sand, is a colloid consisting of fine granular material (such as sand, silt or clay) and water. It forms in saturated loose sand when the sand is suddenly agitated. When water in the sand cannot escape, it creates a liquefied soil that loses strength and cannot support weight. Quicksand can form in standing water or ...
+
+- [2001 anthrax attacks](https://en.wikipedia.org/w/index.php?title=2001_anthrax_attacks&oldid=1146812410) - The 2001 anthrax attacks, also known as Amerithrax (a portmanteau of "America" and "anthrax", from its FBI case name), occurred in the United States over the course of several weeks beginning on September 18, 2001, one week after the September 11 terrorist attacks. Letters containing anthrax spores were mailed to several news media offices and to Se...
+
+- [Character amnesia](https://en.wikipedia.org/w/index.php?title=Character_amnesia&oldid=1144215327) - Character amnesia is a phenomenon whereby experienced speakers of some East Asian languages forget how to write Chinese characters previously well known to them. The phenomenon is specifically tied to prolonged and extensive use of input methods, such as those that use romanizations of characters, and is documented to be a significant issue in China...
+
+- [<i>"Untitled"</i> (Perfect Lovers)](https://en.wikipedia.org/w/index.php?title=%22Untitled%22_(Perfect_Lovers)&oldid=1146502334) - "Untitled" (Perfect Lovers) is a work of conceptual art produced by Félix González-Torres in an edition of three, plus one artist's proof, between 1987 and 1990. It consists of two identical synchronized clocks, that will eventually fall out of sync. An ambiguous work of art, many have interpreted it to be a commentary on González-Torres' partner's ...
+
+- [20 Fenchurch Street](https://en.wikipedia.org/w/index.php?title=20_Fenchurch_Street&oldid=1132495223) - 20 Fenchurch Street is a commercial skyscraper in London that takes its name from its address on Fenchurch Street, in the historic City of London financial district. It has been nicknamed "The Walkie-Talkie" because of its distinctive shape, said to resemble a two-way radio handset. Construction was completed in spring 2014, and the three-floor "sky...
+
+- [Ahmed Naser Al-Raisi](https://en.wikipedia.org/w/index.php?title=Ahmed_Naser_Al-Raisi&oldid=1144062913) - Ahmed Naser Al-Raisi (also romanised as Ahmed Nasser Al-Raisi) is an Emirati military general officer. He currently serves as the 30th president of Interpol and the inspector general of the United Arab Emirates' interior ministry.
+
+- [Memex](https://en.wikipedia.org/w/index.php?title=Memex&oldid=1107400350) - Memex is a hypothetical electromechanical device for interacting with microform documents and described in Vannevar Bush's 1945 article "As We May Think". Bush envisioned the memex as a device in which individuals would compress and store all of their books, records, and communications, "mechanized so that it may be consulted with exceeding speed an...
+
+- [Endurance art](https://en.wikipedia.org/w/index.php?title=Endurance_art&oldid=1142703051) - Endurance art is a kind of performance art involving some form of hardship, such as pain, solitude or exhaustion. Performances that focus on the passage of long periods of time are also known as durational art or durational performances.Writer Michael Fallon traces the genre to the work of Chris Burden in California in the 1970s. Burden spent five d...
+
+- [Tokyo subway sarin attack](https://en.wikipedia.org/w/index.php?title=Tokyo_subway_sarin_attack&oldid=1141689457) - The Tokyo subway sarin attack (地下鉄サリン事件, Chikatetsu Sarin Jiken, "Subway Sarin Incident") was an act of domestic terrorism perpetrated on 20 March 1995, in Tokyo, Japan, by members of the cult movement Aum Shinrikyo. In five coordinated attacks, the perpetrators released sarin on three lines of the Tokyo Metro (then Teito Rapid Transit Authority) du...
+
+- [Deceased Wife's Sister's Marriage Act 1907](https://en.wikipedia.org/w/index.php?title=Deceased_Wife%27s_Sister%27s_Marriage_Act_1907&oldid=1145417701) - The Deceased Wife's Sister's Marriage Act 1907 (7 Edw.7 c.47) was an Act of the Parliament of the United Kingdom, allowing a man to marry his dead wife's sister, which had previously been forbidden. This prohibition had derived from a doctrine of canon law whereby those who were connected by marriage were regarded as being related to each other in a...
+
+- [ANT catalog](https://en.wikipedia.org/w/index.php?title=ANT_catalog&oldid=1131344489) - The ANT catalog (or TAO catalog) is a classified product catalog by the U.S. National Security Agency (NSA) of which the version written in 2008–2009 was published by German news magazine Der Spiegel in December 2013. Forty-nine catalog pages with pictures, diagrams and descriptions of espionage devices and spying software were published. The items ...
+
+- [Frog cake](https://en.wikipedia.org/w/index.php?title=Frog_cake&oldid=1110322853) - The frog cake is an Australian dessert in the shape of a frog's head, composed of sponge cake and cream covered with fondant. It was created by the Balfours bakery circa 1923, and soon became a popular treat in South Australia. Originally frog cakes were available exclusively in green, but later brown and pink were added to the range. Since then oth...
+
+- [Aoshima, Ehime](https://en.wikipedia.org/w/index.php?title=Aoshima,_Ehime&oldid=1144825063) - Aoshima (青島, Aoshima), also known as Cat Island (猫の島, Neko no shima), is an island in Ehime Prefecture, Japan, known for its large number of feline residents. Felines have been reported by news outlets to outnumber humans by ratios between 6:1 and 10:1, but as elderly inhabitants of the island have died, the ratio has greatly increased to almost 36:...
+
+- [WeWork](https://en.wikipedia.org/w/index.php?title=WeWork&oldid=1141610523) - WeWork Inc. is a provider of coworking spaces, including physical and virtual shared spaces, headquartered in New York City. As of December 31, 2021, the company operated 44.8 million square feet (4,160,000 m2) of space, including 19.8 million square feet (1,840,000 m2) in the United States and Canada, in 756 locations in 38 countries, and had 590,0...
+
+- [maia arson crimew](https://en.wikipedia.org/w/index.php?title=Maia_arson_crimew&oldid=1143992334) - maia arson crimew (formerly known as Tillie Kottmann, and also known as deletescape and antiproprietary; born August 7, 1999) is a Swiss developer and computer hacker. crimew worked in information technology as a teenager, becoming the founding developer of Lawnchair Launcher, a popular application launcher for Android. She is known for leaking sour...
+
+- [F. D. C. Willard](https://en.wikipedia.org/w/index.php?title=F._D._C._Willard&oldid=1131479526) - F. D. C. Willard (1968–1982) was the pen name of a Siamese cat named Chester, who internationally published under this name on physics in scientific journals. He is most famous for his work on low temperature physics as a co-author in 1975. At one later occasion, he published as the sole author.
+
+- [Variable yield](https://en.wikipedia.org/w/index.php?title=Variable_yield&oldid=1086182041) - Variable yield, or dial-a-yield, is an option available on most modern nuclear weapons. It allows the operator to specify a weapon's yield, or explosive power, allowing a single design to be used in different situations. For example, the Mod-10 B61 bomb had selectable explosive yields of 0.3, 5, 10 or 80 kilotons, depending on how the ground crew se...
+
+- [Salmon chaos](https://en.wikipedia.org/w/index.php?title=Salmon_chaos&oldid=1131094299) - In March 2021, a wave of Taiwanese people changed their legal names to include the word "salmon" (Chinese: 鮭魚; pinyin: guīyú) to take advantage of a promotion by the Japanese conveyor belt sushi chain Sushiro. The chain offered free sushi to guests whose names included the word. This phenomenon was dubbed the "salmon chaos" by English-language media...
+
+- [Simplified Spelling Board](https://en.wikipedia.org/w/index.php?title=Simplified_Spelling_Board&oldid=1120817690) - The Simplified Spelling Board was an American organization created in 1906 to reform the spelling of the English language, making it simpler and easier to learn, and eliminating many of what were considered to be its inconsistencies. The board operated until 1920, the year after the death of its founding benefactor, who had come to criticize the pro...
+
+- [Sexually dimorphic nucleus](https://en.wikipedia.org/w/index.php?title=Sexually_dimorphic_nucleus&oldid=1135173292) - The sexually dimorphic nucleus (SDN) is an ovoid, densely packed cluster of large cells located in the medial preoptic area (POA) of the hypothalamus which is believed to be related to sexual behavior in animals. Thus far, for all species of mammals investigated, the SDN has been repeatedly found to be considerably larger in males than in females. I...
+
+- [Wikipedia Articles](https://github.com/alex-bellon/wikipedia) - 🌐 A collection of interesting Wikipedia articles
+
+- [Great Hanoi Rat Massacre](https://en.wikipedia.org/w/index.php?title=Great_Hanoi_Rat_Massacre&oldid=1139799729) - The Great Hanoi Rat Massacre (Vietnamese: Cuộc thảm sát chuột ở Hà Nội; Chữ Nôm: 局摻刹𤝞於河內; French: Massacre des rats de Hanoï) occurred in 1902, in Hanoi, Tonkin, French Indochina (present day Hanoi, Vietnam), when the French government authorities attempted to control the rat population of the city by hunting them down. As they felt that they weren'...
+
+- [Super Ball](https://en.wikipedia.org/w/index.php?title=Super_Ball&oldid=1138994393) - A Super Ball or Superball is a toy bouncy ball based on a type of synthetic rubber invented in 1964 by chemist Norman Stingley.  It is an extremely elastic ball made of Zectron, which contains the synthetic polymer polybutadiene as well as hydrated silica, zinc oxide, stearic acid, and other ingredients.  This compound is  vulcanized with sulfur at ...
+
+- [1946 California gubernatorial election](https://en.wikipedia.org/w/index.php?title=1946_California_gubernatorial_election&oldid=1142536111) - The 1946 California gubernatorial election was held on November 5, 1946. It is notable for the incumbent Governor, Earl Warren, being nominated by both the Republican and Democratic parties, as well as the Progressive Party. Subsequently, Warren won re-election effectively unopposed, receiving more than 90% of the vote. He was the first Governor of ...
+
+- [Metasyntactic variable](https://en.wikipedia.org/w/index.php?title=Metasyntactic_variable&oldid=1132075391) - A metasyntactic variable is a specific word or set of words identified as a placeholder in computer science and specifically computer programming. These words are commonly found in source code and are intended to be modified or substituted before real-world usage. The words foo and bar are good examples as they are used in over 330 Internet Engineer...
+
+- [Port and Starboard (orcas)](https://en.wikipedia.org/w/index.php?title=Port_and_Starboard_(orcas)&oldid=1142158394) - Port and Starboard are a pair of adult male orcas notable for preying on great white sharks off the coast of South Africa. The duo are identified as having rare and distinct collapsed dorsal fins and they are named for the nautical terms, as Port's fin collapses left and Starboard's collapses right. Port and Starboard are part of a distinctive "flat...
+
+- [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
+
 # misc
+- [Neurocracy](https://neurocracy.site/#home) - Solve a murder in the future by diving into its Wikipedia
+
 - [The Punctuation Guide](https://www.thepunctuationguide.com/?utm_source=cassidoo) - The web's most comprehensive guide to American punctuation.
 
 - [Lake Washington salmon counts | Washington Department of Fish & Wildlife](https://wdfw.wa.gov/fishing/reports/counts/lake-washington) - Lake Washington sockeye salmon have been counted each year since 1972 as they enter freshwater at the Hiram M. Chittenden Locks.
@@ -1699,4 +2259,32 @@ To view a single category, check the files/ folder.
 - [Bubble Tea: A Breakdown](https://taiwandatastories.com/bubble-tea-guide/)
 
 - [Compromise](https://compromise.cool/)
+
+- [Holotypic Occlupanid Research Group](https://www.horg.com/horg) - This site contains ongoing research in the classification of occlupanids.
+
+- [OpenPods](https://github.com/adolfintel/OpenPods) - The Free and Open Source app for monitoring your AirPods on Android
+
+- [Home | Shrimp Welfare Project](https://www.shrimpwelfareproject.org) - Shrimp Welfare Project aims to improve the lives of billions of farmed shrimps in India and Southeast Asia.
+
+- [AmputatorBot: Remove AMP from your URLs](https://www.amputatorbot.com) - AMP is threatening your privacy and the Open Web. With AmputatorBot, you can remove it from your URLs. AmputatorBot is available in many forms: here, as bots on Reddit and Twitter and as a free and public API
+
+- [Element Speller](https://www.bgreco.net/periodic/)
+
+- [ZType – Typing Game - Type to Shoot](https://zty.pe/)
+
+- [Viola the Bird](https://artsandculture.google.com/experiment/viola-the-bird/nAEJVwNkp-FnrQ) - Play a cello inspired instrument with Viola the Bird and the help of  machine learning! An experiment by David Li.
+
+- [How I Experience Web Today](https://how-i-experience-web-today.com/)
+
+- [Apollo-11/Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.agc at master · chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11/blob/master/Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.agc) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules. - chrislgarry/Apollo-11
+
+- [HTTP Cats](https://http.cat/) - API for HTTP Cats
+
+- [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
+
+- [DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
+
+- [infinite-cat](https://www.petside.com/infinite-cat/) - Now part of the Petside family, The Infinite Cat Project is about one cat watching another cat (see below). A long line of 1856 cats, so far. The very first Infinaut is Frankie (seen at left admiring a flower) the owner of Paul Hamilton. In addition, the ICP also offers all manners of other cat-related diversions every day […]
+
+- [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/?utm_source=social-share&utm_medium=social&utm_campaign=dev-survey-2022) - In May 2022 over 70,000 developers told us how they learn and level up, which tools they’re using, and what they want.
 

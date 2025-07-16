@@ -1,4 +1,8 @@
 # computing_resources
+- [DEF CON 31 War Stories - Tracking the Worlds Dumbest Cyber Mercenaries - Cooper Quintin](https://www.youtube.com/watch?v=zccAvgC4UxU) - Creative Commons Attribution license (reuse allowed)
+
+- [DEF CON 22 - Deviant Ollam & Howard Payne - Elevator Hacking - From the Pit to the Penthouse](https://www.youtube.com/watch?v=oHf1vD5_b5I) - Elevator Hacking - From the Pit to the Penthouse  Deviant Ollam The CORE Group  Howard Payne The CORE Group  Throughout the history of hacker culture, elevators have played a key role. From the mystique of students at MIT taking late-night rides upon car tops (don't do that, please!) to the work of modern pen testers who use elevators to bypass buil...
+
 - [The Illustrated TLS 1.3 Connection](https://tls13.xargs.org/) - Every byte of a TLS connection explained and reproduced
 
 - [ShellCheck – shell script analysis tool](https://www.shellcheck.net/) - ShellCheck finds bugs in your shell scripts
@@ -198,4 +202,32 @@
 - [styleguide/pyguide.md at gh-pages · google/styleguide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md) - Style guides for Google-originated open-source projects - google/styleguide
 
 - [GitHub Next](https://next.github.com) - GitHub Next investigates the future of software development
+
+- [Monaspace](https://monaspace.githubnext.com/) - An innovative superfamily of fonts for code
+
+- [Four ways to underline text in LaTeX](https://alexwlchan.net/2017/latex-underlines/) - I'm very picky about the way underlines look, and have spent a lot of time trying to get the perfect underline in LaTeX.
+
+- [Server-side sandboxing: An introduction | Figma Blog](https://www.figma.com/blog/server-side-sandboxing-an-introduction/) - The first of our three-part series on deploying and operating sandboxing techniques
+
+- [NSA Codebreaker Challenge](https://nsa-codebreaker.org/resources)
+
+- [CLARK | Browse Learning Objects](https://clark.center/browse?currPage=8&limit=10&orderBy=date&sortType=-1&collection=nccp&status=released)
+
+- [Low latency logging](www.reddit.com/r/rust/comments/15cm4ug/low_latency_logging/)
+
+- [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com/)
+
+- [The Grug Brained Developer](https://grugbrain.dev/)
+
+- [Dark theme generator](https://colorffy.com/) - Generate your custom dark theme with our easy-to-use CSS and SCSS Dark Theme Generator to easily create and manage your CSS and SCSS custom theme variables.
+
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+
+- [SICP Distilled](https://www.sicpdistilled.com/section/1.1.1/)
+
+- [Try Clojure](https://tryclojure.org/) - Clojure tutorial in a browser REPL.
+
+- [Nutshell: make expandable, embeddable explanations](https://ncase.me/nutshell/) - a tool to let your readers dive into details
+
+- [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
