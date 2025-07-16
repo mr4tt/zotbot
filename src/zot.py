@@ -22,13 +22,13 @@ class Zot():
         self.zotbot = zotero.Zotero(library_id, library_type, api_key)
 
 load_dotenv()
-zot = Zot()
+zot = Zot().zotbot
 
 foldersToIgnore = {"to_read"}
 foldersIgnoreDescription = {"videos", "crochet"}
 
 # create files for each Zotero collection
-collections = zotMethods.getCollections(zot.zotbot)
+collections = zotMethods.getCollections(zot)
 os.makedirs(os.path.dirname("../files/"), exist_ok=True)
 
 # creating TOC 
@@ -43,7 +43,9 @@ with open("../README.md", "w", encoding="utf-8") as readme:
 # loop thru each folder, create a file for it, and add each item into its file
 for folder, folderID in collections.items():
     if folder in foldersToIgnore: continue
-    itemsInFolder = zot.zotbot.collection_items(folderID, itemType="-attachment")
+
+    # wrap in zot.everything to grab > 100 items
+    itemsInFolder = zot.everything(zot.collection_items(folderID, itemType="-attachment"))
     filename = "../files/" + folder + ".md"
   
     # write each item and description to correct category file

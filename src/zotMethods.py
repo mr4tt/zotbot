@@ -1,7 +1,3 @@
-from pyzotero import zotero
-import os
-
-# TODO: is there any way to get unfiled items? 
 # TODO: sorting?
 
 # get all items from your Zotero library (prints type and ID)
@@ -15,7 +11,7 @@ def getAllItems(zot):
 
 # search by title or author (but i think most things in my lib dont have author)
 def getItemByTitle(zot, search: str, itemType=None):
-    items = zot.everything(zot.items(q=search, itemType=type))
+    items = zot.everything(zot.items(q=search))
     itr = 1
     for item in items:
         print(item)
@@ -32,6 +28,3 @@ def getCollections(zot) -> dict:
         collection[folder["data"]["name"]] = folder["data"]["key"]
     
     return collection
-
-
-
