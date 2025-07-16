@@ -1,4 +1,6 @@
 # computing_resources
+- [The Illustrated TLS 1.3 Connection](https://tls13.xargs.org/) - Every byte of a TLS connection explained and reproduced
+
 - [ShellCheck – shell script analysis tool](https://www.shellcheck.net/) - ShellCheck finds bugs in your shell scripts
 
 - [Introduction to Cryptography](https://sagrawalx.github.io/crypt/)
@@ -196,6 +198,4 @@
 - [styleguide/pyguide.md at gh-pages · google/styleguide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md) - Style guides for Google-originated open-source projects - google/styleguide
 
 - [GitHub Next](https://next.github.com) - GitHub Next investigates the future of software development
-
-- [Monaspace](https://monaspace.githubnext.com/) - An innovative superfamily of fonts for code
 

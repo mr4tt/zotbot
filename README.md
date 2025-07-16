@@ -414,6 +414,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [Why the US’ 2nd-Busiest Passenger Railway Is Doomed](https://www.youtube.com/watch?v=AUBFRJJp7oo)
+
 - [the cat from ipanema](https://www.youtube.com/watch?v=dg4dmNvxdu0)
 
 - [Patrick Page - HOT TO GO , Dramatic Reading (Chappell Roan)](https://www.youtube.com/watch?v=Ax5WqfqSPX8)
@@ -808,6 +810,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [The Illustrated TLS 1.3 Connection](https://tls13.xargs.org/) - Every byte of a TLS connection explained and reproduced
+
 - [ShellCheck – shell script analysis tool](https://www.shellcheck.net/) - ShellCheck finds bugs in your shell scripts
 
 - [Introduction to Cryptography](https://sagrawalx.github.io/crypt/)
@@ -1005,8 +1009,6 @@ To view a single category, check the files/ folder.
 - [styleguide/pyguide.md at gh-pages · google/styleguide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md) - Style guides for Google-originated open-source projects - google/styleguide
 
 - [GitHub Next](https://next.github.com) - GitHub Next investigates the future of software development
-
-- [Monaspace](https://monaspace.githubnext.com/) - An innovative superfamily of fonts for code
 
 # stories
 - [Why Don't We Just Kill the Kid In the Omelas Hole](https://clarkesworldmagazine.com/kim_02_24/) - Clarkesworld Science Fiction and Fantasy Magazine and Podcast. This page: Why Don't We Just Kill the Kid In the Omelas Hole by Isabel J. Kim
