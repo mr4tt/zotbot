@@ -1,4 +1,6 @@
 # computing_resources
+- [Load Balancing](https://samwho.dev/load-balancing/) - A bottom-up, animated guide to HTTP load balancing algorithms.
+
 - [DEF CON 31 War Stories - Tracking the Worlds Dumbest Cyber Mercenaries - Cooper Quintin](https://www.youtube.com/watch?v=zccAvgC4UxU) - Creative Commons Attribution license (reuse allowed)
 
 - [DEF CON 22 - Deviant Ollam & Howard Payne - Elevator Hacking - From the Pit to the Penthouse](https://www.youtube.com/watch?v=oHf1vD5_b5I) - Elevator Hacking - From the Pit to the Penthouse  Deviant Ollam The CORE Group  Howard Payne The CORE Group  Throughout the history of hacker culture, elevators have played a key role. From the mystique of students at MIT taking late-night rides upon car tops (don't do that, please!) to the work of modern pen testers who use elevators to bypass buil...

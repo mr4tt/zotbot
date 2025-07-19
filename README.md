@@ -17,6 +17,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # blogs
+- [samwho](https://samwho.dev/) - Personal website of Sam Rose.
+
 - [All My Work · eieio.games](https://eieio.games/blog/)
 
 - [MoonBear Musings – Some thoughts from a stupid business bear](https://moonbearmusings.com/)
@@ -810,6 +812,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [Load Balancing](https://samwho.dev/load-balancing/) - A bottom-up, animated guide to HTTP load balancing algorithms.
+
 - [DEF CON 31 War Stories - Tracking the Worlds Dumbest Cyber Mercenaries - Cooper Quintin](https://www.youtube.com/watch?v=zccAvgC4UxU) - Creative Commons Attribution license (reuse allowed)
 
 - [DEF CON 22 - Deviant Ollam & Howard Payne - Elevator Hacking - From the Pit to the Penthouse](https://www.youtube.com/watch?v=oHf1vD5_b5I) - Elevator Hacking - From the Pit to the Penthouse  Deviant Ollam The CORE Group  Howard Payne The CORE Group  Throughout the history of hacker culture, elevators have played a key role. From the mystique of students at MIT taking late-night rides upon car tops (don't do that, please!) to the work of modern pen testers who use elevators to bypass buil...
@@ -1043,6 +1047,10 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # stories
+- [When He Calls Your Name](https://www.uncannymagazine.com/article/when-he-calls-your-name/) - There’s nights in the deep end of summer so hot and thick and wet you can feel the dark wrinkling up your fingers like bathwater—and my last night breathing was one of those. 2 a.m. came to ring my bell and found me perfectly awake, swinging back and forth on a hanging sweetheart bench with […]
+
+- [The Best Way to Survive a Tiger Attack](https://www.uncannymagazine.com/?post_type=article&p=8084) - Content note: child abuse   The tiger curls in my living room, on the sofa in front of the TV. Finish your lunch, she says, and her words bend my back until I’m on my hands and knees, hunching over the plate she’s set down on the floor, like a dog. Finish your lunch, she […]
+
 - [Why Don't We Just Kill the Kid In the Omelas Hole](https://clarkesworldmagazine.com/kim_02_24/) - Clarkesworld Science Fiction and Fantasy Magazine and Podcast. This page: Why Don't We Just Kill the Kid In the Omelas Hole by Isabel J. Kim
 
 - [The Worms that Ate the Universe](https://www.uncannymagazine.com/article/the-worms-that-ate-the-universe/) - The planet of the worms is a cold, barren, sunless place. The worms do not think. They feel nothing but hunger, and so they eat. They eat through the planet’s surface. They eat through the planet’s molten core. Over time, the planet grows speckled and spongelike, riddled with tunnels and holes. But the worms don’t […]
@@ -1509,6 +1517,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Seattle Freeze](https://en.wikipedia.org/w/index.php?title=Seattle_Freeze&oldid=1287584579) - The Seattle Freeze is, according to widely held belief, a difficulty with making new friends  in the American city of Seattle, Washington, particularly for transplants from other areas. A 2005 article in The Seattle Times written by Julia Sommerfeld appears to be the first known use of the term, although the phenomenon was documented during rapid po...
+
 - [Honeypot ant](https://en.wikipedia.org/w/index.php?title=Honeypot_ant&oldid=1297155934) - Honeypot ants, also called honey ants, are ants which have specialized workers—repletes, plerergates or rotunds—that consume large amounts of food to the point that their abdomens swell enormously. This phenomenon of extreme inflation of the trunk is called physogastry. Other ants then extract nourishment from them, through the process of trophallax...
 
 - [Ketchup as a vegetable](https://en.wikipedia.org/w/index.php?title=Ketchup_as_a_vegetable&oldid=1248347912) - The ketchup as a vegetable controversy stemmed from proposed regulations of school lunches by the USDA's Food and Nutrition Service (FNS) in 1981, early in the presidency of Ronald Reagan. The regulations were intended to provide meal planning flexibility to local school lunch administrators coping with cuts to the National School Lunch Program enac...

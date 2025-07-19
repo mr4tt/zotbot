@@ -1,4 +1,6 @@
 # blogs
+- [samwho](https://samwho.dev/) - Personal website of Sam Rose.
+
 - [All My Work · eieio.games](https://eieio.games/blog/)
 
 - [MoonBear Musings – Some thoughts from a stupid business bear](https://moonbearmusings.com/)

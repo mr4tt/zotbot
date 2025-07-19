@@ -1,4 +1,8 @@
 # stories
+- [When He Calls Your Name](https://www.uncannymagazine.com/article/when-he-calls-your-name/) - There’s nights in the deep end of summer so hot and thick and wet you can feel the dark wrinkling up your fingers like bathwater—and my last night breathing was one of those. 2 a.m. came to ring my bell and found me perfectly awake, swinging back and forth on a hanging sweetheart bench with […]
+
+- [The Best Way to Survive a Tiger Attack](https://www.uncannymagazine.com/?post_type=article&p=8084) - Content note: child abuse   The tiger curls in my living room, on the sofa in front of the TV. Finish your lunch, she says, and her words bend my back until I’m on my hands and knees, hunching over the plate she’s set down on the floor, like a dog. Finish your lunch, she […]
+
 - [Why Don't We Just Kill the Kid In the Omelas Hole](https://clarkesworldmagazine.com/kim_02_24/) - Clarkesworld Science Fiction and Fantasy Magazine and Podcast. This page: Why Don't We Just Kill the Kid In the Omelas Hole by Isabel J. Kim
 
 - [The Worms that Ate the Universe](https://www.uncannymagazine.com/article/the-worms-that-ate-the-universe/) - The planet of the worms is a cold, barren, sunless place. The worms do not think. They feel nothing but hunger, and so they eat. They eat through the planet’s surface. They eat through the planet’s molten core. Over time, the planet grows speckled and spongelike, riddled with tunnels and holes. But the worms don’t […]
