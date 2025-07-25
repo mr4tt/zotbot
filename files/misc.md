@@ -1,4 +1,10 @@
 # misc
+- [TasteAtlas: Travel Global, Eat Local](https://www.tasteatlas.com/map) - World food atlas
+
+- [NoTengoEnie](https://www.notengoenie.com/)
+
+- [How We Built a Database of Prison Commissary Prices](https://theappeal.org/locked-in-priced-out-commissary-database-methodology/) - Inside The Appeal’s 9-month investigation.
+
 - [Neurocracy](https://neurocracy.site/#home) - Solve a murder in the future by diving into its Wikipedia
 
 - [The Punctuation Guide](https://www.thepunctuationguide.com/?utm_source=cassidoo) - The web's most comprehensive guide to American punctuation.

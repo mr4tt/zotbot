@@ -17,6 +17,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # blogs
+- [All posts](https://www.seangoedecke.com/) - Sean Goedecke's personal blog
+
 - [samwho](https://samwho.dev/) - Personal website of Sam Rose.
 
 - [All My Work · eieio.games](https://eieio.games/blog/)
@@ -812,6 +814,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [Rules for Writing Software Tutorials](https://refactoringenglish.com/) - It's easier than you think to write an exceptional software tutorial. You can stand out in a sea of mediocre guides by following a few simple rules.
+
 - [Load Balancing](https://samwho.dev/load-balancing/) - A bottom-up, animated guide to HTTP load balancing algorithms.
 
 - [DEF CON 31 War Stories - Tracking the Worlds Dumbest Cyber Mercenaries - Cooper Quintin](https://www.youtube.com/watch?v=zccAvgC4UxU) - Creative Commons Attribution license (reuse allowed)
@@ -1138,7 +1142,15 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Inside Snapchat's Teen Opioid Crisis](https://www.rollingstone.com/culture/culture-features/inside-snapchat-teenage-opioid-crisis-1235036691/) - Drug dealers have used Snapchat to sell fake pills to teens, but these opioids are often laced with fentanyl, helping to fuel an overdose epidemic
+
 - [The viral AI avatar app Lensa undressed me—without my consent](https://www.technologyreview.com/2022/12/12/1064751/the-viral-ai-avatar-app-lensa-undressed-me-without-my-consent/) - My avatars were cartoonishly pornified, while my male colleagues got to be astronauts, explorers, and inventors.
+
+- [The Vanishing Family](https://www.nytimes.com/2023/07/20/magazine/family-genetics-frontotemporal-dementia.html) - They all have a 50-50 chance of inheriting a cruel genetic mutation — which means disappearing into dementia in middle age. This is the story of what it’s like to live with those odds.
+
+- [Where Has All the Tab Gone? A Shortage Panics Fans](https://www.nytimes.com/2018/10/17/business/tab-shortage-coca-cola.html) - Coke is still producing the diet cola, but a major bottler has stopped distribution in its 14-state territory.
+
+- [When They Stop Selling Your Favorite Thing](https://www.nytimes.com/2025/02/21/style/discontinued-item-favorite.html) - Shoppers are going online to pay dearly for discontinued items, from the perfect lip pencil to Tab.
 
 - [We did the math on AI’s energy footprint. Here’s the story you haven’t heard.](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/) - The emissions from individual AI text, image, and video queries seem small—until you add up what the industry isn’t tracking and consider where it’s heading next.
 
@@ -1441,8 +1453,6 @@ To view a single category, check the files/ folder.
 - [One Drive, Double Agent - OneDrive Ransomware](https://www.safebreach.com/resources/one-drive-double-agent-clouded-onedrive-turns-sides/) - See how a SafeBreach Labs researcher leveraged Microsoft OneDrive to develop a new undetectable-by-design ransomware variant.
 
 - [He Had a Dark Secret. It Changed His Best Friend’s Life.](https://www.nytimes.com/2022/07/08/nyregion/brooklyn-homeless-shelter-friendship.html) - Tin Chin and Mo Lin were inseparable at the homeless shelter. But one of the men wasn’t who he seemed to be.
-
-- [The Vanishing Family - The New York Times](https://www.nytimes.com/2023/07/20/magazine/family-genetics-frontotemporal-dementia.html)
 
 - [US soldier facing disciplinary action flees into North Korea](https://www.reuters.com/world/us-national-crosses-military-demarcation-line-into-north-korea-yonhap-2023-07-18/) - The soldier was believed to be in North Korean custody, U.S. officials said, creating a fresh crisis for Washington in its dealings with the nuclear-armed state.
 
@@ -2068,6 +2078,12 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [TasteAtlas: Travel Global, Eat Local](https://www.tasteatlas.com/map) - World food atlas
+
+- [NoTengoEnie](https://www.notengoenie.com/)
+
+- [How We Built a Database of Prison Commissary Prices](https://theappeal.org/locked-in-priced-out-commissary-database-methodology/) - Inside The Appeal’s 9-month investigation.
+
 - [Neurocracy](https://neurocracy.site/#home) - Solve a murder in the future by diving into its Wikipedia
 
 - [The Punctuation Guide](https://www.thepunctuationguide.com/?utm_source=cassidoo) - The web's most comprehensive guide to American punctuation.

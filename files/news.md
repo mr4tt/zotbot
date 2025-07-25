@@ -1,5 +1,13 @@
 # news
+- [Inside Snapchat's Teen Opioid Crisis](https://www.rollingstone.com/culture/culture-features/inside-snapchat-teenage-opioid-crisis-1235036691/) - Drug dealers have used Snapchat to sell fake pills to teens, but these opioids are often laced with fentanyl, helping to fuel an overdose epidemic
+
 - [The viral AI avatar app Lensa undressed me—without my consent](https://www.technologyreview.com/2022/12/12/1064751/the-viral-ai-avatar-app-lensa-undressed-me-without-my-consent/) - My avatars were cartoonishly pornified, while my male colleagues got to be astronauts, explorers, and inventors.
+
+- [The Vanishing Family](https://www.nytimes.com/2023/07/20/magazine/family-genetics-frontotemporal-dementia.html) - They all have a 50-50 chance of inheriting a cruel genetic mutation — which means disappearing into dementia in middle age. This is the story of what it’s like to live with those odds.
+
+- [Where Has All the Tab Gone? A Shortage Panics Fans](https://www.nytimes.com/2018/10/17/business/tab-shortage-coca-cola.html) - Coke is still producing the diet cola, but a major bottler has stopped distribution in its 14-state territory.
+
+- [When They Stop Selling Your Favorite Thing](https://www.nytimes.com/2025/02/21/style/discontinued-item-favorite.html) - Shoppers are going online to pay dearly for discontinued items, from the perfect lip pencil to Tab.
 
 - [We did the math on AI’s energy footprint. Here’s the story you haven’t heard.](https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/) - The emissions from individual AI text, image, and video queries seem small—until you add up what the industry isn’t tracking and consider where it’s heading next.
 
@@ -302,8 +310,6 @@
 - [One Drive, Double Agent - OneDrive Ransomware](https://www.safebreach.com/resources/one-drive-double-agent-clouded-onedrive-turns-sides/) - See how a SafeBreach Labs researcher leveraged Microsoft OneDrive to develop a new undetectable-by-design ransomware variant.
 
 - [He Had a Dark Secret. It Changed His Best Friend’s Life.](https://www.nytimes.com/2022/07/08/nyregion/brooklyn-homeless-shelter-friendship.html) - Tin Chin and Mo Lin were inseparable at the homeless shelter. But one of the men wasn’t who he seemed to be.
-
-- [The Vanishing Family - The New York Times](https://www.nytimes.com/2023/07/20/magazine/family-genetics-frontotemporal-dementia.html)
 
 - [US soldier facing disciplinary action flees into North Korea](https://www.reuters.com/world/us-national-crosses-military-demarcation-line-into-north-korea-yonhap-2023-07-18/) - The soldier was believed to be in North Korean custody, U.S. officials said, creating a fresh crisis for Washington in its dealings with the nuclear-armed state.
 

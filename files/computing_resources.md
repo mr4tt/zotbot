@@ -1,4 +1,6 @@
 # computing_resources
+- [Rules for Writing Software Tutorials](https://refactoringenglish.com/) - It's easier than you think to write an exceptional software tutorial. You can stand out in a sea of mediocre guides by following a few simple rules.
+
 - [Load Balancing](https://samwho.dev/load-balancing/) - A bottom-up, animated guide to HTTP load balancing algorithms.
 
 - [DEF CON 31 War Stories - Tracking the Worlds Dumbest Cyber Mercenaries - Cooper Quintin](https://www.youtube.com/watch?v=zccAvgC4UxU) - Creative Commons Attribution license (reuse allowed)
