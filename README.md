@@ -84,6 +84,10 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [How email tracking works behind the scenes](https://buttondown.com/blog/email-tracking-pixels-bugs) - A brief history of email tracking pixels, how they work, and how to turn them off.
+
+- [More people should write « the jsomers.net blog](https://jsomers.net/blog/more-people-should-write)
+
 - [28 slightly rude notes on writing](https://www.experimental-history.com/p/28-slightly-rude-notes-on-writing) - OR: catapulting myself into a pit of tarantulas
 
 - [The Crane Wife by CJ Hauser](https://www.theparisreview.org/blog/2019/07/16/the-crane-wife/)
@@ -2078,6 +2082,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [macOS Icon History](https://basicappleguy.com/basicappleblog/macos-icon-history) - Documenting the evolution of macOS system icons over the past several decades.
+
 - [TasteAtlas: Travel Global, Eat Local](https://www.tasteatlas.com/map) - World food atlas
 
 - [NoTengoEnie](https://www.notengoenie.com/)

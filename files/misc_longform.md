@@ -1,4 +1,8 @@
 # misc_longform
+- [How email tracking works behind the scenes](https://buttondown.com/blog/email-tracking-pixels-bugs) - A brief history of email tracking pixels, how they work, and how to turn them off.
+
+- [More people should write « the jsomers.net blog](https://jsomers.net/blog/more-people-should-write)
+
 - [28 slightly rude notes on writing](https://www.experimental-history.com/p/28-slightly-rude-notes-on-writing) - OR: catapulting myself into a pit of tarantulas
 
 - [The Crane Wife by CJ Hauser](https://www.theparisreview.org/blog/2019/07/16/the-crane-wife/)
