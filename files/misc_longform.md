@@ -1,4 +1,6 @@
 # misc_longform
+- [You’re probably using the wrong dictionary « the jsomers.net blog](https://jsomers.net/blog/dictionary)
+
 - [How email tracking works behind the scenes](https://buttondown.com/blog/email-tracking-pixels-bugs) - A brief history of email tracking pixels, how they work, and how to turn them off.
 
 - [More people should write « the jsomers.net blog](https://jsomers.net/blog/more-people-should-write)
