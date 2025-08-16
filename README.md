@@ -86,6 +86,8 @@ To view a single category, check the files/ folder.
 # misc_longform
 - [You’re probably using the wrong dictionary « the jsomers.net blog](https://jsomers.net/blog/dictionary)
 
+- [Almost Fired](https://www.engineersneedart.com/blog/almostfired/almostfired.html?utm_source=substack)
+
 - [How email tracking works behind the scenes](https://buttondown.com/blog/email-tracking-pixels-bugs) - A brief history of email tracking pixels, how they work, and how to turn them off.
 
 - [More people should write « the jsomers.net blog](https://jsomers.net/blog/more-people-should-write)
@@ -1148,6 +1150,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The Kryptos Key Is Going Up for Sale](https://www.wired.com/story/jim-sanborn-auctions-kryptos-key/) - Jim Sanborn is auctioning off the elusive solution to K4, the outdoor sculpture that sits at CIA headquarters.
+
+- [Leak Reveals the Workaday Lives of North Korean IT Scammers](https://www.wired.com/story/leaked-data-reveals-the-workaday-lives-of-north-korean-it-scammers/) - Spreadsheets, Slack messages, and files linked to an alleged group of North Korean IT workers expose their meticulous job-planning and targeting—and the constant surveillance they're under.
+
 - [Inside Snapchat's Teen Opioid Crisis](https://www.rollingstone.com/culture/culture-features/inside-snapchat-teenage-opioid-crisis-1235036691/) - Drug dealers have used Snapchat to sell fake pills to teens, but these opioids are often laced with fentanyl, helping to fuel an overdose epidemic
 
 - [The viral AI avatar app Lensa undressed me—without my consent](https://www.technologyreview.com/2022/12/12/1064751/the-viral-ai-avatar-app-lensa-undressed-me-without-my-consent/) - My avatars were cartoonishly pornified, while my male colleagues got to be astronauts, explorers, and inventors.
@@ -1533,6 +1539,14 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Igbo Landing](https://en.wikipedia.org/w/index.php?title=Igbo_Landing&oldid=1301797844) - Igbo Landing (also called Ibo Landing, Ebo Landing, or Ebos Landing) is a historic site at Dunbar Creek on St. Simons Island, Glynn County, Georgia. It was the setting of a mass suicide in 1803 by captive Igbo people who had taken control of the slave ship they were on, and refused to submit to slavery in the United States. The event's moral value a...
+
+- [<i>My Weekend as a 28-Year-Old in Chicago</i>](https://en.wikipedia.org/w/index.php?title=My_Weekend_as_a_28-Year-Old_in_Chicago&oldid=1303692596) - My Weekend as a 28-Year-Old in Chicago is a satirical video created by American comedian Mike Schwanke, under the pseudonym Judd Crud. It was published on August 29, 2022, on TikTok, Twitter, and Instagram. A parody of "day in the life" vlogs, the video walks through the events of an imagined weekend of Schwanke's life in Chicago, Illinois, growing ...
+
+- [Hungry grass](https://en.wikipedia.org/w/index.php?title=Hungry_grass&oldid=1275637097) - In Irish mythology, hungry grass (Irish: féar gortach; also known as fairy grass) is a patch of cursed grass. Anyone walking on it was doomed to perpetual and insatiable hunger. Harvey suggests that the hungry grass is cursed by the proximity of an unshriven corpse (the fear gorta). William Carleton's stories suggest that faeries plant the hungry gr...
+
+- [<i>Jeremy Renner Official</i>](https://en.wikipedia.org/w/index.php?title=Jeremy_Renner_Official&oldid=1292086026) - Jeremy Renner Official (or Jeremy Renner on the Google Play Store) was a mobile app created by American actor Jeremy Renner. He created the app in March 2017 to hear the input and comments of his fans. The app was shut down in September 2019 in part due to the frequent bullying and trolling that the platform had experienced. The app featured optiona...
+
 - [Seattle Freeze](https://en.wikipedia.org/w/index.php?title=Seattle_Freeze&oldid=1287584579) - The Seattle Freeze is, according to widely held belief, a difficulty with making new friends  in the American city of Seattle, Washington, particularly for transplants from other areas. A 2005 article in The Seattle Times written by Julia Sommerfeld appears to be the first known use of the term, although the phenomenon was documented during rapid po...
 
 - [Honeypot ant](https://en.wikipedia.org/w/index.php?title=Honeypot_ant&oldid=1297155934) - Honeypot ants, also called honey ants, are ants which have specialized workers—repletes, plerergates or rotunds—that consume large amounts of food to the point that their abdomens swell enormously. This phenomenon of extreme inflation of the trunk is called physogastry. Other ants then extract nourishment from them, through the process of trophallax...

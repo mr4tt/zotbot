@@ -1,4 +1,8 @@
 # news
+- [The Kryptos Key Is Going Up for Sale](https://www.wired.com/story/jim-sanborn-auctions-kryptos-key/) - Jim Sanborn is auctioning off the elusive solution to K4, the outdoor sculpture that sits at CIA headquarters.
+
+- [Leak Reveals the Workaday Lives of North Korean IT Scammers](https://www.wired.com/story/leaked-data-reveals-the-workaday-lives-of-north-korean-it-scammers/) - Spreadsheets, Slack messages, and files linked to an alleged group of North Korean IT workers expose their meticulous job-planning and targeting—and the constant surveillance they're under.
+
 - [Inside Snapchat's Teen Opioid Crisis](https://www.rollingstone.com/culture/culture-features/inside-snapchat-teenage-opioid-crisis-1235036691/) - Drug dealers have used Snapchat to sell fake pills to teens, but these opioids are often laced with fentanyl, helping to fuel an overdose epidemic
 
 - [The viral AI avatar app Lensa undressed me—without my consent](https://www.technologyreview.com/2022/12/12/1064751/the-viral-ai-avatar-app-lensa-undressed-me-without-my-consent/) - My avatars were cartoonishly pornified, while my male colleagues got to be astronauts, explorers, and inventors.
