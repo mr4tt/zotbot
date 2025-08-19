@@ -1,4 +1,6 @@
 # computing_resources
+- [YAML Multiline Strings](https://yaml-multiline.info/)
+
 - [Rules for Writing Software Tutorials](https://refactoringenglish.com/) - It's easier than you think to write an exceptional software tutorial. You can stand out in a sea of mediocre guides by following a few simple rules.
 
 - [Load Balancing](https://samwho.dev/load-balancing/) - A bottom-up, animated guide to HTTP load balancing algorithms.

@@ -84,6 +84,10 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [The good times in tech are over](https://www.seangoedecke.com/good-times-are-over/) - For most of the last decade, being a software engineer has been a lot of fun. Every company offered lots of perks, layoffs and firings were almost unheard of…
+
+- [NYC’s Urban Textscape](https://pudding.cool/2025/07/street-view) - Analyzing All of the Words Found on NYC Streets
+
 - [You’re probably using the wrong dictionary « the jsomers.net blog](https://jsomers.net/blog/dictionary)
 
 - [Almost Fired](https://www.engineersneedart.com/blog/almostfired/almostfired.html?utm_source=substack)
@@ -91,6 +95,12 @@ To view a single category, check the files/ folder.
 - [How email tracking works behind the scenes](https://buttondown.com/blog/email-tracking-pixels-bugs) - A brief history of email tracking pixels, how they work, and how to turn them off.
 
 - [More people should write « the jsomers.net blog](https://jsomers.net/blog/more-people-should-write)
+
+- [Bringing Sexy Back](https://lux-magazine.com/article/privacy-eroticism/) - Internet surveillance has killed eroticism. We need privacy to reclaim it.
+
+- [Death by AI](https://davebarry.substack.com/p/death-by-ai) - One man's struggle with his mortality.
+
+- [Why You Own an iPad and Still Can't Draw](https://maggieappleton.com/still-cant-draw/) - The failure of drawing materials without mediums and meat
 
 - [28 slightly rude notes on writing](https://www.experimental-history.com/p/28-slightly-rude-notes-on-writing) - OR: catapulting myself into a pit of tarantulas
 
@@ -289,6 +299,8 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
+- [ONIONLABS Store](https://www.onionlabs.net/) - ONIONLABS is a collective of both pixel art and illustration. Peak inside the mind of Nelson Wu with beautiful prints, functional accessories and high quality apparel.
+
 - [JoannaShenArt](https://joannashenart.bigcartel.com/) - Welcome to JoannaShenArt, where Jo turns her unique nature, food, and Asian culture inspired designs into lifestyle merchandise that adds an extra...
 
 - [Microbiome Arts](https://www.microbiomearts.com/products) - Browse all products from Microbiome Arts.
@@ -606,6 +618,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Actual | Actual Budget Documentation](https://actualbudget.org/)
+
 - [Amazon US price tracker, price history, price watch, price drop alerts, and price notifications.](https://camelcamelcamel.com/) - Page 1 at camelcamelcamel: Amazon US price tracker, price history, price watch, price drop alerts, and price notifications.
 
 - [no hello](https://nohello.net/) - please don't say just hello in chat
@@ -663,6 +677,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Smith & Diction - The P](https://www.figma.com/proto/fSeQqlIw4aZpGrTs9LjDIY/S%2526D-%252F-Process-2024?page-id=0%3A1&node-id=1-3&viewport=478%2C160%2C0.07&scaling=containn) - Created with Figma
+
 - [Dropbox Brand Guidelines](https://brand.dropbox.com/) - At Dropbox, our Brand Guidelines help us infuse everything we make with identity. From icons to illustration, logos to language, this collection is the foundation for how Dropbox looks, feels, and sounds like Dropbox.
 
 - [60fps – UI/UX design animation inspiration for mobile & web apps](https://60fps.design/) - 60fps is a curated collection of UI/UX design animtation and interaction design details from the world’s best iOS, android and web apps. It's the perfect source of inspiration for designers and developers.
@@ -722,8 +738,6 @@ To view a single category, check the files/ folder.
 - [Public Sans](https://public-sans.digital.gov/) - A strong, neutral, open source typeface for text or display.
 
 - [Office Chair Finder | Vitra](https://findmy.vitra.com/en-en/questionnaire/chairs) - Welcome to our office chair finder
-
-- [Figma](https://www.figma.com/proto/fSeQqlIw4aZpGrTs9LjDIY/S%2526D-%252F-Process-2024?page-id=0%3A1&node-id=1-3&viewport=478%2C160%2C0.07&scaling=containn) - Created with Figma
 
 - [Inspovault](https://www.inspovault.com/)
 
@@ -822,6 +836,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [YAML Multiline Strings](https://yaml-multiline.info/)
+
 - [Rules for Writing Software Tutorials](https://refactoringenglish.com/) - It's easier than you think to write an exceptional software tutorial. You can stand out in a sea of mediocre guides by following a few simple rules.
 
 - [Load Balancing](https://samwho.dev/load-balancing/) - A bottom-up, animated guide to HTTP load balancing algorithms.
@@ -1153,6 +1169,8 @@ To view a single category, check the files/ folder.
 - [The Kryptos Key Is Going Up for Sale](https://www.wired.com/story/jim-sanborn-auctions-kryptos-key/) - Jim Sanborn is auctioning off the elusive solution to K4, the outdoor sculpture that sits at CIA headquarters.
 
 - [Leak Reveals the Workaday Lives of North Korean IT Scammers](https://www.wired.com/story/leaked-data-reveals-the-workaday-lives-of-north-korean-it-scammers/) - Spreadsheets, Slack messages, and files linked to an alleged group of North Korean IT workers expose their meticulous job-planning and targeting—and the constant surveillance they're under.
+
+- [Tesla Readies a Taxi Service in San Francisco—but Not With Robotaxis](https://www.wired.com/story/tesla-robotaxi-san-francisco-bay-area/) - The electric carmaker informed California that it will operate a limited public taxi service. But it’s not legally allowed to do this with self-driving cars.
 
 - [Inside Snapchat's Teen Opioid Crisis](https://www.rollingstone.com/culture/culture-features/inside-snapchat-teenage-opioid-crisis-1235036691/) - Drug dealers have used Snapchat to sell fake pills to teens, but these opioids are often laced with fentanyl, helping to fuel an overdose epidemic
 
@@ -2098,6 +2116,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [digibouquet](https://digibouquet.vercel.app/) - create and share a digital flower bouquet
+
 - [macOS Icon History](https://basicappleguy.com/basicappleblog/macos-icon-history) - Documenting the evolution of macOS system icons over the past several decades.
 
 - [TasteAtlas: Travel Global, Eat Local](https://www.tasteatlas.com/map) - World food atlas

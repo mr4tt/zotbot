@@ -1,4 +1,8 @@
 # misc_longform
+- [The good times in tech are over](https://www.seangoedecke.com/good-times-are-over/) - For most of the last decade, being a software engineer has been a lot of fun. Every company offered lots of perks, layoffs and firings were almost unheard of…
+
+- [NYC’s Urban Textscape](https://pudding.cool/2025/07/street-view) - Analyzing All of the Words Found on NYC Streets
+
 - [You’re probably using the wrong dictionary « the jsomers.net blog](https://jsomers.net/blog/dictionary)
 
 - [Almost Fired](https://www.engineersneedart.com/blog/almostfired/almostfired.html?utm_source=substack)
@@ -6,6 +10,12 @@
 - [How email tracking works behind the scenes](https://buttondown.com/blog/email-tracking-pixels-bugs) - A brief history of email tracking pixels, how they work, and how to turn them off.
 
 - [More people should write « the jsomers.net blog](https://jsomers.net/blog/more-people-should-write)
+
+- [Bringing Sexy Back](https://lux-magazine.com/article/privacy-eroticism/) - Internet surveillance has killed eroticism. We need privacy to reclaim it.
+
+- [Death by AI](https://davebarry.substack.com/p/death-by-ai) - One man's struggle with his mortality.
+
+- [Why You Own an iPad and Still Can't Draw](https://maggieappleton.com/still-cant-draw/) - The failure of drawing materials without mediums and meat
 
 - [28 slightly rude notes on writing](https://www.experimental-history.com/p/28-slightly-rude-notes-on-writing) - OR: catapulting myself into a pit of tarantulas
 
