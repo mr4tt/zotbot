@@ -1,9 +1,15 @@
 # news
+- [An engineer restores pay phones for free public use](https://www.npr.org/2025/08/04/nx-s1-5484013/engineer-restores-pay-phones-for-free-public-use) - In a rural Vermont county, spotty cellphone coverage is the norm. But a local tinkerer is using old technology to help his community stay connected free of charge.
+
+- [Rats love driving tiny cars, even when they don’t get treats | Ars Technica](https://arstechnica.com/science/2019/11/these-rats-learned-to-drive-tiny-cars-for-science)
+
 - [The Kryptos Key Is Going Up for Sale](https://www.wired.com/story/jim-sanborn-auctions-kryptos-key/) - Jim Sanborn is auctioning off the elusive solution to K4, the outdoor sculpture that sits at CIA headquarters.
 
 - [Leak Reveals the Workaday Lives of North Korean IT Scammers](https://www.wired.com/story/leaked-data-reveals-the-workaday-lives-of-north-korean-it-scammers/) - Spreadsheets, Slack messages, and files linked to an alleged group of North Korean IT workers expose their meticulous job-planning and targeting—and the constant surveillance they're under.
 
 - [Tesla Readies a Taxi Service in San Francisco—but Not With Robotaxis](https://www.wired.com/story/tesla-robotaxi-san-francisco-bay-area/) - The electric carmaker informed California that it will operate a limited public taxi service. But it’s not legally allowed to do this with self-driving cars.
+
+- [ChatGPT Hallucinated a Feature, Forcing Human Developers to Add It](https://www.404media.co/chatgpt-hallucinated-a-feature-forcing-human-developers-to-add-it/) - Welcome to the era of ‘gaslight driven development.’ Soundslice added a feature the chatbot thought it existed after engineers kept finding screenshots from the LLM in its error logs.
 
 - [Inside Snapchat's Teen Opioid Crisis](https://www.rollingstone.com/culture/culture-features/inside-snapchat-teenage-opioid-crisis-1235036691/) - Drug dealers have used Snapchat to sell fake pills to teens, but these opioids are often laced with fentanyl, helping to fuel an overdose epidemic
 
@@ -376,8 +382,6 @@
 - [New research into why woodpeckers don’t get concussions busts a popular myth](https://arstechnica.com/science/2022/07/study-woodpeckers-heads-behave-more-like-hammers-than-shock-absorbers/) - Absorption of the head's kinetic energy would actually impair the bird's pecking ability.
 
 - [I disconnected from the electric grid for 8 months—in Manhattan](https://arstechnica.com/science/2023/01/i-disconnected-from-the-electric-grid-for-8-months-in-manhattan/) - What started as an experiment has turned into a habit I hope will inspire others.
-
-- [Rats love driving tiny cars, even when they don’t get treats | Ars Technica](https://arstechnica.com/science/2019/11/these-rats-learned-to-drive-tiny-cars-for-science/?utm_medium=social&utm_social-type=owned&utm_brand=ars&utm_source=twitter)
 
 - [What the first look at the genetics of Chernobyl's dogs revealed](//www.sciencenews.org/article/genetics-chernobyl-dogs-revealed) - Dogs living in the Chernobyl Nuclear Power Plant industrial area are genetically distinct from other dogs, but scientists don’t yet know if radiation is the reason.
 

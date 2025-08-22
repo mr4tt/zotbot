@@ -1,9 +1,19 @@
 # computing_resources
+- [What is TypeScript? An overview for JavaScript programmers](https://2ality.com/2025/02/what-is-typescript.html) - Read this blog post if you are a JavaScript programmer and want to get a rough idea of what using TypeScript is like (think first step before learning more details). You’ll get answers to the following questions: How is TypeScript code different from JavaScript code? How is TypeScript code run? How does TypeScript help during editing in an IDE? Etc....
+
+- [The /llms.txt file](https://llmstxt.org/) - A proposal to standardise on using an /llms.txt file to provide information to help LLMs use a website at inference time.
+
+- [Load Balancing](https://samwho.dev/load-balancing/) - A bottom-up, animated guide to HTTP load balancing algorithms.
+
+- [BitwiseCmd](http://bitwisecmd.com) - Free Text Online Bitwise Calculator
+
+- [GRID: A simple visual cheatsheet for CSS Grid Layout](http://grid.malven.co) - Learn all about the properties available in CSS Grid Layout through simple visual examples.
+
+- [FLEX: A simple visual cheatsheet for flexbox](http://flexbox.malven.co) - Learn all about the properties available in flexbox through simple visual examples.
+
 - [YAML Multiline Strings](https://yaml-multiline.info/)
 
 - [Rules for Writing Software Tutorials](https://refactoringenglish.com/) - It's easier than you think to write an exceptional software tutorial. You can stand out in a sea of mediocre guides by following a few simple rules.
-
-- [Load Balancing](https://samwho.dev/load-balancing/) - A bottom-up, animated guide to HTTP load balancing algorithms.
 
 - [DEF CON 31 War Stories - Tracking the Worlds Dumbest Cyber Mercenaries - Cooper Quintin](https://www.youtube.com/watch?v=zccAvgC4UxU) - Creative Commons Attribution license (reuse allowed)
 
@@ -58,6 +68,8 @@
 - [Julia Evans](https://jvns.ca/) - Julia Evans
 
 - [Card Stack Tutorial](https://abjt.dev/) - Crafting engaging experiences for the internet.
+
+- [pqoqubbw/icons](https://icons.pqoqubbw.dev) - beautifully crafted animated icons
 
 - [UUIDv7 in 33 languages](https://antonz.org/uuidv7/) - From JavaScript to Zig, no third-party dependencies.
 

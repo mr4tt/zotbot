@@ -1,11 +1,17 @@
 # misc_longform
+- [am i supposed to meet no one?](https://blog.avas.space/no-one/) - talking about automating and teching ourselves out of social connection and obligation
+
+- [Do Hard Things Carefully](https://blog.depthsofrepair.com/p/do-hard-things-carefully) - Leaning in without falling over.
+
+- [This blog is hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/)
+
+- [Almost Fired](https://www.engineersneedart.com/blog/almostfired/almostfired.html)
+
 - [The good times in tech are over](https://www.seangoedecke.com/good-times-are-over/) - For most of the last decade, being a software engineer has been a lot of fun. Every company offered lots of perks, layoffs and firings were almost unheard of…
 
 - [NYC’s Urban Textscape](https://pudding.cool/2025/07/street-view) - Analyzing All of the Words Found on NYC Streets
 
 - [You’re probably using the wrong dictionary « the jsomers.net blog](https://jsomers.net/blog/dictionary)
-
-- [Almost Fired](https://www.engineersneedart.com/blog/almostfired/almostfired.html?utm_source=substack)
 
 - [How email tracking works behind the scenes](https://buttondown.com/blog/email-tracking-pixels-bugs) - A brief history of email tracking pixels, how they work, and how to turn them off.
 
@@ -26,8 +32,6 @@
 - [The Genius of Jokic](https://www.theringer.com/2025/04/24/nba/nikola-jokic-nba-playoffs-2025-denver-nuggets-brain-smarts-iq) - To appreciate the Denver Nuggets’ generational star, you have to appreciate what truly separates him: his brain. “He’s probably the smartest player that’s ever played,” says Christian Braun.
 
 - [Chongqing, the world’s largest city – in pictures](https://www.theguardian.com/world/gallery/2025/apr/27/chongqing-the-worlds-largest-city-in-pictures) - The largest city in the world is as big as Austria, but few people have ever heard of it. The megacity of 34 million people in central of China is the emblem of the fastest urban revolution on the planet. The Communist party decided 30 years ago to unify and populate vast rural areas, an experiment that has become a symbol of the Chinese ability to ...
-
-- [This blog is hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/?utm_source=cassidoo)
 
 - [Come On, Obviously The Purpose Of A System Is Not What It Does](https://www.astralcodexten.com/p/come-on-obviously-the-purpose-of) - ...
 
@@ -66,8 +70,6 @@
 - [A literary history of fake texts in Apple's marketing materials](https://maxread.substack.com/p/a-literary-history-of-fake-texts) - Exploring the Applecore style
 
 - [Deanna Dikeman - Leaving and Waving](https://deannadikeman.com/leaving-and-waving) - For 27 years, I took photographs as I waved good-bye and drove away from visiting my parents at their home in Sioux City, Iowa. I started in 1991 with a quick snapshot, and I continued taking photographs with each departure. I never set out to make this series. I just took these photographs as a way to deal with the sadness of leaving. It gradually ...
-
-- [Do Hard Things Carefully](https://blog.depthsofrepair.com/p/do-hard-things-carefully?utm_medium=email) - Leaning in without falling over.
 
 - [Oxidation Paintings](https://www.warhol.org/conservation/oxidation-paintings/) - Warhol for All
 

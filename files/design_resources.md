@@ -1,5 +1,9 @@
 # design_resources
+- [WADA SANZO | DICTIONARY OF COLOR COMBINATIONS](https://sanzo-wada.dmbk.io/)
+
 - [Smith & Diction - The P](https://www.figma.com/proto/fSeQqlIw4aZpGrTs9LjDIY/S%2526D-%252F-Process-2024?page-id=0%3A1&node-id=1-3&viewport=478%2C160%2C0.07&scaling=containn) - Created with Figma
+
+- [Fonts In Use](https://fontsinuse.com/) - A searchable archive of typographic design, indexed by typeface, format, and topic.
 
 - [Dropbox Brand Guidelines](https://brand.dropbox.com/) - At Dropbox, our Brand Guidelines help us infuse everything we make with identity. From icons to illustration, logos to language, this collection is the foundation for how Dropbox looks, feels, and sounds like Dropbox.
 

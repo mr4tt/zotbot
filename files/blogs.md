@@ -1,4 +1,8 @@
 # blogs
+- [charity.wtf](https://charity.wtf/) - charity wtf's about technology, databases, startups, engineering management, and whiskey.
+
+- [Engineers Need Art](https://www.engineersneedart.com/index.html)
+
 - [All posts](https://www.seangoedecke.com/) - Sean Goedecke's personal blog
 
 - [samwho](https://samwho.dev/) - Personal website of Sam Rose.

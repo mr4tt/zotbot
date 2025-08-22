@@ -1,4 +1,8 @@
 # general_resources
+- [CASCII](https://cascii.app/)
+
+- [How can you tell if the company you’re interviewing with is rotten on the inside?](https://charity.wtf/2022/01/29/how-can-you-tell-if-the-company-youre-interviewing-with-is-rotten-on-the-inside/) - How can you tell the companies who are earnestly trying to improve apart from the ones who sound all polished and healthy from the outside, whilst rotting on the inside? This seems to be on a lot o…
+
 - [Actual | Actual Budget Documentation](https://actualbudget.org/)
 
 - [Amazon US price tracker, price history, price watch, price drop alerts, and price notifications.](https://camelcamelcamel.com/) - Page 1 at camelcamelcamel: Amazon US price tracker, price history, price watch, price drop alerts, and price notifications.

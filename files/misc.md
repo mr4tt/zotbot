@@ -1,4 +1,12 @@
 # misc
+- [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/) - In May 2022 over 70,000 developers told us how they learn and level up, which tools they’re using, and what they want.
+
+- [The Punctuation Guide](https://www.thepunctuationguide.com) - The web's most comprehensive guide to American punctuation.
+
+- [1 dataset. 100 visualizations.](https://100.datavizproject.com/)
+
+- [Poolsuite ☼](https://poolsuite.net) - The ultra-summer internet radio station, playing an infinity pool of summer sounds 24/7. Swimwear optional. Formerly Poolside FM.
+
 - [digibouquet](https://digibouquet.vercel.app/) - create and share a digital flower bouquet
 
 - [macOS Icon History](https://basicappleguy.com/basicappleblog/macos-icon-history) - Documenting the evolution of macOS system icons over the past several decades.
@@ -10,8 +18,6 @@
 - [How We Built a Database of Prison Commissary Prices](https://theappeal.org/locked-in-priced-out-commissary-database-methodology/) - Inside The Appeal’s 9-month investigation.
 
 - [Neurocracy](https://neurocracy.site/#home) - Solve a murder in the future by diving into its Wikipedia
-
-- [The Punctuation Guide](https://www.thepunctuationguide.com/?utm_source=cassidoo) - The web's most comprehensive guide to American punctuation.
 
 - [Lake Washington salmon counts | Washington Department of Fish & Wildlife](https://wdfw.wa.gov/fishing/reports/counts/lake-washington) - Lake Washington sockeye salmon have been counted each year since 1972 as they enter freshwater at the Hiram M. Chittenden Locks.
 
@@ -236,6 +242,4 @@
 - [DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 
 - [infinite-cat](https://www.petside.com/infinite-cat/) - Now part of the Petside family, The Infinite Cat Project is about one cat watching another cat (see below). A long line of 1856 cats, so far. The very first Infinaut is Frankie (seen at left admiring a flower) the owner of Paul Hamilton. In addition, the ICP also offers all manners of other cat-related diversions every day […]
-
-- [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/?utm_source=social-share&utm_medium=social&utm_campaign=dev-survey-2022) - In May 2022 over 70,000 developers told us how they learn and level up, which tools they’re using, and what they want.
 

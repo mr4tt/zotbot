@@ -17,6 +17,10 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # blogs
+- [charity.wtf](https://charity.wtf/) - charity wtf's about technology, databases, startups, engineering management, and whiskey.
+
+- [Engineers Need Art](https://www.engineersneedart.com/index.html)
+
 - [All posts](https://www.seangoedecke.com/) - Sean Goedecke's personal blog
 
 - [samwho](https://samwho.dev/) - Personal website of Sam Rose.
@@ -84,13 +88,19 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [am i supposed to meet no one?](https://blog.avas.space/no-one/) - talking about automating and teching ourselves out of social connection and obligation
+
+- [Do Hard Things Carefully](https://blog.depthsofrepair.com/p/do-hard-things-carefully) - Leaning in without falling over.
+
+- [This blog is hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/)
+
+- [Almost Fired](https://www.engineersneedart.com/blog/almostfired/almostfired.html)
+
 - [The good times in tech are over](https://www.seangoedecke.com/good-times-are-over/) - For most of the last decade, being a software engineer has been a lot of fun. Every company offered lots of perks, layoffs and firings were almost unheard of…
 
 - [NYC’s Urban Textscape](https://pudding.cool/2025/07/street-view) - Analyzing All of the Words Found on NYC Streets
 
 - [You’re probably using the wrong dictionary « the jsomers.net blog](https://jsomers.net/blog/dictionary)
-
-- [Almost Fired](https://www.engineersneedart.com/blog/almostfired/almostfired.html?utm_source=substack)
 
 - [How email tracking works behind the scenes](https://buttondown.com/blog/email-tracking-pixels-bugs) - A brief history of email tracking pixels, how they work, and how to turn them off.
 
@@ -111,8 +121,6 @@ To view a single category, check the files/ folder.
 - [The Genius of Jokic](https://www.theringer.com/2025/04/24/nba/nikola-jokic-nba-playoffs-2025-denver-nuggets-brain-smarts-iq) - To appreciate the Denver Nuggets’ generational star, you have to appreciate what truly separates him: his brain. “He’s probably the smartest player that’s ever played,” says Christian Braun.
 
 - [Chongqing, the world’s largest city – in pictures](https://www.theguardian.com/world/gallery/2025/apr/27/chongqing-the-worlds-largest-city-in-pictures) - The largest city in the world is as big as Austria, but few people have ever heard of it. The megacity of 34 million people in central of China is the emblem of the fastest urban revolution on the planet. The Communist party decided 30 years ago to unify and populate vast rural areas, an experiment that has become a symbol of the Chinese ability to ...
-
-- [This blog is hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/?utm_source=cassidoo)
 
 - [Come On, Obviously The Purpose Of A System Is Not What It Does](https://www.astralcodexten.com/p/come-on-obviously-the-purpose-of) - ...
 
@@ -151,8 +159,6 @@ To view a single category, check the files/ folder.
 - [A literary history of fake texts in Apple's marketing materials](https://maxread.substack.com/p/a-literary-history-of-fake-texts) - Exploring the Applecore style
 
 - [Deanna Dikeman - Leaving and Waving](https://deannadikeman.com/leaving-and-waving) - For 27 years, I took photographs as I waved good-bye and drove away from visiting my parents at their home in Sioux City, Iowa. I started in 1991 with a quick snapshot, and I continued taking photographs with each departure. I never set out to make this series. I just took these photographs as a way to deal with the sadness of leaving. It gradually ...
-
-- [Do Hard Things Carefully](https://blog.depthsofrepair.com/p/do-hard-things-carefully?utm_medium=email) - Leaning in without falling over.
 
 - [Oxidation Paintings](https://www.warhol.org/conservation/oxidation-paintings/) - Warhol for All
 
@@ -618,6 +624,10 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [CASCII](https://cascii.app/)
+
+- [How can you tell if the company you’re interviewing with is rotten on the inside?](https://charity.wtf/2022/01/29/how-can-you-tell-if-the-company-youre-interviewing-with-is-rotten-on-the-inside/) - How can you tell the companies who are earnestly trying to improve apart from the ones who sound all polished and healthy from the outside, whilst rotting on the inside? This seems to be on a lot o…
+
 - [Actual | Actual Budget Documentation](https://actualbudget.org/)
 
 - [Amazon US price tracker, price history, price watch, price drop alerts, and price notifications.](https://camelcamelcamel.com/) - Page 1 at camelcamelcamel: Amazon US price tracker, price history, price watch, price drop alerts, and price notifications.
@@ -677,7 +687,11 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [WADA SANZO | DICTIONARY OF COLOR COMBINATIONS](https://sanzo-wada.dmbk.io/)
+
 - [Smith & Diction - The P](https://www.figma.com/proto/fSeQqlIw4aZpGrTs9LjDIY/S%2526D-%252F-Process-2024?page-id=0%3A1&node-id=1-3&viewport=478%2C160%2C0.07&scaling=containn) - Created with Figma
+
+- [Fonts In Use](https://fontsinuse.com/) - A searchable archive of typographic design, indexed by typeface, format, and topic.
 
 - [Dropbox Brand Guidelines](https://brand.dropbox.com/) - At Dropbox, our Brand Guidelines help us infuse everything we make with identity. From icons to illustration, logos to language, this collection is the foundation for how Dropbox looks, feels, and sounds like Dropbox.
 
@@ -836,11 +850,21 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [What is TypeScript? An overview for JavaScript programmers](https://2ality.com/2025/02/what-is-typescript.html) - Read this blog post if you are a JavaScript programmer and want to get a rough idea of what using TypeScript is like (think first step before learning more details). You’ll get answers to the following questions: How is TypeScript code different from JavaScript code? How is TypeScript code run? How does TypeScript help during editing in an IDE? Etc....
+
+- [The /llms.txt file](https://llmstxt.org/) - A proposal to standardise on using an /llms.txt file to provide information to help LLMs use a website at inference time.
+
+- [Load Balancing](https://samwho.dev/load-balancing/) - A bottom-up, animated guide to HTTP load balancing algorithms.
+
+- [BitwiseCmd](http://bitwisecmd.com) - Free Text Online Bitwise Calculator
+
+- [GRID: A simple visual cheatsheet for CSS Grid Layout](http://grid.malven.co) - Learn all about the properties available in CSS Grid Layout through simple visual examples.
+
+- [FLEX: A simple visual cheatsheet for flexbox](http://flexbox.malven.co) - Learn all about the properties available in flexbox through simple visual examples.
+
 - [YAML Multiline Strings](https://yaml-multiline.info/)
 
 - [Rules for Writing Software Tutorials](https://refactoringenglish.com/) - It's easier than you think to write an exceptional software tutorial. You can stand out in a sea of mediocre guides by following a few simple rules.
-
-- [Load Balancing](https://samwho.dev/load-balancing/) - A bottom-up, animated guide to HTTP load balancing algorithms.
 
 - [DEF CON 31 War Stories - Tracking the Worlds Dumbest Cyber Mercenaries - Cooper Quintin](https://www.youtube.com/watch?v=zccAvgC4UxU) - Creative Commons Attribution license (reuse allowed)
 
@@ -895,6 +919,8 @@ To view a single category, check the files/ folder.
 - [Julia Evans](https://jvns.ca/) - Julia Evans
 
 - [Card Stack Tutorial](https://abjt.dev/) - Crafting engaging experiences for the internet.
+
+- [pqoqubbw/icons](https://icons.pqoqubbw.dev) - beautifully crafted animated icons
 
 - [UUIDv7 in 33 languages](https://antonz.org/uuidv7/) - From JavaScript to Zig, no third-party dependencies.
 
@@ -1166,11 +1192,17 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [An engineer restores pay phones for free public use](https://www.npr.org/2025/08/04/nx-s1-5484013/engineer-restores-pay-phones-for-free-public-use) - In a rural Vermont county, spotty cellphone coverage is the norm. But a local tinkerer is using old technology to help his community stay connected free of charge.
+
+- [Rats love driving tiny cars, even when they don’t get treats | Ars Technica](https://arstechnica.com/science/2019/11/these-rats-learned-to-drive-tiny-cars-for-science)
+
 - [The Kryptos Key Is Going Up for Sale](https://www.wired.com/story/jim-sanborn-auctions-kryptos-key/) - Jim Sanborn is auctioning off the elusive solution to K4, the outdoor sculpture that sits at CIA headquarters.
 
 - [Leak Reveals the Workaday Lives of North Korean IT Scammers](https://www.wired.com/story/leaked-data-reveals-the-workaday-lives-of-north-korean-it-scammers/) - Spreadsheets, Slack messages, and files linked to an alleged group of North Korean IT workers expose their meticulous job-planning and targeting—and the constant surveillance they're under.
 
 - [Tesla Readies a Taxi Service in San Francisco—but Not With Robotaxis](https://www.wired.com/story/tesla-robotaxi-san-francisco-bay-area/) - The electric carmaker informed California that it will operate a limited public taxi service. But it’s not legally allowed to do this with self-driving cars.
+
+- [ChatGPT Hallucinated a Feature, Forcing Human Developers to Add It](https://www.404media.co/chatgpt-hallucinated-a-feature-forcing-human-developers-to-add-it/) - Welcome to the era of ‘gaslight driven development.’ Soundslice added a feature the chatbot thought it existed after engineers kept finding screenshots from the LLM in its error logs.
 
 - [Inside Snapchat's Teen Opioid Crisis](https://www.rollingstone.com/culture/culture-features/inside-snapchat-teenage-opioid-crisis-1235036691/) - Drug dealers have used Snapchat to sell fake pills to teens, but these opioids are often laced with fentanyl, helping to fuel an overdose epidemic
 
@@ -1543,8 +1575,6 @@ To view a single category, check the files/ folder.
 - [New research into why woodpeckers don’t get concussions busts a popular myth](https://arstechnica.com/science/2022/07/study-woodpeckers-heads-behave-more-like-hammers-than-shock-absorbers/) - Absorption of the head's kinetic energy would actually impair the bird's pecking ability.
 
 - [I disconnected from the electric grid for 8 months—in Manhattan](https://arstechnica.com/science/2023/01/i-disconnected-from-the-electric-grid-for-8-months-in-manhattan/) - What started as an experiment has turned into a habit I hope will inspire others.
-
-- [Rats love driving tiny cars, even when they don’t get treats | Ars Technica](https://arstechnica.com/science/2019/11/these-rats-learned-to-drive-tiny-cars-for-science/?utm_medium=social&utm_social-type=owned&utm_brand=ars&utm_source=twitter)
 
 - [What the first look at the genetics of Chernobyl's dogs revealed](//www.sciencenews.org/article/genetics-chernobyl-dogs-revealed) - Dogs living in the Chernobyl Nuclear Power Plant industrial area are genetically distinct from other dogs, but scientists don’t yet know if radiation is the reason.
 
@@ -2116,6 +2146,14 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/) - In May 2022 over 70,000 developers told us how they learn and level up, which tools they’re using, and what they want.
+
+- [The Punctuation Guide](https://www.thepunctuationguide.com) - The web's most comprehensive guide to American punctuation.
+
+- [1 dataset. 100 visualizations.](https://100.datavizproject.com/)
+
+- [Poolsuite ☼](https://poolsuite.net) - The ultra-summer internet radio station, playing an infinity pool of summer sounds 24/7. Swimwear optional. Formerly Poolside FM.
+
 - [digibouquet](https://digibouquet.vercel.app/) - create and share a digital flower bouquet
 
 - [macOS Icon History](https://basicappleguy.com/basicappleblog/macos-icon-history) - Documenting the evolution of macOS system icons over the past several decades.
@@ -2127,8 +2165,6 @@ To view a single category, check the files/ folder.
 - [How We Built a Database of Prison Commissary Prices](https://theappeal.org/locked-in-priced-out-commissary-database-methodology/) - Inside The Appeal’s 9-month investigation.
 
 - [Neurocracy](https://neurocracy.site/#home) - Solve a murder in the future by diving into its Wikipedia
-
-- [The Punctuation Guide](https://www.thepunctuationguide.com/?utm_source=cassidoo) - The web's most comprehensive guide to American punctuation.
 
 - [Lake Washington salmon counts | Washington Department of Fish & Wildlife](https://wdfw.wa.gov/fishing/reports/counts/lake-washington) - Lake Washington sockeye salmon have been counted each year since 1972 as they enter freshwater at the Hiram M. Chittenden Locks.
 
@@ -2353,6 +2389,4 @@ To view a single category, check the files/ folder.
 - [DreamBerd](https://github.com/TodePond/DreamBerd) - perfect programming language
 
 - [infinite-cat](https://www.petside.com/infinite-cat/) - Now part of the Petside family, The Infinite Cat Project is about one cat watching another cat (see below). A long line of 1856 cats, so far. The very first Infinaut is Frankie (seen at left admiring a flower) the owner of Paul Hamilton. In addition, the ICP also offers all manners of other cat-related diversions every day […]
-
-- [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/?utm_source=social-share&utm_medium=social&utm_campaign=dev-survey-2022) - In May 2022 over 70,000 developers told us how they learn and level up, which tools they’re using, and what they want.
 
