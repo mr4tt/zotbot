@@ -444,6 +444,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [Kirby on the phone](https://youtube.com/watch?v=jSD3vrR2HxI)
+
 - [Why the US’ 2nd-Busiest Passenger Railway Is Doomed](https://www.youtube.com/watch?v=AUBFRJJp7oo)
 
 - [the cat from ipanema](https://www.youtube.com/watch?v=dg4dmNvxdu0)
@@ -1192,6 +1194,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [How one engineer beat restrictions on home computers in socialist Yugoslavia](https://www.theguardian.com/games/2024/oct/24/how-one-engineer-beat-the-ban-on-home-computers-in-socialist-yugoslavia) - In Lewis Packwood’s book Curious Video Game Machines, Voja Antonić explains how he built a home computer and published instructions for anyone to make their own
+
 - [An engineer restores pay phones for free public use](https://www.npr.org/2025/08/04/nx-s1-5484013/engineer-restores-pay-phones-for-free-public-use) - In a rural Vermont county, spotty cellphone coverage is the norm. But a local tinkerer is using old technology to help his community stay connected free of charge.
 
 - [Rats love driving tiny cars, even when they don’t get treats | Ars Technica](https://arstechnica.com/science/2019/11/these-rats-learned-to-drive-tiny-cars-for-science)
@@ -1587,6 +1591,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Natalia Grace](https://en.wikipedia.org/w/index.php?title=Natalia_Grace&oldid=1303456522) - Natalyah Grace Renee Mans (born Natalia "Natasha" Vadymivna Gava (Ukrainian: Наталія «Наташа» Вадимівна Гава), September 4, 2003; formerly Natalia Lourdes Ciccone  and Natalia Grace Barnett) is a Ukrainian-born American with dwarfism, who was adopted by an American family at the age of seven in 2010, but was allegedly abandoned three years later. Kr...
+
 - [Igbo Landing](https://en.wikipedia.org/w/index.php?title=Igbo_Landing&oldid=1301797844) - Igbo Landing (also called Ibo Landing, Ebo Landing, or Ebos Landing) is a historic site at Dunbar Creek on St. Simons Island, Glynn County, Georgia. It was the setting of a mass suicide in 1803 by captive Igbo people who had taken control of the slave ship they were on, and refused to submit to slavery in the United States. The event's moral value a...
 
 - [<i>My Weekend as a 28-Year-Old in Chicago</i>](https://en.wikipedia.org/w/index.php?title=My_Weekend_as_a_28-Year-Old_in_Chicago&oldid=1303692596) - My Weekend as a 28-Year-Old in Chicago is a satirical video created by American comedian Mike Schwanke, under the pseudonym Judd Crud. It was published on August 29, 2022, on TikTok, Twitter, and Instagram. A parody of "day in the life" vlogs, the video walks through the events of an imagined weekend of Schwanke's life in Chicago, Illinois, growing ...

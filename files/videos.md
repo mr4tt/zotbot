@@ -1,4 +1,6 @@
 # videos
+- [Kirby on the phone](https://youtube.com/watch?v=jSD3vrR2HxI)
+
 - [Why the US’ 2nd-Busiest Passenger Railway Is Doomed](https://www.youtube.com/watch?v=AUBFRJJp7oo)
 
 - [the cat from ipanema](https://www.youtube.com/watch?v=dg4dmNvxdu0)
