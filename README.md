@@ -1194,6 +1194,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The Mysterious Shortwave Radio Station Stoking US-Russia Nuclear Fears](https://www.wired.com/story/uvb-76-russia-us-nuclear-fears/) - A popular shortwave Russian radio station dubbed “UVB-76” has been an enigma for decades. But its recent messages have turned it into a tool for Kremlin saber-rattling.
+
 - [How one engineer beat restrictions on home computers in socialist Yugoslavia](https://www.theguardian.com/games/2024/oct/24/how-one-engineer-beat-the-ban-on-home-computers-in-socialist-yugoslavia) - In Lewis Packwood’s book Curious Video Game Machines, Voja Antonić explains how he built a home computer and published instructions for anyone to make their own
 
 - [An engineer restores pay phones for free public use](https://www.npr.org/2025/08/04/nx-s1-5484013/engineer-restores-pay-phones-for-free-public-use) - In a rural Vermont county, spotty cellphone coverage is the norm. But a local tinkerer is using old technology to help his community stay connected free of charge.
