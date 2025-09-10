@@ -1,4 +1,6 @@
 # misc_longform
+- [An unofficial FAQ for Stripe's new "Tempo" blockchain](https://www.seangoedecke.com/tempo-faq/) - Stripe just announced Tempo, a “L1 blockchain” for “stablecoin payments”. What does any of this mean? In 2021, I was interested enough in blockchain to write a…
+
 - [am i supposed to meet no one?](https://blog.avas.space/no-one/) - talking about automating and teching ourselves out of social connection and obligation
 
 - [Do Hard Things Carefully](https://blog.depthsofrepair.com/p/do-hard-things-carefully) - Leaning in without falling over.

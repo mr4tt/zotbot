@@ -88,6 +88,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [An unofficial FAQ for Stripe's new "Tempo" blockchain](https://www.seangoedecke.com/tempo-faq/) - Stripe just announced Tempo, a “L1 blockchain” for “stablecoin payments”. What does any of this mean? In 2021, I was interested enough in blockchain to write a…
+
 - [am i supposed to meet no one?](https://blog.avas.space/no-one/) - talking about automating and teching ourselves out of social connection and obligation
 
 - [Do Hard Things Carefully](https://blog.depthsofrepair.com/p/do-hard-things-carefully) - Leaning in without falling over.
@@ -1194,6 +1196,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Tesla said it didn’t have key data in a fatal crash. Then a hacker found it.](https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/) - The key evidence was presented last month to a jury, which found the company partially liable for the 2019 crash in Key Largo, Florida.
+
 - [The Mysterious Shortwave Radio Station Stoking US-Russia Nuclear Fears](https://www.wired.com/story/uvb-76-russia-us-nuclear-fears/) - A popular shortwave Russian radio station dubbed “UVB-76” has been an enigma for decades. But its recent messages have turned it into a tool for Kremlin saber-rattling.
 
 - [How one engineer beat restrictions on home computers in socialist Yugoslavia](https://www.theguardian.com/games/2024/oct/24/how-one-engineer-beat-the-ban-on-home-computers-in-socialist-yugoslavia) - In Lewis Packwood’s book Curious Video Game Machines, Voja Antonić explains how he built a home computer and published instructions for anyone to make their own
