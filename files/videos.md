@@ -1,4 +1,6 @@
 # videos
+- [Inside Inventor Simone Giertz’s Small Los Angeles Home, 58sqm/630sqft](https://www.youtube.com/watch?v=7vAiloW7phc)
+
 - [Kirby on the phone](https://youtube.com/watch?v=jSD3vrR2HxI)
 
 - [Why the US’ 2nd-Busiest Passenger Railway Is Doomed](https://www.youtube.com/watch?v=AUBFRJJp7oo)

@@ -446,6 +446,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [Inside Inventor Simone Giertz’s Small Los Angeles Home, 58sqm/630sqft](https://www.youtube.com/watch?v=7vAiloW7phc)
+
 - [Kirby on the phone](https://youtube.com/watch?v=jSD3vrR2HxI)
 
 - [Why the US’ 2nd-Busiest Passenger Railway Is Doomed](https://www.youtube.com/watch?v=AUBFRJJp7oo)
@@ -2158,6 +2160,10 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [ToS about](https://www.tosabout.com/)
+
+- [The Minard Map - "The best statistical graphic ever drawn"](https://bigthink.com/strange-maps/229-vital-statistics-of-a-deadly-campaign-the-minard-map/) - Vital statistics of Napoleon's deadliest campaign
+
 - [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/) - In May 2022 over 70,000 developers told us how they learn and level up, which tools they’re using, and what they want.
 
 - [The Punctuation Guide](https://www.thepunctuationguide.com) - The web's most comprehensive guide to American punctuation.

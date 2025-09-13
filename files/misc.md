@@ -1,4 +1,8 @@
 # misc
+- [ToS about](https://www.tosabout.com/)
+
+- [The Minard Map - "The best statistical graphic ever drawn"](https://bigthink.com/strange-maps/229-vital-statistics-of-a-deadly-campaign-the-minard-map/) - Vital statistics of Napoleon's deadliest campaign
+
 - [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/) - In May 2022 over 70,000 developers told us how they learn and level up, which tools they’re using, and what they want.
 
 - [The Punctuation Guide](https://www.thepunctuationguide.com) - The web's most comprehensive guide to American punctuation.
