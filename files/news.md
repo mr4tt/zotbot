@@ -1,4 +1,6 @@
 # news
+- [Exclusive: Leaked Messages from Charlie Kirk Assassin](https://www.kenklippenstein.com/p/exclusive-leaked-messages-from-charlie) - Accused shooter’s “politics” is not what government and media say
+
 - [Tesla said it didn’t have key data in a fatal crash. Then a hacker found it.](https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/) - The key evidence was presented last month to a jury, which found the company partially liable for the 2019 crash in Key Largo, Florida.
 
 - [The Mysterious Shortwave Radio Station Stoking US-Russia Nuclear Fears](https://www.wired.com/story/uvb-76-russia-us-nuclear-fears/) - A popular shortwave Russian radio station dubbed “UVB-76” has been an enigma for decades. But its recent messages have turned it into a tool for Kremlin saber-rattling.
