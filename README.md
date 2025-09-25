@@ -446,6 +446,14 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [Detergent packs are kinda wishy-washy (Dishwashers Explained)](https://www.youtube.com/watch?v=_rBO8neWw04)
+
+- [Dropping the Bomb: Hiroshima & Nagasaki](https://www.youtube.com/watch?v=RCRTgtpC-Go)
+
+- [OceanGate Is Getting Majorly Sued](https://www.youtube.com/watch?v=RJQPthD9rx8)
+
+- [Defunctland: The History of Coney Island](https://www.youtube.com/watch?v=7C5kxkBPhpE)
+
 - [Inside Inventor Simone Giertz’s Small Los Angeles Home, 58sqm/630sqft](https://www.youtube.com/watch?v=7vAiloW7phc)
 
 - [Kirby on the phone](https://youtube.com/watch?v=jSD3vrR2HxI)
@@ -463,6 +471,8 @@ To view a single category, check the files/ folder.
 - [Content Warnings of The Magnus Archives (Yakko's World Parody Song)](https://www.youtube.com/watch?v=wBJunlwKLjg)
 
 - [米津玄師 Kenshi Yonezu - BOW AND ARROW / 羽生結弦 Yuzuru Hanyu Short Program ver.](https://www.youtube.com/watch?v=Wcza_Do4IoY)
+
+- [The Most Wonderfully Absurd Coffee Brewer Ever Made](https://www.youtube.com/watch?v=tltBHjmIUJ0)
 
 - [I LOVE TOFU!!!](https://www.youtube.com/watch?v=Klhfo6sB4N4)
 
@@ -1107,6 +1117,8 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # stories
+- [The Sniper, a harry potter fanfic | FanFiction](https://www.fanfiction.net/s/3918135/1/The-Sniper)
+
 - [When He Calls Your Name](https://www.uncannymagazine.com/article/when-he-calls-your-name/) - There’s nights in the deep end of summer so hot and thick and wet you can feel the dark wrinkling up your fingers like bathwater—and my last night breathing was one of those. 2 a.m. came to ring my bell and found me perfectly awake, swinging back and forth on a hanging sweetheart bench with […]
 
 - [The Best Way to Survive a Tiger Attack](https://www.uncannymagazine.com/?post_type=article&p=8084) - Content note: child abuse   The tiger curls in my living room, on the sofa in front of the TV. Finish your lunch, she says, and her words bend my back until I’m on my hands and knees, hunching over the plate she’s set down on the floor, like a dog. Finish your lunch, she […]

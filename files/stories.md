@@ -1,4 +1,6 @@
 # stories
+- [The Sniper, a harry potter fanfic | FanFiction](https://www.fanfiction.net/s/3918135/1/The-Sniper)
+
 - [When He Calls Your Name](https://www.uncannymagazine.com/article/when-he-calls-your-name/) - There’s nights in the deep end of summer so hot and thick and wet you can feel the dark wrinkling up your fingers like bathwater—and my last night breathing was one of those. 2 a.m. came to ring my bell and found me perfectly awake, swinging back and forth on a hanging sweetheart bench with […]
 
 - [The Best Way to Survive a Tiger Attack](https://www.uncannymagazine.com/?post_type=article&p=8084) - Content note: child abuse   The tiger curls in my living room, on the sofa in front of the TV. Finish your lunch, she says, and her words bend my back until I’m on my hands and knees, hunching over the plate she’s set down on the floor, like a dog. Finish your lunch, she […]

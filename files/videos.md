@@ -1,4 +1,12 @@
 # videos
+- [Detergent packs are kinda wishy-washy (Dishwashers Explained)](https://www.youtube.com/watch?v=_rBO8neWw04)
+
+- [Dropping the Bomb: Hiroshima & Nagasaki](https://www.youtube.com/watch?v=RCRTgtpC-Go)
+
+- [OceanGate Is Getting Majorly Sued](https://www.youtube.com/watch?v=RJQPthD9rx8)
+
+- [Defunctland: The History of Coney Island](https://www.youtube.com/watch?v=7C5kxkBPhpE)
+
 - [Inside Inventor Simone Giertz’s Small Los Angeles Home, 58sqm/630sqft](https://www.youtube.com/watch?v=7vAiloW7phc)
 
 - [Kirby on the phone](https://youtube.com/watch?v=jSD3vrR2HxI)
@@ -16,6 +24,8 @@
 - [Content Warnings of The Magnus Archives (Yakko's World Parody Song)](https://www.youtube.com/watch?v=wBJunlwKLjg)
 
 - [米津玄師 Kenshi Yonezu - BOW AND ARROW / 羽生結弦 Yuzuru Hanyu Short Program ver.](https://www.youtube.com/watch?v=Wcza_Do4IoY)
+
+- [The Most Wonderfully Absurd Coffee Brewer Ever Made](https://www.youtube.com/watch?v=tltBHjmIUJ0)
 
 - [I LOVE TOFU!!!](https://www.youtube.com/watch?v=Klhfo6sB4N4)
 
