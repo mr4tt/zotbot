@@ -17,6 +17,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # blogs
+- [Seth Purcell](https://sethpurcell.com/) - Seth Purcell
+
 - [charity.wtf](https://charity.wtf/) - charity wtf's about technology, databases, startups, engineering management, and whiskey.
 
 - [Engineers Need Art](https://www.engineersneedart.com/index.html)
@@ -1216,6 +1218,8 @@ To view a single category, check the files/ folder.
 
 - [The Mysterious Shortwave Radio Station Stoking US-Russia Nuclear Fears](https://www.wired.com/story/uvb-76-russia-us-nuclear-fears/) - A popular shortwave Russian radio station dubbed “UVB-76” has been an enigma for decades. But its recent messages have turned it into a tool for Kremlin saber-rattling.
 
+- [The secrets of lost luggage auctions: I bought four bags for £100. What would I find inside?](https://www.theguardian.com/travel/2025/aug/26/the-secrets-of-lost-luggage-auctions-i-bought-four-bags-for-100-what-would-i-find-inside) - Unclaimed suitcases were once destined for landfill. Now people are ‘suitcase gambling’ – bidding for bags and their unknown contents, and diving deep into strangers’ lives
+
 - [How one engineer beat restrictions on home computers in socialist Yugoslavia](https://www.theguardian.com/games/2024/oct/24/how-one-engineer-beat-the-ban-on-home-computers-in-socialist-yugoslavia) - In Lewis Packwood’s book Curious Video Game Machines, Voja Antonić explains how he built a home computer and published instructions for anyone to make their own
 
 - [An engineer restores pay phones for free public use](https://www.npr.org/2025/08/04/nx-s1-5484013/engineer-restores-pay-phones-for-free-public-use) - In a rural Vermont county, spotty cellphone coverage is the norm. But a local tinkerer is using old technology to help his community stay connected free of charge.
@@ -2181,6 +2185,8 @@ To view a single category, check the files/ folder.
 - [ToS about](https://www.tosabout.com/)
 
 - [The Minard Map - "The best statistical graphic ever drawn"](https://bigthink.com/strange-maps/229-vital-statistics-of-a-deadly-campaign-the-minard-map/) - Vital statistics of Napoleon's deadliest campaign
+
+- [Moving Objects in 3D Space](https://visualrambling.space/moving-objects-in-3d) - Trying to understand how to move objects in 3D space
 
 - [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/) - In May 2022 over 70,000 developers told us how they learn and level up, which tools they’re using, and what they want.
 

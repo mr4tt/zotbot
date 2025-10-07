@@ -1,4 +1,6 @@
 # blogs
+- [Seth Purcell](https://sethpurcell.com/) - Seth Purcell
+
 - [charity.wtf](https://charity.wtf/) - charity wtf's about technology, databases, startups, engineering management, and whiskey.
 
 - [Engineers Need Art](https://www.engineersneedart.com/index.html)
