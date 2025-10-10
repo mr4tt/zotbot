@@ -2182,6 +2182,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [PIRACYKILLS](https://herman.bearblog.dev/piracy-kills/) - How to use piracy to your advantage.
+
 - [ToS about](https://www.tosabout.com/)
 
 - [The Minard Map - "The best statistical graphic ever drawn"](https://bigthink.com/strange-maps/229-vital-statistics-of-a-deadly-campaign-the-minard-map/) - Vital statistics of Napoleon's deadliest campaign

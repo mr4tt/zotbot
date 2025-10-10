@@ -1,4 +1,6 @@
 # misc
+- [PIRACYKILLS](https://herman.bearblog.dev/piracy-kills/) - How to use piracy to your advantage.
+
 - [ToS about](https://www.tosabout.com/)
 
 - [The Minard Map - "The best statistical graphic ever drawn"](https://bigthink.com/strange-maps/229-vital-statistics-of-a-deadly-campaign-the-minard-map/) - Vital statistics of Napoleon's deadliest campaign
