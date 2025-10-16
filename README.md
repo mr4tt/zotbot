@@ -448,6 +448,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [Mushroom in the Wild Playing Keyboard](https://youtube.com/watch?v=NbP2DgDp890)
+
 - [Detergent packs are kinda wishy-washy (Dishwashers Explained)](https://www.youtube.com/watch?v=_rBO8neWw04)
 
 - [Dropping the Bomb: Hiroshima & Nagasaki](https://www.youtube.com/watch?v=RCRTgtpC-Go)
@@ -1212,6 +1214,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Protein Powders and Shakes Contain High Levels of Lead](https://www.consumerreports.org/lead/protein-powders-and-shakes-contain-high-levels-of-lead-a4206364640/) - CR tests of 23 popular protein powders and shakes found that most contain high levels of lead.
+
 - [Exclusive: Leaked Messages from Charlie Kirk Assassin](https://www.kenklippenstein.com/p/exclusive-leaked-messages-from-charlie) - Accused shooter’s “politics” is not what government and media say
 
 - [Tesla said it didn’t have key data in a fatal crash. Then a hacker found it.](https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/) - The key evidence was presented last month to a jury, which found the company partially liable for the 2019 crash in Key Largo, Florida.

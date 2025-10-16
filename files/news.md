@@ -1,4 +1,6 @@
 # news
+- [Protein Powders and Shakes Contain High Levels of Lead](https://www.consumerreports.org/lead/protein-powders-and-shakes-contain-high-levels-of-lead-a4206364640/) - CR tests of 23 popular protein powders and shakes found that most contain high levels of lead.
+
 - [Exclusive: Leaked Messages from Charlie Kirk Assassin](https://www.kenklippenstein.com/p/exclusive-leaked-messages-from-charlie) - Accused shooter’s “politics” is not what government and media say
 
 - [Tesla said it didn’t have key data in a fatal crash. Then a hacker found it.](https://www.washingtonpost.com/technology/2025/08/29/tesla-autopilot-crashes-evidence-testimony-wrongful-death/) - The key evidence was presented last month to a jury, which found the company partially liable for the 2019 crash in Key Largo, Florida.

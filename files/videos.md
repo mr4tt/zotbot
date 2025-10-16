@@ -1,4 +1,6 @@
 # videos
+- [Mushroom in the Wild Playing Keyboard](https://youtube.com/watch?v=NbP2DgDp890)
+
 - [Detergent packs are kinda wishy-washy (Dishwashers Explained)](https://www.youtube.com/watch?v=_rBO8neWw04)
 
 - [Dropping the Bomb: Hiroshima & Nagasaki](https://www.youtube.com/watch?v=RCRTgtpC-Go)
