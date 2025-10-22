@@ -1216,6 +1216,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Photos show polar bears chilling at home in abandoned Russian research station](https://apnews.com/photo-gallery/russia-polar-bears-weather-station-photos-529ef2dcc92adee9207eb9b9ed8cca01) - Polar bears that have taken over an abandoned polar research station off Russia’s far eastern coast were intimately captured in drone footage by Vadim Makhorov.
+
+- [What to Know About the Shocking Louvre Jewelry Heist](https://www.wired.com/story/louvre-jewelry-theft-what-to-know/) - In just seven minutes, the thieves took off with crown jewels containing with thousands of diamonds along with other precious gems.
+
 - [Protein Powders and Shakes Contain High Levels of Lead](https://www.consumerreports.org/lead/protein-powders-and-shakes-contain-high-levels-of-lead-a4206364640/) - CR tests of 23 popular protein powders and shakes found that most contain high levels of lead.
 
 - [Exclusive: Leaked Messages from Charlie Kirk Assassin](https://www.kenklippenstein.com/p/exclusive-leaked-messages-from-charlie) - Accused shooter’s “politics” is not what government and media say
