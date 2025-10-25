@@ -1,4 +1,6 @@
 # misc_longform
+- [800 Years of English Handwriting](https://artsandculture.google.com/story/800-years-of-english-handwriting/eAURodcOgMzFIw) - Google Arts & Culture features content from over 2000 leading museums and archives who have partnered with the Google Cultural Institute to bring the world's treasures online.
+
 - [An unofficial FAQ for Stripe's new "Tempo" blockchain](https://www.seangoedecke.com/tempo-faq/) - Stripe just announced Tempo, a “L1 blockchain” for “stablecoin payments”. What does any of this mean? In 2021, I was interested enough in blockchain to write a…
 
 - [am i supposed to meet no one?](https://blog.avas.space/no-one/) - talking about automating and teching ourselves out of social connection and obligation
