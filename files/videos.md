@@ -1,4 +1,6 @@
 # videos
+- [Tech Talk on the AiryString® zipper](https://youtube.com/watch?v=5X8JffqYA-c)
+
 - [Mushroom in the Wild Playing Keyboard](https://youtube.com/watch?v=NbP2DgDp890)
 
 - [Detergent packs are kinda wishy-washy (Dishwashers Explained)](https://www.youtube.com/watch?v=_rBO8neWw04)

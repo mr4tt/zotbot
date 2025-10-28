@@ -450,6 +450,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [Tech Talk on the AiryString® zipper](https://youtube.com/watch?v=5X8JffqYA-c)
+
 - [Mushroom in the Wild Playing Keyboard](https://youtube.com/watch?v=NbP2DgDp890)
 
 - [Detergent packs are kinda wishy-washy (Dishwashers Explained)](https://www.youtube.com/watch?v=_rBO8neWw04)
@@ -1218,6 +1220,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Reddit Accuses ‘Data Scraper’ Companies of Stealing Its Information](https://www.nytimes.com/2025/10/22/technology/reddit-data-scrapers-perplexity-theft.html) - In a lawsuit, Reddit pulled back the curtain on an ecosystem of start-ups that scrape Google’s search results and resell the information to data-hungry A.I. companies.
+
+- [“Anna, Lindsey Halligan Here.”](https://www.lawfaremedia.org/article/anna--lindsey-halligan-here) - My Signal exchange with the interim U.S. attorney about the Letitia James grand jury.
+
 - [Photos show polar bears chilling at home in abandoned Russian research station](https://apnews.com/photo-gallery/russia-polar-bears-weather-station-photos-529ef2dcc92adee9207eb9b9ed8cca01) - Polar bears that have taken over an abandoned polar research station off Russia’s far eastern coast were intimately captured in drone footage by Vadim Makhorov.
 
 - [What to Know About the Shocking Louvre Jewelry Heist](https://www.wired.com/story/louvre-jewelry-theft-what-to-know/) - In just seven minutes, the thieves took off with crown jewels containing with thousands of diamonds along with other precious gems.

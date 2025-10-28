@@ -1,4 +1,8 @@
 # news
+- [Reddit Accuses ‘Data Scraper’ Companies of Stealing Its Information](https://www.nytimes.com/2025/10/22/technology/reddit-data-scrapers-perplexity-theft.html) - In a lawsuit, Reddit pulled back the curtain on an ecosystem of start-ups that scrape Google’s search results and resell the information to data-hungry A.I. companies.
+
+- [“Anna, Lindsey Halligan Here.”](https://www.lawfaremedia.org/article/anna--lindsey-halligan-here) - My Signal exchange with the interim U.S. attorney about the Letitia James grand jury.
+
 - [Photos show polar bears chilling at home in abandoned Russian research station](https://apnews.com/photo-gallery/russia-polar-bears-weather-station-photos-529ef2dcc92adee9207eb9b9ed8cca01) - Polar bears that have taken over an abandoned polar research station off Russia’s far eastern coast were intimately captured in drone footage by Vadim Makhorov.
 
 - [What to Know About the Shocking Louvre Jewelry Heist](https://www.wired.com/story/louvre-jewelry-theft-what-to-know/) - In just seven minutes, the thieves took off with crown jewels containing with thousands of diamonds along with other precious gems.
