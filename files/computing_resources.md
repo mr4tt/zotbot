@@ -1,4 +1,8 @@
 # computing_resources
+- [The Rust Programming Language - The Rust Programming Language](https://doc.rust-lang.org/book/)
+
+- [Build Your Own Database](https://nan.fyi/database) - A step-by-step guide to building a key-value database from scratch.
+
 - [What is TypeScript? An overview for JavaScript programmers](https://2ality.com/2025/02/what-is-typescript.html) - Read this blog post if you are a JavaScript programmer and want to get a rough idea of what using TypeScript is like (think first step before learning more details). You’ll get answers to the following questions: How is TypeScript code different from JavaScript code? How is TypeScript code run? How does TypeScript help during editing in an IDE? Etc....
 
 - [The /llms.txt file](https://llmstxt.org/) - A proposal to standardise on using an /llms.txt file to provide information to help LLMs use a website at inference time.

@@ -90,6 +90,10 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [How to build a remarkable command palette](https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/) - Command palettes are incredible tools: they're fast, versatile, and will transform users into power users! Tim Boucher explains how to build a truly remarkable command palette for your product...
+
+- [Designing Software for Things that Rot](https://drobinin.com/posts/designing-software-for-things-that-rot/) - How a £150 eBay fridge and a decision tree taught me to stop asking internet strangers if my salami would kill me–and why building for rot is nothing like building happy-path apps.
+
 - [800 Years of English Handwriting](https://artsandculture.google.com/story/800-years-of-english-handwriting/eAURodcOgMzFIw) - Google Arts & Culture features content from over 2000 leading museums and archives who have partnered with the Google Cultural Institute to bring the world's treasures online.
 
 - [An unofficial FAQ for Stripe's new "Tempo" blockchain](https://www.seangoedecke.com/tempo-faq/) - Stripe just announced Tempo, a “L1 blockchain” for “stablecoin payments”. What does any of this mean? In 2021, I was interested enough in blockchain to write a…
@@ -874,6 +878,10 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [The Rust Programming Language - The Rust Programming Language](https://doc.rust-lang.org/book/)
+
+- [Build Your Own Database](https://nan.fyi/database) - A step-by-step guide to building a key-value database from scratch.
+
 - [What is TypeScript? An overview for JavaScript programmers](https://2ality.com/2025/02/what-is-typescript.html) - Read this blog post if you are a JavaScript programmer and want to get a rough idea of what using TypeScript is like (think first step before learning more details). You’ll get answers to the following questions: How is TypeScript code different from JavaScript code? How is TypeScript code run? How does TypeScript help during editing in an IDE? Etc....
 
 - [The /llms.txt file](https://llmstxt.org/) - A proposal to standardise on using an /llms.txt file to provide information to help LLMs use a website at inference time.
@@ -1635,6 +1643,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Ana Montes](https://en.wikipedia.org/w/index.php?title=Ana_Montes&oldid=1312818610) - Ana Belén Montes (born February 28, 1957) is an American former senior analyst at the United States Defense Intelligence Agency who spied on behalf of the Cuban government for 17 years. Montes was arrested on September 21, 2001, and she subsequently was charged with conspiracy to commit espionage for the government of Cuba. Montes pleaded guilty to ...
+
 - [Scaly-foot gastropod](https://en.wikipedia.org/w/index.php?title=Scaly-foot_gastropod&oldid=1309348061) - Chrysomallon squamiferum, commonly known as the scaly-foot gastropod, scaly-foot snail, sea pangolin, or volcano snail, is a species of deep-sea hydrothermal-vent snail, a marine gastropod mollusc in the family Peltospiridae. This vent-endemic gastropod is known only from deep-sea hydrothermal vents in the Indian Ocean, where it has been found at de...
 
 - [Capitol Hill Occupied Protest](https://en.wikipedia.org/w/index.php?title=Capitol_Hill_Occupied_Protest&oldid=1310349020) - The Capitol Hill Occupied Protest (CHOP), also known as the Capitol Hill Organized Protest, originally known as Free Capitol Hill, and later known as the Capitol Hill Autonomous Zone (CHAZ), was an occupation protest and self-declared autonomous zone in the Capitol Hill neighborhood of Seattle, Washington. The zone, originally covering two intersect...

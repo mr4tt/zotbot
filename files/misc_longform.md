@@ -1,4 +1,8 @@
 # misc_longform
+- [How to build a remarkable command palette](https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/) - Command palettes are incredible tools: they're fast, versatile, and will transform users into power users! Tim Boucher explains how to build a truly remarkable command palette for your product...
+
+- [Designing Software for Things that Rot](https://drobinin.com/posts/designing-software-for-things-that-rot/) - How a £150 eBay fridge and a decision tree taught me to stop asking internet strangers if my salami would kill me–and why building for rot is nothing like building happy-path apps.
+
 - [800 Years of English Handwriting](https://artsandculture.google.com/story/800-years-of-english-handwriting/eAURodcOgMzFIw) - Google Arts & Culture features content from over 2000 leading museums and archives who have partnered with the Google Cultural Institute to bring the world's treasures online.
 
 - [An unofficial FAQ for Stripe's new "Tempo" blockchain](https://www.seangoedecke.com/tempo-faq/) - Stripe just announced Tempo, a “L1 blockchain” for “stablecoin payments”. What does any of this mean? In 2021, I was interested enough in blockchain to write a…
