@@ -1,4 +1,6 @@
 # misc
+- [shrump.cam](https://www.shrump.cam) - shrump.cam stops your slouch and eventual shrimpification
+
 - [PIRACYKILLS](https://herman.bearblog.dev/piracy-kills/) - How to use piracy to your advantage.
 
 - [ToS about](https://www.tosabout.com/)

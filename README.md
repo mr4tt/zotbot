@@ -878,6 +878,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [PEP 8: The Style Guide for Python Code](https://pep8.org/)
+
 - [The Rust Programming Language - The Rust Programming Language](https://doc.rust-lang.org/book/)
 
 - [Build Your Own Database](https://nan.fyi/database) - A step-by-step guide to building a key-value database from scratch.
@@ -2210,6 +2212,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [shrump.cam](https://www.shrump.cam) - shrump.cam stops your slouch and eventual shrimpification
+
 - [PIRACYKILLS](https://herman.bearblog.dev/piracy-kills/) - How to use piracy to your advantage.
 
 - [ToS about](https://www.tosabout.com/)

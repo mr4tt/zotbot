@@ -1,4 +1,6 @@
 # computing_resources
+- [PEP 8: The Style Guide for Python Code](https://pep8.org/)
+
 - [The Rust Programming Language - The Rust Programming Language](https://doc.rust-lang.org/book/)
 
 - [Build Your Own Database](https://nan.fyi/database) - A step-by-step guide to building a key-value database from scratch.
