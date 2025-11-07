@@ -90,6 +90,12 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Burning out](https://www.interconnects.ai/p/burning-out) - The international AI industry's collective risk.
+
+- [The Driver’s Seat](https://www.newyorker.com/magazine/2015/02/02/drivers-seat) - Adam Gopnik reached middle age and still didn’t know how to drive. How hard could it be?
+
+- [Note to my slightly older self](https://yewjin.substack.com/p/note-to-my-slightly-older-self) - What Nobody Tells You About Mid-Career
+
 - [How to build a remarkable command palette](https://blog.superhuman.com/how-to-build-a-remarkable-command-palette/) - Command palettes are incredible tools: they're fast, versatile, and will transform users into power users! Tim Boucher explains how to build a truly remarkable command palette for your product...
 
 - [The Marriage Decision: Everything Forever or Nothing Ever Again](https://waitbutwhy.com/2016/09/marriage-decision.html) - We're forced to make a black-and-white, binary decision in the most important moment of our lives. Let's take a deep breath and figure this out together.
