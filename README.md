@@ -90,6 +90,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [You Are How You Act](https://boz.com/articles/you-are-how-you-act) - You are the sum of your behaviors not your intentions
+
 - [Burning out](https://www.interconnects.ai/p/burning-out) - The international AI industry's collective risk.
 
 - [The Driver’s Seat](https://www.newyorker.com/magazine/2015/02/02/drivers-seat) - Adam Gopnik reached middle age and still didn’t know how to drive. How hard could it be?
@@ -660,6 +662,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [21 Facts About Throwing Good Parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/) - Parties are a public service; here's how to throw them.
+
 - [CASCII](https://cascii.app/)
 
 - [How can you tell if the company you’re interviewing with is rotten on the inside?](https://charity.wtf/2022/01/29/how-can-you-tell-if-the-company-youre-interviewing-with-is-rotten-on-the-inside/) - How can you tell the companies who are earnestly trying to improve apart from the ones who sound all polished and healthy from the outside, whilst rotting on the inside? This seems to be on a lot o…

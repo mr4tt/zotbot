@@ -1,4 +1,6 @@
 # misc_longform
+- [You Are How You Act](https://boz.com/articles/you-are-how-you-act) - You are the sum of your behaviors not your intentions
+
 - [Burning out](https://www.interconnects.ai/p/burning-out) - The international AI industry's collective risk.
 
 - [The Driver’s Seat](https://www.newyorker.com/magazine/2015/02/02/drivers-seat) - Adam Gopnik reached middle age and still didn’t know how to drive. How hard could it be?
