@@ -1,4 +1,6 @@
 # computing_resources
+- [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html) - A deep dive into how thoughtful URL design can enhance usability, shareability, and performance. Learn what state belongs in URLs, common pitfalls to avoid, and practical patterns for modern web apps.
+
 - [PEP 8: The Style Guide for Python Code](https://pep8.org/)
 
 - [The Rust Programming Language - The Rust Programming Language](https://doc.rust-lang.org/book/)

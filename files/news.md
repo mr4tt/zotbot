@@ -1,4 +1,6 @@
 # news
+- [Register for FT.com](https://ig.ft.com/saudi-neom-line)
+
 - [Reddit Accuses ‘Data Scraper’ Companies of Stealing Its Information](https://www.nytimes.com/2025/10/22/technology/reddit-data-scrapers-perplexity-theft.html) - In a lawsuit, Reddit pulled back the curtain on an ecosystem of start-ups that scrape Google’s search results and resell the information to data-hungry A.I. companies.
 
 - [“Anna, Lindsey Halligan Here.”](https://www.lawfaremedia.org/article/anna--lindsey-halligan-here) - My Signal exchange with the interim U.S. attorney about the Letitia James grand jury.

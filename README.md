@@ -325,6 +325,8 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
+- [Bandage Brigade](https://bandagebrigade.com/) - Artist-owned original brand based in Southern California. Shop our silly apparel, enamel pins, stickers, prints, and more!
+
 - [ONIONLABS Store](https://www.onionlabs.net/) - ONIONLABS is a collective of both pixel art and illustration. Peak inside the mind of Nelson Wu with beautiful prints, functional accessories and high quality apparel.
 
 - [JoannaShenArt](https://joannashenart.bigcartel.com/) - Welcome to JoannaShenArt, where Jo turns her unique nature, food, and Asian culture inspired designs into lifestyle merchandise that adds an extra...
@@ -890,6 +892,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html) - A deep dive into how thoughtful URL design can enhance usability, shareability, and performance. Learn what state belongs in URLs, common pitfalls to avoid, and practical patterns for modern web apps.
+
 - [PEP 8: The Style Guide for Python Code](https://pep8.org/)
 
 - [The Rust Programming Language - The Rust Programming Language](https://doc.rust-lang.org/book/)
@@ -1242,6 +1246,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Register for FT.com](https://ig.ft.com/saudi-neom-line)
+
 - [Reddit Accuses ‘Data Scraper’ Companies of Stealing Its Information](https://www.nytimes.com/2025/10/22/technology/reddit-data-scrapers-perplexity-theft.html) - In a lawsuit, Reddit pulled back the curtain on an ecosystem of start-ups that scrape Google’s search results and resell the information to data-hungry A.I. companies.
 
 - [“Anna, Lindsey Halligan Here.”](https://www.lawfaremedia.org/article/anna--lindsey-halligan-here) - My Signal exchange with the interim U.S. attorney about the Letitia James grand jury.
@@ -1657,6 +1663,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Seoul Halloween crowd crush](https://en.wikipedia.org/w/index.php?title=Seoul_Halloween_crowd_crush&oldid=1321465564) - On 29 October 2022, around 22:20, a crowd surge occurred during Halloween festivities in the Itaewon neighborhood of Seoul, South Korea, killing 159 people and wounding 196 others. The death toll includes two people who died after the crush. The victims were mostly young adults; 27 of the victims were foreign nationals. The crowd crush was the deadl...
+
 - [Ana Montes](https://en.wikipedia.org/w/index.php?title=Ana_Montes&oldid=1312818610) - Ana Belén Montes (born February 28, 1957) is an American former senior analyst at the United States Defense Intelligence Agency who spied on behalf of the Cuban government for 17 years. Montes was arrested on September 21, 2001, and she subsequently was charged with conspiracy to commit espionage for the government of Cuba. Montes pleaded guilty to ...
 
 - [Scaly-foot gastropod](https://en.wikipedia.org/w/index.php?title=Scaly-foot_gastropod&oldid=1309348061) - Chrysomallon squamiferum, commonly known as the scaly-foot gastropod, scaly-foot snail, sea pangolin, or volcano snail, is a species of deep-sea hydrothermal-vent snail, a marine gastropod mollusc in the family Peltospiridae. This vent-endemic gastropod is known only from deep-sea hydrothermal vents in the Indian Ocean, where it has been found at de...
