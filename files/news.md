@@ -1,5 +1,7 @@
 # news
-- [Register for FT.com](https://ig.ft.com/saudi-neom-line)
+- [How sports betting is affecting NFL, NBA, MLB and NHL players](https://www.nytimes.com/athletic/6807760/2025/11/14/sports-betting-players-nfl-nba-mlb-nhl/) - Players across sports leagues dish on threatening messages from fans, prop-bet worries and league education
+
+- [Neom Line](https://ig.ft.com/saudi-neom-line)
 
 - [Reddit Accuses ‘Data Scraper’ Companies of Stealing Its Information](https://www.nytimes.com/2025/10/22/technology/reddit-data-scrapers-perplexity-theft.html) - In a lawsuit, Reddit pulled back the curtain on an ecosystem of start-ups that scrape Google’s search results and resell the information to data-hungry A.I. companies.
 

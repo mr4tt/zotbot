@@ -1,4 +1,8 @@
 # crochet
+- [Dragon Eye Pillow | Free Crochet Pattern](https://www.hookedbykati.com/dragon-eye-pillow/)
+
+- [Free Crochet Pillow Patterns: Dragon Eye, Moon, and More](https://www.hicrochet.com/blogs/crochet-patterns/20-free-crochet-pillow-patterns)
+
 - [Free Crochet Patterns](https://www.nichetcrochet.com/free-crochet-patterns)
 
 - [Crochet gloves pattern - fingerless, full fingers or finger holes](http://www.woolcrafting.com/crochet-gloves-pattern.html)

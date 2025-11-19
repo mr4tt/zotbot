@@ -1,4 +1,16 @@
 # misc
+- [Tooooools.app](https://www.tooooools.app) - Apply lo-fi effects to your images and videos: dithering, halftone, gradients, patterns and more.
+
+- [The Scope Creep](https://scope-creep.xyz/play) - A chilling tale of deliverables, deadlines and doomed decisions
+
+- [Godchecker.com - Your Guide To The Gods](https://www.godchecker.com/) - The legendary mythology encyclopedia, poking gods with a stick since 1999! Meet weird and wonderful gods from around the world with Godchecker's amazing Holy Database of All Known Gods
+
+- [USE-IT Europe | Free maps, made by locals](https://use-it.travel/) - USE-IT provides maps made by young locals, not commercial, free and up-to-date. We are a European network of young map-makers sharing the best of tips to help you act like a local in our cities.
+
+- [First-Person Tetris](https://firstpersontetris.com/)
+
+- [typeaoke](https://type.pauwee.com/) - typeracer meets karaoke
+
 - [E-mail Addresses It Would Be Really Annoying to Give Out Over the Phone](https://www.mcsweeneys.net/articles/e-mail-addresses-it-would-be-really-annoying-to-give-out-over-the-phone) - MikeUnderscore2004@yahoo.com MikeAtYahooDotCom@hotmail.com Mike_WardAllOneWord@yahoo.com AAAAAThatsSixAs@yahoo.com One1TheFirstJustTheNumberTheSeco...
 
 - [shrump.cam](https://www.shrump.cam) - shrump.cam stops your slouch and eventual shrimpification

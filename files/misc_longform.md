@@ -1,4 +1,6 @@
 # misc_longform
+- [Points of contact – a short history of door handles](https://apollo-magazine.com/history-door-handle-designs/) - Door handles can be the first and only part of a building we touch, but their design is all too often an afterthought
+
 - [You Are How You Act](https://boz.com/articles/you-are-how-you-act) - You are the sum of your behaviors not your intentions
 
 - [Burning out](https://www.interconnects.ai/p/burning-out) - The international AI industry's collective risk.

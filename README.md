@@ -90,6 +90,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Points of contact – a short history of door handles](https://apollo-magazine.com/history-door-handle-designs/) - Door handles can be the first and only part of a building we touch, but their design is all too often an afterthought
+
 - [You Are How You Act](https://boz.com/articles/you-are-how-you-act) - You are the sum of your behaviors not your intentions
 
 - [Burning out](https://www.interconnects.ai/p/burning-out) - The international AI industry's collective risk.
@@ -398,6 +400,10 @@ To view a single category, check the files/ folder.
 - [0K47](https://0k47.com/) - The official website and shop of 0K47. Find the latest content, buy merch, and support our nerdy apparel.
 
 # crochet
+- [Dragon Eye Pillow | Free Crochet Pattern](https://www.hookedbykati.com/dragon-eye-pillow/)
+
+- [Free Crochet Pillow Patterns: Dragon Eye, Moon, and More](https://www.hicrochet.com/blogs/crochet-patterns/20-free-crochet-pillow-patterns)
+
 - [Free Crochet Patterns](https://www.nichetcrochet.com/free-crochet-patterns)
 
 - [Crochet gloves pattern - fingerless, full fingers or finger holes](http://www.woolcrafting.com/crochet-gloves-pattern.html)
@@ -1246,7 +1252,9 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
-- [Register for FT.com](https://ig.ft.com/saudi-neom-line)
+- [How sports betting is affecting NFL, NBA, MLB and NHL players](https://www.nytimes.com/athletic/6807760/2025/11/14/sports-betting-players-nfl-nba-mlb-nhl/) - Players across sports leagues dish on threatening messages from fans, prop-bet worries and league education
+
+- [Neom Line](https://ig.ft.com/saudi-neom-line)
 
 - [Reddit Accuses ‘Data Scraper’ Companies of Stealing Its Information](https://www.nytimes.com/2025/10/22/technology/reddit-data-scrapers-perplexity-theft.html) - In a lawsuit, Reddit pulled back the curtain on an ecosystem of start-ups that scrape Google’s search results and resell the information to data-hungry A.I. companies.
 
@@ -1663,6 +1671,10 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Billy Mitchell (gamer)](https://en.wikipedia.org/w/index.php?title=Billy_Mitchell_(gamer)&oldid=1316726890) - William James Mitchell Jr. (born July 16, 1965) is an American video game player. Throughout the 1980s and 1990s, he was recognized for numerous records on classic video games before disputes arose over their legitimacy beginning in 2018. Mitchell has also appeared in several documentaries on competitive gaming and retrogaming. In 1982, Mitchell was...
+
+- [Low-background steel](https://en.wikipedia.org/w/index.php?title=Low-background_steel&oldid=1308653917) - Low-background steel, also known as pre-war steel and pre-atomic steel, is any steel produced prior to the detonation of the first nuclear bombs in the 1940s and 1950s.  Typically obtained from ships (either as part of regular scrapping or shipwrecks) and other steel artifacts of this era, it is often used for modern particle detectors because more ...
+
 - [Seoul Halloween crowd crush](https://en.wikipedia.org/w/index.php?title=Seoul_Halloween_crowd_crush&oldid=1321465564) - On 29 October 2022, around 22:20, a crowd surge occurred during Halloween festivities in the Itaewon neighborhood of Seoul, South Korea, killing 159 people and wounding 196 others. The death toll includes two people who died after the crush. The victims were mostly young adults; 27 of the victims were foreign nationals. The crowd crush was the deadl...
 
 - [Ana Montes](https://en.wikipedia.org/w/index.php?title=Ana_Montes&oldid=1312818610) - Ana Belén Montes (born February 28, 1957) is an American former senior analyst at the United States Defense Intelligence Agency who spied on behalf of the Cuban government for 17 years. Montes was arrested on September 21, 2001, and she subsequently was charged with conspiracy to commit espionage for the government of Cuba. Montes pleaded guilty to ...
@@ -2232,6 +2244,18 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Tooooools.app](https://www.tooooools.app) - Apply lo-fi effects to your images and videos: dithering, halftone, gradients, patterns and more.
+
+- [The Scope Creep](https://scope-creep.xyz/play) - A chilling tale of deliverables, deadlines and doomed decisions
+
+- [Godchecker.com - Your Guide To The Gods](https://www.godchecker.com/) - The legendary mythology encyclopedia, poking gods with a stick since 1999! Meet weird and wonderful gods from around the world with Godchecker's amazing Holy Database of All Known Gods
+
+- [USE-IT Europe | Free maps, made by locals](https://use-it.travel/) - USE-IT provides maps made by young locals, not commercial, free and up-to-date. We are a European network of young map-makers sharing the best of tips to help you act like a local in our cities.
+
+- [First-Person Tetris](https://firstpersontetris.com/)
+
+- [typeaoke](https://type.pauwee.com/) - typeracer meets karaoke
+
 - [E-mail Addresses It Would Be Really Annoying to Give Out Over the Phone](https://www.mcsweeneys.net/articles/e-mail-addresses-it-would-be-really-annoying-to-give-out-over-the-phone) - MikeUnderscore2004@yahoo.com MikeAtYahooDotCom@hotmail.com Mike_WardAllOneWord@yahoo.com AAAAAThatsSixAs@yahoo.com One1TheFirstJustTheNumberTheSeco...
 
 - [shrump.cam](https://www.shrump.cam) - shrump.cam stops your slouch and eventual shrimpification
