@@ -1,4 +1,8 @@
 # crochet
+- [FREE Winifred the Wren: Crochet pattern | Ribblr](https://ribblr.com/pat?pattern_id=2991)
+
+- [Uma Beautiful Butterfly Crochet Pattern](https://www.stitching-together.com/crochet-butterfly-pattern/)
+
 - [Dragon Eye Pillow | Free Crochet Pattern](https://www.hookedbykati.com/dragon-eye-pillow/)
 
 - [Free Crochet Pillow Patterns: Dragon Eye, Moon, and More](https://www.hicrochet.com/blogs/crochet-patterns/20-free-crochet-pillow-patterns)

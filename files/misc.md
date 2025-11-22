@@ -1,4 +1,8 @@
 # misc
+- [M4 Message Breaking Project](https://www.bytereef.org/m4_project.html)
+
+- [World Map of Human Ideas](https://ideas.zudiay.me/)
+
 - [Tooooools.app](https://www.tooooools.app) - Apply lo-fi effects to your images and videos: dithering, halftone, gradients, patterns and more.
 
 - [The Scope Creep](https://scope-creep.xyz/play) - A chilling tale of deliverables, deadlines and doomed decisions

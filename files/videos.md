@@ -1,4 +1,6 @@
 # videos
+- [The 6 Onion Levels every home cook should master.](https://www.youtube.com/watch?v=b0IvaSQUWIw)
+
 - [Tech Talk on the AiryString® zipper](https://youtube.com/watch?v=5X8JffqYA-c)
 
 - [Mushroom in the Wild Playing Keyboard](https://youtube.com/watch?v=NbP2DgDp890)

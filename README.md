@@ -90,6 +90,10 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Banana Ducks of Dubai](https://yousaydubai.com/2018/07/18/banana-ducks-of-dubai/) - They are just silly.  No apparent real purpose.  When I first saw the BANANA DUCKS of downtown Dubai, I thought that perhaps they were marking some slippery parts of the pavement – ?  But no,…
+
+- [Unexpected Things that are People](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people) - panlegal expressions of personhood
+
 - [Points of contact – a short history of door handles](https://apollo-magazine.com/history-door-handle-designs/) - Door handles can be the first and only part of a building we touch, but their design is all too often an afterthought
 
 - [You Are How You Act](https://boz.com/articles/you-are-how-you-act) - You are the sum of your behaviors not your intentions
@@ -241,8 +245,6 @@ To view a single category, check the files/ folder.
 - [How different languages laugh online](https://restofworld.org/2023/how-people-laugh-online/) - Laughter is universal, but lol is not.
 
 - [Why Are Hyperlinks Blue | The Mozilla Blog](https://blog.mozilla.org/en/internet-culture/why-are-hyperlinks-blue-revisited/) - Why we need to revisit the origin of blue hyperlink While musing over my recently published article, Why are hyperlinks blue, I was left feeling a bit blue
-
-- [Banana Ducks of Dubai](https://yousaydubai.com/2018/07/18/banana-ducks-of-dubai/) - They are just silly.  No apparent real purpose.  When I first saw the BANANA DUCKS of downtown Dubai, I thought that perhaps they were marking some slippery parts of the pavement – ?  But no,…
 
 - [Deliberate Grieving](https://www.lesswrong.com/posts/gs3vp3ukPbpaEie5L/deliberate-grieving-1) - This post is hopefully useful on its own, but begins a series ultimately about grieving over a world that might (or, might not) be doomed.  …
 
@@ -400,6 +402,10 @@ To view a single category, check the files/ folder.
 - [0K47](https://0k47.com/) - The official website and shop of 0K47. Find the latest content, buy merch, and support our nerdy apparel.
 
 # crochet
+- [FREE Winifred the Wren: Crochet pattern | Ribblr](https://ribblr.com/pat?pattern_id=2991)
+
+- [Uma Beautiful Butterfly Crochet Pattern](https://www.stitching-together.com/crochet-butterfly-pattern/)
+
 - [Dragon Eye Pillow | Free Crochet Pattern](https://www.hookedbykati.com/dragon-eye-pillow/)
 
 - [Free Crochet Pillow Patterns: Dragon Eye, Moon, and More](https://www.hicrochet.com/blogs/crochet-patterns/20-free-crochet-pillow-patterns)
@@ -472,6 +478,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [The 6 Onion Levels every home cook should master.](https://www.youtube.com/watch?v=b0IvaSQUWIw)
+
 - [Tech Talk on the AiryString® zipper](https://youtube.com/watch?v=5X8JffqYA-c)
 
 - [Mushroom in the Wild Playing Keyboard](https://youtube.com/watch?v=NbP2DgDp890)
@@ -2244,6 +2252,10 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [M4 Message Breaking Project](https://www.bytereef.org/m4_project.html)
+
+- [World Map of Human Ideas](https://ideas.zudiay.me/)
+
 - [Tooooools.app](https://www.tooooools.app) - Apply lo-fi effects to your images and videos: dithering, halftone, gradients, patterns and more.
 
 - [The Scope Creep](https://scope-creep.xyz/play) - A chilling tale of deliverables, deadlines and doomed decisions

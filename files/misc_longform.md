@@ -1,4 +1,8 @@
 # misc_longform
+- [Banana Ducks of Dubai](https://yousaydubai.com/2018/07/18/banana-ducks-of-dubai/) - They are just silly.  No apparent real purpose.  When I first saw the BANANA DUCKS of downtown Dubai, I thought that perhaps they were marking some slippery parts of the pavement – ?  But no,…
+
+- [Unexpected Things that are People](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people) - panlegal expressions of personhood
+
 - [Points of contact – a short history of door handles](https://apollo-magazine.com/history-door-handle-designs/) - Door handles can be the first and only part of a building we touch, but their design is all too often an afterthought
 
 - [You Are How You Act](https://boz.com/articles/you-are-how-you-act) - You are the sum of your behaviors not your intentions
@@ -150,8 +154,6 @@
 - [How different languages laugh online](https://restofworld.org/2023/how-people-laugh-online/) - Laughter is universal, but lol is not.
 
 - [Why Are Hyperlinks Blue | The Mozilla Blog](https://blog.mozilla.org/en/internet-culture/why-are-hyperlinks-blue-revisited/) - Why we need to revisit the origin of blue hyperlink While musing over my recently published article, Why are hyperlinks blue, I was left feeling a bit blue
-
-- [Banana Ducks of Dubai](https://yousaydubai.com/2018/07/18/banana-ducks-of-dubai/) - They are just silly.  No apparent real purpose.  When I first saw the BANANA DUCKS of downtown Dubai, I thought that perhaps they were marking some slippery parts of the pavement – ?  But no,…
 
 - [Deliberate Grieving](https://www.lesswrong.com/posts/gs3vp3ukPbpaEie5L/deliberate-grieving-1) - This post is hopefully useful on its own, but begins a series ultimately about grieving over a world that might (or, might not) be doomed.  …
 
