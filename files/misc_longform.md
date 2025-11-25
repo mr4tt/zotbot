@@ -1,4 +1,6 @@
 # misc_longform
+- [Fran Sans Essay — Emily Sneddon](https://emilysneddon.com) - Archive
+
 - [Banana Ducks of Dubai](https://yousaydubai.com/2018/07/18/banana-ducks-of-dubai/) - They are just silly.  No apparent real purpose.  When I first saw the BANANA DUCKS of downtown Dubai, I thought that perhaps they were marking some slippery parts of the pavement – ?  But no,…
 
 - [Unexpected Things that are People](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people) - panlegal expressions of personhood

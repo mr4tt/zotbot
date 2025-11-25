@@ -90,6 +90,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Fran Sans Essay — Emily Sneddon](https://emilysneddon.com) - Archive
+
 - [Banana Ducks of Dubai](https://yousaydubai.com/2018/07/18/banana-ducks-of-dubai/) - They are just silly.  No apparent real purpose.  When I first saw the BANANA DUCKS of downtown Dubai, I thought that perhaps they were marking some slippery parts of the pavement – ?  But no,…
 
 - [Unexpected Things that are People](https://bengoldhaber.substack.com/p/unexpected-things-that-are-people) - panlegal expressions of personhood
@@ -329,6 +331,10 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
+- [Cute Scandinavian Charm](https://birdietam.art/) - A collection of cute animal ceramics, stationery and apparel inspired by Eastern aesthetics and Scandinavian design.
+
+- [Kelly Pringle Art](https://kellypringle.com/) - Traditional illustrations, prints, home decor and more from illustrator Kelly Pringle.
+
 - [Bandage Brigade](https://bandagebrigade.com/) - Artist-owned original brand based in Southern California. Shop our silly apparel, enamel pins, stickers, prints, and more!
 
 - [ONIONLABS Store](https://www.onionlabs.net/) - ONIONLABS is a collective of both pixel art and illustration. Peak inside the mind of Nelson Wu with beautiful prints, functional accessories and high quality apparel.

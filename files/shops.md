@@ -1,4 +1,8 @@
 # shops
+- [Cute Scandinavian Charm](https://birdietam.art/) - A collection of cute animal ceramics, stationery and apparel inspired by Eastern aesthetics and Scandinavian design.
+
+- [Kelly Pringle Art](https://kellypringle.com/) - Traditional illustrations, prints, home decor and more from illustrator Kelly Pringle.
+
 - [Bandage Brigade](https://bandagebrigade.com/) - Artist-owned original brand based in Southern California. Shop our silly apparel, enamel pins, stickers, prints, and more!
 
 - [ONIONLABS Store](https://www.onionlabs.net/) - ONIONLABS is a collective of both pixel art and illustration. Peak inside the mind of Nelson Wu with beautiful prints, functional accessories and high quality apparel.
