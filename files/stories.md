@@ -1,4 +1,6 @@
 # stories
+- [Foreach 001 - By the Lake](https://foreach.neocities.org/page/0001)
+
 - [Archive](https://foreach.neocities.org/archive)
 
 - [The Sniper, a harry potter fanfic | FanFiction](https://www.fanfiction.net/s/3918135/1/The-Sniper)

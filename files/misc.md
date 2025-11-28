@@ -1,4 +1,6 @@
 # misc
+- [Ad/no: Procrastination Rabbit Hole Finder](https://wgx.github.io/adno/)
+
 - [M4 Message Breaking Project](https://www.bytereef.org/m4_project.html)
 
 - [World Map of Human Ideas](https://ideas.zudiay.me/)

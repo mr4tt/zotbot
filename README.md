@@ -331,6 +331,8 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
+- [Mugobunni Stationery Shop](https://mugobunni.com/) - Mugobunni stationery shop, we specialize in kawaii illustrated original designs such as washi tapes, stickers, sticker sheets, BUJO accessories and other cute journaling and decorating goodies.
+
 - [Cute Scandinavian Charm](https://birdietam.art/) - A collection of cute animal ceramics, stationery and apparel inspired by Eastern aesthetics and Scandinavian design.
 
 - [Kelly Pringle Art](https://kellypringle.com/) - Traditional illustrations, prints, home decor and more from illustrator Kelly Pringle.
@@ -1171,6 +1173,8 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # stories
+- [Foreach 001 - By the Lake](https://foreach.neocities.org/page/0001)
+
 - [Archive](https://foreach.neocities.org/archive)
 
 - [The Sniper, a harry potter fanfic | FanFiction](https://www.fanfiction.net/s/3918135/1/The-Sniper)
@@ -1266,6 +1270,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The Olivia Nuzzi Comeback Is Everything Wrong With Modern Media](https://www.mediaite.com/opinion/the-olivia-nuzzi-comeback-is-everything-wrong-with-modern-media/) - Olivia Nuzzi’s comeback isn’t a personal scandal story—it’s proof that today’s media rewards access, personality, and controversy more than ethics.
+
+- [How Not To Get Away With Murder](https://torontolife.com/deep-dives/how-not-to-get-away-with-murder-the-stranger-than-fiction-story-of-the-stoney-creek-killing/)
+
 - [How sports betting is affecting NFL, NBA, MLB and NHL players](https://www.nytimes.com/athletic/6807760/2025/11/14/sports-betting-players-nfl-nba-mlb-nhl/) - Players across sports leagues dish on threatening messages from fans, prop-bet worries and league education
 
 - [Neom Line](https://ig.ft.com/saudi-neom-line)
@@ -2258,6 +2266,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Ad/no: Procrastination Rabbit Hole Finder](https://wgx.github.io/adno/)
+
 - [M4 Message Breaking Project](https://www.bytereef.org/m4_project.html)
 
 - [World Map of Human Ideas](https://ideas.zudiay.me/)

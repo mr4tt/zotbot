@@ -1,4 +1,8 @@
 # news
+- [The Olivia Nuzzi Comeback Is Everything Wrong With Modern Media](https://www.mediaite.com/opinion/the-olivia-nuzzi-comeback-is-everything-wrong-with-modern-media/) - Olivia Nuzzi’s comeback isn’t a personal scandal story—it’s proof that today’s media rewards access, personality, and controversy more than ethics.
+
+- [How Not To Get Away With Murder](https://torontolife.com/deep-dives/how-not-to-get-away-with-murder-the-stranger-than-fiction-story-of-the-stoney-creek-killing/)
+
 - [How sports betting is affecting NFL, NBA, MLB and NHL players](https://www.nytimes.com/athletic/6807760/2025/11/14/sports-betting-players-nfl-nba-mlb-nhl/) - Players across sports leagues dish on threatening messages from fans, prop-bet worries and league education
 
 - [Neom Line](https://ig.ft.com/saudi-neom-line)
