@@ -90,6 +90,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [What’s Hiding Inside Haribo’s Power Bank and Headphones?](https://www.lumafield.com/first-article/posts/whats-hiding-inside-haribos-power-bank-and-headphones) - CT scans reveal severe battery defects inside Haribo’s 20,000 mAh power bank and earbuds, explaining their quiet removal from Amazon.
+
 - [Fran Sans Essay — Emily Sneddon](https://emilysneddon.com) - Archive
 
 - [Banana Ducks of Dubai](https://yousaydubai.com/2018/07/18/banana-ducks-of-dubai/) - They are just silly.  No apparent real purpose.  When I first saw the BANANA DUCKS of downtown Dubai, I thought that perhaps they were marking some slippery parts of the pavement – ?  But no,…
