@@ -1,4 +1,10 @@
 # misc_longform
+- [The Coming AI Cataclysm](https://www.compactmag.com/article/the-coming-ai-cataclysm/) - In the decade since the neural architecture version of Google Translate and the invention of transformer architecture for neural networks, we have experienced the most rapid technological breakthroughs since at least World War II, and possibly ever.
+
+- [The realities of being a pop star.](https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star) - According to my experience...
+
+- [You Can Hold Her Now](https://www.waleed-shahid.com/p/you-can-hold-her-now) - What happens when our friends meet our baby (and themselves) for the first time.
+
 - [What’s Hiding Inside Haribo’s Power Bank and Headphones?](https://www.lumafield.com/first-article/posts/whats-hiding-inside-haribos-power-bank-and-headphones) - CT scans reveal severe battery defects inside Haribo’s 20,000 mAh power bank and earbuds, explaining their quiet removal from Amazon.
 
 - [Fran Sans Essay — Emily Sneddon](https://emilysneddon.com) - Archive

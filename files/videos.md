@@ -1,4 +1,6 @@
 # videos
+- [The War for Seattle](https://youtube.com/watch?v=LpaD9qpnzI0)
+
 - [The 6 Onion Levels every home cook should master.](https://www.youtube.com/watch?v=b0IvaSQUWIw)
 
 - [Tech Talk on the AiryString® zipper](https://youtube.com/watch?v=5X8JffqYA-c)

@@ -1,4 +1,8 @@
 # news
+- [The Lottery Hackers](https://highline.huffingtonpost.com/articles/en/lotto-winners/) - Winning millions of dollars seemed as good a retirement plan as any.
+
+- [Money, muscles and anxiety: why the manosphere clicked with young men – a visual deep dive](https://www.theguardian.com/technology/ng-interactive/2025/oct/21/why-the-manosphere-clicked-for-young-men-a-visual-deep-dive) - The manosphere is known for misogyny, but that’s not the only thing that influencers in this space offer. Young men explain the allure and the problems of the manosphere in their own words
+
 - [The Olivia Nuzzi Comeback Is Everything Wrong With Modern Media](https://www.mediaite.com/opinion/the-olivia-nuzzi-comeback-is-everything-wrong-with-modern-media/) - Olivia Nuzzi’s comeback isn’t a personal scandal story—it’s proof that today’s media rewards access, personality, and controversy more than ethics.
 
 - [How Not To Get Away With Murder](https://torontolife.com/deep-dives/how-not-to-get-away-with-murder-the-stranger-than-fiction-story-of-the-stoney-creek-killing/)

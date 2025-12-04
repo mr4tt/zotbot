@@ -90,6 +90,12 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [The Coming AI Cataclysm](https://www.compactmag.com/article/the-coming-ai-cataclysm/) - In the decade since the neural architecture version of Google Translate and the invention of transformer architecture for neural networks, we have experienced the most rapid technological breakthroughs since at least World War II, and possibly ever.
+
+- [The realities of being a pop star.](https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star) - According to my experience...
+
+- [You Can Hold Her Now](https://www.waleed-shahid.com/p/you-can-hold-her-now) - What happens when our friends meet our baby (and themselves) for the first time.
+
 - [What’s Hiding Inside Haribo’s Power Bank and Headphones?](https://www.lumafield.com/first-article/posts/whats-hiding-inside-haribos-power-bank-and-headphones) - CT scans reveal severe battery defects inside Haribo’s 20,000 mAh power bank and earbuds, explaining their quiet removal from Amazon.
 
 - [Fran Sans Essay — Emily Sneddon](https://emilysneddon.com) - Archive
@@ -488,6 +494,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [The War for Seattle](https://youtube.com/watch?v=LpaD9qpnzI0)
+
 - [The 6 Onion Levels every home cook should master.](https://www.youtube.com/watch?v=b0IvaSQUWIw)
 
 - [Tech Talk on the AiryString® zipper](https://youtube.com/watch?v=5X8JffqYA-c)
@@ -1272,6 +1280,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The Lottery Hackers](https://highline.huffingtonpost.com/articles/en/lotto-winners/) - Winning millions of dollars seemed as good a retirement plan as any.
+
+- [Money, muscles and anxiety: why the manosphere clicked with young men – a visual deep dive](https://www.theguardian.com/technology/ng-interactive/2025/oct/21/why-the-manosphere-clicked-for-young-men-a-visual-deep-dive) - The manosphere is known for misogyny, but that’s not the only thing that influencers in this space offer. Young men explain the allure and the problems of the manosphere in their own words
+
 - [The Olivia Nuzzi Comeback Is Everything Wrong With Modern Media](https://www.mediaite.com/opinion/the-olivia-nuzzi-comeback-is-everything-wrong-with-modern-media/) - Olivia Nuzzi’s comeback isn’t a personal scandal story—it’s proof that today’s media rewards access, personality, and controversy more than ethics.
 
 - [How Not To Get Away With Murder](https://torontolife.com/deep-dives/how-not-to-get-away-with-murder-the-stranger-than-fiction-story-of-the-stoney-creek-killing/)
@@ -1695,6 +1707,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Paektu Mountain](https://en.wikipedia.org/w/index.php?title=Paektu_Mountain&oldid=1322905486) - Paektu Mountain or Baekdu Mountain (Korean: 백두산) is an active stratovolcano on the Chinese–North Korean border. In China, it is known as Changbai Mountain (Chinese: 长白山). At 2,744 m (9,003 ft), it is the tallest mountain in North Korea and Northeast China and the tallest mountain of the Baekdu-daegan and Changbai mountain ranges. The highest peak, c...
+
 - [Billy Mitchell (gamer)](https://en.wikipedia.org/w/index.php?title=Billy_Mitchell_(gamer)&oldid=1316726890) - William James Mitchell Jr. (born July 16, 1965) is an American video game player. Throughout the 1980s and 1990s, he was recognized for numerous records on classic video games before disputes arose over their legitimacy beginning in 2018. Mitchell has also appeared in several documentaries on competitive gaming and retrogaming. In 1982, Mitchell was...
 
 - [Low-background steel](https://en.wikipedia.org/w/index.php?title=Low-background_steel&oldid=1308653917) - Low-background steel, also known as pre-war steel and pre-atomic steel, is any steel produced prior to the detonation of the first nuclear bombs in the 1940s and 1950s.  Typically obtained from ships (either as part of regular scrapping or shipwrecks) and other steel artifacts of this era, it is often used for modern particle detectors because more ...
