@@ -1,4 +1,6 @@
 # news
+- [Why Does A.I. Write Like … That?](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html) - If only they were robotic! Instead, chatbots have developed a distinctive — and grating — voice.
+
 - [The Lottery Hackers](https://highline.huffingtonpost.com/articles/en/lotto-winners/) - Winning millions of dollars seemed as good a retirement plan as any.
 
 - [Money, muscles and anxiety: why the manosphere clicked with young men – a visual deep dive](https://www.theguardian.com/technology/ng-interactive/2025/oct/21/why-the-manosphere-clicked-for-young-men-a-visual-deep-dive) - The manosphere is known for misogyny, but that’s not the only thing that influencers in this space offer. Young men explain the allure and the problems of the manosphere in their own words

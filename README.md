@@ -1280,6 +1280,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Why Does A.I. Write Like … That?](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html) - If only they were robotic! Instead, chatbots have developed a distinctive — and grating — voice.
+
 - [The Lottery Hackers](https://highline.huffingtonpost.com/articles/en/lotto-winners/) - Winning millions of dollars seemed as good a retirement plan as any.
 
 - [Money, muscles and anxiety: why the manosphere clicked with young men – a visual deep dive](https://www.theguardian.com/technology/ng-interactive/2025/oct/21/why-the-manosphere-clicked-for-young-men-a-visual-deep-dive) - The manosphere is known for misogyny, but that’s not the only thing that influencers in this space offer. Young men explain the allure and the problems of the manosphere in their own words
