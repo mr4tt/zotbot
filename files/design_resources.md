@@ -1,4 +1,6 @@
 # design_resources
+- [Bruno Simon](https://bruno-simon.com/) - Bruno Simon's creative portfolio
+
 - [WADA SANZO | DICTIONARY OF COLOR COMBINATIONS](https://sanzo-wada.dmbk.io/)
 
 - [Smith & Diction - The P](https://www.figma.com/proto/fSeQqlIw4aZpGrTs9LjDIY/S%2526D-%252F-Process-2024?page-id=0%3A1&node-id=1-3&viewport=478%2C160%2C0.07&scaling=containn) - Created with Figma

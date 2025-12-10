@@ -1,4 +1,10 @@
 # misc_longform
+- [An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/) - I made a messaging app for my family and my family only.
+
+- [Dark patterns killed my wife’s Windows 11 installation – OSnews](https://www.osnews.com/story/143376/dark-patterns-killed-my-wifes-windows-11-installation/)
+
+- [Why I Ignore The Spotlight as a Staff Engineer](https://lalitm.com/software-engineering-outside-the-spotlight/) - An alternate path for Staff+ engineers that optimizes for systems over spotlights and stewardship over fungibility.
+
 - [The Coming AI Cataclysm](https://www.compactmag.com/article/the-coming-ai-cataclysm/) - In the decade since the neural architecture version of Google Translate and the invention of transformer architecture for neural networks, we have experienced the most rapid technological breakthroughs since at least World War II, and possibly ever.
 
 - [The realities of being a pop star.](https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star) - According to my experience...
@@ -28,6 +34,8 @@
 - [The Marriage Decision: Everything Forever or Nothing Ever Again](https://waitbutwhy.com/2016/09/marriage-decision.html) - We're forced to make a black-and-white, binary decision in the most important moment of our lives. Let's take a deep breath and figure this out together.
 
 - [Designing Software for Things that Rot](https://drobinin.com/posts/designing-software-for-things-that-rot/) - How a £150 eBay fridge and a decision tree taught me to stop asking internet strangers if my salami would kill me–and why building for rot is nothing like building happy-path apps.
+
+- [Programming With Less Than Nothing](https://joshmoody.org/blog/programming-with-less-than-nothing/) - Lambda calculus is for wimps. Real programmers use combinatory logic.
 
 - [800 Years of English Handwriting](https://artsandculture.google.com/story/800-years-of-english-handwriting/eAURodcOgMzFIw) - Google Arts & Culture features content from over 2000 leading museums and archives who have partnered with the Google Cultural Institute to bring the world's treasures online.
 

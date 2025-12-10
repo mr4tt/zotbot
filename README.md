@@ -90,6 +90,12 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/) - I made a messaging app for my family and my family only.
+
+- [Dark patterns killed my wife’s Windows 11 installation – OSnews](https://www.osnews.com/story/143376/dark-patterns-killed-my-wifes-windows-11-installation/)
+
+- [Why I Ignore The Spotlight as a Staff Engineer](https://lalitm.com/software-engineering-outside-the-spotlight/) - An alternate path for Staff+ engineers that optimizes for systems over spotlights and stewardship over fungibility.
+
 - [The Coming AI Cataclysm](https://www.compactmag.com/article/the-coming-ai-cataclysm/) - In the decade since the neural architecture version of Google Translate and the invention of transformer architecture for neural networks, we have experienced the most rapid technological breakthroughs since at least World War II, and possibly ever.
 
 - [The realities of being a pop star.](https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star) - According to my experience...
@@ -119,6 +125,8 @@ To view a single category, check the files/ folder.
 - [The Marriage Decision: Everything Forever or Nothing Ever Again](https://waitbutwhy.com/2016/09/marriage-decision.html) - We're forced to make a black-and-white, binary decision in the most important moment of our lives. Let's take a deep breath and figure this out together.
 
 - [Designing Software for Things that Rot](https://drobinin.com/posts/designing-software-for-things-that-rot/) - How a £150 eBay fridge and a decision tree taught me to stop asking internet strangers if my salami would kill me–and why building for rot is nothing like building happy-path apps.
+
+- [Programming With Less Than Nothing](https://joshmoody.org/blog/programming-with-less-than-nothing/) - Lambda calculus is for wimps. Real programmers use combinatory logic.
 
 - [800 Years of English Handwriting](https://artsandculture.google.com/story/800-years-of-english-handwriting/eAURodcOgMzFIw) - Google Arts & Culture features content from over 2000 leading museums and archives who have partnered with the Google Cultural Institute to bring the world's treasures online.
 
@@ -347,6 +355,8 @@ To view a single category, check the files/ folder.
 
 - [Bandage Brigade](https://bandagebrigade.com/) - Artist-owned original brand based in Southern California. Shop our silly apparel, enamel pins, stickers, prints, and more!
 
+- [KamiAri Studio](https://kamiaristudio.com/) - KamiAri Studio is 100% dedicated to bringing a little happiness into our everyday lives~♡ All merchandise in the shop is created, hand-packed, and shipped out by the artist, Ari.
+
 - [ONIONLABS Store](https://www.onionlabs.net/) - ONIONLABS is a collective of both pixel art and illustration. Peak inside the mind of Nelson Wu with beautiful prints, functional accessories and high quality apparel.
 
 - [JoannaShenArt](https://joannashenart.bigcartel.com/) - Welcome to JoannaShenArt, where Jo turns her unique nature, food, and Asian culture inspired designs into lifestyle merchandise that adds an extra...
@@ -494,6 +504,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [YouTube](https://youtube.com/watch?v=Is3lutAJ6tw)
+
 - [The War for Seattle](https://youtube.com/watch?v=LpaD9qpnzI0)
 
 - [The 6 Onion Levels every home cook should master.](https://www.youtube.com/watch?v=b0IvaSQUWIw)
@@ -761,6 +773,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Bruno Simon](https://bruno-simon.com/) - Bruno Simon's creative portfolio
+
 - [WADA SANZO | DICTIONARY OF COLOR COMBINATIONS](https://sanzo-wada.dmbk.io/)
 
 - [Smith & Diction - The P](https://www.figma.com/proto/fSeQqlIw4aZpGrTs9LjDIY/S%2526D-%252F-Process-2024?page-id=0%3A1&node-id=1-3&viewport=478%2C160%2C0.07&scaling=containn) - Created with Figma
@@ -1184,8 +1198,6 @@ To view a single category, check the files/ folder.
 
 # stories
 - [Foreach 001 - By the Lake](https://foreach.neocities.org/page/0001)
-
-- [Archive](https://foreach.neocities.org/archive)
 
 - [The Sniper, a harry potter fanfic | FanFiction](https://www.fanfiction.net/s/3918135/1/The-Sniper)
 
@@ -1709,6 +1721,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Up to eleven](https://en.wikipedia.org/w/index.php?title=Up_to_eleven&oldid=1319503749) - "Up to eleven", also phrased as "these go to eleven", is an idiom from popular culture, coined in the 1984 film This Is Spinal Tap, where guitarist Nigel Tufnel demonstrates a guitar amplifier whose volume knobs are marked from zero to eleven, instead of the usual zero to ten.  In 2002, the phrase entered the Shorter Oxford English Dictionary with t...
+
 - [Paektu Mountain](https://en.wikipedia.org/w/index.php?title=Paektu_Mountain&oldid=1322905486) - Paektu Mountain or Baekdu Mountain (Korean: 백두산) is an active stratovolcano on the Chinese–North Korean border. In China, it is known as Changbai Mountain (Chinese: 长白山). At 2,744 m (9,003 ft), it is the tallest mountain in North Korea and Northeast China and the tallest mountain of the Baekdu-daegan and Changbai mountain ranges. The highest peak, c...
 
 - [Billy Mitchell (gamer)](https://en.wikipedia.org/w/index.php?title=Billy_Mitchell_(gamer)&oldid=1316726890) - William James Mitchell Jr. (born July 16, 1965) is an American video game player. Throughout the 1980s and 1990s, he was recognized for numerous records on classic video games before disputes arose over their legitimacy beginning in 2018. Mitchell has also appeared in several documentaries on competitive gaming and retrogaming. In 1982, Mitchell was...

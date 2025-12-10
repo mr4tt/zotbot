@@ -7,6 +7,8 @@
 
 - [Bandage Brigade](https://bandagebrigade.com/) - Artist-owned original brand based in Southern California. Shop our silly apparel, enamel pins, stickers, prints, and more!
 
+- [KamiAri Studio](https://kamiaristudio.com/) - KamiAri Studio is 100% dedicated to bringing a little happiness into our everyday lives~♡ All merchandise in the shop is created, hand-packed, and shipped out by the artist, Ari.
+
 - [ONIONLABS Store](https://www.onionlabs.net/) - ONIONLABS is a collective of both pixel art and illustration. Peak inside the mind of Nelson Wu with beautiful prints, functional accessories and high quality apparel.
 
 - [JoannaShenArt](https://joannashenart.bigcartel.com/) - Welcome to JoannaShenArt, where Jo turns her unique nature, food, and Asian culture inspired designs into lifestyle merchandise that adds an extra...
