@@ -90,6 +90,10 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [» Typewriter Plotters](https://biosrhythm.com/?p=2143)
+
+- [No, "Green Llama" did not just beat Cascade Platinum Plus](https://foxchapelresearch.substack.com/p/draft-no-green-llama-did-not-just) - https://en.wikipedia.org/wiki/Betteridge's_law_of_headlines
+
 - [An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/) - I made a messaging app for my family and my family only.
 
 - [Dark patterns killed my wife’s Windows 11 installation – OSnews](https://www.osnews.com/story/143376/dark-patterns-killed-my-wifes-windows-11-installation/)
@@ -708,6 +712,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Surveillance Self-Defense](https://ssd.eff.org/) - We’re the Electronic Frontier Foundation, a member-supported non-profit working to protect online privacy for over thirty-five years. This is Surveillance Self-Defense: our expert guide to protecting you and your friends from online spying.  Read the BASICS to find out how online surveillance works. Dive into our TOOL GUIDES for instructions...
+
 - [21 Facts About Throwing Good Parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/) - Parties are a public service; here's how to throw them.
 
 - [CASCII](https://cascii.app/)

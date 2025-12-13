@@ -1,4 +1,8 @@
 # misc_longform
+- [» Typewriter Plotters](https://biosrhythm.com/?p=2143)
+
+- [No, "Green Llama" did not just beat Cascade Platinum Plus](https://foxchapelresearch.substack.com/p/draft-no-green-llama-did-not-just) - https://en.wikipedia.org/wiki/Betteridge's_law_of_headlines
+
 - [An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/) - I made a messaging app for my family and my family only.
 
 - [Dark patterns killed my wife’s Windows 11 installation – OSnews](https://www.osnews.com/story/143376/dark-patterns-killed-my-wifes-windows-11-installation/)
