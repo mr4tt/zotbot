@@ -1,4 +1,6 @@
 # misc
+- [Rotating Sandwiches](https://rotatingsandwiches.com/) - that's it
+
 - [Ad/no: Procrastination Rabbit Hole Finder](https://wgx.github.io/adno/)
 
 - [M4 Message Breaking Project](https://www.bytereef.org/m4_project.html)

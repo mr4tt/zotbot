@@ -90,6 +90,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Su Hui’s Star Gauge – David Hinton | poetry of China](https://poetrychina.net/welling-magazine/suhui)
+
 - [» Typewriter Plotters](https://biosrhythm.com/?p=2143)
 
 - [No, "Green Llama" did not just beat Cascade Platinum Plus](https://foxchapelresearch.substack.com/p/draft-no-green-llama-did-not-just) - https://en.wikipedia.org/wiki/Betteridge's_law_of_headlines
@@ -1298,6 +1300,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Lost Vegas](https://slate.com/business/2025/11/las-vegas-travel-sphere-hotel-donald-trump.html) - Everyone inside America’s most flailing destination city has a theory for what’s wrong. Now I have my own.
+
 - [Why Does A.I. Write Like … That?](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html) - If only they were robotic! Instead, chatbots have developed a distinctive — and grating — voice.
 
 - [The Lottery Hackers](https://highline.huffingtonpost.com/articles/en/lotto-winners/) - Winning millions of dollars seemed as good a retirement plan as any.
@@ -2304,6 +2308,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Rotating Sandwiches](https://rotatingsandwiches.com/) - that's it
+
 - [Ad/no: Procrastination Rabbit Hole Finder](https://wgx.github.io/adno/)
 
 - [M4 Message Breaking Project](https://www.bytereef.org/m4_project.html)

@@ -1,4 +1,6 @@
 # misc_longform
+- [Su Hui’s Star Gauge – David Hinton | poetry of China](https://poetrychina.net/welling-magazine/suhui)
+
 - [» Typewriter Plotters](https://biosrhythm.com/?p=2143)
 
 - [No, "Green Llama" did not just beat Cascade Platinum Plus](https://foxchapelresearch.substack.com/p/draft-no-green-llama-did-not-just) - https://en.wikipedia.org/wiki/Betteridge's_law_of_headlines

@@ -1,4 +1,6 @@
 # news
+- [Lost Vegas](https://slate.com/business/2025/11/las-vegas-travel-sphere-hotel-donald-trump.html) - Everyone inside America’s most flailing destination city has a theory for what’s wrong. Now I have my own.
+
 - [Why Does A.I. Write Like … That?](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html) - If only they were robotic! Instead, chatbots have developed a distinctive — and grating — voice.
 
 - [The Lottery Hackers](https://highline.huffingtonpost.com/articles/en/lotto-winners/) - Winning millions of dollars seemed as good a retirement plan as any.
