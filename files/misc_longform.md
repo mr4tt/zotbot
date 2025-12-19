@@ -1,4 +1,6 @@
 # misc_longform
+- [Would Walter White Still Cook Meth in 2025?](https://www.alexkesin.com/p/would-walter-white-still-cook-meth) - Or: How Modern Oncology and Employer Insurance Would Have Ruined the Entire Premise
+
 - [Su Hui’s Star Gauge – David Hinton | poetry of China](https://poetrychina.net/welling-magazine/suhui)
 
 - [» Typewriter Plotters](https://biosrhythm.com/?p=2143)

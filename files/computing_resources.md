@@ -1,4 +1,8 @@
 # computing_resources
+- [Replicated data consistency explained through baseball](https://dl.acm.org/doi/10.1145/2500500) - A broader class of consistency guarantees can, and perhaps should, be offered to clients that read shared data.
+
+- [Help! Linux ate my RAM!](https://www.linuxatemyram.com/)
+
 - [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html) - A deep dive into how thoughtful URL design can enhance usability, shareability, and performance. Learn what state belongs in URLs, common pitfalls to avoid, and practical patterns for modern web apps.
 
 - [PEP 8: The Style Guide for Python Code](https://pep8.org/)

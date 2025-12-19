@@ -1,4 +1,6 @@
 # misc
+- [End of 10](https://endof10.org/) - Extended support for Windows 10 ends in 2026. Don’t buy a new PC — revive yours with Linux. It's fast, secure, and help is available to get you started.
+
 - [Rotating Sandwiches](https://rotatingsandwiches.com/) - that's it
 
 - [Ad/no: Procrastination Rabbit Hole Finder](https://wgx.github.io/adno/)

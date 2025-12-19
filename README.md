@@ -90,6 +90,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Would Walter White Still Cook Meth in 2025?](https://www.alexkesin.com/p/would-walter-white-still-cook-meth) - Or: How Modern Oncology and Employer Insurance Would Have Ruined the Entire Premise
+
 - [Su Hui’s Star Gauge – David Hinton | poetry of China](https://poetrychina.net/welling-magazine/suhui)
 
 - [» Typewriter Plotters](https://biosrhythm.com/?p=2143)
@@ -946,6 +948,10 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [Replicated data consistency explained through baseball](https://dl.acm.org/doi/10.1145/2500500) - A broader class of consistency guarantees can, and perhaps should, be offered to clients that read shared data.
+
+- [Help! Linux ate my RAM!](https://www.linuxatemyram.com/)
+
 - [Your URL Is Your State](https://alfy.blog/2025/10/31/your-url-is-your-state.html) - A deep dive into how thoughtful URL design can enhance usability, shareability, and performance. Learn what state belongs in URLs, common pitfalls to avoid, and practical patterns for modern web apps.
 
 - [PEP 8: The Style Guide for Python Code](https://pep8.org/)
@@ -2308,6 +2314,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [End of 10](https://endof10.org/) - Extended support for Windows 10 ends in 2026. Don’t buy a new PC — revive yours with Linux. It's fast, secure, and help is available to get you started.
+
 - [Rotating Sandwiches](https://rotatingsandwiches.com/) - that's it
 
 - [Ad/no: Procrastination Rabbit Hole Finder](https://wgx.github.io/adno/)
