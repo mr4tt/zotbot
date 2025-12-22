@@ -90,6 +90,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Backing up Spotify](https://annas-archive.li/blog/backing-up-spotify.html) - We backed up Spotify (metadata and music files). It’s distributed in bulk torrents (~300TB). It’s the world’s first “preservation archive” for music which is fully open (meaning it can easily be mirrored by anyone with enough disk space), with 86 million music files, representing around 99.6% of listens.
+
 - [Would Walter White Still Cook Meth in 2025?](https://www.alexkesin.com/p/would-walter-white-still-cook-meth) - Or: How Modern Oncology and Employer Insurance Would Have Ruined the Entire Premise
 
 - [Su Hui’s Star Gauge – David Hinton | poetry of China](https://poetrychina.net/welling-magazine/suhui)
@@ -512,7 +514,9 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
-- [YouTube](https://youtube.com/watch?v=Is3lutAJ6tw)
+- [Pretty nice catch, huh... (OneShot)](https://www.youtube.com/watch?v=Is3lutAJ6tw)
+
+- [“Mrs. Jacqueline's Melancholy” sasakure.‌UK vs Patrick Bartley](https://www.youtube.com/watch?v=6cA_JQsQpn4)
 
 - [The War for Seattle](https://youtube.com/watch?v=LpaD9qpnzI0)
 

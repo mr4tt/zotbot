@@ -1,5 +1,7 @@
 # videos
-- [YouTube](https://youtube.com/watch?v=Is3lutAJ6tw)
+- [Pretty nice catch, huh... (OneShot)](https://www.youtube.com/watch?v=Is3lutAJ6tw)
+
+- [“Mrs. Jacqueline's Melancholy” sasakure.‌UK vs Patrick Bartley](https://www.youtube.com/watch?v=6cA_JQsQpn4)
 
 - [The War for Seattle](https://youtube.com/watch?v=LpaD9qpnzI0)
 
