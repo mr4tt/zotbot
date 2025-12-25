@@ -1,4 +1,8 @@
 # misc
+- [Fictional Brands Archive](https://fictionalbrandsarchive.com/)
+
+- [But can it run Doom? - gifbot - Doom (Video Games) [Archive of Our Own]](https://archiveofourown.org/works/31295183#game)
+
 - [End of 10](https://endof10.org/) - Extended support for Windows 10 ends in 2026. Don’t buy a new PC — revive yours with Linux. It's fast, secure, and help is available to get you started.
 
 - [Rotating Sandwiches](https://rotatingsandwiches.com/) - that's it

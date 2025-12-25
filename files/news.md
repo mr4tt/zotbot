@@ -1,4 +1,10 @@
 # news
+- [TextEdit and the Relief of Simple Software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software) - The bare-bones Mac writing app represents a literalist sensibility that is coming back into vogue as A.I. destabilizes our technological interactions.
+
+- [The battle to stop clever people betting](https://www.economist.com/christmas-specials/2025/12/18/the-battle-to-stop-clever-people-betting)
+
+- [Exclusive: How China built its ‘Manhattan Project’ to rival the West in AI chips](https://www.reuters.com/world/china/how-china-built-its-manhattan-project-rival-west-ai-chips-2025-12-17/) - In a high-security Shenzhen laboratory, Chinese scientists have built a prototype of a machine capable of producing cutting-edge semiconductor chips that power artificial intelligence, smartphones and weapons central to Western military dominance.
+
 - [Lost Vegas](https://slate.com/business/2025/11/las-vegas-travel-sphere-hotel-donald-trump.html) - Everyone inside America’s most flailing destination city has a theory for what’s wrong. Now I have my own.
 
 - [Why Does A.I. Write Like … That?](https://www.nytimes.com/2025/12/03/magazine/chatbot-writing-style.html) - If only they were robotic! Instead, chatbots have developed a distinctive — and grating — voice.
