@@ -1,4 +1,6 @@
 # news
+- [‘We are slowly being poisoned.’ How toxic fumes seep into the air you breathe on planes](https://www.latimes.com/projects/toxic-chemicals-planes-covid-19-travel-woes/) - A Times investigation found that vapors from oil and other fluids seep into planes with alarming frequency across all airlines, at times creating chaos and confusion.
+
 - [TextEdit and the Relief of Simple Software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software) - The bare-bones Mac writing app represents a literalist sensibility that is coming back into vogue as A.I. destabilizes our technological interactions.
 
 - [The battle to stop clever people betting](https://www.economist.com/christmas-specials/2025/12/18/the-battle-to-stop-clever-people-betting)

@@ -1,4 +1,6 @@
 # misc_longform
+- [Life as a Migrant Food Delivery Rider in Shanghai](https://www.pekingnology.com/p/life-as-a-migrant-food-delivery-rider) - Making ends meet on $1,064 a month, for a separated family of three
+
 - [Backing up Spotify](https://annas-archive.li/blog/backing-up-spotify.html) - We backed up Spotify (metadata and music files). It’s distributed in bulk torrents (~300TB). It’s the world’s first “preservation archive” for music which is fully open (meaning it can easily be mirrored by anyone with enough disk space), with 86 million music files, representing around 99.6% of listens.
 
 - [Would Walter White Still Cook Meth in 2025?](https://www.alexkesin.com/p/would-walter-white-still-cook-meth) - Or: How Modern Oncology and Employer Insurance Would Have Ruined the Entire Premise

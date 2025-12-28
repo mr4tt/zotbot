@@ -186,6 +186,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Life as a Migrant Food Delivery Rider in Shanghai](https://www.pekingnology.com/p/life-as-a-migrant-food-delivery-rider) - Making ends meet on $1,064 a month, for a separated family of three
+
 - [Backing up Spotify](https://annas-archive.li/blog/backing-up-spotify.html) - We backed up Spotify (metadata and music files). It’s distributed in bulk torrents (~300TB). It’s the world’s first “preservation archive” for music which is fully open (meaning it can easily be mirrored by anyone with enough disk space), with 86 million music files, representing around 99.6% of listens.
 
 - [Would Walter White Still Cook Meth in 2025?](https://www.alexkesin.com/p/would-walter-white-still-cook-meth) - Or: How Modern Oncology and Employer Insurance Would Have Ruined the Entire Premise
@@ -453,6 +455,8 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
+- [Sable Stone - Handmade Jewelry](https://sablestonesilver.com/) - Handmade jewelry inspired by nature
+
 - [Mugobunni Stationery Shop](https://mugobunni.com/) - Mugobunni stationery shop, we specialize in kawaii illustrated original designs such as washi tapes, stickers, sticker sheets, BUJO accessories and other cute journaling and decorating goodies.
 
 - [Cute Scandinavian Charm](https://birdietam.art/) - A collection of cute animal ceramics, stationery and apparel inspired by Eastern aesthetics and Scandinavian design.
@@ -1406,6 +1410,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [‘We are slowly being poisoned.’ How toxic fumes seep into the air you breathe on planes](https://www.latimes.com/projects/toxic-chemicals-planes-covid-19-travel-woes/) - A Times investigation found that vapors from oil and other fluids seep into planes with alarming frequency across all airlines, at times creating chaos and confusion.
+
 - [TextEdit and the Relief of Simple Software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software) - The bare-bones Mac writing app represents a literalist sensibility that is coming back into vogue as A.I. destabilizes our technological interactions.
 
 - [The battle to stop clever people betting](https://www.economist.com/christmas-specials/2025/12/18/the-battle-to-stop-clever-people-betting)
@@ -2420,6 +2426,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [ISS in Real Time](https://issinrealtime.org) - Explore 25 years onboard the International Space Station.
+
 - [Fictional Brands Archive](https://fictionalbrandsarchive.com/)
 
 - [But can it run Doom? - gifbot - Doom (Video Games) [Archive of Our Own]](https://archiveofourown.org/works/31295183#game)

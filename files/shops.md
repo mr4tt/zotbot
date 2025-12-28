@@ -1,4 +1,6 @@
 # shops
+- [Sable Stone - Handmade Jewelry](https://sablestonesilver.com/) - Handmade jewelry inspired by nature
+
 - [Mugobunni Stationery Shop](https://mugobunni.com/) - Mugobunni stationery shop, we specialize in kawaii illustrated original designs such as washi tapes, stickers, sticker sheets, BUJO accessories and other cute journaling and decorating goodies.
 
 - [Cute Scandinavian Charm](https://birdietam.art/) - A collection of cute animal ceramics, stationery and apparel inspired by Eastern aesthetics and Scandinavian design.
