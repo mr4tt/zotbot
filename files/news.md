@@ -1,4 +1,6 @@
 # news
+- [Inside the CIA’s secret mission to sabotage Afghanistan’s opium](https://www.smh.com.au/world/north-america/inside-the-cias-secret-mission-to-sabotage-afghanistans-opium-20251113-p5nf0j.html) - Clandestine night flights dropped billions of genetically modified seeds over poppy fields in a classified mission to disrupt the country’s lucrative opium trade.
+
 - [‘We are slowly being poisoned.’ How toxic fumes seep into the air you breathe on planes](https://www.latimes.com/projects/toxic-chemicals-planes-covid-19-travel-woes/) - A Times investigation found that vapors from oil and other fluids seep into planes with alarming frequency across all airlines, at times creating chaos and confusion.
 
 - [TextEdit and the Relief of Simple Software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software) - The bare-bones Mac writing app represents a literalist sensibility that is coming back into vogue as A.I. destabilizes our technological interactions.

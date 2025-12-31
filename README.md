@@ -18,6 +18,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [The HTML Elements Time Forgot - HTMHell](https://www.htmhell.dev/adventcalendar/2025/22/) - A collection of bad practices in HTML, copied from real websites.
+
 - [An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/) - I made a messaging app for my family and my family only.
 
 - [Dark patterns killed my wife’s Windows 11 installation – OSnews](https://www.osnews.com/story/143376/dark-patterns-killed-my-wifes-windows-11-installation/)
@@ -1410,6 +1412,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Inside the CIA’s secret mission to sabotage Afghanistan’s opium](https://www.smh.com.au/world/north-america/inside-the-cias-secret-mission-to-sabotage-afghanistans-opium-20251113-p5nf0j.html) - Clandestine night flights dropped billions of genetically modified seeds over poppy fields in a classified mission to disrupt the country’s lucrative opium trade.
+
 - [‘We are slowly being poisoned.’ How toxic fumes seep into the air you breathe on planes](https://www.latimes.com/projects/toxic-chemicals-planes-covid-19-travel-woes/) - A Times investigation found that vapors from oil and other fluids seep into planes with alarming frequency across all airlines, at times creating chaos and confusion.
 
 - [TextEdit and the Relief of Simple Software](https://www.newyorker.com/culture/infinite-scroll/textedit-and-the-relief-of-simple-software) - The bare-bones Mac writing app represents a literalist sensibility that is coming back into vogue as A.I. destabilizes our technological interactions.
