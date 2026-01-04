@@ -1,4 +1,6 @@
 # news
+- [The Many Lives of Frédéric Bourdin](https://www.newyorker.com/magazine/2008/08/11/the-chameleon-annals-of-crime-david-grann) - David Grann’s 2008 report on the French serial imposter Frédéric Bourdin, who assumed dozens of false identities, including those of missing persons.
+
 - [Inside the CIA’s secret mission to sabotage Afghanistan’s opium](https://www.smh.com.au/world/north-america/inside-the-cias-secret-mission-to-sabotage-afghanistans-opium-20251113-p5nf0j.html) - Clandestine night flights dropped billions of genetically modified seeds over poppy fields in a classified mission to disrupt the country’s lucrative opium trade.
 
 - [‘We are slowly being poisoned.’ How toxic fumes seep into the air you breathe on planes](https://www.latimes.com/projects/toxic-chemicals-planes-covid-19-travel-woes/) - A Times investigation found that vapors from oil and other fluids seep into planes with alarming frequency across all airlines, at times creating chaos and confusion.

@@ -822,6 +822,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [How to fix your entire life in 1 day](https://letters.thedankoe.com/p/how-to-fix-your-entire-life-in-1) - do this before 2026
+
 - [Surveillance Self-Defense](https://ssd.eff.org/) - We’re the Electronic Frontier Foundation, a member-supported non-profit working to protect online privacy for over thirty-five years. This is Surveillance Self-Defense: our expert guide to protecting you and your friends from online spying.  Read the BASICS to find out how online surveillance works. Dive into our TOOL GUIDES for instructions...
 
 - [21 Facts About Throwing Good Parties](https://www.atvbt.com/21-facts-about-throwing-good-parties/) - Parties are a public service; here's how to throw them.
@@ -1412,6 +1414,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The Many Lives of Frédéric Bourdin](https://www.newyorker.com/magazine/2008/08/11/the-chameleon-annals-of-crime-david-grann) - David Grann’s 2008 report on the French serial imposter Frédéric Bourdin, who assumed dozens of false identities, including those of missing persons.
+
 - [Inside the CIA’s secret mission to sabotage Afghanistan’s opium](https://www.smh.com.au/world/north-america/inside-the-cias-secret-mission-to-sabotage-afghanistans-opium-20251113-p5nf0j.html) - Clandestine night flights dropped billions of genetically modified seeds over poppy fields in a classified mission to disrupt the country’s lucrative opium trade.
 
 - [‘We are slowly being poisoned.’ How toxic fumes seep into the air you breathe on planes](https://www.latimes.com/projects/toxic-chemicals-planes-covid-19-travel-woes/) - A Times investigation found that vapors from oil and other fluids seep into planes with alarming frequency across all airlines, at times creating chaos and confusion.
@@ -1853,6 +1857,10 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Seán O'Casey Bridge](https://en.wikipedia.org/w/index.php?title=Seán_O%27Casey_Bridge&oldid=1271052353) - Seán O'Casey Bridge (Irish: Droichead Sheáin Uí Chathasaigh) is a pedestrian swingbridge spanning the River Liffey in Dublin, Ireland, joining City Quay in the Grand Canal Docks area to North Wall Quay and the IFSC. Designed by architect Cyril O'Neill and O'Connor Sutton Cronin Consulting Engineers (for which they won an Institution of Structural En...
+
+- [<i>Q</i> texture](https://en.wikipedia.org/w/index.php?title=Q_texture&oldid=1330113524) - In Hokkien-speaking areas, Q (Chinese: 𩚨; Pe̍h-ōe-jī: khiū) is a culinary term for the ideal texture of many foods, such as noodles, boba, fish balls and fishcakes. Sometimes translated as "chewy", the texture has been described as "The Asian version of al-dente ... soft but not mushy." Another translation is "springy and bouncy". It also appears in...
+
 - [Up to eleven](https://en.wikipedia.org/w/index.php?title=Up_to_eleven&oldid=1319503749) - "Up to eleven", also phrased as "these go to eleven", is an idiom from popular culture, coined in the 1984 film This Is Spinal Tap, where guitarist Nigel Tufnel demonstrates a guitar amplifier whose volume knobs are marked from zero to eleven, instead of the usual zero to ten.  In 2002, the phrase entered the Shorter Oxford English Dictionary with t...
 
 - [Paektu Mountain](https://en.wikipedia.org/w/index.php?title=Paektu_Mountain&oldid=1322905486) - Paektu Mountain or Baekdu Mountain (Korean: 백두산) is an active stratovolcano on the Chinese–North Korean border. In China, it is known as Changbai Mountain (Chinese: 长白山). At 2,744 m (9,003 ft), it is the tallest mountain in North Korea and Northeast China and the tallest mountain of the Baekdu-daegan and Changbai mountain ranges. The highest peak, c...
@@ -2430,6 +2438,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Size of Life](https://neal.fun/size-of-life/) - From an amoeba to a blue whale
+
 - [ISS in Real Time](https://issinrealtime.org) - Explore 25 years onboard the International Space Station.
 
 - [Fictional Brands Archive](https://fictionalbrandsarchive.com/)
