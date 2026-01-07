@@ -1,4 +1,8 @@
 # misc
+- [Unparalleled Misalignments](https://rickiheicklen.com/unparalleled-misalignments.html)
+
+- [Typing/Phonetic Drum Machine](https://10kdrummachines.com/machines/phonetic-drum-machine/pdm)
+
 - [Size of Life](https://neal.fun/size-of-life/) - From an amoeba to a blue whale
 
 - [ISS in Real Time](https://issinrealtime.org) - Explore 25 years onboard the International Space Station.

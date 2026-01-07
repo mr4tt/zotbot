@@ -1857,6 +1857,10 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Anting (behavior)](https://en.wikipedia.org/w/index.php?title=Anting_(behavior)&oldid=1316802080) - Anting is a maintenance behavior during which birds rub insects, usually ants, on their feathers and skin. A bird may hold a single ant in its beak to rub over the body, or lie in an area of high insect density and wallow as when dust bathing.  Ants secrete chemicals like formic acid to aid in their defense against bacteria and parasites. It has bee...
+
+- [Driving glove](https://en.wikipedia.org/w/index.php?title=Driving_glove&oldid=1329153576) - A driving glove is a hand covering, typically constructed of very thin, soft leather. It is used to give a driver better control of the vehicle by enhancing grip of the steering wheel and gear stick.
+
 - [Seán O'Casey Bridge](https://en.wikipedia.org/w/index.php?title=Seán_O%27Casey_Bridge&oldid=1271052353) - Seán O'Casey Bridge (Irish: Droichead Sheáin Uí Chathasaigh) is a pedestrian swingbridge spanning the River Liffey in Dublin, Ireland, joining City Quay in the Grand Canal Docks area to North Wall Quay and the IFSC. Designed by architect Cyril O'Neill and O'Connor Sutton Cronin Consulting Engineers (for which they won an Institution of Structural En...
 
 - [<i>Q</i> texture](https://en.wikipedia.org/w/index.php?title=Q_texture&oldid=1330113524) - In Hokkien-speaking areas, Q (Chinese: 𩚨; Pe̍h-ōe-jī: khiū) is a culinary term for the ideal texture of many foods, such as noodles, boba, fish balls and fishcakes. Sometimes translated as "chewy", the texture has been described as "The Asian version of al-dente ... soft but not mushy." Another translation is "springy and bouncy". It also appears in...
@@ -2438,6 +2442,10 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Unparalleled Misalignments](https://rickiheicklen.com/unparalleled-misalignments.html)
+
+- [Typing/Phonetic Drum Machine](https://10kdrummachines.com/machines/phonetic-drum-machine/pdm)
+
 - [Size of Life](https://neal.fun/size-of-life/) - From an amoeba to a blue whale
 
 - [ISS in Real Time](https://issinrealtime.org) - Explore 25 years onboard the International Space Station.
