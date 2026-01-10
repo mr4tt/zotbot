@@ -822,6 +822,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Burnout is breaking a sacred pact](https://usefulfictions.substack.com/p/burnout-is-breaking-a-sacred-pact) - Here’s how to fix it
+
 - [How to fix your entire life in 1 day](https://letters.thedankoe.com/p/how-to-fix-your-entire-life-in-1) - do this before 2026
 
 - [Surveillance Self-Defense](https://ssd.eff.org/) - We’re the Electronic Frontier Foundation, a member-supported non-profit working to protect online privacy for over thirty-five years. This is Surveillance Self-Defense: our expert guide to protecting you and your friends from online spying.  Read the BASICS to find out how online surveillance works. Dive into our TOOL GUIDES for instructions...
@@ -1319,6 +1321,8 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # stories
+- [Why one small American town won’t stop stoning its residents to death - Charlotte_Stant - The Lottery - Shirley Jackson [Archive of Our Own]](https://archiveofourown.org/works/73396436?view_adult=true)
+
 - [Foreach 001 - By the Lake](https://foreach.neocities.org/page/0001)
 
 - [The Sniper, a harry potter fanfic | FanFiction](https://www.fanfiction.net/s/3918135/1/The-Sniper)
@@ -1857,6 +1861,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Clock of the Long Now](https://en.wikipedia.org/w/index.php?title=Clock_of_the_Long_Now&oldid=1326721852) - The Clock of the Long Now, also called the 10,000-year clock, is a mechanical clock under construction that is designed to keep time for 10,000 years. It is being built by the Long Now Foundation. A two-meter prototype is on display at the Science Museum in London. As of June 2018, two more prototypes are on display at The Long Now Museum & Store at...
+
 - [Anting (behavior)](https://en.wikipedia.org/w/index.php?title=Anting_(behavior)&oldid=1316802080) - Anting is a maintenance behavior during which birds rub insects, usually ants, on their feathers and skin. A bird may hold a single ant in its beak to rub over the body, or lie in an area of high insect density and wallow as when dust bathing.  Ants secrete chemicals like formic acid to aid in their defense against bacteria and parasites. It has bee...
 
 - [Driving glove](https://en.wikipedia.org/w/index.php?title=Driving_glove&oldid=1329153576) - A driving glove is a hand covering, typically constructed of very thin, soft leather. It is used to give a driver better control of the vehicle by enhancing grip of the steering wheel and gear stick.

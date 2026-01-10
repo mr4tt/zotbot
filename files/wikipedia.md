@@ -1,4 +1,6 @@
 # wikipedia
+- [Clock of the Long Now](https://en.wikipedia.org/w/index.php?title=Clock_of_the_Long_Now&oldid=1326721852) - The Clock of the Long Now, also called the 10,000-year clock, is a mechanical clock under construction that is designed to keep time for 10,000 years. It is being built by the Long Now Foundation. A two-meter prototype is on display at the Science Museum in London. As of June 2018, two more prototypes are on display at The Long Now Museum & Store at...
+
 - [Anting (behavior)](https://en.wikipedia.org/w/index.php?title=Anting_(behavior)&oldid=1316802080) - Anting is a maintenance behavior during which birds rub insects, usually ants, on their feathers and skin. A bird may hold a single ant in its beak to rub over the body, or lie in an area of high insect density and wallow as when dust bathing.  Ants secrete chemicals like formic acid to aid in their defense against bacteria and parasites. It has bee...
 
 - [Driving glove](https://en.wikipedia.org/w/index.php?title=Driving_glove&oldid=1329153576) - A driving glove is a hand covering, typically constructed of very thin, soft leather. It is used to give a driver better control of the vehicle by enhancing grip of the steering wheel and gear stick.

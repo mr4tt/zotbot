@@ -1,4 +1,6 @@
 # general_resources
+- [Burnout is breaking a sacred pact](https://usefulfictions.substack.com/p/burnout-is-breaking-a-sacred-pact) - Here’s how to fix it
+
 - [How to fix your entire life in 1 day](https://letters.thedankoe.com/p/how-to-fix-your-entire-life-in-1) - do this before 2026
 
 - [Surveillance Self-Defense](https://ssd.eff.org/) - We’re the Electronic Frontier Foundation, a member-supported non-profit working to protect online privacy for over thirty-five years. This is Surveillance Self-Defense: our expert guide to protecting you and your friends from online spying.  Read the BASICS to find out how online surveillance works. Dive into our TOOL GUIDES for instructions...
