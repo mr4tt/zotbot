@@ -1,4 +1,6 @@
 # cs_misc
+- [Google SRE - Get glimpse into the mobaa visual patterns](https://sre.google/mobaa/)
+
 - [The HTML Elements Time Forgot - HTMHell](https://www.htmhell.dev/adventcalendar/2025/22/) - A collection of bad practices in HTML, copied from real websites.
 
 - [An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/) - I made a messaging app for my family and my family only.

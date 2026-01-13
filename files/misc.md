@@ -1,4 +1,6 @@
 # misc
+- [Google SRE - Get glimpse into the mobaa visual patterns](https://sre.google/mobaa/)
+
 - [Unparalleled Misalignments](https://rickiheicklen.com/unparalleled-misalignments.html)
 
 - [Typing/Phonetic Drum Machine](https://10kdrummachines.com/machines/phonetic-drum-machine/pdm)

@@ -18,6 +18,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [Google SRE - Get glimpse into the mobaa visual patterns](https://sre.google/mobaa/)
+
 - [The HTML Elements Time Forgot - HTMHell](https://www.htmhell.dev/adventcalendar/2025/22/) - A collection of bad practices in HTML, copied from real websites.
 
 - [An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/) - I made a messaging app for my family and my family only.
@@ -2448,6 +2450,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Google SRE - Get glimpse into the mobaa visual patterns](https://sre.google/mobaa/)
+
 - [Unparalleled Misalignments](https://rickiheicklen.com/unparalleled-misalignments.html)
 
 - [Typing/Phonetic Drum Machine](https://10kdrummachines.com/machines/phonetic-drum-machine/pdm)
