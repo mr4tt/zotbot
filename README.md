@@ -190,6 +190,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons) - Looking at the first principles of icon design—and how Apple failed to apply all of them in macOS Tahoe
+
 - [Life as a Migrant Food Delivery Rider in Shanghai](https://www.pekingnology.com/p/life-as-a-migrant-food-delivery-rider) - Making ends meet on $1,064 a month, for a separated family of three
 
 - [Backing up Spotify](https://annas-archive.li/blog/backing-up-spotify.html) - We backed up Spotify (metadata and music files). It’s distributed in bulk torrents (~300TB). It’s the world’s first “preservation archive” for music which is fully open (meaning it can easily be mirrored by anyone with enough disk space), with 86 million music files, representing around 99.6% of listens.
@@ -591,6 +593,8 @@ To view a single category, check the files/ folder.
 - [How to make a Baby Seal - BEGINNER FRIENDLY - ALMOST NO SEW](https://www.youtube.com/watch?v=hlPHXrA2Qqg)
 
 # papers
+- [Why Google stores billions of lines of code in a single repository | Communications of the ACM](https://dl.acm.org/doi/10.1145/2854146)
+
 - [The Prompt Report](https://trigaten.github.io/Prompt_Survey_Site/)
 
 - [Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors](http://arxiv.org/abs/1910.14667) - We present a systematic study of adversarial attacks on state-of-the-art object detection frameworks. Using standard detection datasets, we train patterns that suppress the objectness scores produced by a range of commonly used detectors, and ensembles of detectors. Through extensive experiments, we benchmark the effectiveness of adversarially train...
@@ -618,6 +622,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [Porter Robinson Live At The Wireless](https://www.abc.net.au/triplej/programs/live-at-the-wireless/latw-porter-robinson/105903302)
+
 - [Pretty nice catch, huh... (OneShot)](https://www.youtube.com/watch?v=Is3lutAJ6tw)
 
 - [“Mrs. Jacqueline's Melancholy” sasakure.‌UK vs Patrick Bartley](https://www.youtube.com/watch?v=6cA_JQsQpn4)
@@ -1060,6 +1066,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!)](https://tonsky.me/blog/unicode) - Modern extension to classic 2003 article by Joel Spolsky
+
 - [Replicated data consistency explained through baseball](https://dl.acm.org/doi/10.1145/2500500) - A broader class of consistency guarantees can, and perhaps should, be offered to clients that read shared data.
 
 - [Help! Linux ate my RAM!](https://www.linuxatemyram.com/)
@@ -1420,7 +1428,11 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [You’ve Heard About Who ICE Is Recruiting. The Truth Is Far Worse. I’m the Proof.](https://slate.com/news-and-politics/2026/01/ice-recruitment-minneapolis-shooting.html) - What happens when you do minimal screening before hiring agents, arming them, and sending them into the streets? We’re all finding out.
+
 - [The Many Lives of Frédéric Bourdin](https://www.newyorker.com/magazine/2008/08/11/the-chameleon-annals-of-crime-david-grann) - David Grann’s 2008 report on the French serial imposter Frédéric Bourdin, who assumed dozens of false identities, including those of missing persons.
+
+- [How America Gave China an Edge in Nuclear Power](https://www.newyorker.com/news/the-lede/how-america-gave-china-an-edge-in-nuclear-power) - Though the two countries are now in a race to develop atomic technology, China’s most advanced reactor was the result of collaboration with American scientists.
 
 - [Inside the CIA’s secret mission to sabotage Afghanistan’s opium](https://www.smh.com.au/world/north-america/inside-the-cias-secret-mission-to-sabotage-afghanistans-opium-20251113-p5nf0j.html) - Clandestine night flights dropped billions of genetically modified seeds over poppy fields in a classified mission to disrupt the country’s lucrative opium trade.
 
@@ -1872,6 +1884,10 @@ To view a single category, check the files/ folder.
 - [Seán O'Casey Bridge](https://en.wikipedia.org/w/index.php?title=Seán_O%27Casey_Bridge&oldid=1271052353) - Seán O'Casey Bridge (Irish: Droichead Sheáin Uí Chathasaigh) is a pedestrian swingbridge spanning the River Liffey in Dublin, Ireland, joining City Quay in the Grand Canal Docks area to North Wall Quay and the IFSC. Designed by architect Cyril O'Neill and O'Connor Sutton Cronin Consulting Engineers (for which they won an Institution of Structural En...
 
 - [<i>Q</i> texture](https://en.wikipedia.org/w/index.php?title=Q_texture&oldid=1330113524) - In Hokkien-speaking areas, Q (Chinese: 𩚨; Pe̍h-ōe-jī: khiū) is a culinary term for the ideal texture of many foods, such as noodles, boba, fish balls and fishcakes. Sometimes translated as "chewy", the texture has been described as "The Asian version of al-dente ... soft but not mushy." Another translation is "springy and bouncy". It also appears in...
+
+- [Icelandic Christmas book flood](https://en.wikipedia.org/w/index.php?title=Icelandic_Christmas_book_flood&oldid=1327672836) - The Christmas book flood or Yule book flood (Icelandic: Jólabókaflóðið) is a term used in Iceland for the annual release of new books occurring in the months before Christmas. These books are then purchased as presents to be gifted on Christmas Eve. This tradition makes books the most popular Christmas gift in the country. The tradition extends into...
+
+- [Cliff Young (athlete)](https://en.wikipedia.org/w/index.php?title=Cliff_Young_(athlete)&oldid=1326384788) - Albert Ernest Clifford Young OAM (8 February 1922 – 2 November 2003) was an Australian athlete from Beech Forest, Victoria. A farmer, he became notable for his unexpected win of the inaugural Sydney to Melbourne Ultramarathon in 1983 at 61 years of age.
 
 - [Up to eleven](https://en.wikipedia.org/w/index.php?title=Up_to_eleven&oldid=1319503749) - "Up to eleven", also phrased as "these go to eleven", is an idiom from popular culture, coined in the 1984 film This Is Spinal Tap, where guitarist Nigel Tufnel demonstrates a guitar amplifier whose volume knobs are marked from zero to eleven, instead of the usual zero to ten.  In 2002, the phrase entered the Shorter Oxford English Dictionary with t...
 
@@ -2450,6 +2466,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Space Telescope Live](https://spacetelescopelive.org) - Explore official, up-to-date information on current, past, and upcoming investigations by NASA’s Hubble and James Webb space telescopes.
+
 - [Google SRE - Get glimpse into the mobaa visual patterns](https://sre.google/mobaa/)
 
 - [Unparalleled Misalignments](https://rickiheicklen.com/unparalleled-misalignments.html)

@@ -1,5 +1,9 @@
 # news
+- [You’ve Heard About Who ICE Is Recruiting. The Truth Is Far Worse. I’m the Proof.](https://slate.com/news-and-politics/2026/01/ice-recruitment-minneapolis-shooting.html) - What happens when you do minimal screening before hiring agents, arming them, and sending them into the streets? We’re all finding out.
+
 - [The Many Lives of Frédéric Bourdin](https://www.newyorker.com/magazine/2008/08/11/the-chameleon-annals-of-crime-david-grann) - David Grann’s 2008 report on the French serial imposter Frédéric Bourdin, who assumed dozens of false identities, including those of missing persons.
+
+- [How America Gave China an Edge in Nuclear Power](https://www.newyorker.com/news/the-lede/how-america-gave-china-an-edge-in-nuclear-power) - Though the two countries are now in a race to develop atomic technology, China’s most advanced reactor was the result of collaboration with American scientists.
 
 - [Inside the CIA’s secret mission to sabotage Afghanistan’s opium](https://www.smh.com.au/world/north-america/inside-the-cias-secret-mission-to-sabotage-afghanistans-opium-20251113-p5nf0j.html) - Clandestine night flights dropped billions of genetically modified seeds over poppy fields in a classified mission to disrupt the country’s lucrative opium trade.
 

@@ -1,4 +1,6 @@
 # misc
+- [Space Telescope Live](https://spacetelescopelive.org) - Explore official, up-to-date information on current, past, and upcoming investigations by NASA’s Hubble and James Webb space telescopes.
+
 - [Google SRE - Get glimpse into the mobaa visual patterns](https://sre.google/mobaa/)
 
 - [Unparalleled Misalignments](https://rickiheicklen.com/unparalleled-misalignments.html)

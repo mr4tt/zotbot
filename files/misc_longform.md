@@ -1,4 +1,6 @@
 # misc_longform
+- [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons) - Looking at the first principles of icon design—and how Apple failed to apply all of them in macOS Tahoe
+
 - [Life as a Migrant Food Delivery Rider in Shanghai](https://www.pekingnology.com/p/life-as-a-migrant-food-delivery-rider) - Making ends meet on $1,064 a month, for a separated family of three
 
 - [Backing up Spotify](https://annas-archive.li/blog/backing-up-spotify.html) - We backed up Spotify (metadata and music files). It’s distributed in bulk torrents (~300TB). It’s the world’s first “preservation archive” for music which is fully open (meaning it can easily be mirrored by anyone with enough disk space), with 86 million music files, representing around 99.6% of listens.
