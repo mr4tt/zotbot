@@ -2466,6 +2466,10 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
+
+- [CreepyLink](https://creepylink.com) - Make your links look as suspicious as possible
+
 - [Space Telescope Live](https://spacetelescopelive.org) - Explore official, up-to-date information on current, past, and upcoming investigations by NASA’s Hubble and James Webb space telescopes.
 
 - [Google SRE - Get glimpse into the mobaa visual patterns](https://sre.google/mobaa/)

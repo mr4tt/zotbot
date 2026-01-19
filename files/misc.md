@@ -1,4 +1,8 @@
 # misc
+- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
+
+- [CreepyLink](https://creepylink.com) - Make your links look as suspicious as possible
+
 - [Space Telescope Live](https://spacetelescopelive.org) - Explore official, up-to-date information on current, past, and upcoming investigations by NASA’s Hubble and James Webb space telescopes.
 
 - [Google SRE - Get glimpse into the mobaa visual patterns](https://sre.google/mobaa/)
