@@ -18,6 +18,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [The gap between a Helpful Assistant and a Senior Engineer : ezyang's blog](https://blog.ezyang.com/2026/01/the-gap-between-a-helpful-assistant-and-a-senior-engineer/)
+
 - [Google SRE - Get glimpse into the mobaa visual patterns](https://sre.google/mobaa/)
 
 - [The HTML Elements Time Forgot - HTMHell](https://www.htmhell.dev/adventcalendar/2025/22/) - A collection of bad practices in HTML, copied from real websites.
@@ -190,6 +192,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [The gap between a Helpful Assistant and a Senior Engineer : ezyang's blog](https://blog.ezyang.com/2026/01/the-gap-between-a-helpful-assistant-and-a-senior-engineer/)
+
 - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons) - Looking at the first principles of icon design—and how Apple failed to apply all of them in macOS Tahoe
 
 - [Life as a Migrant Food Delivery Rider in Shanghai](https://www.pekingnology.com/p/life-as-a-migrant-food-delivery-rider) - Making ends meet on $1,064 a month, for a separated family of three
@@ -1428,6 +1432,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [China’s Hottest App Is a Daily Test of Whether You’re Still Alive](https://www.wired.com/story/china-are-you-dead-yet-app/) - Are You Dead Yet soared to the top of app-store charts and became a magnet for investors. In an exclusive interview with WIRED, one of its creators says they’re changing the name anyway.
+
+- [Inside Denmark’s struggle to break up with Silicon Valley](https://www.politico.eu/article/denmark-declared-war-against-big-tech-digital-sovereignty/) - From a media blockade to “nationalizing” government software, Denmark has become a laboratory for resisting U.S. Big Tech. But is the price of sovereignty too high?
+
 - [You’ve Heard About Who ICE Is Recruiting. The Truth Is Far Worse. I’m the Proof.](https://slate.com/news-and-politics/2026/01/ice-recruitment-minneapolis-shooting.html) - What happens when you do minimal screening before hiring agents, arming them, and sending them into the streets? We’re all finding out.
 
 - [The Many Lives of Frédéric Bourdin](https://www.newyorker.com/magazine/2008/08/11/the-chameleon-annals-of-crime-david-grann) - David Grann’s 2008 report on the French serial imposter Frédéric Bourdin, who assumed dozens of false identities, including those of missing persons.
@@ -1875,6 +1883,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Forest swastika](https://en.wikipedia.org/w/index.php?title=Forest_swastika&oldid=1333255530) - The forest swastika was a patch of larch trees covering 0.36 ha (0.89 acres) area of pine forest near Zernikow, Uckermark district, Brandenburg, in northeastern Germany, arranged with their light colors to look like a swastika.
+
 - [Clock of the Long Now](https://en.wikipedia.org/w/index.php?title=Clock_of_the_Long_Now&oldid=1326721852) - The Clock of the Long Now, also called the 10,000-year clock, is a mechanical clock under construction that is designed to keep time for 10,000 years. It is being built by the Long Now Foundation. A two-meter prototype is on display at the Science Museum in London. As of June 2018, two more prototypes are on display at The Long Now Museum & Store at...
 
 - [Anting (behavior)](https://en.wikipedia.org/w/index.php?title=Anting_(behavior)&oldid=1316802080) - Anting is a maintenance behavior during which birds rub insects, usually ants, on their feathers and skin. A bird may hold a single ant in its beak to rub over the body, or lie in an area of high insect density and wallow as when dust bathing.  Ants secrete chemicals like formic acid to aid in their defense against bacteria and parasites. It has bee...
@@ -2466,6 +2476,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [gradient.horse](https://gradient.horse/) - Draw a horse, watch it run!
+
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
 - [CreepyLink](https://creepylink.com) - Make your links look as suspicious as possible

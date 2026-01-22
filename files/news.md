@@ -1,4 +1,8 @@
 # news
+- [China’s Hottest App Is a Daily Test of Whether You’re Still Alive](https://www.wired.com/story/china-are-you-dead-yet-app/) - Are You Dead Yet soared to the top of app-store charts and became a magnet for investors. In an exclusive interview with WIRED, one of its creators says they’re changing the name anyway.
+
+- [Inside Denmark’s struggle to break up with Silicon Valley](https://www.politico.eu/article/denmark-declared-war-against-big-tech-digital-sovereignty/) - From a media blockade to “nationalizing” government software, Denmark has become a laboratory for resisting U.S. Big Tech. But is the price of sovereignty too high?
+
 - [You’ve Heard About Who ICE Is Recruiting. The Truth Is Far Worse. I’m the Proof.](https://slate.com/news-and-politics/2026/01/ice-recruitment-minneapolis-shooting.html) - What happens when you do minimal screening before hiring agents, arming them, and sending them into the streets? We’re all finding out.
 
 - [The Many Lives of Frédéric Bourdin](https://www.newyorker.com/magazine/2008/08/11/the-chameleon-annals-of-crime-david-grann) - David Grann’s 2008 report on the French serial imposter Frédéric Bourdin, who assumed dozens of false identities, including those of missing persons.

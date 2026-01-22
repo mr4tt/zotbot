@@ -1,4 +1,6 @@
 # misc
+- [gradient.horse](https://gradient.horse/) - Draw a horse, watch it run!
+
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 
 - [CreepyLink](https://creepylink.com) - Make your links look as suspicious as possible

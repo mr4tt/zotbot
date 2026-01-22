@@ -1,4 +1,6 @@
 # cs_misc
+- [The gap between a Helpful Assistant and a Senior Engineer : ezyang's blog](https://blog.ezyang.com/2026/01/the-gap-between-a-helpful-assistant-and-a-senior-engineer/)
+
 - [Google SRE - Get glimpse into the mobaa visual patterns](https://sre.google/mobaa/)
 
 - [The HTML Elements Time Forgot - HTMHell](https://www.htmhell.dev/adventcalendar/2025/22/) - A collection of bad practices in HTML, copied from real websites.
