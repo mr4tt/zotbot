@@ -465,6 +465,8 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
+- [♡ mokapuff ♡](https://mokapuff.com/) - ♡ small designer ♡ small batch plushies and jewelry | handcrafted with love and magic ♡
+
 - [Sable Stone - Handmade Jewelry](https://sablestonesilver.com/) - Handmade jewelry inspired by nature
 
 - [Mugobunni Stationery Shop](https://mugobunni.com/) - Mugobunni stationery shop, we specialize in kawaii illustrated original designs such as washi tapes, stickers, sticker sheets, BUJO accessories and other cute journaling and decorating goodies.
@@ -1432,6 +1434,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Man charged in ‘largest jewelry heist in U.S. history’ avoids trial by getting deported](https://www.latimes.com/california/story/2026-01-21/jewelry-heist-deportation) - A defendant in federal custody for what authorities have called the largest jewelry heist in U.S. history was deported to Ecuador late last month, according to court filings, effectively ending the case against him. Jewelers who lost nearly $100 million in merchandise are indignant.
+
+- [The Untold Story of Silk Road, Part 1](https://www.wired.com/2015/04/silk-road-1/) - How a 29-year-old idealist built a global drug bazaar and became a murderous kingpin.
+
 - [China’s Hottest App Is a Daily Test of Whether You’re Still Alive](https://www.wired.com/story/china-are-you-dead-yet-app/) - Are You Dead Yet soared to the top of app-store charts and became a magnet for investors. In an exclusive interview with WIRED, one of its creators says they’re changing the name anyway.
 
 - [Inside Denmark’s struggle to break up with Silicon Valley](https://www.politico.eu/article/denmark-declared-war-against-big-tech-digital-sovereignty/) - From a media blockade to “nationalizing” government software, Denmark has become a laboratory for resisting U.S. Big Tech. But is the price of sovereignty too high?
@@ -1883,6 +1889,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Air France Flight 447](https://en.wikipedia.org/w/index.php?title=Air_France_Flight_447&oldid=1333184324) - Air France Flight 447 was a scheduled international transatlantic passenger flight from Rio de Janeiro, Brazil, to Paris Charles de Gaulle Airport, France. On 1 June 2009, inconsistent airspeed indications and the resulting miscommunication between the pilots of the Airbus A330 led to an inadvertent stall. They failed to recover the aircraft from th...
+
 - [Forest swastika](https://en.wikipedia.org/w/index.php?title=Forest_swastika&oldid=1333255530) - The forest swastika was a patch of larch trees covering 0.36 ha (0.89 acres) area of pine forest near Zernikow, Uckermark district, Brandenburg, in northeastern Germany, arranged with their light colors to look like a swastika.
 
 - [Clock of the Long Now](https://en.wikipedia.org/w/index.php?title=Clock_of_the_Long_Now&oldid=1326721852) - The Clock of the Long Now, also called the 10,000-year clock, is a mechanical clock under construction that is designed to keep time for 10,000 years. It is being built by the Long Now Foundation. A two-meter prototype is on display at the Science Museum in London. As of June 2018, two more prototypes are on display at The Long Now Museum & Store at...

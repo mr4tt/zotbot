@@ -1,4 +1,8 @@
 # news
+- [Man charged in ‘largest jewelry heist in U.S. history’ avoids trial by getting deported](https://www.latimes.com/california/story/2026-01-21/jewelry-heist-deportation) - A defendant in federal custody for what authorities have called the largest jewelry heist in U.S. history was deported to Ecuador late last month, according to court filings, effectively ending the case against him. Jewelers who lost nearly $100 million in merchandise are indignant.
+
+- [The Untold Story of Silk Road, Part 1](https://www.wired.com/2015/04/silk-road-1/) - How a 29-year-old idealist built a global drug bazaar and became a murderous kingpin.
+
 - [China’s Hottest App Is a Daily Test of Whether You’re Still Alive](https://www.wired.com/story/china-are-you-dead-yet-app/) - Are You Dead Yet soared to the top of app-store charts and became a magnet for investors. In an exclusive interview with WIRED, one of its creators says they’re changing the name anyway.
 
 - [Inside Denmark’s struggle to break up with Silicon Valley](https://www.politico.eu/article/denmark-declared-war-against-big-tech-digital-sovereignty/) - From a media blockade to “nationalizing” government software, Denmark has become a laboratory for resisting U.S. Big Tech. But is the price of sovereignty too high?

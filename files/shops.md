@@ -1,4 +1,6 @@
 # shops
+- [♡ mokapuff ♡](https://mokapuff.com/) - ♡ small designer ♡ small batch plushies and jewelry | handcrafted with love and magic ♡
+
 - [Sable Stone - Handmade Jewelry](https://sablestonesilver.com/) - Handmade jewelry inspired by nature
 
 - [Mugobunni Stationery Shop](https://mugobunni.com/) - Mugobunni stationery shop, we specialize in kawaii illustrated original designs such as washi tapes, stickers, sticker sheets, BUJO accessories and other cute journaling and decorating goodies.

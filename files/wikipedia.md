@@ -1,4 +1,6 @@
 # wikipedia
+- [Air France Flight 447](https://en.wikipedia.org/w/index.php?title=Air_France_Flight_447&oldid=1333184324) - Air France Flight 447 was a scheduled international transatlantic passenger flight from Rio de Janeiro, Brazil, to Paris Charles de Gaulle Airport, France. On 1 June 2009, inconsistent airspeed indications and the resulting miscommunication between the pilots of the Airbus A330 led to an inadvertent stall. They failed to recover the aircraft from th...
+
 - [Forest swastika](https://en.wikipedia.org/w/index.php?title=Forest_swastika&oldid=1333255530) - The forest swastika was a patch of larch trees covering 0.36 ha (0.89 acres) area of pine forest near Zernikow, Uckermark district, Brandenburg, in northeastern Germany, arranged with their light colors to look like a swastika.
 
 - [Clock of the Long Now](https://en.wikipedia.org/w/index.php?title=Clock_of_the_Long_Now&oldid=1326721852) - The Clock of the Long Now, also called the 10,000-year clock, is a mechanical clock under construction that is designed to keep time for 10,000 years. It is being built by the Long Now Foundation. A two-meter prototype is on display at the Science Museum in London. As of June 2018, two more prototypes are on display at The Long Now Museum & Store at...
