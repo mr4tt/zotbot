@@ -1,4 +1,8 @@
 # misc_longform
+- [Why does SSH send 100 packets per keystroke? · eieio.games](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/) - I made my next game twice as fast by forking go's crypto library
+
+- [Screeps: How One Steam Developer Made a Million Dollars Selling a Remote Access Trojan](https://outsidetheasylum.blog/screeps/)
+
 - [The gap between a Helpful Assistant and a Senior Engineer : ezyang's blog](https://blog.ezyang.com/2026/01/the-gap-between-a-helpful-assistant-and-a-senior-engineer/)
 
 - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons) - Looking at the first principles of icon design—and how Apple failed to apply all of them in macOS Tahoe

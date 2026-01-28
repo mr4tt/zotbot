@@ -192,6 +192,10 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Why does SSH send 100 packets per keystroke? · eieio.games](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/) - I made my next game twice as fast by forking go's crypto library
+
+- [Screeps: How One Steam Developer Made a Million Dollars Selling a Remote Access Trojan](https://outsidetheasylum.blog/screeps/)
+
 - [The gap between a Helpful Assistant and a Senior Engineer : ezyang's blog](https://blog.ezyang.com/2026/01/the-gap-between-a-helpful-assistant-and-a-senior-engineer/)
 
 - [It’s hard to justify Tahoe icons](https://tonsky.me/blog/tahoe-icons) - Looking at the first principles of icon design—and how Apple failed to apply all of them in macOS Tahoe
@@ -465,6 +469,8 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
+- [Camp Mustelid](https://campmustelid.shop/) - Welcome to Camp Mustelid, an online shop and creative project specializing in nature-inspired goodies!
+
 - [♡ mokapuff ♡](https://mokapuff.com/) - ♡ small designer ♡ small batch plushies and jewelry | handcrafted with love and magic ♡
 
 - [Sable Stone - Handmade Jewelry](https://sablestonesilver.com/) - Handmade jewelry inspired by nature

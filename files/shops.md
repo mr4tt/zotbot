@@ -1,4 +1,6 @@
 # shops
+- [Camp Mustelid](https://campmustelid.shop/) - Welcome to Camp Mustelid, an online shop and creative project specializing in nature-inspired goodies!
+
 - [♡ mokapuff ♡](https://mokapuff.com/) - ♡ small designer ♡ small batch plushies and jewelry | handcrafted with love and magic ♡
 
 - [Sable Stone - Handmade Jewelry](https://sablestonesilver.com/) - Handmade jewelry inspired by nature
