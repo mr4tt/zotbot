@@ -1,4 +1,6 @@
 # videos
+- [Stronger Than You - Anomalocaris Response](https://youtube.com/watch?v=UzHnQN8u6zs)
+
 - [Porter Robinson Live At The Wireless](https://www.abc.net.au/triplej/programs/live-at-the-wireless/latw-porter-robinson/105903302)
 
 - [Pretty nice catch, huh... (OneShot)](https://www.youtube.com/watch?v=Is3lutAJ6tw)

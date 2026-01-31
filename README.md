@@ -192,6 +192,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Why Europeans Took So Long to Learn the Crawl](https://slate.com/human-interest/2022/07/history-of-the-crawl-stroke-karen-eva-carr-shifting-currents.html) - Face in the water? No, thank you!
+
 - [Why does SSH send 100 packets per keystroke? · eieio.games](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/) - I made my next game twice as fast by forking go's crypto library
 
 - [Screeps: How One Steam Developer Made a Million Dollars Selling a Remote Access Trojan](https://outsidetheasylum.blog/screeps/)
@@ -634,6 +636,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [Stronger Than You - Anomalocaris Response](https://youtube.com/watch?v=UzHnQN8u6zs)
+
 - [Porter Robinson Live At The Wireless](https://www.abc.net.au/triplej/programs/live-at-the-wireless/latw-porter-robinson/105903302)
 
 - [Pretty nice catch, huh... (OneShot)](https://www.youtube.com/watch?v=Is3lutAJ6tw)
@@ -913,6 +917,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Realtime Colors](https://realtimecolors.com) - Visualize your color palettes on a real website.
+
 - [Bruno Simon](https://bruno-simon.com/) - Bruno Simon's creative portfolio
 
 - [WADA SANZO | DICTIONARY OF COLOR COMBINATIONS](https://sanzo-wada.dmbk.io/)
