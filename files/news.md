@@ -1,4 +1,6 @@
 # news
+- [He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive](https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/) - A source trapped inside an industrial-scale scamming operation contacted me, determined to expose his captors’ crimes—and then escape. This is his story.
+
 - [Man charged in ‘largest jewelry heist in U.S. history’ avoids trial by getting deported](https://www.latimes.com/california/story/2026-01-21/jewelry-heist-deportation) - A defendant in federal custody for what authorities have called the largest jewelry heist in U.S. history was deported to Ecuador late last month, according to court filings, effectively ending the case against him. Jewelers who lost nearly $100 million in merchandise are indignant.
 
 - [The Untold Story of Silk Road, Part 1](https://www.wired.com/2015/04/silk-road-1/) - How a 29-year-old idealist built a global drug bazaar and became a murderous kingpin.

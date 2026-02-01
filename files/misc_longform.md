@@ -1,4 +1,6 @@
 # misc_longform
+- [SSH has no Host header - exe.dev blog](https://blog.exe.dev/ssh-host-header) - A dive into how we share IPs between VMs while making SSH work.
+
 - [Why Europeans Took So Long to Learn the Crawl](https://slate.com/human-interest/2022/07/history-of-the-crawl-stroke-karen-eva-carr-shifting-currents.html) - Face in the water? No, thank you!
 
 - [Why does SSH send 100 packets per keystroke? · eieio.games](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/) - I made my next game twice as fast by forking go's crypto library
@@ -70,6 +72,8 @@
 - [This blog is hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/)
 
 - [Almost Fired](https://www.engineersneedart.com/blog/almostfired/almostfired.html)
+
+- [Unraveling The JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/) - JPEG images are everywhere in our digital lives, but behind the veil of familiarity lie algorithms that remove details that are imperceptible to the human eye. This produces the highest visual quality with the smallest file size—but what does that look like? Let's see what our eyes can't see!
 
 - [The good times in tech are over](https://www.seangoedecke.com/good-times-are-over/) - For most of the last decade, being a software engineer has been a lot of fun. Every company offered lots of perks, layoffs and firings were almost unheard of…
 

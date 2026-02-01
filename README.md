@@ -46,6 +46,8 @@ To view a single category, check the files/ folder.
 
 - [This blog is hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/)
 
+- [Unraveling The JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/) - JPEG images are everywhere in our digital lives, but behind the veil of familiarity lie algorithms that remove details that are imperceptible to the human eye. This produces the highest visual quality with the smallest file size—but what does that look like? Let's see what our eyes can't see!
+
 - [The good times in tech are over](https://www.seangoedecke.com/good-times-are-over/) - For most of the last decade, being a software engineer has been a lot of fun. Every company offered lots of perks, layoffs and firings were almost unheard of…
 
 - [How email tracking works behind the scenes](https://buttondown.com/blog/email-tracking-pixels-bugs) - A brief history of email tracking pixels, how they work, and how to turn them off.
@@ -192,6 +194,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [SSH has no Host header - exe.dev blog](https://blog.exe.dev/ssh-host-header) - A dive into how we share IPs between VMs while making SSH work.
+
 - [Why Europeans Took So Long to Learn the Crawl](https://slate.com/human-interest/2022/07/history-of-the-crawl-stroke-karen-eva-carr-shifting-currents.html) - Face in the water? No, thank you!
 
 - [Why does SSH send 100 packets per keystroke? · eieio.games](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/) - I made my next game twice as fast by forking go's crypto library
@@ -263,6 +267,8 @@ To view a single category, check the files/ folder.
 - [This blog is hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/)
 
 - [Almost Fired](https://www.engineersneedart.com/blog/almostfired/almostfired.html)
+
+- [Unraveling The JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/) - JPEG images are everywhere in our digital lives, but behind the veil of familiarity lie algorithms that remove details that are imperceptible to the human eye. This produces the highest visual quality with the smallest file size—but what does that look like? Let's see what our eyes can't see!
 
 - [The good times in tech are over](https://www.seangoedecke.com/good-times-are-over/) - For most of the last decade, being a software engineer has been a lot of fun. Every company offered lots of perks, layoffs and firings were almost unheard of…
 
@@ -1446,6 +1452,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive](https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/) - A source trapped inside an industrial-scale scamming operation contacted me, determined to expose his captors’ crimes—and then escape. This is his story.
+
 - [Man charged in ‘largest jewelry heist in U.S. history’ avoids trial by getting deported](https://www.latimes.com/california/story/2026-01-21/jewelry-heist-deportation) - A defendant in federal custody for what authorities have called the largest jewelry heist in U.S. history was deported to Ecuador late last month, according to court filings, effectively ending the case against him. Jewelers who lost nearly $100 million in merchandise are indignant.
 
 - [The Untold Story of Silk Road, Part 1](https://www.wired.com/2015/04/silk-road-1/) - How a 29-year-old idealist built a global drug bazaar and became a murderous kingpin.

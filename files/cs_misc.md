@@ -27,6 +27,8 @@
 
 - [This blog is hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/)
 
+- [Unraveling The JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/) - JPEG images are everywhere in our digital lives, but behind the veil of familiarity lie algorithms that remove details that are imperceptible to the human eye. This produces the highest visual quality with the smallest file size—but what does that look like? Let's see what our eyes can't see!
+
 - [The good times in tech are over](https://www.seangoedecke.com/good-times-are-over/) - For most of the last decade, being a software engineer has been a lot of fun. Every company offered lots of perks, layoffs and firings were almost unheard of…
 
 - [How email tracking works behind the scenes](https://buttondown.com/blog/email-tracking-pixels-bugs) - A brief history of email tracking pixels, how they work, and how to turn them off.
