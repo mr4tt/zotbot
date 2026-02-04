@@ -3,9 +3,13 @@
 
 - [Why Europeans Took So Long to Learn the Crawl](https://slate.com/human-interest/2022/07/history-of-the-crawl-stroke-karen-eva-carr-shifting-currents.html) - Face in the water? No, thank you!
 
+- [Bugs Apple Loves](https://www.bugsappleloves.com/)
+
 - [Why does SSH send 100 packets per keystroke? · eieio.games](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/) - I made my next game twice as fast by forking go's crypto library
 
 - [Screeps: How One Steam Developer Made a Million Dollars Selling a Remote Access Trojan](https://outsidetheasylum.blog/screeps/)
+
+- [The struggle of resizing windows on macOS Tahoe – no.heger](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
 
 - [The gap between a Helpful Assistant and a Senior Engineer : ezyang's blog](https://blog.ezyang.com/2026/01/the-gap-between-a-helpful-assistant-and-a-senior-engineer/)
 

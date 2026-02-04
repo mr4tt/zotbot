@@ -1,4 +1,10 @@
 # misc
+- [Byrne's Euclid](https://c82.net/euclid/) - A reproduction of Oliver Byrne's celebrated work from 1847 plus interactive diagrams, cross references, and posters designed by Nicholas Rougeux
+
+- [1,000,000 shrimp by Jon Topielski](https://jontopielski.itch.io/1000000-shrimp) - incremental shrimp boating
+
+- [Pickaball — Random Name Picker](https://pickaball.io) - A fun, physics-based random name picker where bouncing balls decide the winner.
+
 - [gradient.horse](https://gradient.horse/) - Draw a horse, watch it run!
 
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.

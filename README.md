@@ -198,9 +198,13 @@ To view a single category, check the files/ folder.
 
 - [Why Europeans Took So Long to Learn the Crawl](https://slate.com/human-interest/2022/07/history-of-the-crawl-stroke-karen-eva-carr-shifting-currents.html) - Face in the water? No, thank you!
 
+- [Bugs Apple Loves](https://www.bugsappleloves.com/)
+
 - [Why does SSH send 100 packets per keystroke? · eieio.games](https://eieio.games/blog/ssh-sends-100-packets-per-keystroke/) - I made my next game twice as fast by forking go's crypto library
 
 - [Screeps: How One Steam Developer Made a Million Dollars Selling a Remote Access Trojan](https://outsidetheasylum.blog/screeps/)
+
+- [The struggle of resizing windows on macOS Tahoe – no.heger](https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/)
 
 - [The gap between a Helpful Assistant and a Senior Engineer : ezyang's blog](https://blog.ezyang.com/2026/01/the-gap-between-a-helpful-assistant-and-a-senior-engineer/)
 
@@ -831,6 +835,8 @@ To view a single category, check the files/ folder.
 - [EMESIS BLUE [SFM]](https://www.youtube.com/watch?v=V0ODG8bFme0)
 
 # tweets
+- [X](https://x.com/metaphysicalbir/status/2017598963231428860?t=dxySnjbIWiTD4ffgRbxbNA&s=09)
+
 - [dont cry becasue its over, Attack. Attack wverythjng around you. do spin attacks and hurt things](https://x.com/ipaddlearound/status/1850174333127131336)
 
 - [Friday Night With The Lads https://t.co/hoyskjlELJ](https://x.com/hoolopee/status/1849823463193604321)
@@ -2504,6 +2510,12 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Byrne's Euclid](https://c82.net/euclid/) - A reproduction of Oliver Byrne's celebrated work from 1847 plus interactive diagrams, cross references, and posters designed by Nicholas Rougeux
+
+- [1,000,000 shrimp by Jon Topielski](https://jontopielski.itch.io/1000000-shrimp) - incremental shrimp boating
+
+- [Pickaball — Random Name Picker](https://pickaball.io) - A fun, physics-based random name picker where bouncing balls decide the winner.
+
 - [gradient.horse](https://gradient.horse/) - Draw a horse, watch it run!
 
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.

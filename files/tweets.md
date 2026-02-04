@@ -1,4 +1,6 @@
 # tweets
+- [X](https://x.com/metaphysicalbir/status/2017598963231428860?t=dxySnjbIWiTD4ffgRbxbNA&s=09)
+
 - [dont cry becasue its over, Attack. Attack wverythjng around you. do spin attacks and hurt things](https://x.com/ipaddlearound/status/1850174333127131336)
 
 - [Friday Night With The Lads https://t.co/hoyskjlELJ](https://x.com/hoolopee/status/1849823463193604321)
