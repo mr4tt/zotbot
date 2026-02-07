@@ -1,4 +1,6 @@
 # misc_longform
+- [How Terminals Work](https://how-terminals-work.vercel.app/) - Learn how terminal emulators and TUIs work through interactive demos. Explore the grid model, escape sequences, keyboard input, and more.
+
 - [SSH has no Host header - exe.dev blog](https://blog.exe.dev/ssh-host-header) - A dive into how we share IPs between VMs while making SSH work.
 
 - [Why Europeans Took So Long to Learn the Crawl](https://slate.com/human-interest/2022/07/history-of-the-crawl-stroke-karen-eva-carr-shifting-currents.html) - Face in the water? No, thank you!

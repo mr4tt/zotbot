@@ -1,4 +1,6 @@
 # videos
+- [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/@cncf)
+
 - [Stronger Than You - Anomalocaris Response](https://youtube.com/watch?v=UzHnQN8u6zs)
 
 - [Porter Robinson Live At The Wireless](https://www.abc.net.au/triplej/programs/live-at-the-wireless/latw-porter-robinson/105903302)

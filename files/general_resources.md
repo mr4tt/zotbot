@@ -1,4 +1,6 @@
 # general_resources
+- [Look for what's true](https://dubroy.com/blog/look-for-whats-true/)
+
 - [Burnout is breaking a sacred pact](https://usefulfictions.substack.com/p/burnout-is-breaking-a-sacred-pact) - Here’s how to fix it
 
 - [How to fix your entire life in 1 day](https://letters.thedankoe.com/p/how-to-fix-your-entire-life-in-1) - do this before 2026

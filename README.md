@@ -18,6 +18,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [How Terminals Work](https://how-terminals-work.vercel.app/) - Learn how terminal emulators and TUIs work through interactive demos. Explore the grid model, escape sequences, keyboard input, and more.
+
 - [The gap between a Helpful Assistant and a Senior Engineer : ezyang's blog](https://blog.ezyang.com/2026/01/the-gap-between-a-helpful-assistant-and-a-senior-engineer/)
 
 - [Google SRE - Get glimpse into the mobaa visual patterns](https://sre.google/mobaa/)
@@ -194,6 +196,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [How Terminals Work](https://how-terminals-work.vercel.app/) - Learn how terminal emulators and TUIs work through interactive demos. Explore the grid model, escape sequences, keyboard input, and more.
+
 - [SSH has no Host header - exe.dev blog](https://blog.exe.dev/ssh-host-header) - A dive into how we share IPs between VMs while making SSH work.
 
 - [Why Europeans Took So Long to Learn the Crawl](https://slate.com/human-interest/2022/07/history-of-the-crawl-stroke-karen-eva-carr-shifting-currents.html) - Face in the water? No, thank you!
@@ -646,6 +650,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/@cncf)
+
 - [Stronger Than You - Anomalocaris Response](https://youtube.com/watch?v=UzHnQN8u6zs)
 
 - [Porter Robinson Live At The Wireless](https://www.abc.net.au/triplej/programs/live-at-the-wireless/latw-porter-robinson/105903302)
@@ -858,6 +864,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Look for what's true](https://dubroy.com/blog/look-for-whats-true/)
+
 - [Burnout is breaking a sacred pact](https://usefulfictions.substack.com/p/burnout-is-breaking-a-sacred-pact) - Here’s how to fix it
 
 - [How to fix your entire life in 1 day](https://letters.thedankoe.com/p/how-to-fix-your-entire-life-in-1) - do this before 2026

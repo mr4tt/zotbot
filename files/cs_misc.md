@@ -1,4 +1,6 @@
 # cs_misc
+- [How Terminals Work](https://how-terminals-work.vercel.app/) - Learn how terminal emulators and TUIs work through interactive demos. Explore the grid model, escape sequences, keyboard input, and more.
+
 - [The gap between a Helpful Assistant and a Senior Engineer : ezyang's blog](https://blog.ezyang.com/2026/01/the-gap-between-a-helpful-assistant-and-a-senior-engineer/)
 
 - [Google SRE - Get glimpse into the mobaa visual patterns](https://sre.google/mobaa/)
