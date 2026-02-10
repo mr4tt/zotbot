@@ -1,4 +1,6 @@
 # tweets
+- [X](https://x.com/artofjyang/status/2019887951719854494?t=cLlt8ryp616LbpDimReIhA&s=09)
+
 - [X](https://x.com/metaphysicalbir/status/2017598963231428860?t=dxySnjbIWiTD4ffgRbxbNA&s=09)
 
 - [dont cry becasue its over, Attack. Attack wverythjng around you. do spin attacks and hurt things](https://x.com/ipaddlearound/status/1850174333127131336)

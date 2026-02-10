@@ -1,4 +1,6 @@
 # general_resources
+- [Staring into the abyss as a core life skill](https://www.benkuhn.net/abyss/) - thinking about scary things • examples from Wave • examples from elsewhere • finding a buddy • getting the timing right • a list of abyss questions
+
 - [Look for what's true](https://dubroy.com/blog/look-for-whats-true/)
 
 - [Burnout is breaking a sacred pact](https://usefulfictions.substack.com/p/burnout-is-breaking-a-sacred-pact) - Here’s how to fix it

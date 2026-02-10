@@ -841,6 +841,8 @@ To view a single category, check the files/ folder.
 - [EMESIS BLUE [SFM]](https://www.youtube.com/watch?v=V0ODG8bFme0)
 
 # tweets
+- [X](https://x.com/artofjyang/status/2019887951719854494?t=cLlt8ryp616LbpDimReIhA&s=09)
+
 - [X](https://x.com/metaphysicalbir/status/2017598963231428860?t=dxySnjbIWiTD4ffgRbxbNA&s=09)
 
 - [dont cry becasue its over, Attack. Attack wverythjng around you. do spin attacks and hurt things](https://x.com/ipaddlearound/status/1850174333127131336)
@@ -864,6 +866,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Staring into the abyss as a core life skill](https://www.benkuhn.net/abyss/) - thinking about scary things • examples from Wave • examples from elsewhere • finding a buddy • getting the timing right • a list of abyss questions
+
 - [Look for what's true](https://dubroy.com/blog/look-for-whats-true/)
 
 - [Burnout is breaking a sacred pact](https://usefulfictions.substack.com/p/burnout-is-breaking-a-sacred-pact) - Here’s how to fix it
