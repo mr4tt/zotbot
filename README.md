@@ -18,6 +18,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [Advancing Threat Intelligence: JA4 fingerprints and inter-request signals](https://blog.cloudflare.com/ja4-signals/) - Explore how Cloudflare's JA4 fingerprinting and inter-request signals provide robust and scalable insights for advanced web security and threat detection.
+
 - [How Terminals Work](https://how-terminals-work.vercel.app/) - Learn how terminal emulators and TUIs work through interactive demos. Explore the grid model, escape sequences, keyboard input, and more.
 
 - [The gap between a Helpful Assistant and a Senior Engineer : ezyang's blog](https://blog.ezyang.com/2026/01/the-gap-between-a-helpful-assistant-and-a-senior-engineer/)
@@ -941,6 +943,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Pauline Wee](https://www.paulinewee.com/) - Zero-to-one software engineer, product founder, and experience designer.
+
 - [Realtime Colors](https://realtimecolors.com) - Visualize your color palettes on a real website.
 
 - [Bruno Simon](https://bruno-simon.com/) - Bruno Simon's creative portfolio
@@ -1927,6 +1931,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [National Pigeon Service](https://en.wikipedia.org/w/index.php?title=National_Pigeon_Service&oldid=1336473834) - The National Pigeon Service (NPS) was a volunteer civilian organisation formed in Britain in 1938 as result of representations made to the Committee of Imperial Defence and the British Government by Major W. H. Osman. During 1939-45 over 200,000 young pigeons were given to the services by the British pigeon breeders of the NPS. The birds were used b...
+
 - [Air France Flight 447](https://en.wikipedia.org/w/index.php?title=Air_France_Flight_447&oldid=1333184324) - Air France Flight 447 was a scheduled international transatlantic passenger flight from Rio de Janeiro, Brazil, to Paris Charles de Gaulle Airport, France. On 1 June 2009, inconsistent airspeed indications and the resulting miscommunication between the pilots of the Airbus A330 led to an inadvertent stall. They failed to recover the aircraft from th...
 
 - [Forest swastika](https://en.wikipedia.org/w/index.php?title=Forest_swastika&oldid=1333255530) - The forest swastika was a patch of larch trees covering 0.36 ha (0.89 acres) area of pine forest near Zernikow, Uckermark district, Brandenburg, in northeastern Germany, arranged with their light colors to look like a swastika.
@@ -2522,6 +2528,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Paintings of paintings](https://francescrossley.com/paintings-of-paintings/) - Ten paintings featuring paintings
+
 - [Byrne's Euclid](https://c82.net/euclid/) - A reproduction of Oliver Byrne's celebrated work from 1847 plus interactive diagrams, cross references, and posters designed by Nicholas Rougeux
 
 - [1,000,000 shrimp by Jon Topielski](https://jontopielski.itch.io/1000000-shrimp) - incremental shrimp boating

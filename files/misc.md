@@ -1,4 +1,6 @@
 # misc
+- [Paintings of paintings](https://francescrossley.com/paintings-of-paintings/) - Ten paintings featuring paintings
+
 - [Byrne's Euclid](https://c82.net/euclid/) - A reproduction of Oliver Byrne's celebrated work from 1847 plus interactive diagrams, cross references, and posters designed by Nicholas Rougeux
 
 - [1,000,000 shrimp by Jon Topielski](https://jontopielski.itch.io/1000000-shrimp) - incremental shrimp boating

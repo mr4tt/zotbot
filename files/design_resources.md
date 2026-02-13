@@ -1,4 +1,6 @@
 # design_resources
+- [Pauline Wee](https://www.paulinewee.com/) - Zero-to-one software engineer, product founder, and experience designer.
+
 - [Realtime Colors](https://realtimecolors.com) - Visualize your color palettes on a real website.
 
 - [Bruno Simon](https://bruno-simon.com/) - Bruno Simon's creative portfolio
