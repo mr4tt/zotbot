@@ -1,4 +1,6 @@
 # misc_longform
+- [23 lessons you will learn living in a very snowy place](https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/) - 6. Snow is heavier than you think. You might think physical strength is useful for lots of things, like overall health or familiar household tasks or picking up dudes (literally or metaphorically.)…
+
 - [How Terminals Work](https://how-terminals-work.vercel.app/) - Learn how terminal emulators and TUIs work through interactive demos. Explore the grid model, escape sequences, keyboard input, and more.
 
 - [SSH has no Host header - exe.dev blog](https://blog.exe.dev/ssh-host-header) - A dive into how we share IPs between VMs while making SSH work.

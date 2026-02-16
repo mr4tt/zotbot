@@ -1,4 +1,6 @@
 # computing_resources
+- [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html) - Challenging projects every programmer should try
+
 - [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!)](https://tonsky.me/blog/unicode) - Modern extension to classic 2003 article by Joel Spolsky
 
 - [Replicated data consistency explained through baseball](https://dl.acm.org/doi/10.1145/2500500) - A broader class of consistency guarantees can, and perhaps should, be offered to clients that read shared data.

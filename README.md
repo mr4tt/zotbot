@@ -198,6 +198,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [23 lessons you will learn living in a very snowy place](https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/) - 6. Snow is heavier than you think. You might think physical strength is useful for lots of things, like overall health or familiar household tasks or picking up dudes (literally or metaphorically.)…
+
 - [How Terminals Work](https://how-terminals-work.vercel.app/) - Learn how terminal emulators and TUIs work through interactive demos. Explore the grid model, escape sequences, keyboard input, and more.
 
 - [SSH has no Host header - exe.dev blog](https://blog.exe.dev/ssh-host-header) - A dive into how we share IPs between VMs while making SSH work.
@@ -1112,6 +1114,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html) - Challenging projects every programmer should try
+
 - [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!)](https://tonsky.me/blog/unicode) - Modern extension to classic 2003 article by Joel Spolsky
 
 - [Replicated data consistency explained through baseball](https://dl.acm.org/doi/10.1145/2500500) - A broader class of consistency guarantees can, and perhaps should, be offered to clients that read shared data.
@@ -1474,6 +1478,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [](https://www.theatlantic.com/ideas/2026/02/child-dies-measles-vaccines/685969/)
+
 - [He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive](https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/) - A source trapped inside an industrial-scale scamming operation contacted me, determined to expose his captors’ crimes—and then escape. This is his story.
 
 - [Man charged in ‘largest jewelry heist in U.S. history’ avoids trial by getting deported](https://www.latimes.com/california/story/2026-01-21/jewelry-heist-deportation) - A defendant in federal custody for what authorities have called the largest jewelry heist in U.S. history was deported to Ecuador late last month, according to court filings, effectively ending the case against him. Jewelers who lost nearly $100 million in merchandise are indignant.
@@ -2528,6 +2534,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Link Bouquet](https://www.linkbouquet.com/) - Create and share beautiful bouquets of your favorite links
+
 - [Paintings of paintings](https://francescrossley.com/paintings-of-paintings/) - Ten paintings featuring paintings
 
 - [Byrne's Euclid](https://c82.net/euclid/) - A reproduction of Oliver Byrne's celebrated work from 1847 plus interactive diagrams, cross references, and posters designed by Nicholas Rougeux

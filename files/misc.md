@@ -1,4 +1,6 @@
 # misc
+- [Link Bouquet](https://www.linkbouquet.com/) - Create and share beautiful bouquets of your favorite links
+
 - [Paintings of paintings](https://francescrossley.com/paintings-of-paintings/) - Ten paintings featuring paintings
 
 - [Byrne's Euclid](https://c82.net/euclid/) - A reproduction of Oliver Byrne's celebrated work from 1847 plus interactive diagrams, cross references, and posters designed by Nicholas Rougeux
