@@ -945,6 +945,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Detail · Where craft lives](https://detail.design) - A curated study of the tiny design decisions that make products feel right. Each detail includes why it works, where you've seen it, and how to recreate it. For designers and developers who believe the small things are the big things.
+
 - [Pauline Wee](https://www.paulinewee.com/) - Zero-to-one software engineer, product founder, and experience designer.
 
 - [Realtime Colors](https://realtimecolors.com) - Visualize your color palettes on a real website.

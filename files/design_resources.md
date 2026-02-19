@@ -1,4 +1,6 @@
 # design_resources
+- [Detail · Where craft lives](https://detail.design) - A curated study of the tiny design decisions that make products feel right. Each detail includes why it works, where you've seen it, and how to recreate it. For designers and developers who believe the small things are the big things.
+
 - [Pauline Wee](https://www.paulinewee.com/) - Zero-to-one software engineer, product founder, and experience designer.
 
 - [Realtime Colors](https://realtimecolors.com) - Visualize your color palettes on a real website.
