@@ -1,4 +1,6 @@
 # misc
+- [Vocal Guide - by Jesper Ordrup](https://jesperordrup.github.io/vocal-guide/) - A vocal technique reference covering 21 techniques: registers, styles, effects, embellish, and dynamics.
+
 - [Link Bouquet](https://www.linkbouquet.com/) - Create and share beautiful bouquets of your favorite links
 
 - [Paintings of paintings](https://francescrossley.com/paintings-of-paintings/) - Ten paintings featuring paintings

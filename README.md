@@ -1480,6 +1480,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Child’s Play: America’s new gambling epidemic](https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/) - Tech’s new generation and the end of thinking
+
 - [](https://www.theatlantic.com/ideas/2026/02/child-dies-measles-vaccines/685969/)
 
 - [He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive](https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/) - A source trapped inside an industrial-scale scamming operation contacted me, determined to expose his captors’ crimes—and then escape. This is his story.
@@ -1939,6 +1941,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Quantified self](https://en.wikipedia.org/w/index.php?title=Quantified_self&oldid=1337383138) - Quantified self is both the cultural phenomenon of self-tracking with technology and a community of users and makers of self-tracking tools who share an interest in "self-knowledge through numbers". Quantified self practices overlap with the practice of lifelogging and other trends that incorporate technology and data acquisition into daily life, of...
+
 - [National Pigeon Service](https://en.wikipedia.org/w/index.php?title=National_Pigeon_Service&oldid=1336473834) - The National Pigeon Service (NPS) was a volunteer civilian organisation formed in Britain in 1938 as result of representations made to the Committee of Imperial Defence and the British Government by Major W. H. Osman. During 1939-45 over 200,000 young pigeons were given to the services by the British pigeon breeders of the NPS. The birds were used b...
 
 - [Air France Flight 447](https://en.wikipedia.org/w/index.php?title=Air_France_Flight_447&oldid=1333184324) - Air France Flight 447 was a scheduled international transatlantic passenger flight from Rio de Janeiro, Brazil, to Paris Charles de Gaulle Airport, France. On 1 June 2009, inconsistent airspeed indications and the resulting miscommunication between the pilots of the Airbus A330 led to an inadvertent stall. They failed to recover the aircraft from th...
@@ -2536,6 +2540,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Vocal Guide - by Jesper Ordrup](https://jesperordrup.github.io/vocal-guide/) - A vocal technique reference covering 21 techniques: registers, styles, effects, embellish, and dynamics.
+
 - [Link Bouquet](https://www.linkbouquet.com/) - Create and share beautiful bouquets of your favorite links
 
 - [Paintings of paintings](https://francescrossley.com/paintings-of-paintings/) - Ten paintings featuring paintings

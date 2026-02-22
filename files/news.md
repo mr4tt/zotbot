@@ -1,4 +1,6 @@
 # news
+- [Child’s Play: America’s new gambling epidemic](https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/) - Tech’s new generation and the end of thinking
+
 - [](https://www.theatlantic.com/ideas/2026/02/child-dies-measles-vaccines/685969/)
 
 - [He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive](https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/) - A source trapped inside an industrial-scale scamming operation contacted me, determined to expose his captors’ crimes—and then escape. This is his story.
