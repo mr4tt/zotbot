@@ -1,4 +1,10 @@
 # misc
+- [512KB Club](https://512kb.club/) - The 512KB Club is an exclusive list of web pages weighing less than 512 kilobytes.
+
+- [](http://stations.albertguillaumes.cat/)
+
+- [How I built Timeframe, our family e-paper dashboard - Joel Hawksley](https://hawksley.org/2026/02/17/timeframe.html) - Over the past decade, I've worked to build the perfect family dashboard system for our home, called Timeframe:
+
 - [Vocal Guide - by Jesper Ordrup](https://jesperordrup.github.io/vocal-guide/) - A vocal technique reference covering 21 techniques: registers, styles, effects, embellish, and dynamics.
 
 - [Link Bouquet](https://www.linkbouquet.com/) - Create and share beautiful bouquets of your favorite links

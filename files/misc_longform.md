@@ -1,4 +1,8 @@
 # misc_longform
+- [Sizing chaos](https://pudding.cool/2026/02/womens-sizing) - The inter-generational struggle to find clothes that fit more than a tiny portion of women
+
+- [Cloudflare outage on November 18, 2025](https://blog.cloudflare.com/18-november-2025-outage/) - Cloudflare suffered a service outage on November 18, 2025. The outage was triggered by a bug in generation logic for a Bot Management feature file causing many Cloudflare services to be affected.
+
 - [23 lessons you will learn living in a very snowy place](https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/) - 6. Snow is heavier than you think. You might think physical strength is useful for lots of things, like overall health or familiar household tasks or picking up dudes (literally or metaphorically.)…
 
 - [How Terminals Work](https://how-terminals-work.vercel.app/) - Learn how terminal emulators and TUIs work through interactive demos. Explore the grid model, escape sequences, keyboard input, and more.

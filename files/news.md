@@ -1,4 +1,6 @@
 # news
+- [How Did the C.I.A. Lose a Nuclear Device?](https://www.nytimes.com/interactive/2025/12/13/world/asia/cia-nuclear-device-himalayas-nanda-devi.html) - A plutonium-packed generator disappeared on one of the world’s highest mountains in a covert mission that the U.S. will not talk about.
+
 - [Child’s Play: America’s new gambling epidemic](https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/) - Tech’s new generation and the end of thinking
 
 - [](https://www.theatlantic.com/ideas/2026/02/child-dies-measles-vaccines/685969/)
