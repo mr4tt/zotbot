@@ -198,6 +198,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [A Pokémon of a Different Color – Matthew Verive](https://matthew.verive.me/blog/color/)
+
 - [Sizing chaos](https://pudding.cool/2026/02/womens-sizing) - The inter-generational struggle to find clothes that fit more than a tiny portion of women
 
 - [Cloudflare outage on November 18, 2025](https://blog.cloudflare.com/18-november-2025-outage/) - Cloudflare suffered a service outage on November 18, 2025. The outage was triggered by a bug in generation logic for a Bot Management feature file causing many Cloudflare services to be affected.
@@ -2546,6 +2548,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Home | Glyph Origins](https://panatesu.github.io/glyph-origins/)
+
 - [512KB Club](https://512kb.club/) - The 512KB Club is an exclusive list of web pages weighing less than 512 kilobytes.
 
 - [](http://stations.albertguillaumes.cat/)

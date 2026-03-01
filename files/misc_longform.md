@@ -1,4 +1,6 @@
 # misc_longform
+- [A Pokémon of a Different Color – Matthew Verive](https://matthew.verive.me/blog/color/)
+
 - [Sizing chaos](https://pudding.cool/2026/02/womens-sizing) - The inter-generational struggle to find clothes that fit more than a tiny portion of women
 
 - [Cloudflare outage on November 18, 2025](https://blog.cloudflare.com/18-november-2025-outage/) - Cloudflare suffered a service outage on November 18, 2025. The outage was triggered by a bug in generation logic for a Bot Management feature file causing many Cloudflare services to be affected.

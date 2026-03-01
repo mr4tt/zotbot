@@ -1,4 +1,6 @@
 # misc
+- [Home | Glyph Origins](https://panatesu.github.io/glyph-origins/)
+
 - [512KB Club](https://512kb.club/) - The 512KB Club is an exclusive list of web pages weighing less than 512 kilobytes.
 
 - [](http://stations.albertguillaumes.cat/)
