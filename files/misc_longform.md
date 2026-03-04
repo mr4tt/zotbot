@@ -1,4 +1,6 @@
 # misc_longform
+- [mctuscan heaven](https://mcmansionhell.com/post/809937203073581056/mctuscan-heaven) - Howdy folks,  I have some good news, which is that, after seven months, I've finally recovered from Long Covid. This is not something I particularly want to talk about in depth but it was the worst...
+
 - [A Pokémon of a Different Color – Matthew Verive](https://matthew.verive.me/blog/color/)
 
 - [Sizing chaos](https://pudding.cool/2026/02/womens-sizing) - The inter-generational struggle to find clothes that fit more than a tiny portion of women

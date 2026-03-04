@@ -198,6 +198,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [mctuscan heaven](https://mcmansionhell.com/post/809937203073581056/mctuscan-heaven) - Howdy folks,  I have some good news, which is that, after seven months, I've finally recovered from Long Covid. This is not something I particularly want to talk about in depth but it was the worst...
+
 - [A Pokémon of a Different Color – Matthew Verive](https://matthew.verive.me/blog/color/)
 
 - [Sizing chaos](https://pudding.cool/2026/02/womens-sizing) - The inter-generational struggle to find clothes that fit more than a tiny portion of women
@@ -1486,6 +1488,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Inside the cutthroat competition for the best baguette in Paris](https://www.washingtonpost.com/travel/2026/02/27/best-baguette-paris-contest/) - The Grand Prix de la Baguette de Tradition Française, Paris’s most revered bread competition, saw dozens of bakers competing for the title of best baguette.
+
 - [How Did the C.I.A. Lose a Nuclear Device?](https://www.nytimes.com/interactive/2025/12/13/world/asia/cia-nuclear-device-himalayas-nanda-devi.html) - A plutonium-packed generator disappeared on one of the world’s highest mountains in a covert mission that the U.S. will not talk about.
 
 - [Child’s Play: America’s new gambling epidemic](https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/) - Tech’s new generation and the end of thinking
