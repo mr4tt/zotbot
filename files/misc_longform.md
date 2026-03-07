@@ -1,4 +1,8 @@
 # misc_longform
+- [Can coding agents relicense open source through a “clean room” implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/) - Over the past few months it’s become clear that coding agents are extraordinarily good at building a weird version of a “clean room” implementation of code. The most famous version …
+
+- [Google API Keys Weren't Secrets. But then Gemini Changed the Rules. ◆ Truffle Security Co.](https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules) - Google spent over a decade telling developers that Google API keys (like those used in Maps, Firebase, etc.) are not secrets. But that's no longer true.
+
 - [mctuscan heaven](https://mcmansionhell.com/post/809937203073581056/mctuscan-heaven) - Howdy folks,  I have some good news, which is that, after seven months, I've finally recovered from Long Covid. This is not something I particularly want to talk about in depth but it was the worst...
 
 - [A Pokémon of a Different Color – Matthew Verive](https://matthew.verive.me/blog/color/)

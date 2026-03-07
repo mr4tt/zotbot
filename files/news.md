@@ -1,4 +1,6 @@
 # news
+- [Why is AI so bad at reading PDFs?](https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure) - One of the most ubiquitous file formats is stumping the major models
+
 - [Inside the cutthroat competition for the best baguette in Paris](https://www.washingtonpost.com/travel/2026/02/27/best-baguette-paris-contest/) - The Grand Prix de la Baguette de Tradition Française, Paris’s most revered bread competition, saw dozens of bakers competing for the title of best baguette.
 
 - [How Did the C.I.A. Lose a Nuclear Device?](https://www.nytimes.com/interactive/2025/12/13/world/asia/cia-nuclear-device-himalayas-nanda-devi.html) - A plutonium-packed generator disappeared on one of the world’s highest mountains in a covert mission that the U.S. will not talk about.
