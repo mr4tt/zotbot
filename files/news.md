@@ -1,4 +1,8 @@
 # news
+- [](https://www.theatlantic.com/magazine/archive/2019/07/mh370-malaysia-airlines/590653/)
+
+- [Say Goodbye to the Undersea Cable That Made the Global Internet Possible](https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/) - History was unmade last year, as engineers began the massive project of ripping the first-ever transoceanic fiber-optic cable from the ocean floor. Just don’t mention sharks.
+
 - [Why is AI so bad at reading PDFs?](https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure) - One of the most ubiquitous file formats is stumping the major models
 
 - [Inside the cutthroat competition for the best baguette in Paris](https://www.washingtonpost.com/travel/2026/02/27/best-baguette-paris-contest/) - The Grand Prix de la Baguette de Tradition Française, Paris’s most revered bread competition, saw dozens of bakers competing for the title of best baguette.

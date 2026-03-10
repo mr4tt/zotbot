@@ -1,4 +1,12 @@
 # misc
+- [Answer to "RegEx match open tags except XHTML self-contained tags"](https://stackoverflow.com/a/1732454)
+
+- [Confidence Calibration](http://confidence.success-equation.com/)
+
+- [Payphone Go](https://walzr.com/payphone-go/)
+
+- [Just a moment...](https://wikigacha.com/?lang=EN)
+
 - [Home | Glyph Origins](https://panatesu.github.io/glyph-origins/)
 
 - [512KB Club](https://512kb.club/) - The 512KB Club is an exclusive list of web pages weighing less than 512 kilobytes.

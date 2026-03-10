@@ -198,6 +198,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Nicholas Coughlin](https://ncoughlin.com/posts/ground-control-40)
+
 - [Can coding agents relicense open source through a “clean room” implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/) - Over the past few months it’s become clear that coding agents are extraordinarily good at building a weird version of a “clean room” implementation of code. The most famous version …
 
 - [Google API Keys Weren't Secrets. But then Gemini Changed the Rules. ◆ Truffle Security Co.](https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules) - Google spent over a decade telling developers that Google API keys (like those used in Maps, Firebase, etc.) are not secrets. But that's no longer true.
@@ -1395,6 +1397,8 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # stories
+- [Swordmaster Girlfailure - Staunchbowl - Original Work [Archive of Our Own]](https://archiveofourown.org/works/70967166?view_full_work=true)
+
 - [Why one small American town won’t stop stoning its residents to death - Charlotte_Stant - The Lottery - Shirley Jackson [Archive of Our Own]](https://archiveofourown.org/works/73396436?view_adult=true)
 
 - [Foreach 001 - By the Lake](https://foreach.neocities.org/page/0001)
@@ -1492,6 +1496,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [](https://www.theatlantic.com/magazine/archive/2019/07/mh370-malaysia-airlines/590653/)
+
+- [Say Goodbye to the Undersea Cable That Made the Global Internet Possible](https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/) - History was unmade last year, as engineers began the massive project of ripping the first-ever transoceanic fiber-optic cable from the ocean floor. Just don’t mention sharks.
+
 - [Why is AI so bad at reading PDFs?](https://www.theverge.com/ai-artificial-intelligence/882891/ai-pdf-parsing-failure) - One of the most ubiquitous file formats is stumping the major models
 
 - [Inside the cutthroat competition for the best baguette in Paris](https://www.washingtonpost.com/travel/2026/02/27/best-baguette-paris-contest/) - The Grand Prix de la Baguette de Tradition Française, Paris’s most revered bread competition, saw dozens of bakers competing for the title of best baguette.
@@ -2558,6 +2566,14 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Answer to "RegEx match open tags except XHTML self-contained tags"](https://stackoverflow.com/a/1732454)
+
+- [Confidence Calibration](http://confidence.success-equation.com/)
+
+- [Payphone Go](https://walzr.com/payphone-go/)
+
+- [Just a moment...](https://wikigacha.com/?lang=EN)
+
 - [Home | Glyph Origins](https://panatesu.github.io/glyph-origins/)
 
 - [512KB Club](https://512kb.club/) - The 512KB Club is an exclusive list of web pages weighing less than 512 kilobytes.

@@ -1,4 +1,6 @@
 # stories
+- [Swordmaster Girlfailure - Staunchbowl - Original Work [Archive of Our Own]](https://archiveofourown.org/works/70967166?view_full_work=true)
+
 - [Why one small American town won’t stop stoning its residents to death - Charlotte_Stant - The Lottery - Shirley Jackson [Archive of Our Own]](https://archiveofourown.org/works/73396436?view_adult=true)
 
 - [Foreach 001 - By the Lake](https://foreach.neocities.org/page/0001)
