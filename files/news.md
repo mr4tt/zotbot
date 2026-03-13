@@ -1,5 +1,5 @@
 # news
-- [](https://www.theatlantic.com/magazine/archive/2019/07/mh370-malaysia-airlines/590653/)
+- [What Really Happened to Malaysia’s Missing Airplane](https://www.theatlantic.com/magazine/archive/2019/07/mh370-malaysia-airlines/590653/) - The Atlantic covers news, politics, culture, technology, health, and more, through its articles, podcasts, videos, and flagship magazine.
 
 - [Say Goodbye to the Undersea Cable That Made the Global Internet Possible](https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/) - History was unmade last year, as engineers began the massive project of ripping the first-ever transoceanic fiber-optic cable from the ocean floor. Just don’t mention sharks.
 
@@ -10,6 +10,8 @@
 - [How Did the C.I.A. Lose a Nuclear Device?](https://www.nytimes.com/interactive/2025/12/13/world/asia/cia-nuclear-device-himalayas-nanda-devi.html) - A plutonium-packed generator disappeared on one of the world’s highest mountains in a covert mission that the U.S. will not talk about.
 
 - [Child’s Play: America’s new gambling epidemic](https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/) - Tech’s new generation and the end of thinking
+
+- [Drive the ‘ice road’, Estonians told – just don’t fasten your seatbelt](https://www.theguardian.com/world/2026/feb/10/estonia-ice-road-frozen-sea-saaremaa-hiiumaa) - Cold spell means cars can cross 20km stretch of frozen sea but drivers must be able to exit quickly in case of a problem
 
 - [](https://www.theatlantic.com/ideas/2026/02/child-dies-measles-vaccines/685969/)
 

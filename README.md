@@ -198,7 +198,7 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
-- [Nicholas Coughlin](https://ncoughlin.com/posts/ground-control-40)
+- [Ground Control 40](https://ncoughlin.com/posts/ground-control-40)
 
 - [Can coding agents relicense open source through a “clean room” implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/) - Over the past few months it’s become clear that coding agents are extraordinarily good at building a weird version of a “clean room” implementation of code. The most famous version …
 
@@ -668,6 +668,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [Keio Inokashira Line with the sound coming out of your mouth](https://youtube.com/watch?v=CrwpUN_kcE8)
+
 - [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/@cncf)
 
 - [Stronger Than You - Anomalocaris Response](https://youtube.com/watch?v=UzHnQN8u6zs)
@@ -1496,7 +1498,7 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
-- [](https://www.theatlantic.com/magazine/archive/2019/07/mh370-malaysia-airlines/590653/)
+- [What Really Happened to Malaysia’s Missing Airplane](https://www.theatlantic.com/magazine/archive/2019/07/mh370-malaysia-airlines/590653/) - The Atlantic covers news, politics, culture, technology, health, and more, through its articles, podcasts, videos, and flagship magazine.
 
 - [Say Goodbye to the Undersea Cable That Made the Global Internet Possible](https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/) - History was unmade last year, as engineers began the massive project of ripping the first-ever transoceanic fiber-optic cable from the ocean floor. Just don’t mention sharks.
 
@@ -1507,6 +1509,8 @@ To view a single category, check the files/ folder.
 - [How Did the C.I.A. Lose a Nuclear Device?](https://www.nytimes.com/interactive/2025/12/13/world/asia/cia-nuclear-device-himalayas-nanda-devi.html) - A plutonium-packed generator disappeared on one of the world’s highest mountains in a covert mission that the U.S. will not talk about.
 
 - [Child’s Play: America’s new gambling epidemic](https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/) - Tech’s new generation and the end of thinking
+
+- [Drive the ‘ice road’, Estonians told – just don’t fasten your seatbelt](https://www.theguardian.com/world/2026/feb/10/estonia-ice-road-frozen-sea-saaremaa-hiiumaa) - Cold spell means cars can cross 20km stretch of frozen sea but drivers must be able to exit quickly in case of a problem
 
 - [](https://www.theatlantic.com/ideas/2026/02/child-dies-measles-vaccines/685969/)
 
@@ -1967,6 +1971,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [This Website Will Self-destruct](https://en.wikipedia.org/w/index.php?title=This_Website_Will_Self-destruct&oldid=1337221021) - This Website Will Self-Destruct was a website created by comic artist FemmeAndroid in April 2020. Created in the midst of the COVID-19 pandemic in 2020 for the Ludum Dare game jam, it was a high concept website with the premise that it would self-destruct if nobody posted on it in a 24-hour period. The website allowed visitors to anonymously submit ...
+
 - [Quantified self](https://en.wikipedia.org/w/index.php?title=Quantified_self&oldid=1337383138) - Quantified self is both the cultural phenomenon of self-tracking with technology and a community of users and makers of self-tracking tools who share an interest in "self-knowledge through numbers". Quantified self practices overlap with the practice of lifelogging and other trends that incorporate technology and data acquisition into daily life, of...
 
 - [National Pigeon Service](https://en.wikipedia.org/w/index.php?title=National_Pigeon_Service&oldid=1336473834) - The National Pigeon Service (NPS) was a volunteer civilian organisation formed in Britain in 1938 as result of representations made to the Committee of Imperial Defence and the British Government by Major W. H. Osman. During 1939-45 over 200,000 young pigeons were given to the services by the British pigeon breeders of the NPS. The birds were used b...
@@ -2566,6 +2572,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [your ai slop bores me](https://youraislopbores.me/)
+
 - [Answer to "RegEx match open tags except XHTML self-contained tags"](https://stackoverflow.com/a/1732454)
 
 - [Confidence Calibration](http://confidence.success-equation.com/)

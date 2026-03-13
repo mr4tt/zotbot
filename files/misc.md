@@ -1,4 +1,6 @@
 # misc
+- [your ai slop bores me](https://youraislopbores.me/)
+
 - [Answer to "RegEx match open tags except XHTML self-contained tags"](https://stackoverflow.com/a/1732454)
 
 - [Confidence Calibration](http://confidence.success-equation.com/)
