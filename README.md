@@ -861,9 +861,9 @@ To view a single category, check the files/ folder.
 - [EMESIS BLUE [SFM]](https://www.youtube.com/watch?v=V0ODG8bFme0)
 
 # tweets
-- [X](https://x.com/artofjyang/status/2019887951719854494?t=cLlt8ryp616LbpDimReIhA&s=09)
+- [Meby https://t.co/ddTIg8CkjF](https://x.com/metaphysicalbir/status/2017598963231428860)
 
-- [X](https://x.com/metaphysicalbir/status/2017598963231428860?t=dxySnjbIWiTD4ffgRbxbNA&s=09)
+- [🦐 go make shrimp everyone smacked my webbed site on this bc I haven't seen an existing tutorial make this exact shape! I learned from + modified the version that doesn't have heart tail or legs ✨ https://t.co/LYp3VyIBOm](https://x.com/artofjyang/status/2019887951719854494)
 
 - [dont cry becasue its over, Attack. Attack wverythjng around you. do spin attacks and hurt things](https://x.com/ipaddlearound/status/1850174333127131336)
 
@@ -1498,7 +1498,13 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
-- [What Really Happened to Malaysia’s Missing Airplane](https://www.theatlantic.com/magazine/archive/2019/07/mh370-malaysia-airlines/590653/) - The Atlantic covers news, politics, culture, technology, health, and more, through its articles, podcasts, videos, and flagship magazine.
+- [What Does Extreme Wealth Do to the Brain?](https://nymag.com/intelligencer/article/what-does-extreme-wealth-do-to-the-brain.html) - The ultrarich divulge how money bent their reality (and whether they even noticed).
+
+- [What Really Happened to Malaysia’s Missing Airplane](https://www.theatlantic.com/magazine/archive/2019/07/mh370-malaysia-airlines/590653/) - Five years ago, the flight vanished into the Indian Ocean. Officials on land know more about why than they dare to say.
+
+- [This Is How a Child Dies of Measles](https://www.theatlantic.com/ideas/2026/02/child-dies-measles-vaccines/685969/) - When your family becomes a data point in an outbreak
+
+- [My Year as a Degenerate Sports Gambler](https://www.theatlantic.com/magazine/2026/04/online-sports-betting-app-addiction/686061/) - Practically overnight, America made wagering on a game as frictionless as checking the weather. I was determined to understand the consequences—for my country, and for myself.
 
 - [Say Goodbye to the Undersea Cable That Made the Global Internet Possible](https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/) - History was unmade last year, as engineers began the massive project of ripping the first-ever transoceanic fiber-optic cable from the ocean floor. Just don’t mention sharks.
 
@@ -1511,8 +1517,6 @@ To view a single category, check the files/ folder.
 - [Child’s Play: America’s new gambling epidemic](https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/) - Tech’s new generation and the end of thinking
 
 - [Drive the ‘ice road’, Estonians told – just don’t fasten your seatbelt](https://www.theguardian.com/world/2026/feb/10/estonia-ice-road-frozen-sea-saaremaa-hiiumaa) - Cold spell means cars can cross 20km stretch of frozen sea but drivers must be able to exit quickly in case of a problem
-
-- [](https://www.theatlantic.com/ideas/2026/02/child-dies-measles-vaccines/685969/)
 
 - [He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive](https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/) - A source trapped inside an industrial-scale scamming operation contacted me, determined to expose his captors’ crimes—and then escape. This is his story.
 
@@ -2572,6 +2576,14 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [PokeNotes - Pokémon ASCII for Instagram](https://pokeinstanotes.netlify.app/)
+
+- [Khaled Eltokhy](https://khaledeltokhy.com) - Personal website of Khaled Eltokhy
+
+- [Stations and transfers - albertguillaumes.cat](http://stations.albertguillaumes.cat/)
+
+- [12seasons.nyc](https://12seasons.nyc/)
+
 - [your ai slop bores me](https://youraislopbores.me/)
 
 - [Answer to "RegEx match open tags except XHTML self-contained tags"](https://stackoverflow.com/a/1732454)
@@ -2585,8 +2597,6 @@ To view a single category, check the files/ folder.
 - [Home | Glyph Origins](https://panatesu.github.io/glyph-origins/)
 
 - [512KB Club](https://512kb.club/) - The 512KB Club is an exclusive list of web pages weighing less than 512 kilobytes.
-
-- [](http://stations.albertguillaumes.cat/)
 
 - [How I built Timeframe, our family e-paper dashboard - Joel Hawksley](https://hawksley.org/2026/02/17/timeframe.html) - Over the past decade, I've worked to build the perfect family dashboard system for our home, called Timeframe:
 

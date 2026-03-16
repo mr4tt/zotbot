@@ -1,5 +1,11 @@
 # news
-- [What Really Happened to Malaysia’s Missing Airplane](https://www.theatlantic.com/magazine/archive/2019/07/mh370-malaysia-airlines/590653/) - The Atlantic covers news, politics, culture, technology, health, and more, through its articles, podcasts, videos, and flagship magazine.
+- [What Does Extreme Wealth Do to the Brain?](https://nymag.com/intelligencer/article/what-does-extreme-wealth-do-to-the-brain.html) - The ultrarich divulge how money bent their reality (and whether they even noticed).
+
+- [What Really Happened to Malaysia’s Missing Airplane](https://www.theatlantic.com/magazine/archive/2019/07/mh370-malaysia-airlines/590653/) - Five years ago, the flight vanished into the Indian Ocean. Officials on land know more about why than they dare to say.
+
+- [This Is How a Child Dies of Measles](https://www.theatlantic.com/ideas/2026/02/child-dies-measles-vaccines/685969/) - When your family becomes a data point in an outbreak
+
+- [My Year as a Degenerate Sports Gambler](https://www.theatlantic.com/magazine/2026/04/online-sports-betting-app-addiction/686061/) - Practically overnight, America made wagering on a game as frictionless as checking the weather. I was determined to understand the consequences—for my country, and for myself.
 
 - [Say Goodbye to the Undersea Cable That Made the Global Internet Possible](https://www.wired.com/story/say-goodbye-to-the-undersea-cable-that-made-the-global-internet-possible/) - History was unmade last year, as engineers began the massive project of ripping the first-ever transoceanic fiber-optic cable from the ocean floor. Just don’t mention sharks.
 
@@ -12,8 +18,6 @@
 - [Child’s Play: America’s new gambling epidemic](https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/) - Tech’s new generation and the end of thinking
 
 - [Drive the ‘ice road’, Estonians told – just don’t fasten your seatbelt](https://www.theguardian.com/world/2026/feb/10/estonia-ice-road-frozen-sea-saaremaa-hiiumaa) - Cold spell means cars can cross 20km stretch of frozen sea but drivers must be able to exit quickly in case of a problem
-
-- [](https://www.theatlantic.com/ideas/2026/02/child-dies-measles-vaccines/685969/)
 
 - [He Leaked the Secrets of a Southeast Asian Scam Compound. Then He Had to Get Out Alive](https://www.wired.com/story/he-leaked-the-secrets-southeast-asian-scam-compound-then-had-to-get-out-alive/) - A source trapped inside an industrial-scale scamming operation contacted me, determined to expose his captors’ crimes—and then escape. This is his story.
 

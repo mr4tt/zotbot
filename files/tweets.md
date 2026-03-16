@@ -1,7 +1,7 @@
 # tweets
-- [X](https://x.com/artofjyang/status/2019887951719854494?t=cLlt8ryp616LbpDimReIhA&s=09)
+- [Meby https://t.co/ddTIg8CkjF](https://x.com/metaphysicalbir/status/2017598963231428860)
 
-- [X](https://x.com/metaphysicalbir/status/2017598963231428860?t=dxySnjbIWiTD4ffgRbxbNA&s=09)
+- [🦐 go make shrimp everyone smacked my webbed site on this bc I haven't seen an existing tutorial make this exact shape! I learned from + modified the version that doesn't have heart tail or legs ✨ https://t.co/LYp3VyIBOm](https://x.com/artofjyang/status/2019887951719854494)
 
 - [dont cry becasue its over, Attack. Attack wverythjng around you. do spin attacks and hurt things](https://x.com/ipaddlearound/status/1850174333127131336)
 

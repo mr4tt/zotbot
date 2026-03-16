@@ -1,4 +1,12 @@
 # misc
+- [PokeNotes - Pokémon ASCII for Instagram](https://pokeinstanotes.netlify.app/)
+
+- [Khaled Eltokhy](https://khaledeltokhy.com) - Personal website of Khaled Eltokhy
+
+- [Stations and transfers - albertguillaumes.cat](http://stations.albertguillaumes.cat/)
+
+- [12seasons.nyc](https://12seasons.nyc/)
+
 - [your ai slop bores me](https://youraislopbores.me/)
 
 - [Answer to "RegEx match open tags except XHTML self-contained tags"](https://stackoverflow.com/a/1732454)
@@ -12,8 +20,6 @@
 - [Home | Glyph Origins](https://panatesu.github.io/glyph-origins/)
 
 - [512KB Club](https://512kb.club/) - The 512KB Club is an exclusive list of web pages weighing less than 512 kilobytes.
-
-- [](http://stations.albertguillaumes.cat/)
 
 - [How I built Timeframe, our family e-paper dashboard - Joel Hawksley](https://hawksley.org/2026/02/17/timeframe.html) - Over the past decade, I've worked to build the perfect family dashboard system for our home, called Timeframe:
 
