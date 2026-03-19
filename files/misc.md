@@ -1,7 +1,13 @@
 # misc
-- [PokeNotes - Pokémon ASCII for Instagram](https://pokeinstanotes.netlify.app/)
+- [Wigglypaint by Internet Janitor](https://internet-janitor.itch.io/wigglypaint) - A juicy, jiggly drawing program
 
-- [Khaled Eltokhy](https://khaledeltokhy.com) - Personal website of Khaled Eltokhy
+- [Wikigacha](https://wikigacha.com/?lang=EN)
+
+- [Khaled Eltokhy](https://khaledeltokhy.com/cranes) - Personal website of Khaled Eltokhy
+
+- [howisFelix.today? · Felix Krause](https://howisfelix.today/?)
+
+- [PokeNotes - Pokémon ASCII for Instagram](https://pokeinstanotes.netlify.app/)
 
 - [Stations and transfers - albertguillaumes.cat](http://stations.albertguillaumes.cat/)
 
@@ -14,8 +20,6 @@
 - [Confidence Calibration](http://confidence.success-equation.com/)
 
 - [Payphone Go](https://walzr.com/payphone-go/)
-
-- [Just a moment...](https://wikigacha.com/?lang=EN)
 
 - [Home | Glyph Origins](https://panatesu.github.io/glyph-origins/)
 

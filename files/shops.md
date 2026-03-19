@@ -1,4 +1,6 @@
 # shops
+- [Collections](https://kellypringle.com/collections) - Traditional illustrations, prints, home decor and more from illustrator Kelly Pringle.
+
 - [Camp Mustelid](https://campmustelid.shop/) - Welcome to Camp Mustelid, an online shop and creative project specializing in nature-inspired goodies!
 
 - [♡ mokapuff ♡](https://mokapuff.com/) - ♡ small designer ♡ small batch plushies and jewelry | handcrafted with love and magic ♡

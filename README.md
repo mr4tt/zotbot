@@ -18,6 +18,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [Too Much Color](https://www.keithcirkel.co.uk/too-much-color/) - I spent too much time looking at too many colo(u)rs to try and optimise them for csskit. Here are some interesting findings.
+
 - [Advancing Threat Intelligence: JA4 fingerprints and inter-request signals](https://blog.cloudflare.com/ja4-signals/) - Explore how Cloudflare's JA4 fingerprinting and inter-request signals provide robust and scalable insights for advanced web security and threat detection.
 
 - [How Terminals Work](https://how-terminals-work.vercel.app/) - Learn how terminal emulators and TUIs work through interactive demos. Explore the grid model, escape sequences, keyboard input, and more.
@@ -198,6 +200,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Some Words on WigglyPaint](https://beyondloom.com/blog/onwigglypaint.html)
+
 - [Ground Control 40](https://ncoughlin.com/posts/ground-control-40)
 
 - [Can coding agents relicense open source through a “clean room” implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/) - Over the past few months it’s become clear that coding agents are extraordinarily good at building a weird version of a “clean room” implementation of code. The most famous version …
@@ -503,6 +507,8 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
+- [Collections](https://kellypringle.com/collections) - Traditional illustrations, prints, home decor and more from illustrator Kelly Pringle.
+
 - [Camp Mustelid](https://campmustelid.shop/) - Welcome to Camp Mustelid, an online shop and creative project specializing in nature-inspired goodies!
 
 - [♡ mokapuff ♡](https://mokapuff.com/) - ♡ small designer ♡ small batch plushies and jewelry | handcrafted with love and magic ♡
@@ -590,6 +596,8 @@ To view a single category, check the files/ folder.
 - [0K47](https://0k47.com/) - The official website and shop of 0K47. Find the latest content, buy merch, and support our nerdy apparel.
 
 # crochet
+- [easy scrunchie crochet tutorial for absolute beginner | step by step crochet scrunchie hair tie](https://youtube.com/watch?v=pEs1u9iuRLI)
+
 - [FREE Winifred the Wren: Crochet pattern | Ribblr](https://ribblr.com/pat?pattern_id=2991)
 
 - [Uma Beautiful Butterfly Crochet Pattern](https://www.stitching-together.com/crochet-butterfly-pattern/)
@@ -668,6 +676,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [The Trap of Oversimplification](https://youtube.com/watch?v=lme9X2pf990)
+
 - [Keio Inokashira Line with the sound coming out of your mouth](https://youtube.com/watch?v=CrwpUN_kcE8)
 
 - [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/@cncf)
@@ -886,6 +896,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Willingness to look stupid is a genuine moat in creative work](https://sharif.io/looking-stupid) - Looking foolish is underrated.
+
 - [Staring into the abyss as a core life skill](https://www.benkuhn.net/abyss/) - thinking about scary things • examples from Wave • examples from elsewhere • finding a buddy • getting the timing right • a list of abyss questions
 
 - [Look for what's true](https://dubroy.com/blog/look-for-whats-true/)
@@ -1132,6 +1144,10 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [Too Much Color](https://www.keithcirkel.co.uk/too-much-color/) - I spent too much time looking at too many colo(u)rs to try and optimise them for csskit. Here are some interesting findings.
+
+- [Temporal: The 9-Year Journey to Fix Time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/) - JavaScript&#39;s Date object has been a source of bugs for three decades. Temporal, which just reached Stage 4, is a modern replacement with immutable types, first-class time zone and calendar support, and nanosecond precision. This is the story of how Bloomberg, Igalia, and the TC39 community spent nine years turning an idea into a shipping standar...
+
 - [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html) - Challenging projects every programmer should try
 
 - [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023 (Still No Excuses!)](https://tonsky.me/blog/unicode) - Modern extension to classic 2003 article by Joel Spolsky
@@ -1498,6 +1514,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [In search of Banksy, Reuters found the artist took on a new identity](https://www.reuters.com/investigates/special-report/global-art-banksy/) - Anonymity has become part of a lucrative brand for the artist Banksy, but records we unearthed prove his true identity and show the new name he used to travel to Ukraine.
+
+- [600 tubs of French onion dip mysteriously showed up at several Philly restaurants](https://www.inquirer.com/food/french-dip-mystery-pallet-philly-restaurants-20260311.html) - Restaurants around Philadelphia have been receiving entire pallets of Heluva Good! brand French onion dip for the past month, sometimes mysteriously and with little warning.
+
 - [What Does Extreme Wealth Do to the Brain?](https://nymag.com/intelligencer/article/what-does-extreme-wealth-do-to-the-brain.html) - The ultrarich divulge how money bent their reality (and whether they even noticed).
 
 - [What Really Happened to Malaysia’s Missing Airplane](https://www.theatlantic.com/magazine/archive/2019/07/mh370-malaysia-airlines/590653/) - Five years ago, the flight vanished into the Indian Ocean. Officials on land know more about why than they dare to say.
@@ -2576,9 +2596,15 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
-- [PokeNotes - Pokémon ASCII for Instagram](https://pokeinstanotes.netlify.app/)
+- [Wigglypaint by Internet Janitor](https://internet-janitor.itch.io/wigglypaint) - A juicy, jiggly drawing program
 
-- [Khaled Eltokhy](https://khaledeltokhy.com) - Personal website of Khaled Eltokhy
+- [Wikigacha](https://wikigacha.com/?lang=EN)
+
+- [Khaled Eltokhy](https://khaledeltokhy.com/cranes) - Personal website of Khaled Eltokhy
+
+- [howisFelix.today? · Felix Krause](https://howisfelix.today/?)
+
+- [PokeNotes - Pokémon ASCII for Instagram](https://pokeinstanotes.netlify.app/)
 
 - [Stations and transfers - albertguillaumes.cat](http://stations.albertguillaumes.cat/)
 
@@ -2591,8 +2617,6 @@ To view a single category, check the files/ folder.
 - [Confidence Calibration](http://confidence.success-equation.com/)
 
 - [Payphone Go](https://walzr.com/payphone-go/)
-
-- [Just a moment...](https://wikigacha.com/?lang=EN)
 
 - [Home | Glyph Origins](https://panatesu.github.io/glyph-origins/)
 

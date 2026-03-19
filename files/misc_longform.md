@@ -1,4 +1,6 @@
 # misc_longform
+- [Some Words on WigglyPaint](https://beyondloom.com/blog/onwigglypaint.html)
+
 - [Ground Control 40](https://ncoughlin.com/posts/ground-control-40)
 
 - [Can coding agents relicense open source through a “clean room” implementation of code?](https://simonwillison.net/2026/Mar/5/chardet/) - Over the past few months it’s become clear that coding agents are extraordinarily good at building a weird version of a “clean room” implementation of code. The most famous version …

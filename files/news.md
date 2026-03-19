@@ -1,4 +1,8 @@
 # news
+- [In search of Banksy, Reuters found the artist took on a new identity](https://www.reuters.com/investigates/special-report/global-art-banksy/) - Anonymity has become part of a lucrative brand for the artist Banksy, but records we unearthed prove his true identity and show the new name he used to travel to Ukraine.
+
+- [600 tubs of French onion dip mysteriously showed up at several Philly restaurants](https://www.inquirer.com/food/french-dip-mystery-pallet-philly-restaurants-20260311.html) - Restaurants around Philadelphia have been receiving entire pallets of Heluva Good! brand French onion dip for the past month, sometimes mysteriously and with little warning.
+
 - [What Does Extreme Wealth Do to the Brain?](https://nymag.com/intelligencer/article/what-does-extreme-wealth-do-to-the-brain.html) - The ultrarich divulge how money bent their reality (and whether they even noticed).
 
 - [What Really Happened to Malaysia’s Missing Airplane](https://www.theatlantic.com/magazine/archive/2019/07/mh370-malaysia-airlines/590653/) - Five years ago, the flight vanished into the Indian Ocean. Officials on land know more about why than they dare to say.

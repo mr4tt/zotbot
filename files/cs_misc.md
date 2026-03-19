@@ -1,4 +1,6 @@
 # cs_misc
+- [Too Much Color](https://www.keithcirkel.co.uk/too-much-color/) - I spent too much time looking at too many colo(u)rs to try and optimise them for csskit. Here are some interesting findings.
+
 - [Advancing Threat Intelligence: JA4 fingerprints and inter-request signals](https://blog.cloudflare.com/ja4-signals/) - Explore how Cloudflare's JA4 fingerprinting and inter-request signals provide robust and scalable insights for advanced web security and threat detection.
 
 - [How Terminals Work](https://how-terminals-work.vercel.app/) - Learn how terminal emulators and TUIs work through interactive demos. Explore the grid model, escape sequences, keyboard input, and more.

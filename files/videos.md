@@ -1,4 +1,6 @@
 # videos
+- [The Trap of Oversimplification](https://youtube.com/watch?v=lme9X2pf990)
+
 - [Keio Inokashira Line with the sound coming out of your mouth](https://youtube.com/watch?v=CrwpUN_kcE8)
 
 - [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/@cncf)

@@ -1,4 +1,6 @@
 # crochet
+- [easy scrunchie crochet tutorial for absolute beginner | step by step crochet scrunchie hair tie](https://youtube.com/watch?v=pEs1u9iuRLI)
+
 - [FREE Winifred the Wren: Crochet pattern | Ribblr](https://ribblr.com/pat?pattern_id=2991)
 
 - [Uma Beautiful Butterfly Crochet Pattern](https://www.stitching-together.com/crochet-butterfly-pattern/)
