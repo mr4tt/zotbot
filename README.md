@@ -18,6 +18,10 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [You no longer need JavaScript](https://lyra.horse/blog/2025/08/you-dont-need-js/) - An overview of what makes modern CSS so awesome.
+
+- [Poisoned Wells - Examining the scale of DNS censorship in India](https://dnsblocks.in/) - A survey of the entire visible domain name space across 6 Indian ISPs, producing the largest known list of blocked domains (43,083) and revealing previously undocumented instances of overblocking.
+
 - [Too Much Color](https://www.keithcirkel.co.uk/too-much-color/) - I spent too much time looking at too many colo(u)rs to try and optimise them for csskit. Here are some interesting findings.
 
 - [Advancing Threat Intelligence: JA4 fingerprints and inter-request signals](https://blog.cloudflare.com/ja4-signals/) - Explore how Cloudflare's JA4 fingerprinting and inter-request signals provide robust and scalable insights for advanced web security and threat detection.
@@ -127,6 +131,8 @@ To view a single category, check the files/ folder.
 - [Programming as Driving: Unsafe at Any Speed?](https://web.media.mit.edu/~lieber/Lieberary/ZStep/57-Chevy/57-Chevy.html)
 
 # blogs
+- [home](https://lyra.horse/blog/) - hi! i’m lyra and this is my epic blog where i post epic articles about infosec, programming, and other cool stuff! there’s also stuff on my home page :o free rss!! RSS :3 check out the posts below:
+
 - [Seth Purcell](https://sethpurcell.com/) - Seth Purcell
 
 - [charity.wtf](https://charity.wtf/) - charity wtf's about technology, databases, startups, engineering management, and whiskey.
@@ -1415,6 +1421,8 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # stories
+- [Kupu rere kē](http://cordite.org.au/poetry/brownface/kupu-rere-ke/) - My friend was advised to italicise all the foreign words in her poems. This advice came from a well-meaning woman with NZ poetry on her business card and an English accent in her mouth. I have been…
+
 - [Swordmaster Girlfailure - Staunchbowl - Original Work [Archive of Our Own]](https://archiveofourown.org/works/70967166?view_full_work=true)
 
 - [Why one small American town won’t stop stoning its residents to death - Charlotte_Stant - The Lottery - Shirley Jackson [Archive of Our Own]](https://archiveofourown.org/works/73396436?view_adult=true)
@@ -1603,6 +1611,8 @@ To view a single category, check the files/ folder.
 - [An engineer restores pay phones for free public use](https://www.npr.org/2025/08/04/nx-s1-5484013/engineer-restores-pay-phones-for-free-public-use) - In a rural Vermont county, spotty cellphone coverage is the norm. But a local tinkerer is using old technology to help his community stay connected free of charge.
 
 - [Rats love driving tiny cars, even when they don’t get treats | Ars Technica](https://arstechnica.com/science/2019/11/these-rats-learned-to-drive-tiny-cars-for-science)
+
+- [Strava, the exercise app filled with security holes](https://www.lemonde.fr/en/pixels/article/2024/10/27/strava-the-exercise-app-filled-with-security-holes_6730709_13.html) - In recent years, journalists and curious observers have discovered that individuals tasked with sensitive operations, particularly soldiers, have shared their physical activity on Strava, endangering their mission, their identity and even their safety.
 
 - [The Kryptos Key Is Going Up for Sale](https://www.wired.com/story/jim-sanborn-auctions-kryptos-key/) - Jim Sanborn is auctioning off the elusive solution to K4, the outdoor sculpture that sits at CIA headquarters.
 
@@ -2596,6 +2606,10 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Waller](https://www.orthodoxmasonry.com/waller)
+
+- [gail.com FAQ](https://gail.com/)
+
 - [Wigglypaint by Internet Janitor](https://internet-janitor.itch.io/wigglypaint) - A juicy, jiggly drawing program
 
 - [Wikigacha](https://wikigacha.com/?lang=EN)

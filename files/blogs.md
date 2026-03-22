@@ -1,4 +1,6 @@
 # blogs
+- [home](https://lyra.horse/blog/) - hi! i’m lyra and this is my epic blog where i post epic articles about infosec, programming, and other cool stuff! there’s also stuff on my home page :o free rss!! RSS :3 check out the posts below:
+
 - [Seth Purcell](https://sethpurcell.com/) - Seth Purcell
 
 - [charity.wtf](https://charity.wtf/) - charity wtf's about technology, databases, startups, engineering management, and whiskey.

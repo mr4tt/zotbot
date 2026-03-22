@@ -1,4 +1,8 @@
 # misc
+- [Waller](https://www.orthodoxmasonry.com/waller)
+
+- [gail.com FAQ](https://gail.com/)
+
 - [Wigglypaint by Internet Janitor](https://internet-janitor.itch.io/wigglypaint) - A juicy, jiggly drawing program
 
 - [Wikigacha](https://wikigacha.com/?lang=EN)

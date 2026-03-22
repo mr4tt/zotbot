@@ -1,4 +1,6 @@
 # stories
+- [Kupu rere kē](http://cordite.org.au/poetry/brownface/kupu-rere-ke/) - My friend was advised to italicise all the foreign words in her poems. This advice came from a well-meaning woman with NZ poetry on her business card and an English accent in her mouth. I have been…
+
 - [Swordmaster Girlfailure - Staunchbowl - Original Work [Archive of Our Own]](https://archiveofourown.org/works/70967166?view_full_work=true)
 
 - [Why one small American town won’t stop stoning its residents to death - Charlotte_Stant - The Lottery - Shirley Jackson [Archive of Our Own]](https://archiveofourown.org/works/73396436?view_adult=true)

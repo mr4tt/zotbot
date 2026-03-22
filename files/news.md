@@ -89,6 +89,8 @@
 
 - [Rats love driving tiny cars, even when they don’t get treats | Ars Technica](https://arstechnica.com/science/2019/11/these-rats-learned-to-drive-tiny-cars-for-science)
 
+- [Strava, the exercise app filled with security holes](https://www.lemonde.fr/en/pixels/article/2024/10/27/strava-the-exercise-app-filled-with-security-holes_6730709_13.html) - In recent years, journalists and curious observers have discovered that individuals tasked with sensitive operations, particularly soldiers, have shared their physical activity on Strava, endangering their mission, their identity and even their safety.
+
 - [The Kryptos Key Is Going Up for Sale](https://www.wired.com/story/jim-sanborn-auctions-kryptos-key/) - Jim Sanborn is auctioning off the elusive solution to K4, the outdoor sculpture that sits at CIA headquarters.
 
 - [Leak Reveals the Workaday Lives of North Korean IT Scammers](https://www.wired.com/story/leaked-data-reveals-the-workaday-lives-of-north-korean-it-scammers/) - Spreadsheets, Slack messages, and files linked to an alleged group of North Korean IT workers expose their meticulous job-planning and targeting—and the constant surveillance they're under.

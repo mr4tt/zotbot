@@ -1,4 +1,8 @@
 # cs_misc
+- [You no longer need JavaScript](https://lyra.horse/blog/2025/08/you-dont-need-js/) - An overview of what makes modern CSS so awesome.
+
+- [Poisoned Wells - Examining the scale of DNS censorship in India](https://dnsblocks.in/) - A survey of the entire visible domain name space across 6 Indian ISPs, producing the largest known list of blocked domains (43,083) and revealing previously undocumented instances of overblocking.
+
 - [Too Much Color](https://www.keithcirkel.co.uk/too-much-color/) - I spent too much time looking at too many colo(u)rs to try and optimise them for csskit. Here are some interesting findings.
 
 - [Advancing Threat Intelligence: JA4 fingerprints and inter-request signals](https://blog.cloudflare.com/ja4-signals/) - Explore how Cloudflare's JA4 fingerprinting and inter-request signals provide robust and scalable insights for advanced web security and threat detection.
