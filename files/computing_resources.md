@@ -1,4 +1,6 @@
 # computing_resources
+- [How to be a web developer: Stuff Everybody Knows](https://stuffeverybodyknows.com/)
+
 - [Too Much Color](https://www.keithcirkel.co.uk/too-much-color/) - I spent too much time looking at too many colo(u)rs to try and optimise them for csskit. Here are some interesting findings.
 
 - [Temporal: The 9-Year Journey to Fix Time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/) - JavaScript&#39;s Date object has been a source of bugs for three decades. Temporal, which just reached Stage 4, is a modern replacement with immutable types, first-class time zone and calendar support, and nanosecond precision. This is the story of how Bloomberg, Igalia, and the TC39 community spent nine years turning an idea into a shipping standar...

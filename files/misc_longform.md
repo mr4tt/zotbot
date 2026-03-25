@@ -1,4 +1,6 @@
 # misc_longform
+- [The Day I Discovered Type Design](https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/)
+
 - [Some Words on WigglyPaint](https://beyondloom.com/blog/onwigglypaint.html)
 
 - [Ground Control 40](https://ncoughlin.com/posts/ground-control-40)

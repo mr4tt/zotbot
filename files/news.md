@@ -1,4 +1,6 @@
 # news
+- [He Built the Definitive Epstein Database—and It Consumed His Life](https://www.wired.com/story/he-built-the-definitive-epstein-database-and-it-consumed-his-life/) - The data engineer started as a casual reader of the Jeffrey Epstein files. Then he became obsessed, and built the most extensive network graph of the sexual predator’s shadowy world.
+
 - [In search of Banksy, Reuters found the artist took on a new identity](https://www.reuters.com/investigates/special-report/global-art-banksy/) - Anonymity has become part of a lucrative brand for the artist Banksy, but records we unearthed prove his true identity and show the new name he used to travel to Ukraine.
 
 - [600 tubs of French onion dip mysteriously showed up at several Philly restaurants](https://www.inquirer.com/food/french-dip-mystery-pallet-philly-restaurants-20260311.html) - Restaurants around Philadelphia have been receiving entire pallets of Heluva Good! brand French onion dip for the past month, sometimes mysteriously and with little warning.

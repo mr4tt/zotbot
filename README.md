@@ -206,6 +206,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [The Day I Discovered Type Design](https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/)
+
 - [Some Words on WigglyPaint](https://beyondloom.com/blog/onwigglypaint.html)
 
 - [Ground Control 40](https://ncoughlin.com/posts/ground-control-40)
@@ -1150,6 +1152,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [How to be a web developer: Stuff Everybody Knows](https://stuffeverybodyknows.com/)
+
 - [Too Much Color](https://www.keithcirkel.co.uk/too-much-color/) - I spent too much time looking at too many colo(u)rs to try and optimise them for csskit. Here are some interesting findings.
 
 - [Temporal: The 9-Year Journey to Fix Time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/) - JavaScript&#39;s Date object has been a source of bugs for three decades. Temporal, which just reached Stage 4, is a modern replacement with immutable types, first-class time zone and calendar support, and nanosecond precision. This is the story of how Bloomberg, Igalia, and the TC39 community spent nine years turning an idea into a shipping standar...
@@ -1522,6 +1526,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [He Built the Definitive Epstein Database—and It Consumed His Life](https://www.wired.com/story/he-built-the-definitive-epstein-database-and-it-consumed-his-life/) - The data engineer started as a casual reader of the Jeffrey Epstein files. Then he became obsessed, and built the most extensive network graph of the sexual predator’s shadowy world.
+
 - [In search of Banksy, Reuters found the artist took on a new identity](https://www.reuters.com/investigates/special-report/global-art-banksy/) - Anonymity has become part of a lucrative brand for the artist Banksy, but records we unearthed prove his true identity and show the new name he used to travel to Ukraine.
 
 - [600 tubs of French onion dip mysteriously showed up at several Philly restaurants](https://www.inquirer.com/food/french-dip-mystery-pallet-philly-restaurants-20260311.html) - Restaurants around Philadelphia have been receiving entire pallets of Heluva Good! brand French onion dip for the past month, sometimes mysteriously and with little warning.
