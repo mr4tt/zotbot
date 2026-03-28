@@ -18,6 +18,10 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [YAML? That’s Norway problem](https://lab174.com/blog/202601-yaml-norway/)
+
+- [The two kinds of error](https://evanhahn.com/the-two-kinds-of-error/) - In my mind, errors are divided into two categories. Expected errors, which are part of normal operation, aren't the developer's fault, and should be handled. Unexpected errors are the developer's fault, likely indicate a bug, and are allowed to crash.
+
 - [You no longer need JavaScript](https://lyra.horse/blog/2025/08/you-dont-need-js/) - An overview of what makes modern CSS so awesome.
 
 - [Poisoned Wells - Examining the scale of DNS censorship in India](https://dnsblocks.in/) - A survey of the entire visible domain name space across 6 Indian ISPs, producing the largest known list of blocked domains (43,083) and revealing previously undocumented instances of overblocking.
@@ -206,6 +210,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Secure Communication, Buried In A News App](https://hackaday.com/2026/03/09/secure-communication-buried-in-a-news-app/) - Cryptography is a funny thing. Supposedly, if you do the right kind of maths to a message, you can send it off to somebody else, and as long as they’re the only one that knows a secret little…
+
 - [The Day I Discovered Type Design](https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/)
 
 - [Some Words on WigglyPaint](https://beyondloom.com/blog/onwigglypaint.html)
@@ -1152,6 +1158,10 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [API Improvement Proposals](https://google.aip.dev/)
+
+- [Logging Sucks - Your Logs Are Lying To You](https://loggingsucks.com) - Why traditional logging fails and how wide events can fix your observability
+
 - [How to be a web developer: Stuff Everybody Knows](https://stuffeverybodyknows.com/)
 
 - [Too Much Color](https://www.keithcirkel.co.uk/too-much-color/) - I spent too much time looking at too many colo(u)rs to try and optimise them for csskit. Here are some interesting findings.

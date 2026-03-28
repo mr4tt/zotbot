@@ -1,4 +1,8 @@
 # computing_resources
+- [API Improvement Proposals](https://google.aip.dev/)
+
+- [Logging Sucks - Your Logs Are Lying To You](https://loggingsucks.com) - Why traditional logging fails and how wide events can fix your observability
+
 - [How to be a web developer: Stuff Everybody Knows](https://stuffeverybodyknows.com/)
 
 - [Too Much Color](https://www.keithcirkel.co.uk/too-much-color/) - I spent too much time looking at too many colo(u)rs to try and optimise them for csskit. Here are some interesting findings.

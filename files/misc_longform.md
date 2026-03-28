@@ -1,4 +1,6 @@
 # misc_longform
+- [Secure Communication, Buried In A News App](https://hackaday.com/2026/03/09/secure-communication-buried-in-a-news-app/) - Cryptography is a funny thing. Supposedly, if you do the right kind of maths to a message, you can send it off to somebody else, and as long as they’re the only one that knows a secret little…
+
 - [The Day I Discovered Type Design](https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/)
 
 - [Some Words on WigglyPaint](https://beyondloom.com/blog/onwigglypaint.html)

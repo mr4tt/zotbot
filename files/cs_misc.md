@@ -1,4 +1,8 @@
 # cs_misc
+- [YAML? That’s Norway problem](https://lab174.com/blog/202601-yaml-norway/)
+
+- [The two kinds of error](https://evanhahn.com/the-two-kinds-of-error/) - In my mind, errors are divided into two categories. Expected errors, which are part of normal operation, aren't the developer's fault, and should be handled. Unexpected errors are the developer's fault, likely indicate a bug, and are allowed to crash.
+
 - [You no longer need JavaScript](https://lyra.horse/blog/2025/08/you-dont-need-js/) - An overview of what makes modern CSS so awesome.
 
 - [Poisoned Wells - Examining the scale of DNS censorship in India](https://dnsblocks.in/) - A survey of the entire visible domain name space across 6 Indian ISPs, producing the largest known list of blocked domains (43,083) and revealing previously undocumented instances of overblocking.
