@@ -1,4 +1,10 @@
 # misc
+- [list animals until failure](https://rose.systems/animalist/)
+
+- [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/) - The world's biggest collection of obsolete sounds and disappearing sounds - remixed and reimagined by artists all over the world.
+
+- [Horse Magnifier by wer8888](https://wer8888.itch.io/horse-magnifier?ref=warpdoor.com) - game where you magnify horses
+
 - [Waller](https://www.orthodoxmasonry.com/waller)
 
 - [gail.com FAQ](https://gail.com/)

@@ -135,7 +135,7 @@ To view a single category, check the files/ folder.
 - [Programming as Driving: Unsafe at Any Speed?](https://web.media.mit.edu/~lieber/Lieberary/ZStep/57-Chevy/57-Chevy.html)
 
 # blogs
-- [home](https://lyra.horse/blog/) - hi! i’m lyra and this is my epic blog where i post epic articles about infosec, programming, and other cool stuff! there’s also stuff on my home page :o free rss!! RSS :3 check out the posts below:
+- [Lyra Horse Blog](https://lyra.horse/blog/) - hi! i’m lyra and this is my epic blog where i post epic articles about infosec, programming, and other cool stuff! there’s also stuff on my home page :o free rss!! RSS :3 check out the posts below:
 
 - [Seth Purcell](https://sethpurcell.com/) - Seth Purcell
 
@@ -521,7 +521,7 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
-- [Collections](https://kellypringle.com/collections) - Traditional illustrations, prints, home decor and more from illustrator Kelly Pringle.
+- [Kelly Pringle Collections](https://kellypringle.com/collections) - Traditional illustrations, prints, home decor and more from illustrator Kelly Pringle.
 
 - [Camp Mustelid](https://campmustelid.shop/) - Welcome to Camp Mustelid, an online shop and creative project specializing in nature-inspired goodies!
 
@@ -690,6 +690,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [Cat Singing Blues](https://www.youtube.com/watch?v=vEXfKoXXFUo)
+
 - [The Trap of Oversimplification](https://youtube.com/watch?v=lme9X2pf990)
 
 - [Keio Inokashira Line with the sound coming out of your mouth](https://youtube.com/watch?v=CrwpUN_kcE8)
@@ -2622,6 +2624,12 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [list animals until failure](https://rose.systems/animalist/)
+
+- [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/) - The world's biggest collection of obsolete sounds and disappearing sounds - remixed and reimagined by artists all over the world.
+
+- [Horse Magnifier by wer8888](https://wer8888.itch.io/horse-magnifier?ref=warpdoor.com) - game where you magnify horses
+
 - [Waller](https://www.orthodoxmasonry.com/waller)
 
 - [gail.com FAQ](https://gail.com/)

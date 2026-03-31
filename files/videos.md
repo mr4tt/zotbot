@@ -1,4 +1,6 @@
 # videos
+- [Cat Singing Blues](https://www.youtube.com/watch?v=vEXfKoXXFUo)
+
 - [The Trap of Oversimplification](https://youtube.com/watch?v=lme9X2pf990)
 
 - [Keio Inokashira Line with the sound coming out of your mouth](https://youtube.com/watch?v=CrwpUN_kcE8)
