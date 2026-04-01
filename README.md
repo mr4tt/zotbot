@@ -690,6 +690,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [YouTube](https://youtube.com/watch?v=YF3-LvmHM4E)
+
 - [Cat Singing Blues](https://www.youtube.com/watch?v=vEXfKoXXFUo)
 
 - [The Trap of Oversimplification](https://youtube.com/watch?v=lme9X2pf990)
@@ -1538,6 +1540,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- ['Fontgate': Microsoft, Wikipedia and the scandal threatening the Pakistani PM](https://www.theguardian.com/world/2017/jul/13/fontgate-microsoft-wikipedia-and-the-scandal-threatening-the-pakistani-pm) - Court finds Nawaz Sharif’s daughter in 2006 disclosed link to firm named in Panama Papers, but disclosure was typed in font not available until 2007
+
 - [He Built the Definitive Epstein Database—and It Consumed His Life](https://www.wired.com/story/he-built-the-definitive-epstein-database-and-it-consumed-his-life/) - The data engineer started as a casual reader of the Jeffrey Epstein files. Then he became obsessed, and built the most extensive network graph of the sexual predator’s shadowy world.
 
 - [In search of Banksy, Reuters found the artist took on a new identity](https://www.reuters.com/investigates/special-report/global-art-banksy/) - Anonymity has become part of a lucrative brand for the artist Banksy, but records we unearthed prove his true identity and show the new name he used to travel to Ukraine.
@@ -2624,6 +2628,10 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Aeris — Real-Time 3D Flight Tracking](https://aeris.edbn.me) - Track live flights in stunning 3D over the world's busiest airspaces. See real-time ADS-B data with altitude-aware rendering — low altitudes glow cyan, high altitudes shift to gold. Free and open source.
+
+- [Walkman.land](https://walkman.land/) - The most complete portable pocket audio cassette player database. WML is a tribute to the Walkmans.
+
 - [list animals until failure](https://rose.systems/animalist/)
 
 - [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/) - The world's biggest collection of obsolete sounds and disappearing sounds - remixed and reimagined by artists all over the world.

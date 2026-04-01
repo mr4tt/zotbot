@@ -1,4 +1,6 @@
 # news
+- ['Fontgate': Microsoft, Wikipedia and the scandal threatening the Pakistani PM](https://www.theguardian.com/world/2017/jul/13/fontgate-microsoft-wikipedia-and-the-scandal-threatening-the-pakistani-pm) - Court finds Nawaz Sharif’s daughter in 2006 disclosed link to firm named in Panama Papers, but disclosure was typed in font not available until 2007
+
 - [He Built the Definitive Epstein Database—and It Consumed His Life](https://www.wired.com/story/he-built-the-definitive-epstein-database-and-it-consumed-his-life/) - The data engineer started as a casual reader of the Jeffrey Epstein files. Then he became obsessed, and built the most extensive network graph of the sexual predator’s shadowy world.
 
 - [In search of Banksy, Reuters found the artist took on a new identity](https://www.reuters.com/investigates/special-report/global-art-banksy/) - Anonymity has become part of a lucrative brand for the artist Banksy, but records we unearthed prove his true identity and show the new name he used to travel to Ukraine.

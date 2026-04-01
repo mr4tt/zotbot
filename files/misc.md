@@ -1,4 +1,8 @@
 # misc
+- [Aeris — Real-Time 3D Flight Tracking](https://aeris.edbn.me) - Track live flights in stunning 3D over the world's busiest airspaces. See real-time ADS-B data with altitude-aware rendering — low altitudes glow cyan, high altitudes shift to gold. Free and open source.
+
+- [Walkman.land](https://walkman.land/) - The most complete portable pocket audio cassette player database. WML is a tribute to the Walkmans.
+
 - [list animals until failure](https://rose.systems/animalist/)
 
 - [Obsolete Sounds](https://citiesandmemory.com/obsolete-sounds/) - The world's biggest collection of obsolete sounds and disappearing sounds - remixed and reimagined by artists all over the world.

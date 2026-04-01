@@ -1,4 +1,6 @@
 # videos
+- [YouTube](https://youtube.com/watch?v=YF3-LvmHM4E)
+
 - [Cat Singing Blues](https://www.youtube.com/watch?v=vEXfKoXXFUo)
 
 - [The Trap of Oversimplification](https://youtube.com/watch?v=lme9X2pf990)
