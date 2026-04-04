@@ -18,6 +18,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [Video Conferencing with Postgres — PlanetScale](https://planetscale.com/blog/video-conferencing-with-postgres) - Stream real time video and audio through PostgreSQL on PlanetScale.
+
 - [YAML? That’s Norway problem](https://lab174.com/blog/202601-yaml-norway/)
 
 - [The two kinds of error](https://evanhahn.com/the-two-kinds-of-error/) - In my mind, errors are divided into two categories. Expected errors, which are part of normal operation, aren't the developer's fault, and should be handled. Unexpected errors are the developer's fault, likely indicate a bug, and are allowed to crash.
@@ -210,6 +212,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Rod Prazeres Astrophotography in Project Hail Mary End Credits | || Rod Prazeres || Astrophotography](https://rpastro.square.site/s/stories/phm) - Rod Prazeres shares how his astrophotography was licensed for Project Hail Mary’s end credits.
+
 - [Secure Communication, Buried In A News App](https://hackaday.com/2026/03/09/secure-communication-buried-in-a-news-app/) - Cryptography is a funny thing. Supposedly, if you do the right kind of maths to a message, you can send it off to somebody else, and as long as they’re the only one that knows a secret little…
 
 - [The Day I Discovered Type Design](https://www.marksimonson.com/notebook/view/the-day-i-discovered-type-design/)
@@ -690,7 +694,9 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
-- [YouTube](https://youtube.com/watch?v=YF3-LvmHM4E)
+- [Who will be the Mad CSS Champion?!](https://youtube.com/watch?v=7rOUgT7HK5k)
+
+- [American woodcocks demonstrating some moves](https://www.youtube.com/watch?v=YF3-LvmHM4E)
 
 - [Cat Singing Blues](https://www.youtube.com/watch?v=vEXfKoXXFUo)
 
@@ -2628,6 +2634,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [中国卷烟博物馆 · Chinese Cigarette Museum](https://ciggies.app) - The only comprehensive English-language archive of Chinese cigarettes — 3,200+ SKUs across 200+ brands with pack imagery, specs, pricing, and ratings. Browse Zhonghua, Panda, Liqun, Yellow Crane Tower, and thousands more.
+
 - [Aeris — Real-Time 3D Flight Tracking](https://aeris.edbn.me) - Track live flights in stunning 3D over the world's busiest airspaces. See real-time ADS-B data with altitude-aware rendering — low altitudes glow cyan, high altitudes shift to gold. Free and open source.
 
 - [Walkman.land](https://walkman.land/) - The most complete portable pocket audio cassette player database. WML is a tribute to the Walkmans.

@@ -1,4 +1,6 @@
 # cs_misc
+- [Video Conferencing with Postgres — PlanetScale](https://planetscale.com/blog/video-conferencing-with-postgres) - Stream real time video and audio through PostgreSQL on PlanetScale.
+
 - [YAML? That’s Norway problem](https://lab174.com/blog/202601-yaml-norway/)
 
 - [The two kinds of error](https://evanhahn.com/the-two-kinds-of-error/) - In my mind, errors are divided into two categories. Expected errors, which are part of normal operation, aren't the developer's fault, and should be handled. Unexpected errors are the developer's fault, likely indicate a bug, and are allowed to crash.

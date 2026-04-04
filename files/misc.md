@@ -1,4 +1,6 @@
 # misc
+- [中国卷烟博物馆 · Chinese Cigarette Museum](https://ciggies.app) - The only comprehensive English-language archive of Chinese cigarettes — 3,200+ SKUs across 200+ brands with pack imagery, specs, pricing, and ratings. Browse Zhonghua, Panda, Liqun, Yellow Crane Tower, and thousands more.
+
 - [Aeris — Real-Time 3D Flight Tracking](https://aeris.edbn.me) - Track live flights in stunning 3D over the world's busiest airspaces. See real-time ADS-B data with altitude-aware rendering — low altitudes glow cyan, high altitudes shift to gold. Free and open source.
 
 - [Walkman.land](https://walkman.land/) - The most complete portable pocket audio cassette player database. WML is a tribute to the Walkmans.
