@@ -1,4 +1,6 @@
 # general_resources
+- [Find the Coaching in Criticism](https://hbr.org/2014/01/find-the-coaching-in-criticism) - Reprint: R1401K Feedback is crucial—but almost everyone, from new hires to C-suite executives, struggles with receiving it. The authors, who have spent 20 years working with managers on difficult conversations, outline six steps that can help you turn feedback into an important, and unthreatening, tool. Know your tendencies. Look for patterns in how...
+
 - [Willingness to look stupid is a genuine moat in creative work](https://sharif.io/looking-stupid) - Looking foolish is underrated.
 
 - [Staring into the abyss as a core life skill](https://www.benkuhn.net/abyss/) - thinking about scary things • examples from Wave • examples from elsewhere • finding a buddy • getting the timing right • a list of abyss questions

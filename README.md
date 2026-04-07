@@ -920,6 +920,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Find the Coaching in Criticism](https://hbr.org/2014/01/find-the-coaching-in-criticism) - Reprint: R1401K Feedback is crucial—but almost everyone, from new hires to C-suite executives, struggles with receiving it. The authors, who have spent 20 years working with managers on difficult conversations, outline six steps that can help you turn feedback into an important, and unthreatening, tool. Know your tendencies. Look for patterns in how...
+
 - [Willingness to look stupid is a genuine moat in creative work](https://sharif.io/looking-stupid) - Looking foolish is underrated.
 
 - [Staring into the abyss as a core life skill](https://www.benkuhn.net/abyss/) - thinking about scary things • examples from Wave • examples from elsewhere • finding a buddy • getting the timing right • a list of abyss questions
@@ -2634,6 +2636,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Electricity Price Hub](https://electricity.heatmap.news/)
+
 - [中国卷烟博物馆 · Chinese Cigarette Museum](https://ciggies.app) - The only comprehensive English-language archive of Chinese cigarettes — 3,200+ SKUs across 200+ brands with pack imagery, specs, pricing, and ratings. Browse Zhonghua, Panda, Liqun, Yellow Crane Tower, and thousands more.
 
 - [Aeris — Real-Time 3D Flight Tracking](https://aeris.edbn.me) - Track live flights in stunning 3D over the world's busiest airspaces. See real-time ADS-B data with altitude-aware rendering — low altitudes glow cyan, high altitudes shift to gold. Free and open source.
