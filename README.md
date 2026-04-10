@@ -1548,6 +1548,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Where Does a Dog Belong?](https://www.curbed.com/article/dogs-public-places-new-york-city.html) - Tensions between canine lovers and other New Yorkers are boiling over.
+
+- [Application error: a client-side exception has occurred](https://www.wsj.com/lifestyle/workplace/corporate-retreat-gone-wrong-07754741)
+
 - ['Fontgate': Microsoft, Wikipedia and the scandal threatening the Pakistani PM](https://www.theguardian.com/world/2017/jul/13/fontgate-microsoft-wikipedia-and-the-scandal-threatening-the-pakistani-pm) - Court finds Nawaz Sharif’s daughter in 2006 disclosed link to firm named in Panama Papers, but disclosure was typed in font not available until 2007
 
 - [He Built the Definitive Epstein Database—and It Consumed His Life](https://www.wired.com/story/he-built-the-definitive-epstein-database-and-it-consumed-his-life/) - The data engineer started as a casual reader of the Jeffrey Epstein files. Then he became obsessed, and built the most extensive network graph of the sexual predator’s shadowy world.
@@ -2636,6 +2640,10 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Charcuterie](https://charcuterie.elastiq.ch/) - A visual explorer for Unicode. Browse characters, discover related glyphs, and explore scripts, symbols, and shapes across the standard.
+
+- [Closeness to Things](https://closeness-to-things.netlify.app/)
+
 - [Electricity Price Hub](https://electricity.heatmap.news/)
 
 - [中国卷烟博物馆 · Chinese Cigarette Museum](https://ciggies.app) - The only comprehensive English-language archive of Chinese cigarettes — 3,200+ SKUs across 200+ brands with pack imagery, specs, pricing, and ratings. Browse Zhonghua, Panda, Liqun, Yellow Crane Tower, and thousands more.

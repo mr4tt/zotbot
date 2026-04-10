@@ -1,4 +1,8 @@
 # misc
+- [Charcuterie](https://charcuterie.elastiq.ch/) - A visual explorer for Unicode. Browse characters, discover related glyphs, and explore scripts, symbols, and shapes across the standard.
+
+- [Closeness to Things](https://closeness-to-things.netlify.app/)
+
 - [Electricity Price Hub](https://electricity.heatmap.news/)
 
 - [中国卷烟博物馆 · Chinese Cigarette Museum](https://ciggies.app) - The only comprehensive English-language archive of Chinese cigarettes — 3,200+ SKUs across 200+ brands with pack imagery, specs, pricing, and ratings. Browse Zhonghua, Panda, Liqun, Yellow Crane Tower, and thousands more.
