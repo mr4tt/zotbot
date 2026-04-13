@@ -1,4 +1,8 @@
 # misc
+- [Every train, a note.](https://www.trainjazz.com/) - A jazz combo played in real time by every active NYC subway train.
+
+- [EAGA](https://eastasiangraphicsarchive.com/) - The East Asian Graphics Archive
+
 - [Charcuterie](https://charcuterie.elastiq.ch/) - A visual explorer for Unicode. Browse characters, discover related glyphs, and explore scripts, symbols, and shapes across the standard.
 
 - [Closeness to Things](https://closeness-to-things.netlify.app/)
@@ -50,6 +54,8 @@
 - [How I built Timeframe, our family e-paper dashboard - Joel Hawksley](https://hawksley.org/2026/02/17/timeframe.html) - Over the past decade, I've worked to build the perfect family dashboard system for our home, called Timeframe:
 
 - [Vocal Guide - by Jesper Ordrup](https://jesperordrup.github.io/vocal-guide/) - A vocal technique reference covering 21 techniques: registers, styles, effects, embellish, and dynamics.
+
+- [Phylogeny Explorer - Birds of the World](https://birdsoftheworld.org/bow/phylogeny) - The Phylogeny Explorer offers a captivating experience for exploring avian evolution, discovering closely related species, and grasping the timescales at which they evolved.
 
 - [Link Bouquet](https://www.linkbouquet.com/) - Create and share beautiful bouquets of your favorite links
 

@@ -1,7 +1,17 @@
 # news
-- [Where Does a Dog Belong?](https://www.curbed.com/article/dogs-public-places-new-york-city.html) - Tensions between canine lovers and other New Yorkers are boiling over.
+- [AI got the blame for the Iran school bombing. The truth is far more worrying](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying) - LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
 
-- [Application error: a client-side exception has occurred](https://www.wsj.com/lifestyle/workplace/corporate-retreat-gone-wrong-07754741)
+- [Who ends up at the wrong airport? These people.](https://www.washingtonpost.com/travel/2025/09/12/airport-mix-up-tunis-nice/) - IAD or DCA? IAH or HOU? Better check before leaving for the airport.
+
+- [Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure](https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/) - As Trump threatens Iranian infrastructure, the US government warns that Iran has carried out its own digital attacks against US critical infrastructure.
+
+- [The Fake Cartier and the Fake Rockefeller](https://nymag.com/intelligencer/article/fake-rockefeller-fake-cartier-party-crashers.html) - How a pair of blue-blood impostors turned party crashing in the Hamptons and Palm Beach into a business.
+
+- [What America’s Longest-Tenured Employees Say About Work—Then and Now](https://www.wsj.com/lifestyle/workplace/long-tenure-employees-workplace-changes-2054605f) - A small number of employees at the largest companies have stayed in one job for decades, making them witnesses to the often-surprising evolution of work.
+
+- [Inside a Corporate Retreat That Went Very Badly Wrong](https://www.wsj.com/lifestyle/workplace/corporate-retreat-gone-wrong-07754741) - Technology company Plex took its 120 employees to Honduras for a weeklong bonding experience. It was a disaster from the moment they arrived.
+
+- [Where Does a Dog Belong?](https://www.curbed.com/article/dogs-public-places-new-york-city.html) - Tensions between canine lovers and other New Yorkers are boiling over.
 
 - ['Fontgate': Microsoft, Wikipedia and the scandal threatening the Pakistani PM](https://www.theguardian.com/world/2017/jul/13/fontgate-microsoft-wikipedia-and-the-scandal-threatening-the-pakistani-pm) - Court finds Nawaz Sharif’s daughter in 2006 disclosed link to firm named in Panama Papers, but disclosure was typed in font not available until 2007
 
@@ -36,6 +46,8 @@
 - [Man charged in ‘largest jewelry heist in U.S. history’ avoids trial by getting deported](https://www.latimes.com/california/story/2026-01-21/jewelry-heist-deportation) - A defendant in federal custody for what authorities have called the largest jewelry heist in U.S. history was deported to Ecuador late last month, according to court filings, effectively ending the case against him. Jewelers who lost nearly $100 million in merchandise are indignant.
 
 - [The Untold Story of Silk Road, Part 1](https://www.wired.com/2015/04/silk-road-1/) - How a 29-year-old idealist built a global drug bazaar and became a murderous kingpin.
+
+- [Same Product, Same Store, but on Instacart, Prices Might Differ](https://www.nytimes.com/2025/12/09/business/instacart-algorithmic-pricing.html) - The findings are the latest example of how the notion of a single price is breaking down in the digital age, a trend economists say could be pushing up some prices.
 
 - [China’s Hottest App Is a Daily Test of Whether You’re Still Alive](https://www.wired.com/story/china-are-you-dead-yet-app/) - Are You Dead Yet soared to the top of app-store charts and became a magnet for investors. In an exclusive interview with WIRED, one of its creators says they’re changing the name anyway.
 

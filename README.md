@@ -212,7 +212,11 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Flexoki](https://stephango.com/flexoki) - An inky color scheme for prose and code.
+
 - [Rod Prazeres Astrophotography in Project Hail Mary End Credits | || Rod Prazeres || Astrophotography](https://rpastro.square.site/s/stories/phm) - Rod Prazeres shares how his astrophotography was licensed for Project Hail Mary’s end credits.
+
+- [I Decompiled the White House's New App](http://thereallo.dev/blog/decompiling-the-white-house-app) - The official White House Android app has a cookie/paywall bypass injector, tracks your GPS every 4.5 minutes, and loads JavaScript from some guy's GitHub Pages.
 
 - [Secure Communication, Buried In A News App](https://hackaday.com/2026/03/09/secure-communication-buried-in-a-news-app/) - Cryptography is a funny thing. Supposedly, if you do the right kind of maths to a message, you can send it off to somebody else, and as long as they’re the only one that knows a secret little…
 
@@ -234,9 +238,17 @@ To view a single category, check the files/ folder.
 
 - [Cloudflare outage on November 18, 2025](https://blog.cloudflare.com/18-november-2025-outage/) - Cloudflare suffered a service outage on November 18, 2025. The outage was triggered by a bug in generation logic for a Bot Management feature file causing many Cloudflare services to be affected.
 
+- [The logo soup problem (and how to solve it) | Sanity](https://www.sanity.io/blog/the-logo-soup-problem) - A deep dive into the math behind making mismatched brand logos actually look good together. And a tiny React library that does it for you.
+
 - [23 lessons you will learn living in a very snowy place](https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/) - 6. Snow is heavier than you think. You might think physical strength is useful for lots of things, like overall health or familiar household tasks or picking up dudes (literally or metaphorically.)…
 
+- [Searching for Birds](https://SearchingForBirds.VisualCinnamon.com/) - An interactive story about the birds that capture our curiosity, told through data, visuals and illustrations
+
+- [Recreating uncensored Epstein PDFs from raw encoded attachments](http://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/) - Heads-up: An update to this article has been posted. There have been a lot of complaints about both the competency and the logic behind the latest Epstein archive release by the DoJ: from censoring…
+
 - [How Terminals Work](https://how-terminals-work.vercel.app/) - Learn how terminal emulators and TUIs work through interactive demos. Explore the grid model, escape sequences, keyboard input, and more.
+
+- [Tashkent Metro wayfinding](https://ilyabirman.net/tashkent-metro/wayfinding/)
 
 - [SSH has no Host header - exe.dev blog](https://blog.exe.dev/ssh-host-header) - A dive into how we share IPs between VMs while making SSH work.
 
@@ -1548,9 +1560,19 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
-- [Where Does a Dog Belong?](https://www.curbed.com/article/dogs-public-places-new-york-city.html) - Tensions between canine lovers and other New Yorkers are boiling over.
+- [AI got the blame for the Iran school bombing. The truth is far more worrying](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying) - LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
 
-- [Application error: a client-side exception has occurred](https://www.wsj.com/lifestyle/workplace/corporate-retreat-gone-wrong-07754741)
+- [Who ends up at the wrong airport? These people.](https://www.washingtonpost.com/travel/2025/09/12/airport-mix-up-tunis-nice/) - IAD or DCA? IAH or HOU? Better check before leaving for the airport.
+
+- [Iran-Linked Hackers Are Sabotaging US Energy and Water Infrastructure](https://www.wired.com/story/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/) - As Trump threatens Iranian infrastructure, the US government warns that Iran has carried out its own digital attacks against US critical infrastructure.
+
+- [The Fake Cartier and the Fake Rockefeller](https://nymag.com/intelligencer/article/fake-rockefeller-fake-cartier-party-crashers.html) - How a pair of blue-blood impostors turned party crashing in the Hamptons and Palm Beach into a business.
+
+- [What America’s Longest-Tenured Employees Say About Work—Then and Now](https://www.wsj.com/lifestyle/workplace/long-tenure-employees-workplace-changes-2054605f) - A small number of employees at the largest companies have stayed in one job for decades, making them witnesses to the often-surprising evolution of work.
+
+- [Inside a Corporate Retreat That Went Very Badly Wrong](https://www.wsj.com/lifestyle/workplace/corporate-retreat-gone-wrong-07754741) - Technology company Plex took its 120 employees to Honduras for a weeklong bonding experience. It was a disaster from the moment they arrived.
+
+- [Where Does a Dog Belong?](https://www.curbed.com/article/dogs-public-places-new-york-city.html) - Tensions between canine lovers and other New Yorkers are boiling over.
 
 - ['Fontgate': Microsoft, Wikipedia and the scandal threatening the Pakistani PM](https://www.theguardian.com/world/2017/jul/13/fontgate-microsoft-wikipedia-and-the-scandal-threatening-the-pakistani-pm) - Court finds Nawaz Sharif’s daughter in 2006 disclosed link to firm named in Panama Papers, but disclosure was typed in font not available until 2007
 
@@ -1585,6 +1607,8 @@ To view a single category, check the files/ folder.
 - [Man charged in ‘largest jewelry heist in U.S. history’ avoids trial by getting deported](https://www.latimes.com/california/story/2026-01-21/jewelry-heist-deportation) - A defendant in federal custody for what authorities have called the largest jewelry heist in U.S. history was deported to Ecuador late last month, according to court filings, effectively ending the case against him. Jewelers who lost nearly $100 million in merchandise are indignant.
 
 - [The Untold Story of Silk Road, Part 1](https://www.wired.com/2015/04/silk-road-1/) - How a 29-year-old idealist built a global drug bazaar and became a murderous kingpin.
+
+- [Same Product, Same Store, but on Instacart, Prices Might Differ](https://www.nytimes.com/2025/12/09/business/instacart-algorithmic-pricing.html) - The findings are the latest example of how the notion of a single price is breaking down in the digital age, a trend economists say could be pushing up some prices.
 
 - [China’s Hottest App Is a Daily Test of Whether You’re Still Alive](https://www.wired.com/story/china-are-you-dead-yet-app/) - Are You Dead Yet soared to the top of app-store charts and became a magnet for investors. In an exclusive interview with WIRED, one of its creators says they’re changing the name anyway.
 
@@ -2640,6 +2664,10 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Every train, a note.](https://www.trainjazz.com/) - A jazz combo played in real time by every active NYC subway train.
+
+- [EAGA](https://eastasiangraphicsarchive.com/) - The East Asian Graphics Archive
+
 - [Charcuterie](https://charcuterie.elastiq.ch/) - A visual explorer for Unicode. Browse characters, discover related glyphs, and explore scripts, symbols, and shapes across the standard.
 
 - [Closeness to Things](https://closeness-to-things.netlify.app/)
@@ -2691,6 +2719,8 @@ To view a single category, check the files/ folder.
 - [How I built Timeframe, our family e-paper dashboard - Joel Hawksley](https://hawksley.org/2026/02/17/timeframe.html) - Over the past decade, I've worked to build the perfect family dashboard system for our home, called Timeframe:
 
 - [Vocal Guide - by Jesper Ordrup](https://jesperordrup.github.io/vocal-guide/) - A vocal technique reference covering 21 techniques: registers, styles, effects, embellish, and dynamics.
+
+- [Phylogeny Explorer - Birds of the World](https://birdsoftheworld.org/bow/phylogeny) - The Phylogeny Explorer offers a captivating experience for exploring avian evolution, discovering closely related species, and grasping the timescales at which they evolved.
 
 - [Link Bouquet](https://www.linkbouquet.com/) - Create and share beautiful bouquets of your favorite links
 

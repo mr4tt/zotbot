@@ -1,5 +1,9 @@
 # misc_longform
+- [Flexoki](https://stephango.com/flexoki) - An inky color scheme for prose and code.
+
 - [Rod Prazeres Astrophotography in Project Hail Mary End Credits | || Rod Prazeres || Astrophotography](https://rpastro.square.site/s/stories/phm) - Rod Prazeres shares how his astrophotography was licensed for Project Hail Mary’s end credits.
+
+- [I Decompiled the White House's New App](http://thereallo.dev/blog/decompiling-the-white-house-app) - The official White House Android app has a cookie/paywall bypass injector, tracks your GPS every 4.5 minutes, and loads JavaScript from some guy's GitHub Pages.
 
 - [Secure Communication, Buried In A News App](https://hackaday.com/2026/03/09/secure-communication-buried-in-a-news-app/) - Cryptography is a funny thing. Supposedly, if you do the right kind of maths to a message, you can send it off to somebody else, and as long as they’re the only one that knows a secret little…
 
@@ -21,9 +25,17 @@
 
 - [Cloudflare outage on November 18, 2025](https://blog.cloudflare.com/18-november-2025-outage/) - Cloudflare suffered a service outage on November 18, 2025. The outage was triggered by a bug in generation logic for a Bot Management feature file causing many Cloudflare services to be affected.
 
+- [The logo soup problem (and how to solve it) | Sanity](https://www.sanity.io/blog/the-logo-soup-problem) - A deep dive into the math behind making mismatched brand logos actually look good together. And a tiny React library that does it for you.
+
 - [23 lessons you will learn living in a very snowy place](https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/) - 6. Snow is heavier than you think. You might think physical strength is useful for lots of things, like overall health or familiar household tasks or picking up dudes (literally or metaphorically.)…
 
+- [Searching for Birds](https://SearchingForBirds.VisualCinnamon.com/) - An interactive story about the birds that capture our curiosity, told through data, visuals and illustrations
+
+- [Recreating uncensored Epstein PDFs from raw encoded attachments](http://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/) - Heads-up: An update to this article has been posted. There have been a lot of complaints about both the competency and the logic behind the latest Epstein archive release by the DoJ: from censoring…
+
 - [How Terminals Work](https://how-terminals-work.vercel.app/) - Learn how terminal emulators and TUIs work through interactive demos. Explore the grid model, escape sequences, keyboard input, and more.
+
+- [Tashkent Metro wayfinding](https://ilyabirman.net/tashkent-metro/wayfinding/)
 
 - [SSH has no Host header - exe.dev blog](https://blog.exe.dev/ssh-host-header) - A dive into how we share IPs between VMs while making SSH work.
 
