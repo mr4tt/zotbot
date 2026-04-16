@@ -212,6 +212,12 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans) - into the digital marketing agency that creates your music taste
+
+- [Early Efforts in Sticker Making](https://stephvee.ca/blog/crafts/early-efforts-in-sticker-making/)
+
+- [A Dot a Day Keeps the Clutter Away](https://scottlawsonbc.com/post/dot-system) - The simplest organization system I've tried is a sheet of colored dot stickers. It's also the best.
+
 - [Flexoki](https://stephango.com/flexoki) - An inky color scheme for prose and code.
 
 - [Rod Prazeres Astrophotography in Project Hail Mary End Credits | || Rod Prazeres || Astrophotography](https://rpastro.square.site/s/stories/phm) - Rod Prazeres shares how his astrophotography was licensed for Project Hail Mary’s end credits.
@@ -1011,6 +1017,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Velvetyne](https://velvetyne.fr/) - Libre fonts for everyone
+
 - [Detail · Where craft lives](https://detail.design) - A curated study of the tiny design decisions that make products feel right. Each detail includes why it works, where you've seen it, and how to recreate it. For designers and developers who believe the small things are the big things.
 
 - [Pauline Wee](https://www.paulinewee.com/) - Zero-to-one software engineer, product founder, and experience designer.
@@ -1459,6 +1467,8 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # stories
+- [Johnny Otha Has A Problem](https://www.sundaymorningtransport.com/p/johnny-otha-has-a-problem) - This week’s second story is ALSO free to read due to a clerical error in your favor.
+
 - [Kupu rere kē](http://cordite.org.au/poetry/brownface/kupu-rere-ke/) - My friend was advised to italicise all the foreign words in her poems. This advice came from a well-meaning woman with NZ poetry on her business card and an English accent in her mouth. I have been…
 
 - [Swordmaster Girlfailure - Staunchbowl - Original Work [Archive of Our Own]](https://archiveofourown.org/works/70967166?view_full_work=true)
@@ -1560,6 +1570,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Come On, Fhqwhgads: A Look Back at the Music of Homestar Runner](https://www.vice.com/en/article/come-on-fhqwhgads-a-look-back-at-the-music-of-homestar-runner/)
+
 - [AI got the blame for the Iran school bombing. The truth is far more worrying](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying) - LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
 
 - [Who ends up at the wrong airport? These people.](https://www.washingtonpost.com/travel/2025/09/12/airport-mix-up-tunis-nice/) - IAD or DCA? IAH or HOU? Better check before leaving for the airport.
@@ -2664,6 +2676,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Wind Waker JS - Robin Payot](https://wind-waker-threejs.com/) - Hi! I'm Robin Payot a creative developer making immersive websites since 2015 and a fan of Three.js. Zelda: The Wind Waker is one of my favorite game and I tried to make the ocean part in JavaScript/WebGPU, explore and play!
+
 - [Every train, a note.](https://www.trainjazz.com/) - A jazz combo played in real time by every active NYC subway train.
 
 - [EAGA](https://eastasiangraphicsarchive.com/) - The East Asian Graphics Archive

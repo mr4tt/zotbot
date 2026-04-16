@@ -1,4 +1,6 @@
 # news
+- [Come On, Fhqwhgads: A Look Back at the Music of Homestar Runner](https://www.vice.com/en/article/come-on-fhqwhgads-a-look-back-at-the-music-of-homestar-runner/)
+
 - [AI got the blame for the Iran school bombing. The truth is far more worrying](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying) - LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
 
 - [Who ends up at the wrong airport? These people.](https://www.washingtonpost.com/travel/2025/09/12/airport-mix-up-tunis-nice/) - IAD or DCA? IAH or HOU? Better check before leaving for the airport.

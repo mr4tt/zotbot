@@ -1,4 +1,10 @@
 # misc_longform
+- [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans) - into the digital marketing agency that creates your music taste
+
+- [Early Efforts in Sticker Making](https://stephvee.ca/blog/crafts/early-efforts-in-sticker-making/)
+
+- [A Dot a Day Keeps the Clutter Away](https://scottlawsonbc.com/post/dot-system) - The simplest organization system I've tried is a sheet of colored dot stickers. It's also the best.
+
 - [Flexoki](https://stephango.com/flexoki) - An inky color scheme for prose and code.
 
 - [Rod Prazeres Astrophotography in Project Hail Mary End Credits | || Rod Prazeres || Astrophotography](https://rpastro.square.site/s/stories/phm) - Rod Prazeres shares how his astrophotography was licensed for Project Hail Mary’s end credits.

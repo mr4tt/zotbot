@@ -1,4 +1,6 @@
 # stories
+- [Johnny Otha Has A Problem](https://www.sundaymorningtransport.com/p/johnny-otha-has-a-problem) - This week’s second story is ALSO free to read due to a clerical error in your favor.
+
 - [Kupu rere kē](http://cordite.org.au/poetry/brownface/kupu-rere-ke/) - My friend was advised to italicise all the foreign words in her poems. This advice came from a well-meaning woman with NZ poetry on her business card and an English accent in her mouth. I have been…
 
 - [Swordmaster Girlfailure - Staunchbowl - Original Work [Archive of Our Own]](https://archiveofourown.org/works/70967166?view_full_work=true)
