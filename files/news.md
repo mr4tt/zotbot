@@ -1,4 +1,6 @@
 # news
+- [I Found It: The Best Free Restaurant Bread in America](https://www.theatlantic.com/magazine/2026/05/best-free-restaurant-bread-america/686582/) - Thirteen thousand miles. Infinite contenders. One beautiful loaf.
+
 - [Come On, Fhqwhgads: A Look Back at the Music of Homestar Runner](https://www.vice.com/en/article/come-on-fhqwhgads-a-look-back-at-the-music-of-homestar-runner/)
 
 - [AI got the blame for the Iran school bombing. The truth is far more worrying](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying) - LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity

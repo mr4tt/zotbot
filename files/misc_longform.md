@@ -1,4 +1,6 @@
 # misc_longform
+- [The adorable love story behind Wikipedia’s 'high five' photos](https://www.inverse.com/input/culture/wikipedia-high-five-too-slow-photos-mystery-couple-solved) - Nearly 14 years later, the tale of this iconic couple can finally be told.
+
 - [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans) - into the digital marketing agency that creates your music taste
 
 - [Early Efforts in Sticker Making](https://stephvee.ca/blog/crafts/early-efforts-in-sticker-making/)
@@ -176,8 +178,6 @@
 - [In Praise of the AK-47](https://deardesignstudent.com/in-praise-of-the-ak-47-a24cc8a46c13) - Q: I had a professor in school who went on and on about how well the AK-47 was designed. He stressed that as designers we should be able to…
 
 - [sexy pdfs](https://www.are.na/chloe-abrasada/sexy-pdfs) - collection of pdfs on topics i resonate with & want to learn more about can't wait to dive deep
-
-- [The adorable love story behind Wikipedia’s 'high five' photos](https://www.inverse.com/culture/wikipedia-high-five-too-slow-photos-mystery-couple-solved) - Nearly 14 years later, the tale of this iconic couple can finally be told.
 
 - [Writing down (and searching through) every UUID · eieio.games](https://eieio.games/blog/writing-down-every-uuid/) - I couldn't remember every UUID so I wrote them all down
 

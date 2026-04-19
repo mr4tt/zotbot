@@ -212,6 +212,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [The adorable love story behind Wikipedia’s 'high five' photos](https://www.inverse.com/input/culture/wikipedia-high-five-too-slow-photos-mystery-couple-solved) - Nearly 14 years later, the tale of this iconic couple can finally be told.
+
 - [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans) - into the digital marketing agency that creates your music taste
 
 - [Early Efforts in Sticker Making](https://stephvee.ca/blog/crafts/early-efforts-in-sticker-making/)
@@ -390,8 +392,6 @@ To view a single category, check the files/ folder.
 
 - [sexy pdfs](https://www.are.na/chloe-abrasada/sexy-pdfs) - collection of pdfs on topics i resonate with & want to learn more about can't wait to dive deep
 
-- [The adorable love story behind Wikipedia’s 'high five' photos](https://www.inverse.com/culture/wikipedia-high-five-too-slow-photos-mystery-couple-solved) - Nearly 14 years later, the tale of this iconic couple can finally be told.
-
 - [Writing down (and searching through) every UUID · eieio.games](https://eieio.games/blog/writing-down-every-uuid/) - I couldn't remember every UUID so I wrote them all down
 
 - [Flag Stories](https://flagstories.co/?og=1) - a project by ferdio
@@ -543,6 +543,8 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
+- [Pegushi](https://pegushi.com/) - Pegushi
+
 - [Kelly Pringle Collections](https://kellypringle.com/collections) - Traditional illustrations, prints, home decor and more from illustrator Kelly Pringle.
 
 - [Camp Mustelid](https://campmustelid.shop/) - Welcome to Camp Mustelid, an online shop and creative project specializing in nature-inspired goodies!
@@ -1570,6 +1572,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [I Found It: The Best Free Restaurant Bread in America](https://www.theatlantic.com/magazine/2026/05/best-free-restaurant-bread-america/686582/) - Thirteen thousand miles. Infinite contenders. One beautiful loaf.
+
 - [Come On, Fhqwhgads: A Look Back at the Music of Homestar Runner](https://www.vice.com/en/article/come-on-fhqwhgads-a-look-back-at-the-music-of-homestar-runner/)
 
 - [AI got the blame for the Iran school bombing. The truth is far more worrying](https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying) - LLMs-gone-rogue dominated coverage, but had nothing to do with the targeting. Instead, it was choices made by human beings, over many years, that gave us this atrocity
