@@ -212,6 +212,10 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [No management needed: anti-patterns in early-stage engineering teams](https://www.ablg.io/blog/no-management-needed) - Sharing a reluctant, "node & postgres" approach to engineering management for early-stage startups
+
+- [Most people can't juggle one ball — LessWrong](https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball) - TLDR: A complete guide to juggling, from zero to siteswap notation, by someone who juggles in nightclubs. …
+
 - [The adorable love story behind Wikipedia’s 'high five' photos](https://www.inverse.com/input/culture/wikipedia-high-five-too-slow-photos-mystery-couple-solved) - Nearly 14 years later, the tale of this iconic couple can finally be told.
 
 - [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans) - into the digital marketing agency that creates your music taste
@@ -1572,6 +1576,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The Car-Crash Conspiracy](https://www.newyorker.com/magazine/2026/04/20/the-car-crash-conspiracy) - High-speed accidents, crooked lawyers, and poor people desperate for cash—it was the kind of scheme that could have been cooked up only in the Big Easy.
+
 - [I Found It: The Best Free Restaurant Bread in America](https://www.theatlantic.com/magazine/2026/05/best-free-restaurant-bread-america/686582/) - Thirteen thousand miles. Infinite contenders. One beautiful loaf.
 
 - [Come On, Fhqwhgads: A Look Back at the Music of Homestar Runner](https://www.vice.com/en/article/come-on-fhqwhgads-a-look-back-at-the-music-of-homestar-runner/)

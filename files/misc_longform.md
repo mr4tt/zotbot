@@ -1,4 +1,8 @@
 # misc_longform
+- [No management needed: anti-patterns in early-stage engineering teams](https://www.ablg.io/blog/no-management-needed) - Sharing a reluctant, "node & postgres" approach to engineering management for early-stage startups
+
+- [Most people can't juggle one ball — LessWrong](https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball) - TLDR: A complete guide to juggling, from zero to siteswap notation, by someone who juggles in nightclubs. …
+
 - [The adorable love story behind Wikipedia’s 'high five' photos](https://www.inverse.com/input/culture/wikipedia-high-five-too-slow-photos-mystery-couple-solved) - Nearly 14 years later, the tale of this iconic couple can finally be told.
 
 - [Fake Fans](https://www.wordsfromeliza.com/p/fake-fans) - into the digital marketing agency that creates your music taste
