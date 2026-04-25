@@ -1,4 +1,6 @@
 # misc
+- [The Cheese Map — Charting the Combinatorial Space of Cheesemaking](https://cheesemap.netlify.app/)
+
 - [Wind Waker JS - Robin Payot](https://wind-waker-threejs.com/) - Hi! I'm Robin Payot a creative developer making immersive websites since 2015 and a fan of Three.js. Zelda: The Wind Waker is one of my favorite game and I tried to make the ocean part in JavaScript/WebGPU, explore and play!
 
 - [Every train, a note.](https://www.trainjazz.com/) - A jazz combo played in real time by every active NYC subway train.

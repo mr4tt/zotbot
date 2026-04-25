@@ -1,4 +1,6 @@
 # news
+- [The Atlantic](https://www.theatlantic.com/politics/2026/04/kash-patel-fbi-director-drinking-absences/686839/) - The Atlantic covers news, politics, culture, technology, health, and more, through its articles, podcasts, videos, and flagship magazine.
+
 - [The Car-Crash Conspiracy](https://www.newyorker.com/magazine/2026/04/20/the-car-crash-conspiracy) - High-speed accidents, crooked lawyers, and poor people desperate for cash—it was the kind of scheme that could have been cooked up only in the Big Easy.
 
 - [I Found It: The Best Free Restaurant Bread in America](https://www.theatlantic.com/magazine/2026/05/best-free-restaurant-bread-america/686582/) - Thirteen thousand miles. Infinite contenders. One beautiful loaf.

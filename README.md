@@ -18,6 +18,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [500 Mile email limit](https://web.mit.edu/jemorris/humor/500-miles)
+
 - [Video Conferencing with Postgres — PlanetScale](https://planetscale.com/blog/video-conferencing-with-postgres) - Stream real time video and audio through PostgreSQL on PlanetScale.
 
 - [YAML? That’s Norway problem](https://lab174.com/blog/202601-yaml-norway/)
@@ -212,6 +214,10 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/) - Due to some lucky circumstances, I recently had the chance to appear in one of the biggest German gaming podcasts, Stay Forever, to talk about the technology of RollerCoaster Tycoon (1999). It was …
+
+- [WebAIM: History of the browser user-agent string](https://webaim.org/blog/user-agent-string-history/)
+
 - [No management needed: anti-patterns in early-stage engineering teams](https://www.ablg.io/blog/no-management-needed) - Sharing a reluctant, "node & postgres" approach to engineering management for early-stage startups
 
 - [Most people can't juggle one ball — LessWrong](https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball) - TLDR: A complete guide to juggling, from zero to siteswap notation, by someone who juggles in nightclubs. …
@@ -547,6 +553,8 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
+- [OpenTools / OpenPrinter](https://www.opentools.studio/) - This is the homepage of the website
+
 - [Pegushi](https://pegushi.com/) - Pegushi
 
 - [Kelly Pringle Collections](https://kellypringle.com/collections) - Traditional illustrations, prints, home decor and more from illustrator Kelly Pringle.
@@ -1576,6 +1584,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The Atlantic](https://www.theatlantic.com/politics/2026/04/kash-patel-fbi-director-drinking-absences/686839/) - The Atlantic covers news, politics, culture, technology, health, and more, through its articles, podcasts, videos, and flagship magazine.
+
 - [The Car-Crash Conspiracy](https://www.newyorker.com/magazine/2026/04/20/the-car-crash-conspiracy) - High-speed accidents, crooked lawyers, and poor people desperate for cash—it was the kind of scheme that could have been cooked up only in the Big Easy.
 
 - [I Found It: The Best Free Restaurant Bread in America](https://www.theatlantic.com/magazine/2026/05/best-free-restaurant-bread-america/686582/) - Thirteen thousand miles. Infinite contenders. One beautiful loaf.
@@ -2686,6 +2696,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [The Cheese Map — Charting the Combinatorial Space of Cheesemaking](https://cheesemap.netlify.app/)
+
 - [Wind Waker JS - Robin Payot](https://wind-waker-threejs.com/) - Hi! I'm Robin Payot a creative developer making immersive websites since 2015 and a fan of Three.js. Zelda: The Wind Waker is one of my favorite game and I tried to make the ocean part in JavaScript/WebGPU, explore and play!
 
 - [Every train, a note.](https://www.trainjazz.com/) - A jazz combo played in real time by every active NYC subway train.

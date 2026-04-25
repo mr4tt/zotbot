@@ -1,4 +1,6 @@
 # cs_misc
+- [500 Mile email limit](https://web.mit.edu/jemorris/humor/500-miles)
+
 - [Video Conferencing with Postgres — PlanetScale](https://planetscale.com/blog/video-conferencing-with-postgres) - Stream real time video and audio through PostgreSQL on PlanetScale.
 
 - [YAML? That’s Norway problem](https://lab174.com/blog/202601-yaml-norway/)
