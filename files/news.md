@@ -1,4 +1,8 @@
 # news
+- [I Almost Lost My Mind in the Bridal Algorithm](https://www.404media.co/wedding-planning-algorithm-weddingtok/) - As a #2026Bride, the constant, aggressive content started to make me feel like I was losing sight of what mattered. And I'm far from alone.
+
+- [The Shocking Secrets of Madison Square Garden’s Surveillance Machine](https://www.wired.com/story/madison-square-garden-jim-dolan-surveillance-machine/) - Famously vengeful Knicks owner Jim Dolan has long spied on people at his iconic arenas. WIRED goes deep inside the operation that allegedly tracked a trans woman, lawyers, protesters, and more.
+
 - [The Atlantic](https://www.theatlantic.com/politics/2026/04/kash-patel-fbi-director-drinking-absences/686839/) - The Atlantic covers news, politics, culture, technology, health, and more, through its articles, podcasts, videos, and flagship magazine.
 
 - [The Car-Crash Conspiracy](https://www.newyorker.com/magazine/2026/04/20/the-car-crash-conspiracy) - High-speed accidents, crooked lawyers, and poor people desperate for cash—it was the kind of scheme that could have been cooked up only in the Big Easy.
