@@ -1584,6 +1584,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Opinion | Why Dads Take Their Gay Sons to Hooters](https://www.nytimes.com/2025/03/23/opinion/hooters-gay-family.html) - Many fathers and grandfathers take their gay sons to the bar. It’s become a place of refuge, and how that happened is a curious story.
+
+- [We are bombarding America’s forests with Roundup](https://www.motherjones.com/politics/2026/04/roundup-glyphosate-spraying-forests-monsanto-science-retraction-cancer-health-concerns-maha-trump-executive-order-supreme-court-bayer-lawsuits/) - Scientists are wary of glyphosate. MAHA loathes it. And our investigation shows California is spraying it everywhere.
+
 - [I Almost Lost My Mind in the Bridal Algorithm](https://www.404media.co/wedding-planning-algorithm-weddingtok/) - As a #2026Bride, the constant, aggressive content started to make me feel like I was losing sight of what mattered. And I'm far from alone.
 
 - [The Shocking Secrets of Madison Square Garden’s Surveillance Machine](https://www.wired.com/story/madison-square-garden-jim-dolan-surveillance-machine/) - Famously vengeful Knicks owner Jim Dolan has long spied on people at his iconic arenas. WIRED goes deep inside the operation that allegedly tracked a trans woman, lawyers, protesters, and more.
@@ -2700,6 +2704,10 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [ONCEPOSTED - Vintage Postcards](https://onceposted.com/) - Explore our curated collection of vintage postcards from around the world. Each card tells a story of places, people, and moments captured in time.
+
+- [Unicode Hilbert Curve](https://unicode.tkanarsky.com/)
+
 - [The Cheese Map — Charting the Combinatorial Space of Cheesemaking](https://cheesemap.netlify.app/)
 
 - [Wind Waker JS - Robin Payot](https://wind-waker-threejs.com/) - Hi! I'm Robin Payot a creative developer making immersive websites since 2015 and a fan of Three.js. Zelda: The Wind Waker is one of my favorite game and I tried to make the ocean part in JavaScript/WebGPU, explore and play!

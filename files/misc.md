@@ -1,4 +1,8 @@
 # misc
+- [ONCEPOSTED - Vintage Postcards](https://onceposted.com/) - Explore our curated collection of vintage postcards from around the world. Each card tells a story of places, people, and moments captured in time.
+
+- [Unicode Hilbert Curve](https://unicode.tkanarsky.com/)
+
 - [The Cheese Map — Charting the Combinatorial Space of Cheesemaking](https://cheesemap.netlify.app/)
 
 - [Wind Waker JS - Robin Payot](https://wind-waker-threejs.com/) - Hi! I'm Robin Payot a creative developer making immersive websites since 2015 and a fan of Three.js. Zelda: The Wind Waker is one of my favorite game and I tried to make the ocean part in JavaScript/WebGPU, explore and play!

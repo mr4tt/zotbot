@@ -1,4 +1,8 @@
 # news
+- [Opinion | Why Dads Take Their Gay Sons to Hooters](https://www.nytimes.com/2025/03/23/opinion/hooters-gay-family.html) - Many fathers and grandfathers take their gay sons to the bar. It’s become a place of refuge, and how that happened is a curious story.
+
+- [We are bombarding America’s forests with Roundup](https://www.motherjones.com/politics/2026/04/roundup-glyphosate-spraying-forests-monsanto-science-retraction-cancer-health-concerns-maha-trump-executive-order-supreme-court-bayer-lawsuits/) - Scientists are wary of glyphosate. MAHA loathes it. And our investigation shows California is spraying it everywhere.
+
 - [I Almost Lost My Mind in the Bridal Algorithm](https://www.404media.co/wedding-planning-algorithm-weddingtok/) - As a #2026Bride, the constant, aggressive content started to make me feel like I was losing sight of what mattered. And I'm far from alone.
 
 - [The Shocking Secrets of Madison Square Garden’s Surveillance Machine](https://www.wired.com/story/madison-square-garden-jim-dolan-surveillance-machine/) - Famously vengeful Knicks owner Jim Dolan has long spied on people at his iconic arenas. WIRED goes deep inside the operation that allegedly tracked a trans woman, lawyers, protesters, and more.
