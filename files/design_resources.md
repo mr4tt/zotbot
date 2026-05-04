@@ -1,4 +1,6 @@
 # design_resources
+- [Bezier Customizer, a tool from Whimsical Animations](https://courses.joshwcomeau.com/tools/bezier) - Create the perfect easing curve with this helpful tool!
+
 - [Velvetyne](https://velvetyne.fr/) - Libre fonts for everyone
 
 - [Detail · Where craft lives](https://detail.design) - A curated study of the tiny design decisions that make products feel right. Each detail includes why it works, where you've seen it, and how to recreate it. For designers and developers who believe the small things are the big things.

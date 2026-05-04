@@ -1,4 +1,8 @@
 # news
+- [Gen Z and millennial traders who flocked to Puerto Rico tell us how it's going](https://www.businessinsider.com/day-traders-moving-to-puerto-rico-capital-gains-genz-millennials-2025-11) - Lured by beaches, sun, and tax breaks on capital gains, younger day traders who have flocked to Puerto Rico told Business Insider about the experience.
+
+- [How Lockheed Martin, CNN and Yale became fashion brands in Korea](https://m.koreaherald.com/article/3359719) - On Seoul&rsquo;s streets today, seeing someone clad in a CNN hoodie, Kodak pants, Yale socks, a Discovery jacket, a National Geographic backpack and a BBC E
+
 - [Opinion | Why Dads Take Their Gay Sons to Hooters](https://www.nytimes.com/2025/03/23/opinion/hooters-gay-family.html) - Many fathers and grandfathers take their gay sons to the bar. It’s become a place of refuge, and how that happened is a curious story.
 
 - [We are bombarding America’s forests with Roundup](https://www.motherjones.com/politics/2026/04/roundup-glyphosate-spraying-forests-monsanto-science-retraction-cancer-health-concerns-maha-trump-executive-order-supreme-court-bayer-lawsuits/) - Scientists are wary of glyphosate. MAHA loathes it. And our investigation shows California is spraying it everywhere.

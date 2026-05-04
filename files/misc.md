@@ -1,4 +1,12 @@
 # misc
+- [Madera](https://madera.app/)
+
+- [MOSS — A Painting Toy Where Every Brush Is a Tiny Program](https://www.moss.town/) - A 128x128 pixel canvas with programmable brushes. Code a brush, see what it does, share it with your friends.
+
+- [Antscan](https://www.antscan.info)
+
+- [Apocalypse Early Warning System](https://ews.kylemcdonald.net/)
+
 - [ONCEPOSTED - Vintage Postcards](https://onceposted.com/) - Explore our curated collection of vintage postcards from around the world. Each card tells a story of places, people, and moments captured in time.
 
 - [Unicode Hilbert Curve](https://unicode.tkanarsky.com/)

@@ -1031,6 +1031,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Bezier Customizer, a tool from Whimsical Animations](https://courses.joshwcomeau.com/tools/bezier) - Create the perfect easing curve with this helpful tool!
+
 - [Velvetyne](https://velvetyne.fr/) - Libre fonts for everyone
 
 - [Detail · Where craft lives](https://detail.design) - A curated study of the tiny design decisions that make products feel right. Each detail includes why it works, where you've seen it, and how to recreate it. For designers and developers who believe the small things are the big things.
@@ -1584,6 +1586,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Gen Z and millennial traders who flocked to Puerto Rico tell us how it's going](https://www.businessinsider.com/day-traders-moving-to-puerto-rico-capital-gains-genz-millennials-2025-11) - Lured by beaches, sun, and tax breaks on capital gains, younger day traders who have flocked to Puerto Rico told Business Insider about the experience.
+
+- [How Lockheed Martin, CNN and Yale became fashion brands in Korea](https://m.koreaherald.com/article/3359719) - On Seoul&rsquo;s streets today, seeing someone clad in a CNN hoodie, Kodak pants, Yale socks, a Discovery jacket, a National Geographic backpack and a BBC E
+
 - [Opinion | Why Dads Take Their Gay Sons to Hooters](https://www.nytimes.com/2025/03/23/opinion/hooters-gay-family.html) - Many fathers and grandfathers take their gay sons to the bar. It’s become a place of refuge, and how that happened is a curious story.
 
 - [We are bombarding America’s forests with Roundup](https://www.motherjones.com/politics/2026/04/roundup-glyphosate-spraying-forests-monsanto-science-retraction-cancer-health-concerns-maha-trump-executive-order-supreme-court-bayer-lawsuits/) - Scientists are wary of glyphosate. MAHA loathes it. And our investigation shows California is spraying it everywhere.
@@ -2704,6 +2710,14 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Madera](https://madera.app/)
+
+- [MOSS — A Painting Toy Where Every Brush Is a Tiny Program](https://www.moss.town/) - A 128x128 pixel canvas with programmable brushes. Code a brush, see what it does, share it with your friends.
+
+- [Antscan](https://www.antscan.info)
+
+- [Apocalypse Early Warning System](https://ews.kylemcdonald.net/)
+
 - [ONCEPOSTED - Vintage Postcards](https://onceposted.com/) - Explore our curated collection of vintage postcards from around the world. Each card tells a story of places, people, and moments captured in time.
 
 - [Unicode Hilbert Curve](https://unicode.tkanarsky.com/)
