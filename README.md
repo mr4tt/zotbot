@@ -1586,6 +1586,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Man Finds $1 Million Worth of Yu-Gi-Oh Cards in a Dumpster](https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/) - It was already a sordid tale of online drama, blurry photographs, and erratic TikToks. Then his mom started posting.
+
 - [Gen Z and millennial traders who flocked to Puerto Rico tell us how it's going](https://www.businessinsider.com/day-traders-moving-to-puerto-rico-capital-gains-genz-millennials-2025-11) - Lured by beaches, sun, and tax breaks on capital gains, younger day traders who have flocked to Puerto Rico told Business Insider about the experience.
 
 - [How Lockheed Martin, CNN and Yale became fashion brands in Korea](https://m.koreaherald.com/article/3359719) - On Seoul&rsquo;s streets today, seeing someone clad in a CNN hoodie, Kodak pants, Yale socks, a Discovery jacket, a National Geographic backpack and a BBC E
