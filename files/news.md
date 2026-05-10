@@ -1,4 +1,10 @@
 # news
+- [NPR went looking for Polymarket's Panama headquarters. It's elusive](https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market) - The hugely popular prediction market was shut down by U.S. regulators in 2022 and re-opened in Panama, where it has benefited from tax and legal benefits for years.
+
+- [They Made D4vd a Star. Now They Want Him Convicted of Murder](https://www.wired.com/story/d4vd-david-burke-celeste-rivas-hernandez-murder/) - A legion of young fans propelled the singer D4vd to viral fame. Now that he’s been charged with the murder of 14-year-old Celeste Rivas Hernandez, they say the clues were in their Discord all along.
+
+- [Hackers Hate AI Slop Even More Than You Do](https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/) - It's not just you. Scammers, hackers, and other cybercriminals are complaining about “AI shit” flooding platforms where they discuss cyberattacks and other illegal activity.
+
 - [Man Finds $1 Million Worth of Yu-Gi-Oh Cards in a Dumpster](https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/) - It was already a sordid tale of online drama, blurry photographs, and erratic TikToks. Then his mom started posting.
 
 - [Gen Z and millennial traders who flocked to Puerto Rico tell us how it's going](https://www.businessinsider.com/day-traders-moving-to-puerto-rico-capital-gains-genz-millennials-2025-11) - Lured by beaches, sun, and tax breaks on capital gains, younger day traders who have flocked to Puerto Rico told Business Insider about the experience.

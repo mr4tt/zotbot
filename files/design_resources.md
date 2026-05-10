@@ -1,4 +1,6 @@
 # design_resources
+- [](https://www.theatlantic.com/health/2026/05/monotasking-inside-the-box-excerpt-david-epstein/687015/)
+
 - [Bezier Customizer, a tool from Whimsical Animations](https://courses.joshwcomeau.com/tools/bezier) - Create the perfect easing curve with this helpful tool!
 
 - [Velvetyne](https://velvetyne.fr/) - Libre fonts for everyone

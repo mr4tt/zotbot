@@ -1,4 +1,6 @@
 # misc_longform
+- [How to Buy Cheap Claude Tokens in China](https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in) - The Transfer Station Economy, Explained
+
 - [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/) - Due to some lucky circumstances, I recently had the chance to appear in one of the biggest German gaming podcasts, Stay Forever, to talk about the technology of RollerCoaster Tycoon (1999). It was …
 
 - [WebAIM: History of the browser user-agent string](https://webaim.org/blog/user-agent-string-history/)

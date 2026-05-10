@@ -214,6 +214,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [How to Buy Cheap Claude Tokens in China](https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in) - The Transfer Station Economy, Explained
+
 - [The gold standard of optimization: A look under the hood of RollerCoaster Tycoon](https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/) - Due to some lucky circumstances, I recently had the chance to appear in one of the biggest German gaming podcasts, Stay Forever, to talk about the technology of RollerCoaster Tycoon (1999). It was …
 
 - [WebAIM: History of the browser user-agent string](https://webaim.org/blog/user-agent-string-history/)
@@ -1031,6 +1033,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [](https://www.theatlantic.com/health/2026/05/monotasking-inside-the-box-excerpt-david-epstein/687015/)
+
 - [Bezier Customizer, a tool from Whimsical Animations](https://courses.joshwcomeau.com/tools/bezier) - Create the perfect easing curve with this helpful tool!
 
 - [Velvetyne](https://velvetyne.fr/) - Libre fonts for everyone
@@ -1586,6 +1590,12 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [NPR went looking for Polymarket's Panama headquarters. It's elusive](https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market) - The hugely popular prediction market was shut down by U.S. regulators in 2022 and re-opened in Panama, where it has benefited from tax and legal benefits for years.
+
+- [They Made D4vd a Star. Now They Want Him Convicted of Murder](https://www.wired.com/story/d4vd-david-burke-celeste-rivas-hernandez-murder/) - A legion of young fans propelled the singer D4vd to viral fame. Now that he’s been charged with the murder of 14-year-old Celeste Rivas Hernandez, they say the clues were in their Discord all along.
+
+- [Hackers Hate AI Slop Even More Than You Do](https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/) - It's not just you. Scammers, hackers, and other cybercriminals are complaining about “AI shit” flooding platforms where they discuss cyberattacks and other illegal activity.
+
 - [Man Finds $1 Million Worth of Yu-Gi-Oh Cards in a Dumpster](https://www.404media.co/man-finds-1-million-worth-of-yu-gi-oh-cards-in-a-dumpster/) - It was already a sordid tale of online drama, blurry photographs, and erratic TikToks. Then his mom started posting.
 
 - [Gen Z and millennial traders who flocked to Puerto Rico tell us how it's going](https://www.businessinsider.com/day-traders-moving-to-puerto-rico-capital-gains-genz-millennials-2025-11) - Lured by beaches, sun, and tax breaks on capital gains, younger day traders who have flocked to Puerto Rico told Business Insider about the experience.
@@ -2111,6 +2121,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [The Whole Shabang](https://en.wikipedia.org/w/index.php?title=The_Whole_Shabang&oldid=1352930849) - The Whole Shabang is a brand of seasoned potato chips made by the Keefe Group, a food vendor for prison commissary stores. Initially sold in prisons around the United States as Moon Lodge potato chips, they garnered a cult following among former inmates, correctional officers, and others. In 2016, the company spun off the flavor from the Moon Lodge ...
+
 - [This Website Will Self-destruct](https://en.wikipedia.org/w/index.php?title=This_Website_Will_Self-destruct&oldid=1337221021) - This Website Will Self-Destruct was a website created by comic artist FemmeAndroid in April 2020. Created in the midst of the COVID-19 pandemic in 2020 for the Ludum Dare game jam, it was a high concept website with the premise that it would self-destruct if nobody posted on it in a 24-hour period. The website allowed visitors to anonymously submit ...
 
 - [Quantified self](https://en.wikipedia.org/w/index.php?title=Quantified_self&oldid=1337383138) - Quantified self is both the cultural phenomenon of self-tracking with technology and a community of users and makers of self-tracking tools who share an interest in "self-knowledge through numbers". Quantified self practices overlap with the practice of lifelogging and other trends that incorporate technology and data acquisition into daily life, of...
