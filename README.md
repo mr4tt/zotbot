@@ -232,6 +232,8 @@ To view a single category, check the files/ folder.
 
 - [A Dot a Day Keeps the Clutter Away](https://scottlawsonbc.com/post/dot-system) - The simplest organization system I've tried is a sheet of colored dot stickers. It's also the best.
 
+- [Discord's Gamer Gamble](https://blog.pnly.io/discords-gamer-gamble/) - Discord recently announced their 'Quests' feature, what's the future for Discord's redoubled focus on gamers?
+
 - [Flexoki](https://stephango.com/flexoki) - An inky color scheme for prose and code.
 
 - [Rod Prazeres Astrophotography in Project Hail Mary End Credits | || Rod Prazeres || Astrophotography](https://rpastro.square.site/s/stories/phm) - Rod Prazeres shares how his astrophotography was licensed for Project Hail Mary’s end credits.
@@ -262,6 +264,8 @@ To view a single category, check the files/ folder.
 
 - [23 lessons you will learn living in a very snowy place](https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/) - 6. Snow is heavier than you think. You might think physical strength is useful for lots of things, like overall health or familiar household tasks or picking up dudes (literally or metaphorically.)…
 
+- [2026-01-14: The Day the telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/) - On January 14, 2026, global telnet traffic observed by GreyNoise sensors fell off a cliff. A 59% sustained reduction, eighteen ASNs going completely silent, five countries vanishing from our data entirely. Six days later, CVE-2026-24061 dropped. Coincidence is one explanation.
+
 - [Searching for Birds](https://SearchingForBirds.VisualCinnamon.com/) - An interactive story about the birds that capture our curiosity, told through data, visuals and illustrations
 
 - [Recreating uncensored Epstein PDFs from raw encoded attachments](http://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/) - Heads-up: An update to this article has been posted. There have been a lot of complaints about both the competency and the logic behind the latest Epstein archive release by the DoJ: from censoring…
@@ -273,6 +277,8 @@ To view a single category, check the files/ folder.
 - [SSH has no Host header - exe.dev blog](https://blog.exe.dev/ssh-host-header) - A dive into how we share IPs between VMs while making SSH work.
 
 - [Why Europeans Took So Long to Learn the Crawl](https://slate.com/human-interest/2022/07/history-of-the-crawl-stroke-karen-eva-carr-shifting-currents.html) - Face in the water? No, thank you!
+
+- [Falsehoods Programmers Believe About Names | Kalzumeus Software](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 
 - [Bugs Apple Loves](https://www.bugsappleloves.com/)
 
@@ -954,6 +960,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [The Secret to Success Is ‘Monotasking’](https://www.theatlantic.com/health/2026/05/monotasking-inside-the-box-excerpt-david-epstein/687015/) - In a world full of distractions, getting your brain to focus on one thing at a time requires radical measures.
+
 - [Find the Coaching in Criticism](https://hbr.org/2014/01/find-the-coaching-in-criticism) - Reprint: R1401K Feedback is crucial—but almost everyone, from new hires to C-suite executives, struggles with receiving it. The authors, who have spent 20 years working with managers on difficult conversations, outline six steps that can help you turn feedback into an important, and unthreatening, tool. Know your tendencies. Look for patterns in how...
 
 - [Willingness to look stupid is a genuine moat in creative work](https://sharif.io/looking-stupid) - Looking foolish is underrated.
@@ -1033,8 +1041,6 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
-- [](https://www.theatlantic.com/health/2026/05/monotasking-inside-the-box-excerpt-david-epstein/687015/)
-
 - [Bezier Customizer, a tool from Whimsical Animations](https://courses.joshwcomeau.com/tools/bezier) - Create the perfect easing curve with this helpful tool!
 
 - [Velvetyne](https://velvetyne.fr/) - Libre fonts for everyone
@@ -1590,6 +1596,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The FBI Director Is MIA](https://www.theatlantic.com/politics/2026/04/kash-patel-fbi-director-drinking-absences/686839/) - Kash Patel has alarmed colleagues with episodes of excessive drinking and unexplained absences.
+
 - [NPR went looking for Polymarket's Panama headquarters. It's elusive](https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market) - The hugely popular prediction market was shut down by U.S. regulators in 2022 and re-opened in Panama, where it has benefited from tax and legal benefits for years.
 
 - [They Made D4vd a Star. Now They Want Him Convicted of Murder](https://www.wired.com/story/d4vd-david-burke-celeste-rivas-hernandez-murder/) - A legion of young fans propelled the singer D4vd to viral fame. Now that he’s been charged with the murder of 14-year-old Celeste Rivas Hernandez, they say the clues were in their Discord all along.
@@ -1609,8 +1617,6 @@ To view a single category, check the files/ folder.
 - [I Almost Lost My Mind in the Bridal Algorithm](https://www.404media.co/wedding-planning-algorithm-weddingtok/) - As a #2026Bride, the constant, aggressive content started to make me feel like I was losing sight of what mattered. And I'm far from alone.
 
 - [The Shocking Secrets of Madison Square Garden’s Surveillance Machine](https://www.wired.com/story/madison-square-garden-jim-dolan-surveillance-machine/) - Famously vengeful Knicks owner Jim Dolan has long spied on people at his iconic arenas. WIRED goes deep inside the operation that allegedly tracked a trans woman, lawyers, protesters, and more.
-
-- [The Atlantic](https://www.theatlantic.com/politics/2026/04/kash-patel-fbi-director-drinking-absences/686839/) - The Atlantic covers news, politics, culture, technology, health, and more, through its articles, podcasts, videos, and flagship magazine.
 
 - [The Car-Crash Conspiracy](https://www.newyorker.com/magazine/2026/04/20/the-car-crash-conspiracy) - High-speed accidents, crooked lawyers, and poor people desperate for cash—it was the kind of scheme that could have been cooked up only in the Big Easy.
 
@@ -2724,6 +2730,10 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [NYC Neighborhood Roulette](https://funwithcomputervision.com/nyc/) - city exploration gacha
+
+- [EAGA - East Asian Graphics Archive](https://eastasiangraphicsarchive.com/) - The East Asian Graphics Archive
+
 - [Madera](https://madera.app/)
 
 - [MOSS — A Painting Toy Where Every Brush Is a Tiny Program](https://www.moss.town/) - A 128x128 pixel canvas with programmable brushes. Code a brush, see what it does, share it with your friends.
@@ -2741,8 +2751,6 @@ To view a single category, check the files/ folder.
 - [Wind Waker JS - Robin Payot](https://wind-waker-threejs.com/) - Hi! I'm Robin Payot a creative developer making immersive websites since 2015 and a fan of Three.js. Zelda: The Wind Waker is one of my favorite game and I tried to make the ocean part in JavaScript/WebGPU, explore and play!
 
 - [Every train, a note.](https://www.trainjazz.com/) - A jazz combo played in real time by every active NYC subway train.
-
-- [EAGA](https://eastasiangraphicsarchive.com/) - The East Asian Graphics Archive
 
 - [Charcuterie](https://charcuterie.elastiq.ch/) - A visual explorer for Unicode. Browse characters, discover related glyphs, and explore scripts, symbols, and shapes across the standard.
 
@@ -2807,6 +2815,8 @@ To view a single category, check the files/ folder.
 - [1,000,000 shrimp by Jon Topielski](https://jontopielski.itch.io/1000000-shrimp) - incremental shrimp boating
 
 - [Pickaball — Random Name Picker](https://pickaball.io) - A fun, physics-based random name picker where bouncing balls decide the winner.
+
+- [Loot Drop | 925+ Failed Startup Case Studies & Ideas to Steal](https://loot-drop.io) - Explore 925+ failed startups and learn from $32.5B+ in burned venture capital. Discover why they failed, their market potential, and how to rebuild them.
 
 - [gradient.horse](https://gradient.horse/) - Draw a horse, watch it run!
 

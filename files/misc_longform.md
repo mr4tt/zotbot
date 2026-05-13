@@ -17,6 +17,8 @@
 
 - [A Dot a Day Keeps the Clutter Away](https://scottlawsonbc.com/post/dot-system) - The simplest organization system I've tried is a sheet of colored dot stickers. It's also the best.
 
+- [Discord's Gamer Gamble](https://blog.pnly.io/discords-gamer-gamble/) - Discord recently announced their 'Quests' feature, what's the future for Discord's redoubled focus on gamers?
+
 - [Flexoki](https://stephango.com/flexoki) - An inky color scheme for prose and code.
 
 - [Rod Prazeres Astrophotography in Project Hail Mary End Credits | || Rod Prazeres || Astrophotography](https://rpastro.square.site/s/stories/phm) - Rod Prazeres shares how his astrophotography was licensed for Project Hail Mary’s end credits.
@@ -47,6 +49,8 @@
 
 - [23 lessons you will learn living in a very snowy place](https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/) - 6. Snow is heavier than you think. You might think physical strength is useful for lots of things, like overall health or familiar household tasks or picking up dudes (literally or metaphorically.)…
 
+- [2026-01-14: The Day the telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/) - On January 14, 2026, global telnet traffic observed by GreyNoise sensors fell off a cliff. A 59% sustained reduction, eighteen ASNs going completely silent, five countries vanishing from our data entirely. Six days later, CVE-2026-24061 dropped. Coincidence is one explanation.
+
 - [Searching for Birds](https://SearchingForBirds.VisualCinnamon.com/) - An interactive story about the birds that capture our curiosity, told through data, visuals and illustrations
 
 - [Recreating uncensored Epstein PDFs from raw encoded attachments](http://neosmart.net/blog/recreating-epstein-pdfs-from-raw-encoded-attachments/) - Heads-up: An update to this article has been posted. There have been a lot of complaints about both the competency and the logic behind the latest Epstein archive release by the DoJ: from censoring…
@@ -58,6 +62,8 @@
 - [SSH has no Host header - exe.dev blog](https://blog.exe.dev/ssh-host-header) - A dive into how we share IPs between VMs while making SSH work.
 
 - [Why Europeans Took So Long to Learn the Crawl](https://slate.com/human-interest/2022/07/history-of-the-crawl-stroke-karen-eva-carr-shifting-currents.html) - Face in the water? No, thank you!
+
+- [Falsehoods Programmers Believe About Names | Kalzumeus Software](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
 
 - [Bugs Apple Loves](https://www.bugsappleloves.com/)
 

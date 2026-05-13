@@ -1,4 +1,6 @@
 # general_resources
+- [The Secret to Success Is ‘Monotasking’](https://www.theatlantic.com/health/2026/05/monotasking-inside-the-box-excerpt-david-epstein/687015/) - In a world full of distractions, getting your brain to focus on one thing at a time requires radical measures.
+
 - [Find the Coaching in Criticism](https://hbr.org/2014/01/find-the-coaching-in-criticism) - Reprint: R1401K Feedback is crucial—but almost everyone, from new hires to C-suite executives, struggles with receiving it. The authors, who have spent 20 years working with managers on difficult conversations, outline six steps that can help you turn feedback into an important, and unthreatening, tool. Know your tendencies. Look for patterns in how...
 
 - [Willingness to look stupid is a genuine moat in creative work](https://sharif.io/looking-stupid) - Looking foolish is underrated.

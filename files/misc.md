@@ -1,4 +1,8 @@
 # misc
+- [NYC Neighborhood Roulette](https://funwithcomputervision.com/nyc/) - city exploration gacha
+
+- [EAGA - East Asian Graphics Archive](https://eastasiangraphicsarchive.com/) - The East Asian Graphics Archive
+
 - [Madera](https://madera.app/)
 
 - [MOSS — A Painting Toy Where Every Brush Is a Tiny Program](https://www.moss.town/) - A 128x128 pixel canvas with programmable brushes. Code a brush, see what it does, share it with your friends.
@@ -16,8 +20,6 @@
 - [Wind Waker JS - Robin Payot](https://wind-waker-threejs.com/) - Hi! I'm Robin Payot a creative developer making immersive websites since 2015 and a fan of Three.js. Zelda: The Wind Waker is one of my favorite game and I tried to make the ocean part in JavaScript/WebGPU, explore and play!
 
 - [Every train, a note.](https://www.trainjazz.com/) - A jazz combo played in real time by every active NYC subway train.
-
-- [EAGA](https://eastasiangraphicsarchive.com/) - The East Asian Graphics Archive
 
 - [Charcuterie](https://charcuterie.elastiq.ch/) - A visual explorer for Unicode. Browse characters, discover related glyphs, and explore scripts, symbols, and shapes across the standard.
 
@@ -82,6 +84,8 @@
 - [1,000,000 shrimp by Jon Topielski](https://jontopielski.itch.io/1000000-shrimp) - incremental shrimp boating
 
 - [Pickaball — Random Name Picker](https://pickaball.io) - A fun, physics-based random name picker where bouncing balls decide the winner.
+
+- [Loot Drop | 925+ Failed Startup Case Studies & Ideas to Steal](https://loot-drop.io) - Explore 925+ failed startups and learn from $32.5B+ in burned venture capital. Discover why they failed, their market potential, and how to rebuild them.
 
 - [gradient.horse](https://gradient.horse/) - Draw a horse, watch it run!
 
