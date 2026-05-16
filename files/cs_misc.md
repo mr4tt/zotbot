@@ -1,4 +1,6 @@
 # cs_misc
+- [fast16 | Mystery Shadow Brokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet](https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/) - A previously unknown 2005 cyber sabotage framework patches high-precision calculation software in memory to silently corrupt results.
+
 - [500 Mile email limit](https://web.mit.edu/jemorris/humor/500-miles)
 
 - [Video Conferencing with Postgres — PlanetScale](https://planetscale.com/blog/video-conferencing-with-postgres) - Stream real time video and audio through PostgreSQL on PlanetScale.

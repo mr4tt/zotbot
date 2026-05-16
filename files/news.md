@@ -1,4 +1,6 @@
 # news
+- [Welcome to the personal software revolution](https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution) - AI is empowering a generation of vibe coders to build exactly what they want. The personal software revolution is here.
+
 - [The FBI Director Is MIA](https://www.theatlantic.com/politics/2026/04/kash-patel-fbi-director-drinking-absences/686839/) - Kash Patel has alarmed colleagues with episodes of excessive drinking and unexplained absences.
 
 - [NPR went looking for Polymarket's Panama headquarters. It's elusive](https://www.npr.org/2026/05/05/nx-s1-5807918/polymarket-panama-prediction-market) - The hugely popular prediction market was shut down by U.S. regulators in 2022 and re-opened in Panama, where it has benefited from tax and legal benefits for years.

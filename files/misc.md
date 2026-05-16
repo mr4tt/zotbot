@@ -1,4 +1,6 @@
 # misc
+- [JSON Crack | Online JSON Viewer - Transform your data into interactive graphs](https://jsoncrack.com) - JSON Crack Editor is a tool for visualizing into graphs, analyzing, editing, formatting, querying, transforming and validating JSON, CSV, YAML, XML, and more.
+
 - [NYC Neighborhood Roulette](https://funwithcomputervision.com/nyc/) - city exploration gacha
 
 - [EAGA - East Asian Graphics Archive](https://eastasiangraphicsarchive.com/) - The East Asian Graphics Archive
