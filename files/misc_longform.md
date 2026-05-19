@@ -1,4 +1,8 @@
 # misc_longform
+- [How Diamonds are Made?](https://www.jaydip.me/) - Journey of a very old rock.
+
+- [The Case of the Top Secret iPod](https://tidbits.com/2020/08/17/the-case-of-the-top-secret-ipod/) - 15 years ago, Apple helped the US government develop a custom iPod for clandestine missions. Of course, neither Apple nor the US government will admit this ever happened. Former Apple engineer and inadvertent intelligence operative David Shayer tells the story of the iPod that never existed.
+
 - [Be the Idiot](https://luminousmen.com/post/be-the-idiot) - Embrace your inner idiot and learn the power of asking "stupid" questions in engineering. Discover why clarity beats complexity in effective communication.
 
 - [How to Buy Cheap Claude Tokens in China](https://www.chinatalk.media/p/how-to-buy-cheap-claude-tokens-in) - The Transfer Station Economy, Explained

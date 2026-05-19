@@ -1,4 +1,10 @@
 # videos
+- [YouTube](https://youtube.com/watch?v=fZdmbzc9GLo)
+
+- [YouTube](https://youtube.com/watch?v=OHAjc-ayhus)
+
+- [YouTube](https://youtube.com/watch?v=nPvuiDNJ4cA)
+
 - [YouTube](https://youtube.com/watch?v=jHDNbvv6Rjo)
 
 - [Who will be the Mad CSS Champion?!](https://youtube.com/watch?v=7rOUgT7HK5k)
