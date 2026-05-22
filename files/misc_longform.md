@@ -1,4 +1,8 @@
 # misc_longform
+- [I'm Kenyan. I Don't Write Like ChatGPT. ChatGPT Writes Like Me.](https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt) - I'm calm. I'm calm. I promise.
+
+- [We don't know why Malawi is poor](https://newsletter.deenamousa.com/p/we-dont-know-why-malawi-is-poor) - And that’s a problem for economic development
+
 - [How Diamonds are Made?](https://www.jaydip.me/) - Journey of a very old rock.
 
 - [The Case of the Top Secret iPod](https://tidbits.com/2020/08/17/the-case-of-the-top-secret-ipod/) - 15 years ago, Apple helped the US government develop a custom iPod for clandestine missions. Of course, neither Apple nor the US government will admit this ever happened. Former Apple engineer and inadvertent intelligence operative David Shayer tells the story of the iPod that never existed.

@@ -18,6 +18,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [Ratty — A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀](https://ratty-term.org/) - Ratty is a GPU-rendered terminal emulator with a spinning rat cursor, multiple 3D presentation modes and support for inline 3D graphics. Inspired by TempleOS and built with Rust and Ratatui.
+
 - [fast16 | Mystery Shadow Brokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet](https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/) - A previously unknown 2005 cyber sabotage framework patches high-precision calculation software in memory to silently corrupt results.
 
 - [500 Mile email limit](https://web.mit.edu/jemorris/humor/500-miles)
@@ -216,6 +218,10 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [I'm Kenyan. I Don't Write Like ChatGPT. ChatGPT Writes Like Me.](https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt) - I'm calm. I'm calm. I promise.
+
+- [We don't know why Malawi is poor](https://newsletter.deenamousa.com/p/we-dont-know-why-malawi-is-poor) - And that’s a problem for economic development
+
 - [How Diamonds are Made?](https://www.jaydip.me/) - Journey of a very old rock.
 
 - [The Case of the Top Secret iPod](https://tidbits.com/2020/08/17/the-case-of-the-top-secret-ipod/) - 15 years ago, Apple helped the US government develop a custom iPod for clandestine missions. Of course, neither Apple nor the US government will admit this ever happened. Former Apple engineer and inadvertent intelligence operative David Shayer tells the story of the iPod that never existed.
@@ -569,6 +575,8 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
+- [Bunny Bun Bakery](https://bunnybunbakery.com/) - Whether you're looking to brighten your workspace, find a unique gift, or indulge in some adorable stationery and accessories, Bunny Bun Bakery offers a charming selection that brings a touch of joy to everyday life.
+
 - [OpenTools / OpenPrinter](https://www.opentools.studio/) - This is the homepage of the website
 
 - [Pegushi](https://pegushi.com/) - Pegushi
@@ -1612,6 +1620,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The French mastermind behind a €1bn Ponzi scheme](https://www.ft.com/content/56afc583-5e66-4eb9-96f3-60a5e38f9c9c) - Gérard Lhéritier lured investors by selling shares in literary treasures. When suspicions grew, he was exposed as the architect of a massive fraud
+
 - [Welcome to the personal software revolution](https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution) - AI is empowering a generation of vibe coders to build exactly what they want. The personal software revolution is here.
 
 - [The FBI Director Is MIA](https://www.theatlantic.com/politics/2026/04/kash-patel-fbi-director-drinking-absences/686839/) - Kash Patel has alarmed colleagues with episodes of excessive drinking and unexplained absences.
@@ -2748,6 +2758,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Birdle](https://www.play-birdle.com/world/)
+
 - [JSON Crack | Online JSON Viewer - Transform your data into interactive graphs](https://jsoncrack.com) - JSON Crack Editor is a tool for visualizing into graphs, analyzing, editing, formatting, querying, transforming and validating JSON, CSV, YAML, XML, and more.
 
 - [NYC Neighborhood Roulette](https://funwithcomputervision.com/nyc/) - city exploration gacha

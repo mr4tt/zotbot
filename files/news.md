@@ -1,4 +1,6 @@
 # news
+- [The French mastermind behind a €1bn Ponzi scheme](https://www.ft.com/content/56afc583-5e66-4eb9-96f3-60a5e38f9c9c) - Gérard Lhéritier lured investors by selling shares in literary treasures. When suspicions grew, he was exposed as the architect of a massive fraud
+
 - [Welcome to the personal software revolution](https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution) - AI is empowering a generation of vibe coders to build exactly what they want. The personal software revolution is here.
 
 - [The FBI Director Is MIA](https://www.theatlantic.com/politics/2026/04/kash-patel-fbi-director-drinking-absences/686839/) - Kash Patel has alarmed colleagues with episodes of excessive drinking and unexplained absences.

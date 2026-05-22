@@ -1,4 +1,6 @@
 # shops
+- [Bunny Bun Bakery](https://bunnybunbakery.com/) - Whether you're looking to brighten your workspace, find a unique gift, or indulge in some adorable stationery and accessories, Bunny Bun Bakery offers a charming selection that brings a touch of joy to everyday life.
+
 - [OpenTools / OpenPrinter](https://www.opentools.studio/) - This is the homepage of the website
 
 - [Pegushi](https://pegushi.com/) - Pegushi

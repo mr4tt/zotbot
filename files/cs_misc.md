@@ -1,4 +1,6 @@
 # cs_misc
+- [Ratty — A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀](https://ratty-term.org/) - Ratty is a GPU-rendered terminal emulator with a spinning rat cursor, multiple 3D presentation modes and support for inline 3D graphics. Inspired by TempleOS and built with Rust and Ratatui.
+
 - [fast16 | Mystery Shadow Brokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet](https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/) - A previously unknown 2005 cyber sabotage framework patches high-precision calculation software in memory to silently corrupt results.
 
 - [500 Mile email limit](https://web.mit.edu/jemorris/humor/500-miles)
