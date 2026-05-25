@@ -1,4 +1,6 @@
 # misc_longform
+- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) - The internal logic of the world’s strangest corporations
+
 - [I'm Kenyan. I Don't Write Like ChatGPT. ChatGPT Writes Like Me.](https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt) - I'm calm. I'm calm. I promise.
 
 - [We don't know why Malawi is poor](https://newsletter.deenamousa.com/p/we-dont-know-why-malawi-is-poor) - And that’s a problem for economic development
