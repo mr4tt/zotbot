@@ -1,4 +1,6 @@
 # misc
+- [delphitools](https://delphi.tools/)
+
 - [Birdle](https://www.play-birdle.com/world/)
 
 - [JSON Crack | Online JSON Viewer - Transform your data into interactive graphs](https://jsoncrack.com) - JSON Crack Editor is a tool for visualizing into graphs, analyzing, editing, formatting, querying, transforming and validating JSON, CSV, YAML, XML, and more.

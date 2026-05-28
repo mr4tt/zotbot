@@ -1,4 +1,6 @@
 # cs_misc
+- [Ratty: A terminal emulator with inline 3D graphics - Orhun's Blog](https://blog.orhun.dev/introducing-ratty/) - Just trying to answer one simple question: What if the terminal was 3D?
+
 - [Ratty — A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀](https://ratty-term.org/) - Ratty is a GPU-rendered terminal emulator with a spinning rat cursor, multiple 3D presentation modes and support for inline 3D graphics. Inspired by TempleOS and built with Rust and Ratatui.
 
 - [fast16 | Mystery Shadow Brokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet](https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/) - A previously unknown 2005 cyber sabotage framework patches high-precision calculation software in memory to silently corrupt results.
@@ -44,6 +46,8 @@
 - [Designing Software for Things that Rot](https://drobinin.com/posts/designing-software-for-things-that-rot/) - How a £150 eBay fridge and a decision tree taught me to stop asking internet strangers if my salami would kill me–and why building for rot is nothing like building happy-path apps.
 
 - [Programming With Less Than Nothing](https://joshmoody.org/blog/programming-with-less-than-nothing/) - Lambda calculus is for wimps. Real programmers use combinatory logic.
+
+- [GitDiagram](https://gitdiagram.com/)
 
 - [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/) - In May 2022 over 70,000 developers told us how they learn and level up, which tools they’re using, and what they want.
 

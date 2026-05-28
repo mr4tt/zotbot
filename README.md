@@ -18,6 +18,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [Ratty: A terminal emulator with inline 3D graphics - Orhun's Blog](https://blog.orhun.dev/introducing-ratty/) - Just trying to answer one simple question: What if the terminal was 3D?
+
 - [Ratty — A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀](https://ratty-term.org/) - Ratty is a GPU-rendered terminal emulator with a spinning rat cursor, multiple 3D presentation modes and support for inline 3D graphics. Inspired by TempleOS and built with Rust and Ratatui.
 
 - [fast16 | Mystery Shadow Brokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet](https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/) - A previously unknown 2005 cyber sabotage framework patches high-precision calculation software in memory to silently corrupt results.
@@ -63,6 +65,8 @@ To view a single category, check the files/ folder.
 - [Designing Software for Things that Rot](https://drobinin.com/posts/designing-software-for-things-that-rot/) - How a £150 eBay fridge and a decision tree taught me to stop asking internet strangers if my salami would kill me–and why building for rot is nothing like building happy-path apps.
 
 - [Programming With Less Than Nothing](https://joshmoody.org/blog/programming-with-less-than-nothing/) - Lambda calculus is for wimps. Real programmers use combinatory logic.
+
+- [GitDiagram](https://gitdiagram.com/)
 
 - [Stack Overflow Developer Survey 2022](https://survey.stackoverflow.co/2022/) - In May 2022 over 70,000 developers told us how they learn and level up, which tools they’re using, and what they want.
 
@@ -218,6 +222,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Two computers, one monitor, zero fiddling](https://alexplescan.com/posts/2025/08/16/kvm/) - How to switch inputs between desktop and laptop on one monitor using built-in KVM and DDC
+
 - [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) - The internal logic of the world’s strangest corporations
 
 - [I'm Kenyan. I Don't Write Like ChatGPT. ChatGPT Writes Like Me.](https://marcusolang.substack.com/p/im-kenyan-i-dont-write-like-chatgpt) - I'm calm. I'm calm. I promise.
@@ -752,15 +758,13 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
-- [YouTube](https://youtube.com/watch?v=JhfDyBLRnrM)
+- [Doorbell cam captures moment Paul Milgrom finds out he has won the Nobel prize for economics](https://www.youtube.com/watch?v=JhfDyBLRnrM)
 
-- [YouTube](https://youtube.com/watch?v=fZdmbzc9GLo)
+- [ヨルシカ - あぶく（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=OHAjc-ayhus)
 
-- [YouTube](https://youtube.com/watch?v=OHAjc-ayhus)
+- [Ozymandias || Hollow Knight Animation](https://www.youtube.com/watch?v=nPvuiDNJ4cA)
 
-- [YouTube](https://youtube.com/watch?v=nPvuiDNJ4cA)
-
-- [YouTube](https://youtube.com/watch?v=jHDNbvv6Rjo)
+- [I Built a Device to Never Miss the Subway](https://www.youtube.com/watch?v=jHDNbvv6Rjo)
 
 - [Who will be the Mad CSS Champion?!](https://youtube.com/watch?v=7rOUgT7HK5k)
 
@@ -1624,9 +1628,19 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [“The River House Broke. We Rushed in the River.”](https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/) - The July 4 Texas flooding ripped our Kerr County home from its pillars, pulling us into the water and into the night. Then morning came.
+
+- ['The worst sound in the history of man': How BART trains turned terror in 'Dead Space'](https://www.sfgate.com/entertainment/article/dead-space-sound-effects-bart-train-inspiration-13530076.php) - The piercing, almost other-worldly shrieking of BART trains through the Transbay Tube...
+
+- [The Boeing IMAX Is Officially Dead](https://www.thestranger.com/news/the-boeing-imax-is-officially-dead/) - The Boeing IMAX, the only premium IMAX theater of its kind in the state, will not be showing theatrical films under new ownership. Instead, local film buffs’ worst fears have been realized: The only programming on the docket for the theater is a few short documentaries from IMAX and the Chihuly Glass Center, and ambiguous […]
+
+- [The Feed Is Fake](https://www.vulture.com/article/social-media-feeds-chaotic-good-projects-clipping.html) - That “viral” song, movie, influencer, and celebrity drama you scrolled by recently was likely the result of a stealth marketing campaign.
+
 - [Mystery Math Whiz and Novelist Advance Permutation Problem](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/) - A new proof from the Australian science fiction writer Greg Egan and a 2011 proof anonymously posted online are now being hailed as significant advances on a puzzle mathematicians have been studying…
 
 - [The French mastermind behind a €1bn Ponzi scheme](https://www.ft.com/content/56afc583-5e66-4eb9-96f3-60a5e38f9c9c) - Gérard Lhéritier lured investors by selling shares in literary treasures. When suspicions grew, he was exposed as the architect of a massive fraud
+
+- [A sci-fi writer got meta about gender. The internet responded by ruining her life.](https://www.vox.com/the-highlight/22543858/isabel-fall-attack-helicopter) - Isabel Fall’s sci-fi story “I Sexually Identify as an Attack Helicopter” drew the ire of the internet. A year later, she’s still picking through the wreckage.
 
 - [Welcome to the personal software revolution](https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution) - AI is empowering a generation of vibe coders to build exactly what they want. The personal software revolution is here.
 
@@ -2764,6 +2778,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [delphitools](https://delphi.tools/)
+
 - [Birdle](https://www.play-birdle.com/world/)
 
 - [JSON Crack | Online JSON Viewer - Transform your data into interactive graphs](https://jsoncrack.com) - JSON Crack Editor is a tool for visualizing into graphs, analyzing, editing, formatting, querying, transforming and validating JSON, CSV, YAML, XML, and more.

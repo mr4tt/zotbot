@@ -1,7 +1,17 @@
 # news
+- [“The River House Broke. We Rushed in the River.”](https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/) - The July 4 Texas flooding ripped our Kerr County home from its pillars, pulling us into the water and into the night. Then morning came.
+
+- ['The worst sound in the history of man': How BART trains turned terror in 'Dead Space'](https://www.sfgate.com/entertainment/article/dead-space-sound-effects-bart-train-inspiration-13530076.php) - The piercing, almost other-worldly shrieking of BART trains through the Transbay Tube...
+
+- [The Boeing IMAX Is Officially Dead](https://www.thestranger.com/news/the-boeing-imax-is-officially-dead/) - The Boeing IMAX, the only premium IMAX theater of its kind in the state, will not be showing theatrical films under new ownership. Instead, local film buffs’ worst fears have been realized: The only programming on the docket for the theater is a few short documentaries from IMAX and the Chihuly Glass Center, and ambiguous […]
+
+- [The Feed Is Fake](https://www.vulture.com/article/social-media-feeds-chaotic-good-projects-clipping.html) - That “viral” song, movie, influencer, and celebrity drama you scrolled by recently was likely the result of a stealth marketing campaign.
+
 - [Mystery Math Whiz and Novelist Advance Permutation Problem](https://www.quantamagazine.org/sci-fi-writer-greg-egan-and-anonymous-math-whiz-advance-permutation-problem-20181105/) - A new proof from the Australian science fiction writer Greg Egan and a 2011 proof anonymously posted online are now being hailed as significant advances on a puzzle mathematicians have been studying…
 
 - [The French mastermind behind a €1bn Ponzi scheme](https://www.ft.com/content/56afc583-5e66-4eb9-96f3-60a5e38f9c9c) - Gérard Lhéritier lured investors by selling shares in literary treasures. When suspicions grew, he was exposed as the architect of a massive fraud
+
+- [A sci-fi writer got meta about gender. The internet responded by ruining her life.](https://www.vox.com/the-highlight/22543858/isabel-fall-attack-helicopter) - Isabel Fall’s sci-fi story “I Sexually Identify as an Attack Helicopter” drew the ire of the internet. A year later, she’s still picking through the wreckage.
 
 - [Welcome to the personal software revolution](https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution) - AI is empowering a generation of vibe coders to build exactly what they want. The personal software revolution is here.
 
