@@ -758,6 +758,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [Ice Cream Tester ORIGINAL](https://youtube.com/watch?v=4b6bTNloKlw)
+
 - [Doorbell cam captures moment Paul Milgrom finds out he has won the Nobel prize for economics](https://www.youtube.com/watch?v=JhfDyBLRnrM)
 
 - [ヨルシカ - あぶく（OFFICIAL VIDEO）](https://www.youtube.com/watch?v=OHAjc-ayhus)
@@ -1628,6 +1630,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Mary Had Schizophrenia—Then Suddenly She Didn’t](https://www.newyorker.com/magazine/2025/07/28/mary-had-schizophrenia-then-suddenly-she-didnt) - Some psychiatric patients may actually have treatable autoimmune conditions. But what happens to the newly sane?
+
+- [Can Anyone Rescue the Trafficked Girls of L.A.’s Figueroa Street?](https://www.nytimes.com/2025/10/26/magazine/sex-trafficking-girls-la-figueroa.html) - Inside the effort to pull minors from ‘the Blade,’ one of the most notorious sex-trafficking corridors in the United States.
+
 - [“The River House Broke. We Rushed in the River.”](https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/) - The July 4 Texas flooding ripped our Kerr County home from its pillars, pulling us into the water and into the night. Then morning came.
 
 - ['The worst sound in the history of man': How BART trains turned terror in 'Dead Space'](https://www.sfgate.com/entertainment/article/dead-space-sound-effects-bart-train-inspiration-13530076.php) - The piercing, almost other-worldly shrieking of BART trains through the Transbay Tube...
@@ -2175,6 +2181,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Fordlândia](https://en.wikipedia.org/w/index.php?title=Fordlândia&oldid=1352214037) - Fordlândia is a district and adjacent area of 14,268 square kilometres (5,509 sq mi) in the city of Aveiro, Pará, Brazil. It is located on the east banks of the Tapajós river roughly 300 kilometres (190 mi) south of the city of Santarém. It was established by American industrialist Henry Ford in the Amazon rainforest in 1928 as a prefabricated indus...
+
 - [The Whole Shabang](https://en.wikipedia.org/w/index.php?title=The_Whole_Shabang&oldid=1352930849) - The Whole Shabang is a brand of seasoned potato chips made by the Keefe Group, a food vendor for prison commissary stores. Initially sold in prisons around the United States as Moon Lodge potato chips, they garnered a cult following among former inmates, correctional officers, and others. In 2016, the company spun off the flavor from the Moon Lodge ...
 
 - [This Website Will Self-destruct](https://en.wikipedia.org/w/index.php?title=This_Website_Will_Self-destruct&oldid=1337221021) - This Website Will Self-Destruct was a website created by comic artist FemmeAndroid in April 2020. Created in the midst of the COVID-19 pandemic in 2020 for the Ludum Dare game jam, it was a high concept website with the premise that it would self-destruct if nobody posted on it in a 24-hour period. The website allowed visitors to anonymously submit ...
@@ -2778,6 +2786,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [NameDaisy — Baby Name Explorer](https://namedaisy.com/) - NameDaisy is a free baby name explorer with interactive trend charts, state-by-state maps, and tools to compare names and find similar names to one you love.
+
 - [delphitools](https://delphi.tools/)
 
 - [Birdle](https://www.play-birdle.com/world/)

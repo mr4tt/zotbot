@@ -1,4 +1,8 @@
 # news
+- [Mary Had Schizophrenia—Then Suddenly She Didn’t](https://www.newyorker.com/magazine/2025/07/28/mary-had-schizophrenia-then-suddenly-she-didnt) - Some psychiatric patients may actually have treatable autoimmune conditions. But what happens to the newly sane?
+
+- [Can Anyone Rescue the Trafficked Girls of L.A.’s Figueroa Street?](https://www.nytimes.com/2025/10/26/magazine/sex-trafficking-girls-la-figueroa.html) - Inside the effort to pull minors from ‘the Blade,’ one of the most notorious sex-trafficking corridors in the United States.
+
 - [“The River House Broke. We Rushed in the River.”](https://www.texasmonthly.com/news-politics/texas-flood-firsthand-account/) - The July 4 Texas flooding ripped our Kerr County home from its pillars, pulling us into the water and into the night. Then morning came.
 
 - ['The worst sound in the history of man': How BART trains turned terror in 'Dead Space'](https://www.sfgate.com/entertainment/article/dead-space-sound-effects-bart-train-inspiration-13530076.php) - The piercing, almost other-worldly shrieking of BART trains through the Transbay Tube...

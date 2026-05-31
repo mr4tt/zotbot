@@ -1,4 +1,6 @@
 # misc
+- [NameDaisy — Baby Name Explorer](https://namedaisy.com/) - NameDaisy is a free baby name explorer with interactive trend charts, state-by-state maps, and tools to compare names and find similar names to one you love.
+
 - [delphitools](https://delphi.tools/)
 
 - [Birdle](https://www.play-birdle.com/world/)
