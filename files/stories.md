@@ -1,4 +1,6 @@
 # stories
+- [Lily, the Immortal](https://www.uncannymagazine.com/article/lily-the-immortal/) - In Lily’s last vlog, she says she’s not scared of dying. I know it’s a lie because her gaze drifts off camera and she blinks three times, like there’s something in her eyes. Lily was always a bad liar, but I am a very good editor, so her six-point-five million loyal subscribers never have to […]
+
 - [Johnny Otha Has A Problem](https://www.sundaymorningtransport.com/p/johnny-otha-has-a-problem) - This week’s second story is ALSO free to read due to a clerical error in your favor.
 
 - [Kupu rere kē](http://cordite.org.au/poetry/brownface/kupu-rere-ke/) - My friend was advised to italicise all the foreign words in her poems. This advice came from a well-meaning woman with NZ poetry on her business card and an English accent in her mouth. I have been…

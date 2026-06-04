@@ -1,4 +1,6 @@
 # misc_longform
+- [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/) - AI took the last of the wind out of my Open Source sails. I wish you all the best!
+
 - [Two computers, one monitor, zero fiddling](https://alexplescan.com/posts/2025/08/16/kvm/) - How to switch inputs between desktop and laptop on one monitor using built-in KVM and DDC
 
 - [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) - The internal logic of the world’s strangest corporations

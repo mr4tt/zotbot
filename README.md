@@ -222,6 +222,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/) - AI took the last of the wind out of my Open Source sails. I wish you all the best!
+
 - [Two computers, one monitor, zero fiddling](https://alexplescan.com/posts/2025/08/16/kvm/) - How to switch inputs between desktop and laptop on one monitor using built-in KVM and DDC
 
 - [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) - The internal logic of the world’s strangest corporations
@@ -1527,6 +1529,8 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # stories
+- [Lily, the Immortal](https://www.uncannymagazine.com/article/lily-the-immortal/) - In Lily’s last vlog, she says she’s not scared of dying. I know it’s a lie because her gaze drifts off camera and she blinks three times, like there’s something in her eyes. Lily was always a bad liar, but I am a very good editor, so her six-point-five million loyal subscribers never have to […]
+
 - [Johnny Otha Has A Problem](https://www.sundaymorningtransport.com/p/johnny-otha-has-a-problem) - This week’s second story is ALSO free to read due to a clerical error in your favor.
 
 - [Kupu rere kē](http://cordite.org.au/poetry/brownface/kupu-rere-ke/) - My friend was advised to italicise all the foreign words in her poems. This advice came from a well-meaning woman with NZ poetry on her business card and an English accent in her mouth. I have been…
@@ -2181,6 +2185,10 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Ariane flight V88](https://en.wikipedia.org/w/index.php?title=Ariane_flight_V88&oldid=1354128995) - Ariane flight V88, also known as Ariane 5 Flight 501, was the failed maiden flight of the Arianespace Ariane 5 rocket, vehicle no. 501, on 4 June 1996. It carried the Cluster spacecraft, a constellation of four European Space Agency research satellites.  The launch ended in failure due to multiple errors in the software design: dead code, intended o...
+
+- [Therac-25](https://en.wikipedia.org/w/index.php?title=Therac-25&oldid=1356504531) - The Therac-25 was a computer-controlled radiation therapy machine produced by Atomic Energy of Canada Limited (AECL) in 1982 after the Therac-6 (neptune) and Therac-20 units (the earlier units had been produced in partnership with Compagnie générale de radiologie (CGR) of France). The Therac-25 was involved in at least six incident overdoses of radi...
+
 - [Fordlândia](https://en.wikipedia.org/w/index.php?title=Fordlândia&oldid=1352214037) - Fordlândia is a district and adjacent area of 14,268 square kilometres (5,509 sq mi) in the city of Aveiro, Pará, Brazil. It is located on the east banks of the Tapajós river roughly 300 kilometres (190 mi) south of the city of Santarém. It was established by American industrialist Henry Ford in the Amazon rainforest in 1928 as a prefabricated indus...
 
 - [The Whole Shabang](https://en.wikipedia.org/w/index.php?title=The_Whole_Shabang&oldid=1352930849) - The Whole Shabang is a brand of seasoned potato chips made by the Keefe Group, a food vendor for prison commissary stores. Initially sold in prisons around the United States as Moon Lodge potato chips, they garnered a cult following among former inmates, correctional officers, and others. In 2016, the company spun off the flavor from the Moon Lodge ...
@@ -2786,6 +2794,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Museum of Plugs and Sockets: home page](https://plugsocketmuseum.nl/index.html)
+
 - [NameDaisy — Baby Name Explorer](https://namedaisy.com/) - NameDaisy is a free baby name explorer with interactive trend charts, state-by-state maps, and tools to compare names and find similar names to one you love.
 
 - [delphitools](https://delphi.tools/)
