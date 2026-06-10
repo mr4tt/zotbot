@@ -1,4 +1,8 @@
 # news
+- [Application error: a client-side exception has occurred](https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/)
+
+- [Everest guide survived six-day ordeal by eating chocolate and 'chewing ice'](https://www.bbc.com/news/articles/cn9p91295q8o) - Dawa Sherpa was spotted alive by a cleaning crew as he slid slowly down the world's tallest mountain and spoke to the BBC from hospital.
+
 - [Mary Had Schizophrenia—Then Suddenly She Didn’t](https://www.newyorker.com/magazine/2025/07/28/mary-had-schizophrenia-then-suddenly-she-didnt) - Some psychiatric patients may actually have treatable autoimmune conditions. But what happens to the newly sane?
 
 - [Can Anyone Rescue the Trafficked Girls of L.A.’s Figueroa Street?](https://www.nytimes.com/2025/10/26/magazine/sex-trafficking-girls-la-figueroa.html) - Inside the effort to pull minors from ‘the Blade,’ one of the most notorious sex-trafficking corridors in the United States.

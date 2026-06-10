@@ -996,6 +996,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Advice from my editor](https://www.henrikkarlsson.xyz/p/advice-from-my-editor) - A sculptural representation of JS Bach’s Fugue in E Flat Minor by Henrik Neugeboren
+
 - [The Secret to Success Is ‘Monotasking’](https://www.theatlantic.com/health/2026/05/monotasking-inside-the-box-excerpt-david-epstein/687015/) - In a world full of distractions, getting your brain to focus on one thing at a time requires radical measures.
 
 - [Find the Coaching in Criticism](https://hbr.org/2014/01/find-the-coaching-in-criticism) - Reprint: R1401K Feedback is crucial—but almost everyone, from new hires to C-suite executives, struggles with receiving it. The authors, who have spent 20 years working with managers on difficult conversations, outline six steps that can help you turn feedback into an important, and unthreatening, tool. Know your tendencies. Look for patterns in how...
@@ -1634,6 +1636,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Application error: a client-side exception has occurred](https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/)
+
+- [Everest guide survived six-day ordeal by eating chocolate and 'chewing ice'](https://www.bbc.com/news/articles/cn9p91295q8o) - Dawa Sherpa was spotted alive by a cleaning crew as he slid slowly down the world's tallest mountain and spoke to the BBC from hospital.
+
 - [Mary Had Schizophrenia—Then Suddenly She Didn’t](https://www.newyorker.com/magazine/2025/07/28/mary-had-schizophrenia-then-suddenly-she-didnt) - Some psychiatric patients may actually have treatable autoimmune conditions. But what happens to the newly sane?
 
 - [Can Anyone Rescue the Trafficked Girls of L.A.’s Figueroa Street?](https://www.nytimes.com/2025/10/26/magazine/sex-trafficking-girls-la-figueroa.html) - Inside the effort to pull minors from ‘the Blade,’ one of the most notorious sex-trafficking corridors in the United States.
@@ -2794,6 +2800,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Paper Planes](https://paperplanes.world) - Catch and throw Paper Planes with one another around the world.
+
 - [Museum of Plugs and Sockets: home page](https://plugsocketmuseum.nl/index.html)
 
 - [NameDaisy — Baby Name Explorer](https://namedaisy.com/) - NameDaisy is a free baby name explorer with interactive trend charts, state-by-state maps, and tools to compare names and find similar names to one you love.

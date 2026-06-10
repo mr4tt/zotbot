@@ -1,4 +1,6 @@
 # misc
+- [Paper Planes](https://paperplanes.world) - Catch and throw Paper Planes with one another around the world.
+
 - [Museum of Plugs and Sockets: home page](https://plugsocketmuseum.nl/index.html)
 
 - [NameDaisy — Baby Name Explorer](https://namedaisy.com/) - NameDaisy is a free baby name explorer with interactive trend charts, state-by-state maps, and tools to compare names and find similar names to one you love.
