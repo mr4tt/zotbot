@@ -1,4 +1,6 @@
 # wikipedia
+- [Windshield phenomenon](https://en.wikipedia.org/w/index.php?title=Windshield_phenomenon&oldid=1352507353) - The windshield phenomenon (or windscreen phenomenon) is the observation that fewer dead insects accumulate on the windshields and front bumpers of people's cars since the early 2000s. It has been attributed to a global decrease of insect populations caused by human activity, e.g. use of pesticides.
+
 - [Ariane flight V88](https://en.wikipedia.org/w/index.php?title=Ariane_flight_V88&oldid=1354128995) - Ariane flight V88, also known as Ariane 5 Flight 501, was the failed maiden flight of the Arianespace Ariane 5 rocket, vehicle no. 501, on 4 June 1996. It carried the Cluster spacecraft, a constellation of four European Space Agency research satellites.  The launch ended in failure due to multiple errors in the software design: dead code, intended o...
 
 - [Therac-25](https://en.wikipedia.org/w/index.php?title=Therac-25&oldid=1356504531) - The Therac-25 was a computer-controlled radiation therapy machine produced by Atomic Energy of Canada Limited (AECL) in 1982 after the Therac-6 (neptune) and Therac-20 units (the earlier units had been produced in partnership with Compagnie générale de radiologie (CGR) of France). The Therac-25 was involved in at least six incident overdoses of radi...

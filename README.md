@@ -222,6 +222,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [I Work Very Hard, And I Would Like To Try Cake](https://theonion.com/i-work-very-hard-and-i-would-like-to-try-cake/) - Hello. I am a horse. I work very hard at my job of being a horse. When humans say move the heavy thing, I move the heavy thing. When humans sit on top of me and pull on my head, I carry them where they want to go. The main food the humans give me […]
+
 - [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/) - AI took the last of the wind out of my Open Source sails. I wish you all the best!
 
 - [Two computers, one monitor, zero fiddling](https://alexplescan.com/posts/2025/08/16/kvm/) - How to switch inputs between desktop and laptop on one monitor using built-in KVM and DDC
@@ -835,6 +837,8 @@ To view a single category, check the files/ folder.
 - [there is a rock in my house](https://www.youtube.com/watch?v=5RkzOAlLBg4)
 
 - [ボーカロイドたちがただﾃｯﾃｰﾃﾚｯﾃｰするだけ](https://www.youtube.com/watch?v=-iFEKeULaIo)
+
+- [Exploring Initial Access Methods of Surprisingly Competent Government Employees | SLEUTHCON 2023](https://www.youtube.com/watch?v=LYHmTjFW-nY)
 
 - [Miku World Is Mine But It Gets More Verbose](https://www.youtube.com/watch?v=fiCRhszDHlM)
 
@@ -1636,7 +1640,7 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
-- [Application error: a client-side exception has occurred](https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/)
+- [The Nerdy Escorts Cashing In On Silicon Valley’s AI Boom](https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/) - A small group of high-end companions are charging time-poor technorati thousands an hour by offering a blend of sex, attention and genuine intellectual rapport.
 
 - [Everest guide survived six-day ordeal by eating chocolate and 'chewing ice'](https://www.bbc.com/news/articles/cn9p91295q8o) - Dawa Sherpa was spotted alive by a cleaning crew as he slid slowly down the world's tallest mountain and spoke to the BBC from hospital.
 
@@ -2191,6 +2195,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Windshield phenomenon](https://en.wikipedia.org/w/index.php?title=Windshield_phenomenon&oldid=1352507353) - The windshield phenomenon (or windscreen phenomenon) is the observation that fewer dead insects accumulate on the windshields and front bumpers of people's cars since the early 2000s. It has been attributed to a global decrease of insect populations caused by human activity, e.g. use of pesticides.
+
 - [Ariane flight V88](https://en.wikipedia.org/w/index.php?title=Ariane_flight_V88&oldid=1354128995) - Ariane flight V88, also known as Ariane 5 Flight 501, was the failed maiden flight of the Arianespace Ariane 5 rocket, vehicle no. 501, on 4 June 1996. It carried the Cluster spacecraft, a constellation of four European Space Agency research satellites.  The launch ended in failure due to multiple errors in the software design: dead code, intended o...
 
 - [Therac-25](https://en.wikipedia.org/w/index.php?title=Therac-25&oldid=1356504531) - The Therac-25 was a computer-controlled radiation therapy machine produced by Atomic Energy of Canada Limited (AECL) in 1982 after the Therac-6 (neptune) and Therac-20 units (the earlier units had been produced in partnership with Compagnie générale de radiologie (CGR) of France). The Therac-25 was involved in at least six incident overdoses of radi...
@@ -2801,6 +2807,8 @@ To view a single category, check the files/ folder.
 
 # misc
 - [Paper Planes](https://paperplanes.world) - Catch and throw Paper Planes with one another around the world.
+
+- [Top Brian Moore](https://brianmoore.top) - Is Brian Moore the top Brian Moore result on Google?
 
 - [Museum of Plugs and Sockets: home page](https://plugsocketmuseum.nl/index.html)
 

@@ -1,4 +1,6 @@
 # misc_longform
+- [I Work Very Hard, And I Would Like To Try Cake](https://theonion.com/i-work-very-hard-and-i-would-like-to-try-cake/) - Hello. I am a horse. I work very hard at my job of being a horse. When humans say move the heavy thing, I move the heavy thing. When humans sit on top of me and pull on my head, I carry them where they want to go. The main food the humans give me […]
+
 - [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/) - AI took the last of the wind out of my Open Source sails. I wish you all the best!
 
 - [Two computers, one monitor, zero fiddling](https://alexplescan.com/posts/2025/08/16/kvm/) - How to switch inputs between desktop and laptop on one monitor using built-in KVM and DDC

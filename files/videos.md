@@ -75,6 +75,8 @@
 
 - [ボーカロイドたちがただﾃｯﾃｰﾃﾚｯﾃｰするだけ](https://www.youtube.com/watch?v=-iFEKeULaIo)
 
+- [Exploring Initial Access Methods of Surprisingly Competent Government Employees | SLEUTHCON 2023](https://www.youtube.com/watch?v=LYHmTjFW-nY)
+
 - [Miku World Is Mine But It Gets More Verbose](https://www.youtube.com/watch?v=fiCRhszDHlM)
 
 - [Half-Life: Full Life Consequences](https://www.youtube.com/watch?v=OHxyZaZlaOs)
