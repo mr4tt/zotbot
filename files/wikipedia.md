@@ -1,4 +1,6 @@
 # wikipedia
+- [Quadro Tracker](https://en.wikipedia.org/w/index.php?title=Quadro_Tracker&oldid=1147361556) - The Quadro Tracker, also known as the Positive Molecular Locator, was a fake "detection device" sold by Quadro Corp. of Harleyville, South Carolina between 1993 and 1996. Around 1,000 were sold to police departments and school districts around the United States on the basis that it could detect hidden drugs, explosives, weapons and lost golf balls. ...
+
 - [Windshield phenomenon](https://en.wikipedia.org/w/index.php?title=Windshield_phenomenon&oldid=1352507353) - The windshield phenomenon (or windscreen phenomenon) is the observation that fewer dead insects accumulate on the windshields and front bumpers of people's cars since the early 2000s. It has been attributed to a global decrease of insect populations caused by human activity, e.g. use of pesticides.
 
 - [Ariane flight V88](https://en.wikipedia.org/w/index.php?title=Ariane_flight_V88&oldid=1354128995) - Ariane flight V88, also known as Ariane 5 Flight 501, was the failed maiden flight of the Arianespace Ariane 5 rocket, vehicle no. 501, on 4 June 1996. It carried the Cluster spacecraft, a constellation of four European Space Agency research satellites.  The launch ended in failure due to multiple errors in the software design: dead code, intended o...

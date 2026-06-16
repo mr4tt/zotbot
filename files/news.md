@@ -1,4 +1,8 @@
 # news
+- [Matchmakers Are Being Paid $25K to Find Trad Wives for Rich Men](https://www.wired.com/story/matchmakers-are-being-paid-dollar25k-to-find-trad-wives-for-rich-men/) - Even in blue states, nonreligious tech entrepreneurs and CEOs are increasingly asking for “traditional” and “conservative” women, matchmakers tell WIRED.
+
+- [The IRS' Case of Missing Children](https://www.latimes.com/archives/la-xpm-1989-12-11-me-33-story.html) - A funny thing happened in 1987 when, for the first time, the Internal Revenue Service required taxpayers to list the Social Security numbers for children age 5 and over they were claiming as dependents.
+
 - [The Nerdy Escorts Cashing In On Silicon Valley’s AI Boom](https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/) - A small group of high-end companions are charging time-poor technorati thousands an hour by offering a blend of sex, attention and genuine intellectual rapport.
 
 - [Everest guide survived six-day ordeal by eating chocolate and 'chewing ice'](https://www.bbc.com/news/articles/cn9p91295q8o) - Dawa Sherpa was spotted alive by a cleaning crew as he slid slowly down the world's tallest mountain and spoke to the BBC from hospital.

@@ -1640,6 +1640,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Matchmakers Are Being Paid $25K to Find Trad Wives for Rich Men](https://www.wired.com/story/matchmakers-are-being-paid-dollar25k-to-find-trad-wives-for-rich-men/) - Even in blue states, nonreligious tech entrepreneurs and CEOs are increasingly asking for “traditional” and “conservative” women, matchmakers tell WIRED.
+
+- [The IRS' Case of Missing Children](https://www.latimes.com/archives/la-xpm-1989-12-11-me-33-story.html) - A funny thing happened in 1987 when, for the first time, the Internal Revenue Service required taxpayers to list the Social Security numbers for children age 5 and over they were claiming as dependents.
+
 - [The Nerdy Escorts Cashing In On Silicon Valley’s AI Boom](https://www.forbes.com/sites/annatong/2026/06/07/the-nerdy-escorts-cashing-in-on-silicon-valleys-ai-boom/) - A small group of high-end companions are charging time-poor technorati thousands an hour by offering a blend of sex, attention and genuine intellectual rapport.
 
 - [Everest guide survived six-day ordeal by eating chocolate and 'chewing ice'](https://www.bbc.com/news/articles/cn9p91295q8o) - Dawa Sherpa was spotted alive by a cleaning crew as he slid slowly down the world's tallest mountain and spoke to the BBC from hospital.
@@ -2195,6 +2199,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Quadro Tracker](https://en.wikipedia.org/w/index.php?title=Quadro_Tracker&oldid=1147361556) - The Quadro Tracker, also known as the Positive Molecular Locator, was a fake "detection device" sold by Quadro Corp. of Harleyville, South Carolina between 1993 and 1996. Around 1,000 were sold to police departments and school districts around the United States on the basis that it could detect hidden drugs, explosives, weapons and lost golf balls. ...
+
 - [Windshield phenomenon](https://en.wikipedia.org/w/index.php?title=Windshield_phenomenon&oldid=1352507353) - The windshield phenomenon (or windscreen phenomenon) is the observation that fewer dead insects accumulate on the windshields and front bumpers of people's cars since the early 2000s. It has been attributed to a global decrease of insect populations caused by human activity, e.g. use of pesticides.
 
 - [Ariane flight V88](https://en.wikipedia.org/w/index.php?title=Ariane_flight_V88&oldid=1354128995) - Ariane flight V88, also known as Ariane 5 Flight 501, was the failed maiden flight of the Arianespace Ariane 5 rocket, vehicle no. 501, on 4 June 1996. It carried the Cluster spacecraft, a constellation of four European Space Agency research satellites.  The launch ended in failure due to multiple errors in the software design: dead code, intended o...
