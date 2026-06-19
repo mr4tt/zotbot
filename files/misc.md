@@ -1,4 +1,6 @@
 # misc
+- [putt.day](https://putt.day/play) - One hole of mini golf a day. Same hole for everyone.
+
 - [Paper Planes](https://paperplanes.world) - Catch and throw Paper Planes with one another around the world.
 
 - [Top Brian Moore](https://brianmoore.top) - Is Brian Moore the top Brian Moore result on Google?
