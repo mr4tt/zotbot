@@ -1,4 +1,6 @@
 # misc_longform
+- [Where to Find the Colors Your Screen Can’t Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/) - An atlas of the vibrance of the real world
+
 - [I Work Very Hard, And I Would Like To Try Cake](https://theonion.com/i-work-very-hard-and-i-would-like-to-try-cake/) - Hello. I am a horse. I work very hard at my job of being a horse. When humans say move the heavy thing, I move the heavy thing. When humans sit on top of me and pull on my head, I carry them where they want to go. The main food the humans give me […]
 
 - [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/) - AI took the last of the wind out of my Open Source sails. I wish you all the best!

@@ -222,6 +222,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Where to Find the Colors Your Screen Can’t Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/) - An atlas of the vibrance of the real world
+
 - [I Work Very Hard, And I Would Like To Try Cake](https://theonion.com/i-work-very-hard-and-i-would-like-to-try-cake/) - Hello. I am a horse. I work very hard at my job of being a horse. When humans say move the heavy thing, I move the heavy thing. When humans sit on top of me and pull on my head, I carry them where they want to go. The main food the humans give me […]
 
 - [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/) - AI took the last of the wind out of my Open Source sails. I wish you all the best!
@@ -762,6 +764,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [The secret battle for the NBA's first Chinese player](https://youtube.com/watch?v=iIhLiIkv0Z0)
+
 - [Ice Cream Tester ORIGINAL](https://youtube.com/watch?v=4b6bTNloKlw)
 
 - [Doorbell cam captures moment Paul Milgrom finds out he has won the Nobel prize for economics](https://www.youtube.com/watch?v=JhfDyBLRnrM)

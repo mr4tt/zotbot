@@ -1,4 +1,6 @@
 # videos
+- [The secret battle for the NBA's first Chinese player](https://youtube.com/watch?v=iIhLiIkv0Z0)
+
 - [Ice Cream Tester ORIGINAL](https://youtube.com/watch?v=4b6bTNloKlw)
 
 - [Doorbell cam captures moment Paul Milgrom finds out he has won the Nobel prize for economics](https://www.youtube.com/watch?v=JhfDyBLRnrM)
