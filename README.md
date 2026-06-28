@@ -222,6 +222,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [How Toy Story 2 was accidentally deleted by one Pixar employee.](https://www.creativebloq.com/art/animation/the-day-pixar-accidentally-deleted-toy-story-2) - Witnesses watched in horror as files deleted – going from 40 to four.
+
 - [Where to Find the Colors Your Screen Can’t Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/) - An atlas of the vibrance of the real world
 
 - [I Work Very Hard, And I Would Like To Try Cake](https://theonion.com/i-work-very-hard-and-i-would-like-to-try-cake/) - Hello. I am a horse. I work very hard at my job of being a horse. When humans say move the heavy thing, I move the heavy thing. When humans sit on top of me and pull on my head, I carry them where they want to go. The main food the humans give me […]
@@ -1644,6 +1646,16 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The Atlantic](https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/) - The Atlantic covers news, politics, culture, technology, health, and more, through its articles, podcasts, videos, and flagship magazine.
+
+- [(S+) The Mystery of Michele: A Missing Woman from Germany Reappears in the Epstein Files](https://www.spiegel.de/international/world/the-mystery-of-michele-a-missing-woman-from-germany-reappears-in-the-epstein-files-a-835c0c91-620c-4fd0-ac49-9870fe160108) - A young woman from Germany vanished without a trace 11 years ago. Now, her name makes several appearances in the Epstein files. Her family wants to finally learn what happened to her.
+
+- [Beyond Plastics Tracked Starbucks’ ‘Widely Recyclable’ Plastic Cups. None Ended Up at a Recycling Facility.](https://www.beyondplastics.org/press-releases/starbucks-cups-recyclable-report) - A three-month national investigation by Beyond Plastics found that not a single tracked Starbucks cold-beverage cup ended up at a recycling facility — even when the cups were placed in clearly marked recycling bins inside Starbucks stores.
+
+- [I spent a day with TikTok's 'computa' guy. Here is what happens when he turns his glasses on you.](https://www.businessinsider.com/computah-guy-tiktok-meta-ray-bans-2026-6) - I met up with "Computa," aka "Computah." He programs people with Meta Ray-Bans. It was wild—and now I see why he's so popular.
+
+- [Application error: a client-side exception has occurred](https://www.wsj.com/business/media/we-investigated-polymarkets-deceptive-marketing-campaign-heres-what-we-found-51169858)
+
 - [Matchmakers Are Being Paid $25K to Find Trad Wives for Rich Men](https://www.wired.com/story/matchmakers-are-being-paid-dollar25k-to-find-trad-wives-for-rich-men/) - Even in blue states, nonreligious tech entrepreneurs and CEOs are increasingly asking for “traditional” and “conservative” women, matchmakers tell WIRED.
 
 - [The IRS' Case of Missing Children](https://www.latimes.com/archives/la-xpm-1989-12-11-me-33-story.html) - A funny thing happened in 1987 when, for the first time, the Internal Revenue Service required taxpayers to list the Social Security numbers for children age 5 and over they were claiming as dependents.
@@ -2816,6 +2828,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [date MATH by akuicia](https://akuicia.itch.io/date-math) - a dating simulator where you can romance mathematical concepts
+
 - [putt.day](https://putt.day/play) - One hole of mini golf a day. Same hole for everyone.
 
 - [Paper Planes](https://paperplanes.world) - Catch and throw Paper Planes with one another around the world.

@@ -1,4 +1,6 @@
 # misc
+- [date MATH by akuicia](https://akuicia.itch.io/date-math) - a dating simulator where you can romance mathematical concepts
+
 - [putt.day](https://putt.day/play) - One hole of mini golf a day. Same hole for everyone.
 
 - [Paper Planes](https://paperplanes.world) - Catch and throw Paper Planes with one another around the world.

@@ -1,4 +1,6 @@
 # misc_longform
+- [How Toy Story 2 was accidentally deleted by one Pixar employee.](https://www.creativebloq.com/art/animation/the-day-pixar-accidentally-deleted-toy-story-2) - Witnesses watched in horror as files deleted – going from 40 to four.
+
 - [Where to Find the Colors Your Screen Can’t Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/) - An atlas of the vibrance of the real world
 
 - [I Work Very Hard, And I Would Like To Try Cake](https://theonion.com/i-work-very-hard-and-i-would-like-to-try-cake/) - Hello. I am a horse. I work very hard at my job of being a horse. When humans say move the heavy thing, I move the heavy thing. When humans sit on top of me and pull on my head, I carry them where they want to go. The main food the humans give me […]
