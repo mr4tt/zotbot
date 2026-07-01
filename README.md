@@ -1646,6 +1646,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Trash fish? More like some of the oldest — and most important — species in Minnesota. • Minnesota Reformer](https://minnesotareformer.com/2026/06/22/trash-fish-more-like-some-of-the-oldest-species-in-minnesota-and-ecologically-important/) - Until recently, these species were all classified as “rough fish,” or “trash fish.” None of them had limits or protections, and due to an outdated, frontier mentality toward wildlife in the water, they could be killed en masse with no consequences.
+
+- [When a sextortion victim fights back](https://www.malwarebytes.com/blog/news/2022/08/when-a-sextortion-victim-fights-back) - A college student fell victim to a Snapchat sextortion scheme. With a friend's help, she 'hacked back' and sent him to jail.
+
 - [The Atlantic](https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/) - The Atlantic covers news, politics, culture, technology, health, and more, through its articles, podcasts, videos, and flagship magazine.
 
 - [(S+) The Mystery of Michele: A Missing Woman from Germany Reappears in the Epstein Files](https://www.spiegel.de/international/world/the-mystery-of-michele-a-missing-woman-from-germany-reappears-in-the-epstein-files-a-835c0c91-620c-4fd0-ac49-9870fe160108) - A young woman from Germany vanished without a trace 11 years ago. Now, her name makes several appearances in the Epstein files. Her family wants to finally learn what happened to her.
@@ -2828,6 +2832,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Porky's Devil Machine](https://sillysphere.com/porky) - Cool Earthbound/Mother 2 fansite.
+
 - [date MATH by akuicia](https://akuicia.itch.io/date-math) - a dating simulator where you can romance mathematical concepts
 
 - [putt.day](https://putt.day/play) - One hole of mini golf a day. Same hole for everyone.

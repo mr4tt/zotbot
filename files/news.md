@@ -1,4 +1,8 @@
 # news
+- [Trash fish? More like some of the oldest — and most important — species in Minnesota. • Minnesota Reformer](https://minnesotareformer.com/2026/06/22/trash-fish-more-like-some-of-the-oldest-species-in-minnesota-and-ecologically-important/) - Until recently, these species were all classified as “rough fish,” or “trash fish.” None of them had limits or protections, and due to an outdated, frontier mentality toward wildlife in the water, they could be killed en masse with no consequences.
+
+- [When a sextortion victim fights back](https://www.malwarebytes.com/blog/news/2022/08/when-a-sextortion-victim-fights-back) - A college student fell victim to a Snapchat sextortion scheme. With a friend's help, she 'hacked back' and sent him to jail.
+
 - [The Atlantic](https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/) - The Atlantic covers news, politics, culture, technology, health, and more, through its articles, podcasts, videos, and flagship magazine.
 
 - [(S+) The Mystery of Michele: A Missing Woman from Germany Reappears in the Epstein Files](https://www.spiegel.de/international/world/the-mystery-of-michele-a-missing-woman-from-germany-reappears-in-the-epstein-files-a-835c0c91-620c-4fd0-ac49-9870fe160108) - A young woman from Germany vanished without a trace 11 years ago. Now, her name makes several appearances in the Epstein files. Her family wants to finally learn what happened to her.

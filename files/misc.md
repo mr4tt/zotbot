@@ -1,4 +1,6 @@
 # misc
+- [Porky's Devil Machine](https://sillysphere.com/porky) - Cool Earthbound/Mother 2 fansite.
+
 - [date MATH by akuicia](https://akuicia.itch.io/date-math) - a dating simulator where you can romance mathematical concepts
 
 - [putt.day](https://putt.day/play) - One hole of mini golf a day. Same hole for everyone.
