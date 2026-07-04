@@ -1,9 +1,25 @@
 # news
+- [The Paperboy’s Secret](https://www.newyorker.com/magazine/2026/06/08/the-paperboys-secret) - In boyhood, guilt was a constant companion. I stopped mentioning the quarters that Mr. Wood put into my pocket.
+
+- [A Marilyn Monroe-J.F.K. Mystery](https://www.newyorker.com/magazine/1997/11/03/john-f-kennedy-marilyn-monroe-documents-case) - The son of a distinguished lawyer claimed that he’d discovered evidence of a secret legal agreement between the actress and the President. Was it real?
+
+- [The Saintly Sinner](https://www.newyorker.com/magazine/2006/02/13/the-saintly-sinner) - The two-thousand-year obsession with Mary Magdalene.
+
+- [Goose, a New Gay Dating App, Appears to Be a Psyop](https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/) - Touted as a less-hookup-focused Grindr, Goose is an invite-only space for gay men. The problem is the people promoting it don’t seem real.
+
+- [I got inside a North Korean hiring scam. What I found reveals a troubling shift in tactics](https://indicator.media/p/i-got-inside-a-north-korean-hiring-scam-what-i-found-reveals-a-troubling-shift-in-tactics) - DPRK hackers hired unwitting freelancers in the Philippines, Nigeria, and Colombia to put a human face on a malware operation — and make fake companies feel real.
+
+- [We Investigated Polymarket’s Deceptive Marketing Campaign. Here’s What We Found.](https://www.wsj.com/business/media/we-investigated-polymarkets-deceptive-marketing-campaign-heres-what-we-found-51169858) - The promotion bolstered the perception that Polymarket lets users make fast and easy money.
+
+- [The Millions of Songs Mashed Into AI-Generated Music](https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/) - Explore the astonishing amount of music available to AI developers.
+
+- [The Spreading, Game-Changing Technology To Avoid Killing Male Chicks](https://www.forbes.com/sites/christinero/2026/06/11/the-spreading-game-changing-technology-to-avoid-killing-male-chicks/) - Most people don't know about the hundreds of millions of male chicks killed in U.S. egg production every year. But now those killings are completely unnecessary.
+
+- [Japan asked the international media to change how we write their names. No one listened | CNN Business](https://www.cnn.com/2020/03/23/media/japan-abe-shinzo-name-intl-hnk) - In a full-page spread on March 2, 1979, the Los Angeles Times introduced its readers to Pinyin, a Chinese romanization system it said was changing the “familiar map of China.”
+
 - [Trash fish? More like some of the oldest — and most important — species in Minnesota. • Minnesota Reformer](https://minnesotareformer.com/2026/06/22/trash-fish-more-like-some-of-the-oldest-species-in-minnesota-and-ecologically-important/) - Until recently, these species were all classified as “rough fish,” or “trash fish.” None of them had limits or protections, and due to an outdated, frontier mentality toward wildlife in the water, they could be killed en masse with no consequences.
 
 - [When a sextortion victim fights back](https://www.malwarebytes.com/blog/news/2022/08/when-a-sextortion-victim-fights-back) - A college student fell victim to a Snapchat sextortion scheme. With a friend's help, she 'hacked back' and sent him to jail.
-
-- [The Atlantic](https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/) - The Atlantic covers news, politics, culture, technology, health, and more, through its articles, podcasts, videos, and flagship magazine.
 
 - [(S+) The Mystery of Michele: A Missing Woman from Germany Reappears in the Epstein Files](https://www.spiegel.de/international/world/the-mystery-of-michele-a-missing-woman-from-germany-reappears-in-the-epstein-files-a-835c0c91-620c-4fd0-ac49-9870fe160108) - A young woman from Germany vanished without a trace 11 years ago. Now, her name makes several appearances in the Epstein files. Her family wants to finally learn what happened to her.
 
@@ -11,7 +27,7 @@
 
 - [I spent a day with TikTok's 'computa' guy. Here is what happens when he turns his glasses on you.](https://www.businessinsider.com/computah-guy-tiktok-meta-ray-bans-2026-6) - I met up with "Computa," aka "Computah." He programs people with Meta Ray-Bans. It was wild—and now I see why he's so popular.
 
-- [Application error: a client-side exception has occurred](https://www.wsj.com/business/media/we-investigated-polymarkets-deceptive-marketing-campaign-heres-what-we-found-51169858)
+- [Why do these Castro gay bars have TSA-style face scanners?](https://sf.gazetteer.co/why-do-these-castro-gay-bars-have-tsa-style-face-scanners) - A handful of neighborhood bars have installed facial recognition devices that collect and share customers’ names, addresses, genders, and indiscretions with each other
 
 - [Matchmakers Are Being Paid $25K to Find Trad Wives for Rich Men](https://www.wired.com/story/matchmakers-are-being-paid-dollar25k-to-find-trad-wives-for-rich-men/) - Even in blue states, nonreligious tech entrepreneurs and CEOs are increasingly asking for “traditional” and “conservative” women, matchmakers tell WIRED.
 

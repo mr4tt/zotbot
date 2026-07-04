@@ -226,6 +226,8 @@ To view a single category, check the files/ folder.
 
 - [Where to Find the Colors Your Screen Can’t Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/) - An atlas of the vibrance of the real world
 
+- [How Does My Divorce Make You Feel?](https://www.thecut.com/article/lilly-jay-divorce-essay-therapy.html) - As a therapist, I try to keep my personal life private. After my public split, that was no longer in my control.
+
 - [I Work Very Hard, And I Would Like To Try Cake](https://theonion.com/i-work-very-hard-and-i-would-like-to-try-cake/) - Hello. I am a horse. I work very hard at my job of being a horse. When humans say move the heavy thing, I move the heavy thing. When humans sit on top of me and pull on my head, I carry them where they want to go. The main food the humans give me […]
 
 - [I Am Retiring from Tech to Live Offline](https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/) - AI took the last of the wind out of my Open Source sails. I wish you all the best!
@@ -766,7 +768,7 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
-- [The secret battle for the NBA's first Chinese player](https://youtube.com/watch?v=iIhLiIkv0Z0)
+- [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/@cncf)
 
 - [Ice Cream Tester ORIGINAL](https://youtube.com/watch?v=4b6bTNloKlw)
 
@@ -787,8 +789,6 @@ To view a single category, check the files/ folder.
 - [The Trap of Oversimplification](https://youtube.com/watch?v=lme9X2pf990)
 
 - [Keio Inokashira Line with the sound coming out of your mouth](https://youtube.com/watch?v=CrwpUN_kcE8)
-
-- [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/@cncf)
 
 - [Stronger Than You - Anomalocaris Response](https://youtube.com/watch?v=UzHnQN8u6zs)
 
@@ -1646,11 +1646,27 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The Paperboy’s Secret](https://www.newyorker.com/magazine/2026/06/08/the-paperboys-secret) - In boyhood, guilt was a constant companion. I stopped mentioning the quarters that Mr. Wood put into my pocket.
+
+- [A Marilyn Monroe-J.F.K. Mystery](https://www.newyorker.com/magazine/1997/11/03/john-f-kennedy-marilyn-monroe-documents-case) - The son of a distinguished lawyer claimed that he’d discovered evidence of a secret legal agreement between the actress and the President. Was it real?
+
+- [The Saintly Sinner](https://www.newyorker.com/magazine/2006/02/13/the-saintly-sinner) - The two-thousand-year obsession with Mary Magdalene.
+
+- [Goose, a New Gay Dating App, Appears to Be a Psyop](https://www.wired.com/story/goose-a-new-gay-dating-app-appears-to-be-a-psyop/) - Touted as a less-hookup-focused Grindr, Goose is an invite-only space for gay men. The problem is the people promoting it don’t seem real.
+
+- [I got inside a North Korean hiring scam. What I found reveals a troubling shift in tactics](https://indicator.media/p/i-got-inside-a-north-korean-hiring-scam-what-i-found-reveals-a-troubling-shift-in-tactics) - DPRK hackers hired unwitting freelancers in the Philippines, Nigeria, and Colombia to put a human face on a malware operation — and make fake companies feel real.
+
+- [We Investigated Polymarket’s Deceptive Marketing Campaign. Here’s What We Found.](https://www.wsj.com/business/media/we-investigated-polymarkets-deceptive-marketing-campaign-heres-what-we-found-51169858) - The promotion bolstered the perception that Polymarket lets users make fast and easy money.
+
+- [The Millions of Songs Mashed Into AI-Generated Music](https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/) - Explore the astonishing amount of music available to AI developers.
+
+- [The Spreading, Game-Changing Technology To Avoid Killing Male Chicks](https://www.forbes.com/sites/christinero/2026/06/11/the-spreading-game-changing-technology-to-avoid-killing-male-chicks/) - Most people don't know about the hundreds of millions of male chicks killed in U.S. egg production every year. But now those killings are completely unnecessary.
+
+- [Japan asked the international media to change how we write their names. No one listened | CNN Business](https://www.cnn.com/2020/03/23/media/japan-abe-shinzo-name-intl-hnk) - In a full-page spread on March 2, 1979, the Los Angeles Times introduced its readers to Pinyin, a Chinese romanization system it said was changing the “familiar map of China.”
+
 - [Trash fish? More like some of the oldest — and most important — species in Minnesota. • Minnesota Reformer](https://minnesotareformer.com/2026/06/22/trash-fish-more-like-some-of-the-oldest-species-in-minnesota-and-ecologically-important/) - Until recently, these species were all classified as “rough fish,” or “trash fish.” None of them had limits or protections, and due to an outdated, frontier mentality toward wildlife in the water, they could be killed en masse with no consequences.
 
 - [When a sextortion victim fights back](https://www.malwarebytes.com/blog/news/2022/08/when-a-sextortion-victim-fights-back) - A college student fell victim to a Snapchat sextortion scheme. With a friend's help, she 'hacked back' and sent him to jail.
-
-- [The Atlantic](https://www.theatlantic.com/technology/2026/06/ai-music-generators-suno-google-udio/687485/) - The Atlantic covers news, politics, culture, technology, health, and more, through its articles, podcasts, videos, and flagship magazine.
 
 - [(S+) The Mystery of Michele: A Missing Woman from Germany Reappears in the Epstein Files](https://www.spiegel.de/international/world/the-mystery-of-michele-a-missing-woman-from-germany-reappears-in-the-epstein-files-a-835c0c91-620c-4fd0-ac49-9870fe160108) - A young woman from Germany vanished without a trace 11 years ago. Now, her name makes several appearances in the Epstein files. Her family wants to finally learn what happened to her.
 
@@ -1658,7 +1674,7 @@ To view a single category, check the files/ folder.
 
 - [I spent a day with TikTok's 'computa' guy. Here is what happens when he turns his glasses on you.](https://www.businessinsider.com/computah-guy-tiktok-meta-ray-bans-2026-6) - I met up with "Computa," aka "Computah." He programs people with Meta Ray-Bans. It was wild—and now I see why he's so popular.
 
-- [Application error: a client-side exception has occurred](https://www.wsj.com/business/media/we-investigated-polymarkets-deceptive-marketing-campaign-heres-what-we-found-51169858)
+- [Why do these Castro gay bars have TSA-style face scanners?](https://sf.gazetteer.co/why-do-these-castro-gay-bars-have-tsa-style-face-scanners) - A handful of neighborhood bars have installed facial recognition devices that collect and share customers’ names, addresses, genders, and indiscretions with each other
 
 - [Matchmakers Are Being Paid $25K to Find Trad Wives for Rich Men](https://www.wired.com/story/matchmakers-are-being-paid-dollar25k-to-find-trad-wives-for-rich-men/) - Even in blue states, nonreligious tech entrepreneurs and CEOs are increasingly asking for “traditional” and “conservative” women, matchmakers tell WIRED.
 
@@ -2219,6 +2235,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Null Island](https://en.wikipedia.org/w/index.php?title=Null_Island&oldid=1361260088) - Null Island is the location at zero degrees latitude and zero degrees longitude (0°N 0°E), i.e., where the prime meridian and the equator intersect in the Atlantic Ocean near the Gulf of Guinea. Since there is no landmass located at these coordinates, it is not an actual island. The name is often used in mapping software as a placeholder to help fin...
+
 - [Quadro Tracker](https://en.wikipedia.org/w/index.php?title=Quadro_Tracker&oldid=1147361556) - The Quadro Tracker, also known as the Positive Molecular Locator, was a fake "detection device" sold by Quadro Corp. of Harleyville, South Carolina between 1993 and 1996. Around 1,000 were sold to police departments and school districts around the United States on the basis that it could detect hidden drugs, explosives, weapons and lost golf balls. ...
 
 - [Windshield phenomenon](https://en.wikipedia.org/w/index.php?title=Windshield_phenomenon&oldid=1352507353) - The windshield phenomenon (or windscreen phenomenon) is the observation that fewer dead insects accumulate on the windshields and front bumpers of people's cars since the early 2000s. It has been attributed to a global decrease of insect populations caused by human activity, e.g. use of pesticides.

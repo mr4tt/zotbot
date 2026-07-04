@@ -1,5 +1,5 @@
 # videos
-- [The secret battle for the NBA's first Chinese player](https://youtube.com/watch?v=iIhLiIkv0Z0)
+- [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/@cncf)
 
 - [Ice Cream Tester ORIGINAL](https://youtube.com/watch?v=4b6bTNloKlw)
 
@@ -20,8 +20,6 @@
 - [The Trap of Oversimplification](https://youtube.com/watch?v=lme9X2pf990)
 
 - [Keio Inokashira Line with the sound coming out of your mouth](https://youtube.com/watch?v=CrwpUN_kcE8)
-
-- [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/@cncf)
 
 - [Stronger Than You - Anomalocaris Response](https://youtube.com/watch?v=UzHnQN8u6zs)
 
