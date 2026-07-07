@@ -1,4 +1,6 @@
 # general_resources
+- [Bicycle School | A comprehensive guide to road riding](https://bestrides.org/bikeschool/)
+
 - [Advice from my editor](https://www.henrikkarlsson.xyz/p/advice-from-my-editor) - A sculptural representation of JS Bach’s Fugue in E Flat Minor by Henrik Neugeboren
 
 - [The Secret to Success Is ‘Monotasking’](https://www.theatlantic.com/health/2026/05/monotasking-inside-the-box-excerpt-david-epstein/687015/) - In a world full of distractions, getting your brain to focus on one thing at a time requires radical measures.

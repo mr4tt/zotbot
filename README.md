@@ -222,6 +222,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [The Fall and Rise of Screwworm](https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm) - Every spring, as sure as the seasons, and for generations unknown, screwworms began their annual march northward from their overwintering sanctuaries in Mexico and South Texas.
+
 - [How Toy Story 2 was accidentally deleted by one Pixar employee.](https://www.creativebloq.com/art/animation/the-day-pixar-accidentally-deleted-toy-story-2) - Witnesses watched in horror as files deleted – going from 40 to four.
 
 - [Where to Find the Colors Your Screen Can’t Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/) - An atlas of the vibrance of the real world
@@ -1006,6 +1008,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Bicycle School | A comprehensive guide to road riding](https://bestrides.org/bikeschool/)
+
 - [Advice from my editor](https://www.henrikkarlsson.xyz/p/advice-from-my-editor) - A sculptural representation of JS Bach’s Fugue in E Flat Minor by Henrik Neugeboren
 
 - [The Secret to Success Is ‘Monotasking’](https://www.theatlantic.com/health/2026/05/monotasking-inside-the-box-excerpt-david-epstein/687015/) - In a world full of distractions, getting your brain to focus on one thing at a time requires radical measures.
@@ -1264,6 +1268,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [Oh Shit, Git!?!](https://ohshitgit.com/)
+
 - [API Improvement Proposals](https://google.aip.dev/)
 
 - [Logging Sucks - Your Logs Are Lying To You](https://loggingsucks.com) - Why traditional logging fails and how wide events can fix your observability
@@ -1646,6 +1652,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [When stoned, even worms get the munchies, UO research shows](https://news.uoregon.edu/content/when-stoned-even-worms-get-munchies-uo-research-shows) - The study finds they could be a good model for probing the endocannabinoid system
+
 - [The Paperboy’s Secret](https://www.newyorker.com/magazine/2026/06/08/the-paperboys-secret) - In boyhood, guilt was a constant companion. I stopped mentioning the quarters that Mr. Wood put into my pocket.
 
 - [A Marilyn Monroe-J.F.K. Mystery](https://www.newyorker.com/magazine/1997/11/03/john-f-kennedy-marilyn-monroe-documents-case) - The son of a distinguished lawyer claimed that he’d discovered evidence of a secret legal agreement between the actress and the President. Was it real?
@@ -2850,6 +2858,10 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Storied Colors](https://storiedcolors.com/) - Storied Colors: named colors with documented histories.
+
+- [Cheese Paper](https://brie.gay/cheese-paper/) - Organized text editor for writing fiction
+
 - [Porky's Devil Machine](https://sillysphere.com/porky) - Cool Earthbound/Mother 2 fansite.
 
 - [date MATH by akuicia](https://akuicia.itch.io/date-math) - a dating simulator where you can romance mathematical concepts

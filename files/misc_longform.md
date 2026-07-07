@@ -1,4 +1,6 @@
 # misc_longform
+- [The Fall and Rise of Screwworm](https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm) - Every spring, as sure as the seasons, and for generations unknown, screwworms began their annual march northward from their overwintering sanctuaries in Mexico and South Texas.
+
 - [How Toy Story 2 was accidentally deleted by one Pixar employee.](https://www.creativebloq.com/art/animation/the-day-pixar-accidentally-deleted-toy-story-2) - Witnesses watched in horror as files deleted – going from 40 to four.
 
 - [Where to Find the Colors Your Screen Can’t Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/) - An atlas of the vibrance of the real world

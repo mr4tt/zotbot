@@ -1,4 +1,8 @@
 # misc
+- [Storied Colors](https://storiedcolors.com/) - Storied Colors: named colors with documented histories.
+
+- [Cheese Paper](https://brie.gay/cheese-paper/) - Organized text editor for writing fiction
+
 - [Porky's Devil Machine](https://sillysphere.com/porky) - Cool Earthbound/Mother 2 fansite.
 
 - [date MATH by akuicia](https://akuicia.itch.io/date-math) - a dating simulator where you can romance mathematical concepts

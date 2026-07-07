@@ -1,4 +1,6 @@
 # computing_resources
+- [Oh Shit, Git!?!](https://ohshitgit.com/)
+
 - [API Improvement Proposals](https://google.aip.dev/)
 
 - [Logging Sucks - Your Logs Are Lying To You](https://loggingsucks.com) - Why traditional logging fails and how wide events can fix your observability

@@ -1,4 +1,6 @@
 # news
+- [When stoned, even worms get the munchies, UO research shows](https://news.uoregon.edu/content/when-stoned-even-worms-get-munchies-uo-research-shows) - The study finds they could be a good model for probing the endocannabinoid system
+
 - [The Paperboy’s Secret](https://www.newyorker.com/magazine/2026/06/08/the-paperboys-secret) - In boyhood, guilt was a constant companion. I stopped mentioning the quarters that Mr. Wood put into my pocket.
 
 - [A Marilyn Monroe-J.F.K. Mystery](https://www.newyorker.com/magazine/1997/11/03/john-f-kennedy-marilyn-monroe-documents-case) - The son of a distinguished lawyer claimed that he’d discovered evidence of a secret legal agreement between the actress and the President. Was it real?
