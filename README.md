@@ -222,6 +222,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Inside Long Island's Decommissioned Nuclear Power Plant](https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/) - Driving on Route-25a through East Shoreham, you’d never guess there was anything unusual about the gated road heading off toward the coast. But go down a ways… …and suddenly, it’ll appear through the trees… Long Island’s only nuclear power plant, closed and shuttered since it was decommissioned in 1994. Today, it sits completely empty, a […]
+
 - [The Fall and Rise of Screwworm](https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm) - Every spring, as sure as the seasons, and for generations unknown, screwworms began their annual march northward from their overwintering sanctuaries in Mexico and South Texas.
 
 - [How Toy Story 2 was accidentally deleted by one Pixar employee.](https://www.creativebloq.com/art/animation/the-day-pixar-accidentally-deleted-toy-story-2) - Witnesses watched in horror as files deleted – going from 40 to four.
@@ -771,6 +773,8 @@ To view a single category, check the files/ folder.
 
 # videos
 - [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/@cncf)
+
+- [The secret battle for the NBA's first Chinese player](https://youtube.com/watch?v=iIhLiIkv0Z0)
 
 - [Ice Cream Tester ORIGINAL](https://youtube.com/watch?v=4b6bTNloKlw)
 
