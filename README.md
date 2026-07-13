@@ -772,6 +772,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [The REAL Story Behind the LAX People Mover Fiasco](https://www.youtube.com/watch?v=3FOZ7R9bUBA)
+
 - [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/@cncf)
 
 - [The secret battle for the NBA's first Chinese player](https://youtube.com/watch?v=iIhLiIkv0Z0)
@@ -1656,6 +1658,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [How Terrorist Groups Are Using A.I. to Gain an Edge in Battle](https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html) - A.I. chatbots are not just a propaganda tool for violent extremists but are aiding in bomb construction and attack planning, new research finds.
+
 - [When stoned, even worms get the munchies, UO research shows](https://news.uoregon.edu/content/when-stoned-even-worms-get-munchies-uo-research-shows) - The study finds they could be a good model for probing the endocannabinoid system
 
 - [The Paperboy’s Secret](https://www.newyorker.com/magazine/2026/06/08/the-paperboys-secret) - In boyhood, guilt was a constant companion. I stopped mentioning the quarters that Mr. Wood put into my pocket.
@@ -2862,6 +2866,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [has_not_been_viewed_much — Will W.](https://iamwillwang.com/notes/has-not-been-viewed-much/) - Museum APIs and the art that hasn't been viewed much.
+
 - [Storied Colors](https://storiedcolors.com/) - Storied Colors: named colors with documented histories.
 
 - [Cheese Paper](https://brie.gay/cheese-paper/) - Organized text editor for writing fiction

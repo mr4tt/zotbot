@@ -1,4 +1,6 @@
 # videos
+- [The REAL Story Behind the LAX People Mover Fiasco](https://www.youtube.com/watch?v=3FOZ7R9bUBA)
+
 - [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/@cncf)
 
 - [The secret battle for the NBA's first Chinese player](https://youtube.com/watch?v=iIhLiIkv0Z0)

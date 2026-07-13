@@ -1,4 +1,6 @@
 # news
+- [How Terrorist Groups Are Using A.I. to Gain an Edge in Battle](https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html) - A.I. chatbots are not just a propaganda tool for violent extremists but are aiding in bomb construction and attack planning, new research finds.
+
 - [When stoned, even worms get the munchies, UO research shows](https://news.uoregon.edu/content/when-stoned-even-worms-get-munchies-uo-research-shows) - The study finds they could be a good model for probing the endocannabinoid system
 
 - [The Paperboy’s Secret](https://www.newyorker.com/magazine/2026/06/08/the-paperboys-secret) - In boyhood, guilt was a constant companion. I stopped mentioning the quarters that Mr. Wood put into my pocket.
