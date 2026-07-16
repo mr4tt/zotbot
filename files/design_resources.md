@@ -147,8 +147,6 @@
 
 - [Touch capabilities and customizable workspaces](https://helpx.adobe.com/content/help/en/photoshop/using/touch.html) - Learn about Photoshop Touch capabilities and customizable workspaces
 
-- [RUBBISH!](https://www.wweek.com/portland/article-1616-rubbish.html-2) - It's past midnight. Over the whump of the wipers and the screech of the fan   belt, we lurch through the side streets of Southeast Portland in a battered   white van, double-checking our toolkit: flas ...,News
-
 - [Brutalist Websites](https://brutalistwebsites.com/)
 
 - [Stack Sorted.](https://stacksorted.com) - Find Inspiration in Design Elements.

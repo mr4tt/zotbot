@@ -1,4 +1,6 @@
 # misc
+- [Lost and Found](https://walzr.com/lost-and-found)
+
 - [has_not_been_viewed_much — Will W.](https://iamwillwang.com/notes/has-not-been-viewed-much/) - Museum APIs and the art that hasn't been viewed much.
 
 - [Storied Colors](https://storiedcolors.com/) - Storied Colors: named colors with documented histories.
@@ -94,8 +96,6 @@
 - [Home | Glyph Origins](https://panatesu.github.io/glyph-origins/)
 
 - [512KB Club](https://512kb.club/) - The 512KB Club is an exclusive list of web pages weighing less than 512 kilobytes.
-
-- [How I built Timeframe, our family e-paper dashboard - Joel Hawksley](https://hawksley.org/2026/02/17/timeframe.html) - Over the past decade, I've worked to build the perfect family dashboard system for our home, called Timeframe:
 
 - [Vocal Guide - by Jesper Ordrup](https://jesperordrup.github.io/vocal-guide/) - A vocal technique reference covering 21 techniques: registers, styles, effects, embellish, and dynamics.
 

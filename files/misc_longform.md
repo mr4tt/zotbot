@@ -1,4 +1,10 @@
 # misc_longform
+- [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) - In 2004 I played too much RuneScape on a 56k modem that died the moment Mum picked up the phone. A 3D world, up to a couple of thousand players on a server, dozens on screen at once - in the browser, on 5 kilobytes per second. It worked. Let’s follow a single step and see how.
+
+- [Teaching Pop Music Analysis for Non-Majors](https://www.ethanhein.com/wp/2026/teaching-pop-music-analysis-for-non-majors/) - I am teaching two new NYU classes this fall. One of them is History of 20th Century American Popular Music, which I wrote about recently. The other is Pop Music Analysis for Non-Majors. I enjoy tea…
+
+- [](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
+
 - [Inside Long Island's Decommissioned Nuclear Power Plant](https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/) - Driving on Route-25a through East Shoreham, you’d never guess there was anything unusual about the gated road heading off toward the coast. But go down a ways… …and suddenly, it’ll appear through the trees… Long Island’s only nuclear power plant, closed and shuttered since it was decommissioned in 1994. Today, it sits completely empty, a […]
 
 - [The Fall and Rise of Screwworm](https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm) - Every spring, as sure as the seasons, and for generations unknown, screwworms began their annual march northward from their overwintering sanctuaries in Mexico and South Texas.

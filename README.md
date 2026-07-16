@@ -18,6 +18,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) - In 2004 I played too much RuneScape on a 56k modem that died the moment Mum picked up the phone. A 3D world, up to a couple of thousand players on a server, dozens on screen at once - in the browser, on 5 kilobytes per second. It worked. Let’s follow a single step and see how.
+
 - [Ratty: A terminal emulator with inline 3D graphics - Orhun's Blog](https://blog.orhun.dev/introducing-ratty/) - Just trying to answer one simple question: What if the terminal was 3D?
 
 - [Ratty — A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀](https://ratty-term.org/) - Ratty is a GPU-rendered terminal emulator with a spinning rat cursor, multiple 3D presentation modes and support for inline 3D graphics. Inspired by TempleOS and built with Rust and Ratatui.
@@ -222,6 +224,12 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) - In 2004 I played too much RuneScape on a 56k modem that died the moment Mum picked up the phone. A 3D world, up to a couple of thousand players on a server, dozens on screen at once - in the browser, on 5 kilobytes per second. It worked. Let’s follow a single step and see how.
+
+- [Teaching Pop Music Analysis for Non-Majors](https://www.ethanhein.com/wp/2026/teaching-pop-music-analysis-for-non-majors/) - I am teaching two new NYU classes this fall. One of them is History of 20th Century American Popular Music, which I wrote about recently. The other is Pop Music Analysis for Non-Majors. I enjoy tea…
+
+- [](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
+
 - [Inside Long Island's Decommissioned Nuclear Power Plant](https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/) - Driving on Route-25a through East Shoreham, you’d never guess there was anything unusual about the gated road heading off toward the coast. But go down a ways… …and suddenly, it’ll appear through the trees… Long Island’s only nuclear power plant, closed and shuttered since it was decommissioned in 1994. Today, it sits completely empty, a […]
 
 - [The Fall and Rise of Screwworm](https://www.construction-physics.com/p/the-fall-and-rise-of-screwworm) - Every spring, as sure as the seasons, and for generations unknown, screwworms began their annual march northward from their overwintering sanctuaries in Mexico and South Texas.
@@ -1247,8 +1255,6 @@ To view a single category, check the files/ folder.
 
 - [Touch capabilities and customizable workspaces](https://helpx.adobe.com/content/help/en/photoshop/using/touch.html) - Learn about Photoshop Touch capabilities and customizable workspaces
 
-- [RUBBISH!](https://www.wweek.com/portland/article-1616-rubbish.html-2) - It's past midnight. Over the whump of the wipers and the screech of the fan   belt, we lurch through the side streets of Southeast Portland in a battered   white van, double-checking our toolkit: flas ...,News
-
 - [Brutalist Websites](https://brutalistwebsites.com/)
 
 - [Stack Sorted.](https://stacksorted.com) - Find Inspiration in Design Elements.
@@ -1658,6 +1664,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [I Survived a Cold Plunge and All I Got Was Everything I Ever Wanted](https://www.nytimes.com/2026/07/08/magazine/cold-plunge-fix.html) - I resisted the trend until I couldn’t any longer.
+
+- [The tiny cell that broke a big rule of biology](https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/) - It took two scientists decades to find a new nitrogen-fixing organelle. It could change the future of sustainable agriculture.
+
 - [How Terrorist Groups Are Using A.I. to Gain an Edge in Battle](https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html) - A.I. chatbots are not just a propaganda tool for violent extremists but are aiding in bomb construction and attack planning, new research finds.
 
 - [When stoned, even worms get the munchies, UO research shows](https://news.uoregon.edu/content/when-stoned-even-worms-get-munchies-uo-research-shows) - The study finds they could be a good model for probing the endocannabinoid system
@@ -2115,6 +2125,8 @@ To view a single category, check the files/ folder.
 - [The first known scorpion to live with ants carries mini hitchhikers](https://www.sciencenews.org/article/first-scorpion-live-ants-carries-hitchhikers-animals) - Small arachnids hitch a ride on the scorpion, possibly to get inside food-rich ant nests.
 
 - ['Date Me' Google Docs and the Hyper-Optimized Quest for Love](https://www.wired.com/story/date-me-google-docs-and-the-hyper-optimized-quest-for-love/) - Some people have ditched dating apps—and opted to bare their souls via a public, view-only link instead.
+
+- [RUBBISH!](https://www.wweek.com/portland/article-1616-rubbish.html-2) - It's past midnight. Over the whump of the wipers and the screech of the fan   belt, we lurch through the side streets of Southeast Portland in a battered   white van, double-checking our toolkit: flas ...,News
 
 - [AI Cameras Took Over One Small American Town. Now They're Everywhere](https://www.404media.co/fusus-ai-cameras-took-over-town-america/) - Hundreds of documents obtained by 404 Media show how Fusus, a system for linking a town’s security cameras into one central hub and adding AI to them, has spread across the country.
 
@@ -2866,6 +2878,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Lost and Found](https://walzr.com/lost-and-found)
+
 - [has_not_been_viewed_much — Will W.](https://iamwillwang.com/notes/has-not-been-viewed-much/) - Museum APIs and the art that hasn't been viewed much.
 
 - [Storied Colors](https://storiedcolors.com/) - Storied Colors: named colors with documented histories.
@@ -2961,8 +2975,6 @@ To view a single category, check the files/ folder.
 - [Home | Glyph Origins](https://panatesu.github.io/glyph-origins/)
 
 - [512KB Club](https://512kb.club/) - The 512KB Club is an exclusive list of web pages weighing less than 512 kilobytes.
-
-- [How I built Timeframe, our family e-paper dashboard - Joel Hawksley](https://hawksley.org/2026/02/17/timeframe.html) - Over the past decade, I've worked to build the perfect family dashboard system for our home, called Timeframe:
 
 - [Vocal Guide - by Jesper Ordrup](https://jesperordrup.github.io/vocal-guide/) - A vocal technique reference covering 21 techniques: registers, styles, effects, embellish, and dynamics.
 
