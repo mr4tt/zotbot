@@ -1,4 +1,6 @@
 # design_resources
+- [Color Palette Generator – Color Wheel Tool | Adobe Express​](https://color.adobe.com/create/color-wheel) - Use the color palette generator to create harmonious color schemes with the interactive color wheel. Choose a base color, apply a harmony, and design with confidence in Adobe Express.
+
 - [Bezier Customizer, a tool from Whimsical Animations](https://courses.joshwcomeau.com/tools/bezier) - Create the perfect easing curve with this helpful tool!
 
 - [Velvetyne](https://velvetyne.fr/) - Libre fonts for everyone

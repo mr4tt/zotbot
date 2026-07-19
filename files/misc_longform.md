@@ -1,9 +1,19 @@
 # misc_longform
+- [A brief history of time synchronisation](https://eclecticlight.co/2025/07/26/a-brief-history-of-time-synchronisation/) - Early Macs normally had their clocks synced manually, until System 8.5 introduced support for NTP. That later switched to a proprietary service, timed, in macOS 10.13 High Sierra.
+
+- [Oldest and Fatherless: The Terrible Secret of Tom Bombadil](https://km-515.livejournal.com/1042.html) - (This is another of my speculative pieces and nothing to do with Star Wars. This one is for an older trilogy.) Old Tom Bombadil. Possibly the least liked character in The Lord of the Rings. A childish figure so disliked by fans of the book that few object to his absence from all adaptations of the…
+
+- [Obfuscated, self-evaluating bash script by CDN Akamai being supplied to consumers via retail stores](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
+
+- [Goodbye to the Chicago Intersection Where I Was Reborn](https://offassignment.com/gttp/ingrid-rojas-contreras) - “In August of 2022, I rode the purple line from Evanston into Chicago. I was going to Madison and Halsted. Madison and Halsted is a mythical place in my imagination. It’s the intersection where fifteen years prior, in 2007—after crashing my bicycle into an opening car door and banging my head on the
+
+- [The Nordic Front of ‘764’: Trends, Drivers, and Countering Youth Exploitation and Radicalisation](https://gnet-research.org/2026/01/05/the-nordic-front-of-764-trends-drivers-and-countering-youth-exploitation-and-radicalisation/)
+
 - [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) - In 2004 I played too much RuneScape on a 56k modem that died the moment Mum picked up the phone. A 3D world, up to a couple of thousand players on a server, dozens on screen at once - in the browser, on 5 kilobytes per second. It worked. Let’s follow a single step and see how.
 
 - [Teaching Pop Music Analysis for Non-Majors](https://www.ethanhein.com/wp/2026/teaching-pop-music-analysis-for-non-majors/) - I am teaching two new NYU classes this fall. One of them is History of 20th Century American Popular Music, which I wrote about recently. The other is Pop Music Analysis for Non-Majors. I enjoy tea…
 
-- [](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
+- [The Very Hungry Caterpillar](https://lookingatpicturebooks.com/p/the-very-hungry-caterpillar) - Jon and Mac consider: worms, the generative tension between tidiness and chaos, why we feel affection for this caterpillar, brightness, science vs. poetry, a toy you can read, a book you can touch
 
 - [Inside Long Island's Decommissioned Nuclear Power Plant](https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/) - Driving on Route-25a through East Shoreham, you’d never guess there was anything unusual about the gated road heading off toward the coast. But go down a ways… …and suddenly, it’ll appear through the trees… Long Island’s only nuclear power plant, closed and shuttered since it was decommissioned in 1994. Today, it sits completely empty, a […]
 

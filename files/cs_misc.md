@@ -1,6 +1,8 @@
 # cs_misc
 - [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) - In 2004 I played too much RuneScape on a 56k modem that died the moment Mum picked up the phone. A 3D world, up to a couple of thousand players on a server, dozens on screen at once - in the browser, on 5 kilobytes per second. It worked. Let’s follow a single step and see how.
 
+- [The Legacy of Stagefright](https://blog.isosceles.com/the-legacy-of-stagefright/) - Introduction  Every so often a piece of security research will generate a level of excitement and buzz that's palpable. Dan Kaminsky's DNS bug, Barnaby Jack's ATM Jackpotting, Chris Valasek and Charlie Miller's Jeep hacking escapades. There's something special about the overheard conversations, the whispered sightings
+
 - [Ratty: A terminal emulator with inline 3D graphics - Orhun's Blog](https://blog.orhun.dev/introducing-ratty/) - Just trying to answer one simple question: What if the terminal was 3D?
 
 - [Ratty — A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀](https://ratty-term.org/) - Ratty is a GPU-rendered terminal emulator with a spinning rat cursor, multiple 3D presentation modes and support for inline 3D graphics. Inspired by TempleOS and built with Rust and Ratatui.

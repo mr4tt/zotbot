@@ -1,4 +1,6 @@
 # news
+- [I Was Kidnapped by Idiots](https://www.theatlantic.com/international/2026/01/kidnapped-baghdad/685470/) - An academic trip to Iraq unexpectedly turned into an immersive field study on the ways authoritarian regimes use brutality.
+
 - [I Survived a Cold Plunge and All I Got Was Everything I Ever Wanted](https://www.nytimes.com/2026/07/08/magazine/cold-plunge-fix.html) - I resisted the trend until I couldn’t any longer.
 
 - [The tiny cell that broke a big rule of biology](https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/) - It took two scientists decades to find a new nitrogen-fixing organelle. It could change the future of sustainable agriculture.
@@ -10,6 +12,10 @@
 - [The Paperboy’s Secret](https://www.newyorker.com/magazine/2026/06/08/the-paperboys-secret) - In boyhood, guilt was a constant companion. I stopped mentioning the quarters that Mr. Wood put into my pocket.
 
 - [A Marilyn Monroe-J.F.K. Mystery](https://www.newyorker.com/magazine/1997/11/03/john-f-kennedy-marilyn-monroe-documents-case) - The son of a distinguished lawyer claimed that he’d discovered evidence of a secret legal agreement between the actress and the President. Was it real?
+
+- [The Real Housewives of Moscow](https://www.newyorker.com/culture/the-weekend-essay/the-real-housewives-of-moscow) - Russian women were early to feminism. Now, though, their vision of liberation can look strangely like the domestic trap they were supposed to escape.
+
+- [A Mole Infiltrated the Highest Ranks of American Militias. This Is What He Found.](https://www.propublica.org/article/ap3-oath-keepers-militia-mole) - Outraged by the Jan. 6 Capitol riot, a wilderness survival trainer spent years undercover climbing the ranks of right-wing militias. He didn’t tell police or the FBI. He didn’t tell family or friends. The one person he told was a ProPublica reporter.
 
 - [The Saintly Sinner](https://www.newyorker.com/magazine/2006/02/13/the-saintly-sinner) - The two-thousand-year obsession with Mary Magdalene.
 

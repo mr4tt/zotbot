@@ -1,4 +1,6 @@
 # crochet
+- [How to Sew a Blind Hem by Hand - EASY!](https://www.youtube.com/watch?v=pbiQt9RJg2Q)
+
 - [easy scrunchie crochet tutorial for absolute beginner | step by step crochet scrunchie hair tie](https://youtube.com/watch?v=pEs1u9iuRLI)
 
 - [FREE Winifred the Wren: Crochet pattern | Ribblr](https://ribblr.com/pat?pattern_id=2991)

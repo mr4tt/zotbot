@@ -20,6 +20,8 @@ To view a single category, check the files/ folder.
 # cs_misc
 - [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) - In 2004 I played too much RuneScape on a 56k modem that died the moment Mum picked up the phone. A 3D world, up to a couple of thousand players on a server, dozens on screen at once - in the browser, on 5 kilobytes per second. It worked. Let’s follow a single step and see how.
 
+- [The Legacy of Stagefright](https://blog.isosceles.com/the-legacy-of-stagefright/) - Introduction  Every so often a piece of security research will generate a level of excitement and buzz that's palpable. Dan Kaminsky's DNS bug, Barnaby Jack's ATM Jackpotting, Chris Valasek and Charlie Miller's Jeep hacking escapades. There's something special about the overheard conversations, the whispered sightings
+
 - [Ratty: A terminal emulator with inline 3D graphics - Orhun's Blog](https://blog.orhun.dev/introducing-ratty/) - Just trying to answer one simple question: What if the terminal was 3D?
 
 - [Ratty — A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀](https://ratty-term.org/) - Ratty is a GPU-rendered terminal emulator with a spinning rat cursor, multiple 3D presentation modes and support for inline 3D graphics. Inspired by TempleOS and built with Rust and Ratatui.
@@ -224,11 +226,21 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [A brief history of time synchronisation](https://eclecticlight.co/2025/07/26/a-brief-history-of-time-synchronisation/) - Early Macs normally had their clocks synced manually, until System 8.5 introduced support for NTP. That later switched to a proprietary service, timed, in macOS 10.13 High Sierra.
+
+- [Oldest and Fatherless: The Terrible Secret of Tom Bombadil](https://km-515.livejournal.com/1042.html) - (This is another of my speculative pieces and nothing to do with Star Wars. This one is for an older trilogy.) Old Tom Bombadil. Possibly the least liked character in The Lord of the Rings. A childish figure so disliked by fans of the book that few object to his absence from all adaptations of the…
+
+- [Obfuscated, self-evaluating bash script by CDN Akamai being supplied to consumers via retail stores](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
+
+- [Goodbye to the Chicago Intersection Where I Was Reborn](https://offassignment.com/gttp/ingrid-rojas-contreras) - “In August of 2022, I rode the purple line from Evanston into Chicago. I was going to Madison and Halsted. Madison and Halsted is a mythical place in my imagination. It’s the intersection where fifteen years prior, in 2007—after crashing my bicycle into an opening car door and banging my head on the
+
+- [The Nordic Front of ‘764’: Trends, Drivers, and Countering Youth Exploitation and Radicalisation](https://gnet-research.org/2026/01/05/the-nordic-front-of-764-trends-drivers-and-countering-youth-exploitation-and-radicalisation/)
+
 - [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) - In 2004 I played too much RuneScape on a 56k modem that died the moment Mum picked up the phone. A 3D world, up to a couple of thousand players on a server, dozens on screen at once - in the browser, on 5 kilobytes per second. It worked. Let’s follow a single step and see how.
 
 - [Teaching Pop Music Analysis for Non-Majors](https://www.ethanhein.com/wp/2026/teaching-pop-music-analysis-for-non-majors/) - I am teaching two new NYU classes this fall. One of them is History of 20th Century American Popular Music, which I wrote about recently. The other is Pop Music Analysis for Non-Majors. I enjoy tea…
 
-- [](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
+- [The Very Hungry Caterpillar](https://lookingatpicturebooks.com/p/the-very-hungry-caterpillar) - Jon and Mac consider: worms, the generative tension between tidiness and chaos, why we feel affection for this caterpillar, brightness, science vs. poetry, a toy you can read, a book you can touch
 
 - [Inside Long Island's Decommissioned Nuclear Power Plant](https://nickcarr.com/scouting-a-decommissioned-nuclear-power-plant/) - Driving on Route-25a through East Shoreham, you’d never guess there was anything unusual about the gated road heading off toward the coast. But go down a ways… …and suddenly, it’ll appear through the trees… Long Island’s only nuclear power plant, closed and shuttered since it was decommissioned in 1994. Today, it sits completely empty, a […]
 
@@ -700,6 +712,8 @@ To view a single category, check the files/ folder.
 - [0K47](https://0k47.com/) - The official website and shop of 0K47. Find the latest content, buy merch, and support our nerdy apparel.
 
 # crochet
+- [How to Sew a Blind Hem by Hand - EASY!](https://www.youtube.com/watch?v=pbiQt9RJg2Q)
+
 - [easy scrunchie crochet tutorial for absolute beginner | step by step crochet scrunchie hair tie](https://youtube.com/watch?v=pEs1u9iuRLI)
 
 - [FREE Winifred the Wren: Crochet pattern | Ribblr](https://ribblr.com/pat?pattern_id=2991)
@@ -780,6 +794,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [The Art of Delayed Gratification](https://www.youtube.com/watch?v=7aSE-aIPyGo)
+
 - [The REAL Story Behind the LAX People Mover Fiasco](https://www.youtube.com/watch?v=3FOZ7R9bUBA)
 
 - [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/@cncf)
@@ -1046,6 +1062,8 @@ To view a single category, check the files/ folder.
 
 - [CASCII](https://cascii.app/)
 
+- [StillTasty: Your Ultimate Shelf Life Guide - Save Money, Eat Better, Help The Environment](https://www.stilltasty.com) - StillTasty.com has comprehensive information about how long you can keep thousands of foods and beverages.
+
 - [How can you tell if the company you’re interviewing with is rotten on the inside?](https://charity.wtf/2022/01/29/how-can-you-tell-if-the-company-youre-interviewing-with-is-rotten-on-the-inside/) - How can you tell the companies who are earnestly trying to improve apart from the ones who sound all polished and healthy from the outside, whilst rotting on the inside? This seems to be on a lot o…
 
 - [Actual | Actual Budget Documentation](https://actualbudget.org/)
@@ -1107,6 +1125,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Color Palette Generator – Color Wheel Tool | Adobe Express​](https://color.adobe.com/create/color-wheel) - Use the color palette generator to create harmonious color schemes with the interactive color wheel. Choose a base color, apply a harmony, and design with confidence in Adobe Express.
+
 - [Bezier Customizer, a tool from Whimsical Animations](https://courses.joshwcomeau.com/tools/bezier) - Create the perfect easing curve with this helpful tool!
 
 - [Velvetyne](https://velvetyne.fr/) - Libre fonts for everyone
@@ -1664,6 +1684,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [I Was Kidnapped by Idiots](https://www.theatlantic.com/international/2026/01/kidnapped-baghdad/685470/) - An academic trip to Iraq unexpectedly turned into an immersive field study on the ways authoritarian regimes use brutality.
+
 - [I Survived a Cold Plunge and All I Got Was Everything I Ever Wanted](https://www.nytimes.com/2026/07/08/magazine/cold-plunge-fix.html) - I resisted the trend until I couldn’t any longer.
 
 - [The tiny cell that broke a big rule of biology](https://grist.org/science/nitrogen-cycle-cell-discovery-nitroplast-science-fertilizer-algae-bacteria/) - It took two scientists decades to find a new nitrogen-fixing organelle. It could change the future of sustainable agriculture.
@@ -1675,6 +1697,10 @@ To view a single category, check the files/ folder.
 - [The Paperboy’s Secret](https://www.newyorker.com/magazine/2026/06/08/the-paperboys-secret) - In boyhood, guilt was a constant companion. I stopped mentioning the quarters that Mr. Wood put into my pocket.
 
 - [A Marilyn Monroe-J.F.K. Mystery](https://www.newyorker.com/magazine/1997/11/03/john-f-kennedy-marilyn-monroe-documents-case) - The son of a distinguished lawyer claimed that he’d discovered evidence of a secret legal agreement between the actress and the President. Was it real?
+
+- [The Real Housewives of Moscow](https://www.newyorker.com/culture/the-weekend-essay/the-real-housewives-of-moscow) - Russian women were early to feminism. Now, though, their vision of liberation can look strangely like the domestic trap they were supposed to escape.
+
+- [A Mole Infiltrated the Highest Ranks of American Militias. This Is What He Found.](https://www.propublica.org/article/ap3-oath-keepers-militia-mole) - Outraged by the Jan. 6 Capitol riot, a wilderness survival trainer spent years undercover climbing the ranks of right-wing militias. He didn’t tell police or the FBI. He didn’t tell family or friends. The one person he told was a ProPublica reporter.
 
 - [The Saintly Sinner](https://www.newyorker.com/magazine/2006/02/13/the-saintly-sinner) - The two-thousand-year obsession with Mary Magdalene.
 
@@ -2264,6 +2290,8 @@ To view a single category, check the files/ folder.
 
 # wikipedia
 - [Null Island](https://en.wikipedia.org/w/index.php?title=Null_Island&oldid=1361260088) - Null Island is the location at zero degrees latitude and zero degrees longitude (0°N 0°E), i.e., where the prime meridian and the equator intersect in the Atlantic Ocean near the Gulf of Guinea. Since there is no landmass located at these coordinates, it is not an actual island. The name is often used in mapping software as a placeholder to help fin...
+
+- [Keith Raniere](https://en.wikipedia.org/w/index.php?title=Keith_Raniere&oldid=1361262395) - Keith Allen Raniere ( ran-YAIR-ee; born August 26, 1960) is an American cult leader who was convicted of a pattern of racketeering activity, including human trafficking, sex offenses, and fraud. Raniere co-founded NXIVM, a purported self-help multi-level marketing company offering personal development seminars and headquartered in Albany, New York. ...
 
 - [Quadro Tracker](https://en.wikipedia.org/w/index.php?title=Quadro_Tracker&oldid=1147361556) - The Quadro Tracker, also known as the Positive Molecular Locator, was a fake "detection device" sold by Quadro Corp. of Harleyville, South Carolina between 1993 and 1996. Around 1,000 were sold to police departments and school districts around the United States on the basis that it could detect hidden drugs, explosives, weapons and lost golf balls. ...
 

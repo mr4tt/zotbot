@@ -1,4 +1,6 @@
 # videos
+- [The Art of Delayed Gratification](https://www.youtube.com/watch?v=7aSE-aIPyGo)
+
 - [The REAL Story Behind the LAX People Mover Fiasco](https://www.youtube.com/watch?v=3FOZ7R9bUBA)
 
 - [CNCF [Cloud Native Computing Foundation]](https://www.youtube.com/@cncf)
