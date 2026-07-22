@@ -1,4 +1,8 @@
 # news
+- [How I got into Berghain, Berlin’s notoriously selective club]()
+
+- [A bear-ly believable tale: Allegations of a camera-wearing spy bear, illegal feeding rile CT town](https://www.vermontpublic.org/2023-09-08/a-bear-ly-believable-tale-allegations-of-a-camera-wearing-spy-bear-illegal-feeding-rile-ct-town) - A man in northern Connecticut has a history of feeding bears on his property. And that’s caused friction with town officials — and led to legal challenges.
+
 - [I Was Kidnapped by Idiots](https://www.theatlantic.com/international/2026/01/kidnapped-baghdad/685470/) - An academic trip to Iraq unexpectedly turned into an immersive field study on the ways authoritarian regimes use brutality.
 
 - [I Survived a Cold Plunge and All I Got Was Everything I Ever Wanted](https://www.nytimes.com/2026/07/08/magazine/cold-plunge-fix.html) - I resisted the trend until I couldn’t any longer.

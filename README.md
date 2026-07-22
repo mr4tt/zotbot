@@ -18,6 +18,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [The Memory Heist](https://ayush.digital/blog/the-memory-heist) - How I tricked Claude into leaking your deepest, darkest secrets
+
 - [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) - In 2004 I played too much RuneScape on a 56k modem that died the moment Mum picked up the phone. A 3D world, up to a couple of thousand players on a server, dozens on screen at once - in the browser, on 5 kilobytes per second. It worked. Let’s follow a single step and see how.
 
 - [The Legacy of Stagefright](https://blog.isosceles.com/the-legacy-of-stagefright/) - Introduction  Every so often a piece of security research will generate a level of excitement and buzz that's palpable. Dan Kaminsky's DNS bug, Barnaby Jack's ATM Jackpotting, Chris Valasek and Charlie Miller's Jeep hacking escapades. There's something special about the overheard conversations, the whispered sightings
@@ -226,6 +228,10 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Backtrack-free cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)
+
+- [The Lost Joy of Music Piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming) - What.CD, Oink, and the banalities of streaming.
+
 - [A brief history of time synchronisation](https://eclecticlight.co/2025/07/26/a-brief-history-of-time-synchronisation/) - Early Macs normally had their clocks synced manually, until System 8.5 introduced support for NTP. That later switched to a proprietary service, timed, in macOS 10.13 High Sierra.
 
 - [Oldest and Fatherless: The Terrible Secret of Tom Bombadil](https://km-515.livejournal.com/1042.html) - (This is another of my speculative pieces and nothing to do with Star Wars. This one is for an older trilogy.) Old Tom Bombadil. Possibly the least liked character in The Lord of the Rings. A childish figure so disliked by fans of the book that few object to his absence from all adaptations of the…
@@ -712,6 +718,8 @@ To view a single category, check the files/ folder.
 - [0K47](https://0k47.com/) - The official website and shop of 0K47. Find the latest content, buy merch, and support our nerdy apparel.
 
 # crochet
+- [🌈How to Crochet a Seamless Flat Circle with Invisible Color Change! ✨](https://www.youtube.com/watch?v=lyqLVYFt_4Q)
+
 - [How to Sew a Blind Hem by Hand - EASY!](https://www.youtube.com/watch?v=pbiQt9RJg2Q)
 
 - [easy scrunchie crochet tutorial for absolute beginner | step by step crochet scrunchie hair tie](https://youtube.com/watch?v=pEs1u9iuRLI)
@@ -825,6 +833,8 @@ To view a single category, check the files/ folder.
 - [Stronger Than You - Anomalocaris Response](https://youtube.com/watch?v=UzHnQN8u6zs)
 
 - [Porter Robinson Live At The Wireless](https://www.abc.net.au/triplej/programs/live-at-the-wireless/latw-porter-robinson/105903302)
+
+- [The birth of the internet, according to Jon Bois](https://www.youtube.com/watch?v=zmyBSrQodnI)
 
 - [Pretty nice catch, huh... (OneShot)](https://www.youtube.com/watch?v=Is3lutAJ6tw)
 
@@ -1684,6 +1694,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [How I got into Berghain, Berlin’s notoriously selective club]()
+
+- [A bear-ly believable tale: Allegations of a camera-wearing spy bear, illegal feeding rile CT town](https://www.vermontpublic.org/2023-09-08/a-bear-ly-believable-tale-allegations-of-a-camera-wearing-spy-bear-illegal-feeding-rile-ct-town) - A man in northern Connecticut has a history of feeding bears on his property. And that’s caused friction with town officials — and led to legal challenges.
+
 - [I Was Kidnapped by Idiots](https://www.theatlantic.com/international/2026/01/kidnapped-baghdad/685470/) - An academic trip to Iraq unexpectedly turned into an immersive field study on the ways authoritarian regimes use brutality.
 
 - [I Survived a Cold Plunge and All I Got Was Everything I Ever Wanted](https://www.nytimes.com/2026/07/08/magazine/cold-plunge-fix.html) - I resisted the trend until I couldn’t any longer.
@@ -2289,6 +2303,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Japan Air Lines Flight 351](https://en.wikipedia.org/w/index.php?title=Japan_Air_Lines_Flight_351&oldid=1360267759) - Japan Air Lines Flight 351 was a scheduled passenger flight from Tokyo Haneda Airport to Fukuoka that was hijacked by members of the Red Army Faction of the Japan Communist League on March 31, 1970, in an incident usually referred to in Japanese as the Yodo Hijacking Incident (よど号ハイジャック事件, Yodo-gō Haijakku Jiken), after the aircraft's name Yodo (mea...
+
 - [Null Island](https://en.wikipedia.org/w/index.php?title=Null_Island&oldid=1361260088) - Null Island is the location at zero degrees latitude and zero degrees longitude (0°N 0°E), i.e., where the prime meridian and the equator intersect in the Atlantic Ocean near the Gulf of Guinea. Since there is no landmass located at these coordinates, it is not an actual island. The name is often used in mapping software as a placeholder to help fin...
 
 - [Keith Raniere](https://en.wikipedia.org/w/index.php?title=Keith_Raniere&oldid=1361262395) - Keith Allen Raniere ( ran-YAIR-ee; born August 26, 1960) is an American cult leader who was convicted of a pattern of racketeering activity, including human trafficking, sex offenses, and fraud. Raniere co-founded NXIVM, a purported self-help multi-level marketing company offering personal development seminars and headquartered in Albany, New York. ...

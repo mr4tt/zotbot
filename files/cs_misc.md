@@ -1,4 +1,6 @@
 # cs_misc
+- [The Memory Heist](https://ayush.digital/blog/the-memory-heist) - How I tricked Claude into leaking your deepest, darkest secrets
+
 - [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) - In 2004 I played too much RuneScape on a 56k modem that died the moment Mum picked up the phone. A 3D world, up to a couple of thousand players on a server, dozens on screen at once - in the browser, on 5 kilobytes per second. It worked. Let’s follow a single step and see how.
 
 - [The Legacy of Stagefright](https://blog.isosceles.com/the-legacy-of-stagefright/) - Introduction  Every so often a piece of security research will generate a level of excitement and buzz that's palpable. Dan Kaminsky's DNS bug, Barnaby Jack's ATM Jackpotting, Chris Valasek and Charlie Miller's Jeep hacking escapades. There's something special about the overheard conversations, the whispered sightings

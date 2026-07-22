@@ -1,4 +1,8 @@
 # misc_longform
+- [Backtrack-free cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)
+
+- [The Lost Joy of Music Piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming) - What.CD, Oink, and the banalities of streaming.
+
 - [A brief history of time synchronisation](https://eclecticlight.co/2025/07/26/a-brief-history-of-time-synchronisation/) - Early Macs normally had their clocks synced manually, until System 8.5 introduced support for NTP. That later switched to a proprietary service, timed, in macOS 10.13 High Sierra.
 
 - [Oldest and Fatherless: The Terrible Secret of Tom Bombadil](https://km-515.livejournal.com/1042.html) - (This is another of my speculative pieces and nothing to do with Star Wars. This one is for an older trilogy.) Old Tom Bombadil. Possibly the least liked character in The Lord of the Rings. A childish figure so disliked by fans of the book that few object to his absence from all adaptations of the…
