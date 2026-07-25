@@ -1,4 +1,6 @@
 # misc_longform
+- [Did medieval people love their children? - Works in Progress Magazine](https://worksinprogress.co/issue/did-medieval-people-love-their-children/) - Is it really plausible that children survived the hardship of medieval life without devoted parents?
+
 - [Backtrack-free cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)
 
 - [The Lost Joy of Music Piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming) - What.CD, Oink, and the banalities of streaming.

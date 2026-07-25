@@ -1,4 +1,8 @@
 # news
+- [Why Aren’t There More Imax 70mm Screens for ‘The Odyssey’? ‘It’s Not Practical,’ Company Says](https://variety.com/2026/film/news/why-no-more-imax-70mm-screens-the-odyssey-christopher-nolan-1236813019/) - 'The Odyssey' has spiked interest in IMAX70mm showings, but the company explains why building more is 'not practical.'
+
+- [A Teen Reporter Searched for His Community in the Epstein Files. Adults Freaked Out](https://www.wired.com/story/epstein-files-redwood-bark-school-newspaper/) - An Instagram post turned one California student newspaper into a free-speech flash point. The students say they were just doing their homework.
+
 - [How I got into Berghain, Berlin’s notoriously selective club]()
 
 - [A bear-ly believable tale: Allegations of a camera-wearing spy bear, illegal feeding rile CT town](https://www.vermontpublic.org/2023-09-08/a-bear-ly-believable-tale-allegations-of-a-camera-wearing-spy-bear-illegal-feeding-rile-ct-town) - A man in northern Connecticut has a history of feeding bears on his property. And that’s caused friction with town officials — and led to legal challenges.

@@ -228,6 +228,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Did medieval people love their children? - Works in Progress Magazine](https://worksinprogress.co/issue/did-medieval-people-love-their-children/) - Is it really plausible that children survived the hardship of medieval life without devoted parents?
+
 - [Backtrack-free cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)
 
 - [The Lost Joy of Music Piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming) - What.CD, Oink, and the banalities of streaming.
@@ -623,6 +625,8 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
+- [Wikipedia Store](https://store.wikimedia.org/) - The Wikipedia Store is the official online store for Wikipedia and its sister projects. All proceeds go to the Wikimedia Foundation, the 501(c)(3) non profit.
+
 - [Bunny Bun Bakery](https://bunnybunbakery.com/) - Whether you're looking to brighten your workspace, find a unique gift, or indulge in some adorable stationery and accessories, Bunny Bun Bakery offers a charming selection that brings a touch of joy to everyday life.
 
 - [OpenTools / OpenPrinter](https://www.opentools.studio/) - This is the homepage of the website
@@ -802,6 +806,8 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [The Whole Shabang: Chips So Good You’ll Have To Go To Jail To Get Them | NBC News](https://www.youtube.com/watch?v=0AN1VkClpc8)
+
 - [The Art of Delayed Gratification](https://www.youtube.com/watch?v=7aSE-aIPyGo)
 
 - [The REAL Story Behind the LAX People Mover Fiasco](https://www.youtube.com/watch?v=3FOZ7R9bUBA)
@@ -1694,6 +1700,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Why Aren’t There More Imax 70mm Screens for ‘The Odyssey’? ‘It’s Not Practical,’ Company Says](https://variety.com/2026/film/news/why-no-more-imax-70mm-screens-the-odyssey-christopher-nolan-1236813019/) - 'The Odyssey' has spiked interest in IMAX70mm showings, but the company explains why building more is 'not practical.'
+
+- [A Teen Reporter Searched for His Community in the Epstein Files. Adults Freaked Out](https://www.wired.com/story/epstein-files-redwood-bark-school-newspaper/) - An Instagram post turned one California student newspaper into a free-speech flash point. The students say they were just doing their homework.
+
 - [How I got into Berghain, Berlin’s notoriously selective club]()
 
 - [A bear-ly believable tale: Allegations of a camera-wearing spy bear, illegal feeding rile CT town](https://www.vermontpublic.org/2023-09-08/a-bear-ly-believable-tale-allegations-of-a-camera-wearing-spy-bear-illegal-feeding-rile-ct-town) - A man in northern Connecticut has a history of feeding bears on his property. And that’s caused friction with town officials — and led to legal challenges.
