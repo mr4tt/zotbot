@@ -1700,6 +1700,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Have We Been Playing Monopoly Wrong All Along?](https://slate.com/life/2026/07/monopoly-go-rules-board-games.html) - The board game everyone loves to hate has some staunch defenders. They say the game isn’t the problem—we are.
+
 - [Why Aren’t There More Imax 70mm Screens for ‘The Odyssey’? ‘It’s Not Practical,’ Company Says](https://variety.com/2026/film/news/why-no-more-imax-70mm-screens-the-odyssey-christopher-nolan-1236813019/) - 'The Odyssey' has spiked interest in IMAX70mm showings, but the company explains why building more is 'not practical.'
 
 - [A Teen Reporter Searched for His Community in the Epstein Files. Adults Freaked Out](https://www.wired.com/story/epstein-files-redwood-bark-school-newspaper/) - An Instagram post turned one California student newspaper into a free-speech flash point. The students say they were just doing their homework.
