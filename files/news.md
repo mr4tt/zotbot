@@ -1,4 +1,6 @@
 # news
+- [US accuses American of allegedly wiping his phone using a 'duress' password during border search](https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/) - A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constitutional rights at the U.S. border.
+
 - [Have We Been Playing Monopoly Wrong All Along?](https://slate.com/life/2026/07/monopoly-go-rules-board-games.html) - The board game everyone loves to hate has some staunch defenders. They say the game isn’t the problem—we are.
 
 - [Why Aren’t There More Imax 70mm Screens for ‘The Odyssey’? ‘It’s Not Practical,’ Company Says](https://variety.com/2026/film/news/why-no-more-imax-70mm-screens-the-odyssey-christopher-nolan-1236813019/) - 'The Odyssey' has spiked interest in IMAX70mm showings, but the company explains why building more is 'not practical.'

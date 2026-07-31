@@ -1,4 +1,6 @@
 # misc_longform
+- [Every Matt Damon Movie, Ranked By How Gay He Is In Them](https://thestain.substack.com/p/every-matt-damon-movie-ranked-by) - And yes, I mean every single one.
+
 - [Did medieval people love their children? - Works in Progress Magazine](https://worksinprogress.co/issue/did-medieval-people-love-their-children/) - Is it really plausible that children survived the hardship of medieval life without devoted parents?
 
 - [Backtrack-free cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)

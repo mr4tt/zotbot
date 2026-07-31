@@ -228,6 +228,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Every Matt Damon Movie, Ranked By How Gay He Is In Them](https://thestain.substack.com/p/every-matt-damon-movie-ranked-by) - And yes, I mean every single one.
+
 - [Did medieval people love their children? - Works in Progress Magazine](https://worksinprogress.co/issue/did-medieval-people-love-their-children/) - Is it really plausible that children survived the hardship of medieval life without devoted parents?
 
 - [Backtrack-free cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)
@@ -1700,6 +1702,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [US accuses American of allegedly wiping his phone using a 'duress' password during border search](https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/) - A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constitutional rights at the U.S. border.
+
 - [Have We Been Playing Monopoly Wrong All Along?](https://slate.com/life/2026/07/monopoly-go-rules-board-games.html) - The board game everyone loves to hate has some staunch defenders. They say the game isn’t the problem—we are.
 
 - [Why Aren’t There More Imax 70mm Screens for ‘The Odyssey’? ‘It’s Not Practical,’ Company Says](https://variety.com/2026/film/news/why-no-more-imax-70mm-screens-the-odyssey-christopher-nolan-1236813019/) - 'The Odyssey' has spiked interest in IMAX70mm showings, but the company explains why building more is 'not practical.'
