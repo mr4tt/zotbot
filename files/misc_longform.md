@@ -1,4 +1,8 @@
 # misc_longform
+- [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) - In 2004 I played too much RuneScape on a 56k modem that died the moment Mum picked up the phone. A 3D world, up to a couple of thousand players on a server, dozens on screen at once - in the browser, on 5 kilobytes per second. It worked. Let’s follow a single step and see how.
+
+- [How to plant a nuclear plant in Iran](https://www.digitaldigging.org/p/how-to-plant-a-nuclear-plant-in-iran) - The question is: what on earth is Google doing?
+
 - [Every Matt Damon Movie, Ranked By How Gay He Is In Them](https://thestain.substack.com/p/every-matt-damon-movie-ranked-by) - And yes, I mean every single one.
 
 - [Did medieval people love their children? - Works in Progress Magazine](https://worksinprogress.co/issue/did-medieval-people-love-their-children/) - Is it really plausible that children survived the hardship of medieval life without devoted parents?
@@ -16,8 +20,6 @@
 - [Goodbye to the Chicago Intersection Where I Was Reborn](https://offassignment.com/gttp/ingrid-rojas-contreras) - “In August of 2022, I rode the purple line from Evanston into Chicago. I was going to Madison and Halsted. Madison and Halsted is a mythical place in my imagination. It’s the intersection where fifteen years prior, in 2007—after crashing my bicycle into an opening car door and banging my head on the
 
 - [The Nordic Front of ‘764’: Trends, Drivers, and Countering Youth Exploitation and Radicalisation](https://gnet-research.org/2026/01/05/the-nordic-front-of-764-trends-drivers-and-countering-youth-exploitation-and-radicalisation/)
-
-- [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) - In 2004 I played too much RuneScape on a 56k modem that died the moment Mum picked up the phone. A 3D world, up to a couple of thousand players on a server, dozens on screen at once - in the browser, on 5 kilobytes per second. It worked. Let’s follow a single step and see how.
 
 - [Teaching Pop Music Analysis for Non-Majors](https://www.ethanhein.com/wp/2026/teaching-pop-music-analysis-for-non-majors/) - I am teaching two new NYU classes this fall. One of them is History of 20th Century American Popular Music, which I wrote about recently. The other is Pop Music Analysis for Non-Majors. I enjoy tea…
 

@@ -1,4 +1,6 @@
 # news
+- [Application error: a client-side exception has occurred](https://www.wsj.com/us-news/how-savannah-guthrie-lost-mother-nancy-28907a65?st=uStLCB&reflink=desktopwebshare_permalink)
+
 - [US accuses American of allegedly wiping his phone using a 'duress' password during border search](https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/) - A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constitutional rights at the U.S. border.
 
 - [Have We Been Playing Monopoly Wrong All Along?](https://slate.com/life/2026/07/monopoly-go-rules-board-games.html) - The board game everyone loves to hate has some staunch defenders. They say the game isn’t the problem—we are.

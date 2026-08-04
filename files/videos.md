@@ -1,7 +1,9 @@
 # videos
-- [The Whole Shabang: Chips So Good You’ll Have To Go To Jail To Get Them | NBC News](https://www.youtube.com/watch?v=0AN1VkClpc8)
+- [The Art of Delayed Gratification](https://youtube.com/watch?v=7aSE-aIPyGo)
 
-- [The Art of Delayed Gratification](https://www.youtube.com/watch?v=7aSE-aIPyGo)
+- [Sherlock Is Garbage, And Here's Why](https://www.youtube.com/watch?v=LkoGBOs5ecM)
+
+- [The Whole Shabang: Chips So Good You’ll Have To Go To Jail To Get Them | NBC News](https://www.youtube.com/watch?v=0AN1VkClpc8)
 
 - [The REAL Story Behind the LAX People Mover Fiasco](https://www.youtube.com/watch?v=3FOZ7R9bUBA)
 

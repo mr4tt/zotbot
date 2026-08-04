@@ -1,4 +1,6 @@
 # crochet
+- [Seattle Scarf: Free Crochet Pattern](https://hearthookhome.com/seattle-scarf-free-crochet-pattern/)
+
 - [🌈How to Crochet a Seamless Flat Circle with Invisible Color Change! ✨](https://www.youtube.com/watch?v=lyqLVYFt_4Q)
 
 - [How to Sew a Blind Hem by Hand - EASY!](https://www.youtube.com/watch?v=pbiQt9RJg2Q)

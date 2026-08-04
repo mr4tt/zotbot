@@ -1,4 +1,6 @@
 # shops
+- [Products](https://shop.kinwamonster.com/collections/all) - An artist-owned Street Fashion apparel brand inspired by monsters and bold designs!
+
 - [Wikipedia Store](https://store.wikimedia.org/) - The Wikipedia Store is the official online store for Wikipedia and its sister projects. All proceeds go to the Wikimedia Foundation, the 501(c)(3) non profit.
 
 - [Bunny Bun Bakery](https://bunnybunbakery.com/) - Whether you're looking to brighten your workspace, find a unique gift, or indulge in some adorable stationery and accessories, Bunny Bun Bakery offers a charming selection that brings a touch of joy to everyday life.

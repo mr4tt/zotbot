@@ -18,9 +18,9 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
-- [The Memory Heist](https://ayush.digital/blog/the-memory-heist) - How I tricked Claude into leaking your deepest, darkest secrets
-
 - [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) - In 2004 I played too much RuneScape on a 56k modem that died the moment Mum picked up the phone. A 3D world, up to a couple of thousand players on a server, dozens on screen at once - in the browser, on 5 kilobytes per second. It worked. Let’s follow a single step and see how.
+
+- [The Memory Heist](https://ayush.digital/blog/the-memory-heist) - How I tricked Claude into leaking your deepest, darkest secrets
 
 - [The Legacy of Stagefright](https://blog.isosceles.com/the-legacy-of-stagefright/) - Introduction  Every so often a piece of security research will generate a level of excitement and buzz that's palpable. Dan Kaminsky's DNS bug, Barnaby Jack's ATM Jackpotting, Chris Valasek and Charlie Miller's Jeep hacking escapades. There's something special about the overheard conversations, the whispered sightings
 
@@ -228,6 +228,10 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) - In 2004 I played too much RuneScape on a 56k modem that died the moment Mum picked up the phone. A 3D world, up to a couple of thousand players on a server, dozens on screen at once - in the browser, on 5 kilobytes per second. It worked. Let’s follow a single step and see how.
+
+- [How to plant a nuclear plant in Iran](https://www.digitaldigging.org/p/how-to-plant-a-nuclear-plant-in-iran) - The question is: what on earth is Google doing?
+
 - [Every Matt Damon Movie, Ranked By How Gay He Is In Them](https://thestain.substack.com/p/every-matt-damon-movie-ranked-by) - And yes, I mean every single one.
 
 - [Did medieval people love their children? - Works in Progress Magazine](https://worksinprogress.co/issue/did-medieval-people-love-their-children/) - Is it really plausible that children survived the hardship of medieval life without devoted parents?
@@ -245,8 +249,6 @@ To view a single category, check the files/ folder.
 - [Goodbye to the Chicago Intersection Where I Was Reborn](https://offassignment.com/gttp/ingrid-rojas-contreras) - “In August of 2022, I rode the purple line from Evanston into Chicago. I was going to Madison and Halsted. Madison and Halsted is a mythical place in my imagination. It’s the intersection where fifteen years prior, in 2007—after crashing my bicycle into an opening car door and banging my head on the
 
 - [The Nordic Front of ‘764’: Trends, Drivers, and Countering Youth Exploitation and Radicalisation](https://gnet-research.org/2026/01/05/the-nordic-front-of-764-trends-drivers-and-countering-youth-exploitation-and-radicalisation/)
-
-- [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) - In 2004 I played too much RuneScape on a 56k modem that died the moment Mum picked up the phone. A 3D world, up to a couple of thousand players on a server, dozens on screen at once - in the browser, on 5 kilobytes per second. It worked. Let’s follow a single step and see how.
 
 - [Teaching Pop Music Analysis for Non-Majors](https://www.ethanhein.com/wp/2026/teaching-pop-music-analysis-for-non-majors/) - I am teaching two new NYU classes this fall. One of them is History of 20th Century American Popular Music, which I wrote about recently. The other is Pop Music Analysis for Non-Majors. I enjoy tea…
 
@@ -627,6 +629,8 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
+- [Products](https://shop.kinwamonster.com/collections/all) - An artist-owned Street Fashion apparel brand inspired by monsters and bold designs!
+
 - [Wikipedia Store](https://store.wikimedia.org/) - The Wikipedia Store is the official online store for Wikipedia and its sister projects. All proceeds go to the Wikimedia Foundation, the 501(c)(3) non profit.
 
 - [Bunny Bun Bakery](https://bunnybunbakery.com/) - Whether you're looking to brighten your workspace, find a unique gift, or indulge in some adorable stationery and accessories, Bunny Bun Bakery offers a charming selection that brings a touch of joy to everyday life.
@@ -724,6 +728,8 @@ To view a single category, check the files/ folder.
 - [0K47](https://0k47.com/) - The official website and shop of 0K47. Find the latest content, buy merch, and support our nerdy apparel.
 
 # crochet
+- [Seattle Scarf: Free Crochet Pattern](https://hearthookhome.com/seattle-scarf-free-crochet-pattern/)
+
 - [🌈How to Crochet a Seamless Flat Circle with Invisible Color Change! ✨](https://www.youtube.com/watch?v=lyqLVYFt_4Q)
 
 - [How to Sew a Blind Hem by Hand - EASY!](https://www.youtube.com/watch?v=pbiQt9RJg2Q)
@@ -808,9 +814,11 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
-- [The Whole Shabang: Chips So Good You’ll Have To Go To Jail To Get Them | NBC News](https://www.youtube.com/watch?v=0AN1VkClpc8)
+- [The Art of Delayed Gratification](https://youtube.com/watch?v=7aSE-aIPyGo)
 
-- [The Art of Delayed Gratification](https://www.youtube.com/watch?v=7aSE-aIPyGo)
+- [Sherlock Is Garbage, And Here's Why](https://www.youtube.com/watch?v=LkoGBOs5ecM)
+
+- [The Whole Shabang: Chips So Good You’ll Have To Go To Jail To Get Them | NBC News](https://www.youtube.com/watch?v=0AN1VkClpc8)
 
 - [The REAL Story Behind the LAX People Mover Fiasco](https://www.youtube.com/watch?v=3FOZ7R9bUBA)
 
@@ -1056,6 +1064,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [ProtonDB](https://www.protondb.com/)
+
 - [Bicycle School | A comprehensive guide to road riding](https://bestrides.org/bikeschool/)
 
 - [Advice from my editor](https://www.henrikkarlsson.xyz/p/advice-from-my-editor) - A sculptural representation of JS Bach’s Fugue in E Flat Minor by Henrik Neugeboren
@@ -1702,6 +1712,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Application error: a client-side exception has occurred](https://www.wsj.com/us-news/how-savannah-guthrie-lost-mother-nancy-28907a65?st=uStLCB&reflink=desktopwebshare_permalink)
+
 - [US accuses American of allegedly wiping his phone using a 'duress' password during border search](https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/) - A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constitutional rights at the U.S. border.
 
 - [Have We Been Playing Monopoly Wrong All Along?](https://slate.com/life/2026/07/monopoly-go-rules-board-games.html) - The board game everyone loves to hate has some staunch defenders. They say the game isn’t the problem—we are.
@@ -2319,6 +2331,10 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Adam Worth](https://en.wikipedia.org/w/index.php?title=Adam_Worth&oldid=1354614522) - Adam Worth (c. 1844 – 8 January 1902) was a crime boss and fraudster. His career in crime, stretching from the United States to Europe and southern Africa, included the infamous theft of Gainsborough's celebrated Portrait of Georgiana, Duchess of Devonshire, which he retained for 25 years.  In London, he lived as a respected member of high society u...
+
+- [Checkpoint Charlie](https://en.wikipedia.org/w/index.php?title=Checkpoint_Charlie&oldid=1355342177) - Checkpoint Charlie (or "Checkpoint C") was the Western Bloc's name for the best-known Berlin Wall crossing point between East Berlin and West Berlin during the Cold War (1947–1991), becoming a symbol of the Cold War, representing the separation of East and West. East German leader Walter Ulbricht agitated and maneuvered to get the Soviet Union's per...
+
 - [Japan Air Lines Flight 351](https://en.wikipedia.org/w/index.php?title=Japan_Air_Lines_Flight_351&oldid=1360267759) - Japan Air Lines Flight 351 was a scheduled passenger flight from Tokyo Haneda Airport to Fukuoka that was hijacked by members of the Red Army Faction of the Japan Communist League on March 31, 1970, in an incident usually referred to in Japanese as the Yodo Hijacking Incident (よど号ハイジャック事件, Yodo-gō Haijakku Jiken), after the aircraft's name Yodo (mea...
 
 - [Null Island](https://en.wikipedia.org/w/index.php?title=Null_Island&oldid=1361260088) - Null Island is the location at zero degrees latitude and zero degrees longitude (0°N 0°E), i.e., where the prime meridian and the equator intersect in the Atlantic Ocean near the Gulf of Guinea. Since there is no landmass located at these coordinates, it is not an actual island. The name is often used in mapping software as a placeholder to help fin...
