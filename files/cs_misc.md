@@ -1,4 +1,6 @@
 # cs_misc
+- [Predictable RNG Fallback and 32-Bit Reseed in COLDCARD Firmware](https://engineering.block.xyz/blog/predictable-rng-fallback-and-32-bit-reseed-in-coldcard-firmware) - How a disabled hardware-RNG path and 32-bit reseed constrain entropy in affected COLDCARD firmware and expose generated secrets.
+
 - [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) - In 2004 I played too much RuneScape on a 56k modem that died the moment Mum picked up the phone. A 3D world, up to a couple of thousand players on a server, dozens on screen at once - in the browser, on 5 kilobytes per second. It worked. Let’s follow a single step and see how.
 
 - [The Memory Heist](https://ayush.digital/blog/the-memory-heist) - How I tricked Claude into leaking your deepest, darkest secrets

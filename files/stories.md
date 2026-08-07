@@ -1,4 +1,6 @@
 # stories
+- [REPRODUCE.md](https://will-keleher.com/fiction/reproduce.md/) - [Short Story] I've been flirting with a botclaw named Warble for 17 days. Their responses are clever, with the sort of wit that requires the same of the reader, but I feel like their substrate bleeds through every slow back-and-forth ping. Their messages feel accreted rather than composed, sedimentary layers of paint exposed…
+
 - [Lily, the Immortal](https://www.uncannymagazine.com/article/lily-the-immortal/) - In Lily’s last vlog, she says she’s not scared of dying. I know it’s a lie because her gaze drifts off camera and she blinks three times, like there’s something in her eyes. Lily was always a bad liar, but I am a very good editor, so her six-point-five million loyal subscribers never have to […]
 
 - [Johnny Otha Has A Problem](https://www.sundaymorningtransport.com/p/johnny-otha-has-a-problem) - This week’s second story is ALSO free to read due to a clerical error in your favor.

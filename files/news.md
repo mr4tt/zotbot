@@ -1,4 +1,10 @@
 # news
+- [Inside the Coke-Fueled Rise and Fall of VICE](https://www.piratewires.com/p/undefined/p/inside-the-coke-fueled-rise-and-fall) - the company didn't die because of investors, sexual harassment charges, or going 'woke' — it died
+
+- [She Retired at 35. The Only Problem? It’s Lonely.](https://www.thecut.com/article/retired-at-35-lonely.html) - “I’ve found my people. I just wish they could all retire too.”
+
+- [](https://www.nytimes.com/wirecutter/reviews/talenti-investigation/)
+
 - [Application error: a client-side exception has occurred](https://www.wsj.com/us-news/how-savannah-guthrie-lost-mother-nancy-28907a65?st=uStLCB&reflink=desktopwebshare_permalink)
 
 - [US accuses American of allegedly wiping his phone using a 'duress' password during border search](https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/) - A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constitutional rights at the U.S. border.

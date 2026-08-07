@@ -1,4 +1,8 @@
 # misc_longform
+- [Slowing Down: Breaking the Fast Fashion Mindset](https://truestyle.substack.com/p/slowing-down-breaking-the-fast-fashion) - The goal of this article is not to convince you of anything. I’m not going to tell you why you should divest from fast fashion and put in the effort to shop more thoughtfully and with longevity in mind, as that approach has historically gotten me in trouble.
+
+- [Jewish settlers stole my house. It’s not my fault they’re Jewish.](https://mondoweiss.net/2023/09/jewish-settlers-stole-my-house-its-not-my-fault-theyre-jewish/) - Palestinians are told the words we use dwarf the decades of violence enacted against us by the self-proclaimed Jewish State. A drone is one thing, but a trope—a trope is unacceptable. No more.
+
 - [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) - In 2004 I played too much RuneScape on a 56k modem that died the moment Mum picked up the phone. A 3D world, up to a couple of thousand players on a server, dozens on screen at once - in the browser, on 5 kilobytes per second. It worked. Let’s follow a single step and see how.
 
 - [How to plant a nuclear plant in Iran](https://www.digitaldigging.org/p/how-to-plant-a-nuclear-plant-in-iran) - The question is: what on earth is Google doing?

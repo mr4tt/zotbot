@@ -18,6 +18,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [Predictable RNG Fallback and 32-Bit Reseed in COLDCARD Firmware](https://engineering.block.xyz/blog/predictable-rng-fallback-and-32-bit-reseed-in-coldcard-firmware) - How a disabled hardware-RNG path and 32-bit reseed constrain entropy in affected COLDCARD firmware and expose generated secrets.
+
 - [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) - In 2004 I played too much RuneScape on a 56k modem that died the moment Mum picked up the phone. A 3D world, up to a couple of thousand players on a server, dozens on screen at once - in the browser, on 5 kilobytes per second. It worked. Let’s follow a single step and see how.
 
 - [The Memory Heist](https://ayush.digital/blog/the-memory-heist) - How I tricked Claude into leaking your deepest, darkest secrets
@@ -228,6 +230,10 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Slowing Down: Breaking the Fast Fashion Mindset](https://truestyle.substack.com/p/slowing-down-breaking-the-fast-fashion) - The goal of this article is not to convince you of anything. I’m not going to tell you why you should divest from fast fashion and put in the effort to shop more thoughtfully and with longevity in mind, as that approach has historically gotten me in trouble.
+
+- [Jewish settlers stole my house. It’s not my fault they’re Jewish.](https://mondoweiss.net/2023/09/jewish-settlers-stole-my-house-its-not-my-fault-theyre-jewish/) - Palestinians are told the words we use dwarf the decades of violence enacted against us by the self-proclaimed Jewish State. A drone is one thing, but a trope—a trope is unacceptable. No more.
+
 - [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) - In 2004 I played too much RuneScape on a 56k modem that died the moment Mum picked up the phone. A 3D world, up to a couple of thousand players on a server, dozens on screen at once - in the browser, on 5 kilobytes per second. It worked. Let’s follow a single step and see how.
 
 - [How to plant a nuclear plant in Iran](https://www.digitaldigging.org/p/how-to-plant-a-nuclear-plant-in-iran) - The question is: what on earth is Google doing?
@@ -1607,6 +1613,8 @@ To view a single category, check the files/ folder.
 - [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer#security)
 
 # stories
+- [REPRODUCE.md](https://will-keleher.com/fiction/reproduce.md/) - [Short Story] I've been flirting with a botclaw named Warble for 17 days. Their responses are clever, with the sort of wit that requires the same of the reader, but I feel like their substrate bleeds through every slow back-and-forth ping. Their messages feel accreted rather than composed, sedimentary layers of paint exposed…
+
 - [Lily, the Immortal](https://www.uncannymagazine.com/article/lily-the-immortal/) - In Lily’s last vlog, she says she’s not scared of dying. I know it’s a lie because her gaze drifts off camera and she blinks three times, like there’s something in her eyes. Lily was always a bad liar, but I am a very good editor, so her six-point-five million loyal subscribers never have to […]
 
 - [Johnny Otha Has A Problem](https://www.sundaymorningtransport.com/p/johnny-otha-has-a-problem) - This week’s second story is ALSO free to read due to a clerical error in your favor.
@@ -1712,6 +1720,12 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Inside the Coke-Fueled Rise and Fall of VICE](https://www.piratewires.com/p/undefined/p/inside-the-coke-fueled-rise-and-fall) - the company didn't die because of investors, sexual harassment charges, or going 'woke' — it died
+
+- [She Retired at 35. The Only Problem? It’s Lonely.](https://www.thecut.com/article/retired-at-35-lonely.html) - “I’ve found my people. I just wish they could all retire too.”
+
+- [](https://www.nytimes.com/wirecutter/reviews/talenti-investigation/)
+
 - [Application error: a client-side exception has occurred](https://www.wsj.com/us-news/how-savannah-guthrie-lost-mother-nancy-28907a65?st=uStLCB&reflink=desktopwebshare_permalink)
 
 - [US accuses American of allegedly wiping his phone using a 'duress' password during border search](https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/) - A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constitutional rights at the U.S. border.
