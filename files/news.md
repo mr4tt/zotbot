@@ -1,4 +1,6 @@
 # news
+- [Tonight on Dateline This Man Will Die](https://www.esquire.com/news-politics/a3269/to-catch-a-predator/) - NBC's 'To Catch a Predator' arrived in Murphy, Texas, to conduct a sting operation. The only honest thing that followed was the gunshot.
+
 - [Inside the Coke-Fueled Rise and Fall of VICE](https://www.piratewires.com/p/undefined/p/inside-the-coke-fueled-rise-and-fall) - the company didn't die because of investors, sexual harassment charges, or going 'woke' — it died
 
 - [She Retired at 35. The Only Problem? It’s Lonely.](https://www.thecut.com/article/retired-at-35-lonely.html) - “I’ve found my people. I just wish they could all retire too.”
