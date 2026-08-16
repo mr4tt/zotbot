@@ -230,6 +230,10 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [The price of a Costco hot dog has gone up | Sina Booeshaghi](https://sina.bio/posts/costco-hotdog.html)
+
+- [Play behind bars](https://boundlessplay.substack.com/p/play-behind-bars) - Crosswords – by Keri Blakinger
+
 - [Slowing Down: Breaking the Fast Fashion Mindset](https://truestyle.substack.com/p/slowing-down-breaking-the-fast-fashion) - The goal of this article is not to convince you of anything. I’m not going to tell you why you should divest from fast fashion and put in the effort to shop more thoughtfully and with longevity in mind, as that approach has historically gotten me in trouble.
 
 - [Jewish settlers stole my house. It’s not my fault they’re Jewish.](https://mondoweiss.net/2023/09/jewish-settlers-stole-my-house-its-not-my-fault-theyre-jewish/) - Palestinians are told the words we use dwarf the decades of violence enacted against us by the self-proclaimed Jewish State. A drone is one thing, but a trope—a trope is unacceptable. No more.
@@ -1720,15 +1724,21 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [What Happened to Talenti?](https://www.nytimes.com/wirecutter/reviews/talenti-investigation/)
+
+- [How Can Someone Vanish Without A Trace?](https://www.wsj.com/us-news/how-savannah-guthrie-lost-mother-nancy-28907a65)
+
+- [How I got into Berghain, Berlin’s notoriously selective club](https://www.ft.com/content/c31a7fec-d757-481a-a6d8-3d414803db4b?syn-25a6b1a6=1)
+
+- [😭 or 😂: Do Your Emojis Make You Look Old?](https://www.nytimes.com/interactive/2026/08/12/upshot/emoji-generations.html) - When it comes to emoji usage, we’re all just following teen girls.
+
+- [McDonald’s Built a 515-Page Dossier on Me. It Says I’ll Never Stop Eating There](https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/) - I requested a copy of my data from McDonald’s loyalty program and received an extensive, personalized report that algorithmically predicts my next purchase.
+
 - [Tonight on Dateline This Man Will Die](https://www.esquire.com/news-politics/a3269/to-catch-a-predator/) - NBC's 'To Catch a Predator' arrived in Murphy, Texas, to conduct a sting operation. The only honest thing that followed was the gunshot.
 
 - [Inside the Coke-Fueled Rise and Fall of VICE](https://www.piratewires.com/p/undefined/p/inside-the-coke-fueled-rise-and-fall) - the company didn't die because of investors, sexual harassment charges, or going 'woke' — it died
 
 - [She Retired at 35. The Only Problem? It’s Lonely.](https://www.thecut.com/article/retired-at-35-lonely.html) - “I’ve found my people. I just wish they could all retire too.”
-
-- [](https://www.nytimes.com/wirecutter/reviews/talenti-investigation/)
-
-- [Application error: a client-side exception has occurred](https://www.wsj.com/us-news/how-savannah-guthrie-lost-mother-nancy-28907a65?st=uStLCB&reflink=desktopwebshare_permalink)
 
 - [US accuses American of allegedly wiping his phone using a 'duress' password during border search](https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/) - A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constitutional rights at the U.S. border.
 
@@ -1737,8 +1747,6 @@ To view a single category, check the files/ folder.
 - [Why Aren’t There More Imax 70mm Screens for ‘The Odyssey’? ‘It’s Not Practical,’ Company Says](https://variety.com/2026/film/news/why-no-more-imax-70mm-screens-the-odyssey-christopher-nolan-1236813019/) - 'The Odyssey' has spiked interest in IMAX70mm showings, but the company explains why building more is 'not practical.'
 
 - [A Teen Reporter Searched for His Community in the Epstein Files. Adults Freaked Out](https://www.wired.com/story/epstein-files-redwood-bark-school-newspaper/) - An Instagram post turned one California student newspaper into a free-speech flash point. The students say they were just doing their homework.
-
-- [How I got into Berghain, Berlin’s notoriously selective club]()
 
 - [A bear-ly believable tale: Allegations of a camera-wearing spy bear, illegal feeding rile CT town](https://www.vermontpublic.org/2023-09-08/a-bear-ly-believable-tale-allegations-of-a-camera-wearing-spy-bear-illegal-feeding-rile-ct-town) - A man in northern Connecticut has a history of feeding bears on his property. And that’s caused friction with town officials — and led to legal challenges.
 
