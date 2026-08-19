@@ -1724,6 +1724,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Her childhood photo. Thousands of explicit images. One woman’s nightmare.](https://www.washingtonpost.com/technology/2026/08/15/woman-alleges-grok-made-thousands-sexual-abuse-images-childhood-snap/) - A Wyoming woman alleges in a federal lawsuit that her stepfather used the Grok chatbot to transform a childhood photo into child sexual abuse material.
+
+- [The Most Powerful Men in America Are Eating Only Steak and Sauerkraut. Could I?](https://www.nytimes.com/2026/08/04/magazine/trump-rfk-steak-kimchi-diet.html) - I ate like Robert F. Kennedy Jr. for a week. The results were fascinating.
+
 - [What Happened to Talenti?](https://www.nytimes.com/wirecutter/reviews/talenti-investigation/)
 
 - [How Can Someone Vanish Without A Trace?](https://www.wsj.com/us-news/how-savannah-guthrie-lost-mother-nancy-28907a65)
@@ -2355,6 +2359,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Tadpole person](https://en.wikipedia.org/w/index.php?title=Tadpole_person&oldid=1353034406) - A tadpole person or headfooter is a simplistic representation of a human being as a figure without a torso, with arms and legs attached to the head. Tadpole people appear in young children's drawings before they learn to draw torsos and move on to more realistic depictions such as stick figures. Preschoolers who draw tadpole people generally do not ...
+
 - [Adam Worth](https://en.wikipedia.org/w/index.php?title=Adam_Worth&oldid=1354614522) - Adam Worth (c. 1844 – 8 January 1902) was a crime boss and fraudster. His career in crime, stretching from the United States to Europe and southern Africa, included the infamous theft of Gainsborough's celebrated Portrait of Georgiana, Duchess of Devonshire, which he retained for 25 years.  In London, he lived as a respected member of high society u...
 
 - [Checkpoint Charlie](https://en.wikipedia.org/w/index.php?title=Checkpoint_Charlie&oldid=1355342177) - Checkpoint Charlie (or "Checkpoint C") was the Western Bloc's name for the best-known Berlin Wall crossing point between East Berlin and West Berlin during the Cold War (1947–1991), becoming a symbol of the Cold War, representing the separation of East and West. East German leader Walter Ulbricht agitated and maneuvered to get the Soviet Union's per...

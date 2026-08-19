@@ -1,4 +1,8 @@
 # news
+- [Her childhood photo. Thousands of explicit images. One woman’s nightmare.](https://www.washingtonpost.com/technology/2026/08/15/woman-alleges-grok-made-thousands-sexual-abuse-images-childhood-snap/) - A Wyoming woman alleges in a federal lawsuit that her stepfather used the Grok chatbot to transform a childhood photo into child sexual abuse material.
+
+- [The Most Powerful Men in America Are Eating Only Steak and Sauerkraut. Could I?](https://www.nytimes.com/2026/08/04/magazine/trump-rfk-steak-kimchi-diet.html) - I ate like Robert F. Kennedy Jr. for a week. The results were fascinating.
+
 - [What Happened to Talenti?](https://www.nytimes.com/wirecutter/reviews/talenti-investigation/)
 
 - [How Can Someone Vanish Without A Trace?](https://www.wsj.com/us-news/how-savannah-guthrie-lost-mother-nancy-28907a65)
