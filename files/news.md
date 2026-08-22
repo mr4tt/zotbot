@@ -1,4 +1,12 @@
 # news
+- [How WNBA players are balancing investments and splurges with new salaries](https://www.espn.com/wnba/story/_/id/49662565/wnba-players-salary-investments-new-cars-money-cba) - From cars and watches to investments and property, here's how WNBA players are using their life-changing new money.
+
+- [I Kept My Father's Horrific Secret Since I Was 8. His Final Confession Before He Died Was Far Worse Than I Imagined.](https://www.huffpost.com/entry/dad-nazi-hitler-life-story-family-secrets-authoritarianism_n_6a5e8d67e4b03e444877eaa4) - “The atrocities my father committed are more than historical abstractions to me. They are part of my bloodline — a legacy.”
+
+- [This Coin-Sized Device Can Hack a Boeing 737](https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/) - Security researchers found that in less than 60 seconds, they could open a hatch on a plane’s exterior, plug in a tiny device, and redirect the aircraft’s autopilot or sabotage its flight plan.
+
+- [Fairphone Is Finally Selling Its Repairable Phone in the US](https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/) - More than a decade after launching in Europe, the Netherlands company is now selling its repairable phones in the US, starting with the Fairphone (Gen 6+).
+
 - [Her childhood photo. Thousands of explicit images. One woman’s nightmare.](https://www.washingtonpost.com/technology/2026/08/15/woman-alleges-grok-made-thousands-sexual-abuse-images-childhood-snap/) - A Wyoming woman alleges in a federal lawsuit that her stepfather used the Grok chatbot to transform a childhood photo into child sexual abuse material.
 
 - [The Most Powerful Men in America Are Eating Only Steak and Sauerkraut. Could I?](https://www.nytimes.com/2026/08/04/magazine/trump-rfk-steak-kimchi-diet.html) - I ate like Robert F. Kennedy Jr. for a week. The results were fascinating.

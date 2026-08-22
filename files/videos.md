@@ -1,4 +1,8 @@
 # videos
+- [Why Amtrak’s long-distance trains even exist](https://www.youtube.com/watch?v=784ZfG4LS04)
+
+- [Cars are surveillance devices. Here's the proof.](https://www.youtube.com/watch?v=J7oTWytFCmE)
+
 - [The Art of Delayed Gratification](https://youtube.com/watch?v=7aSE-aIPyGo)
 
 - [Sherlock Is Garbage, And Here's Why](https://www.youtube.com/watch?v=LkoGBOs5ecM)

@@ -230,6 +230,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [How Thailand resisted colonization - Works in Progress](https://worksinprogress.co/issue/how-thailand-resisted-colonization/) - Its royal family used a charm offensive where military power failed.
+
 - [The price of a Costco hot dog has gone up | Sina Booeshaghi](https://sina.bio/posts/costco-hotdog.html)
 
 - [Play behind bars](https://boundlessplay.substack.com/p/play-behind-bars) - Crosswords – by Keri Blakinger
@@ -824,6 +826,10 @@ To view a single category, check the files/ folder.
 - [Human-centered design considered harmful](https://dl.acm.org/doi/10.1145/1070960.1070976)
 
 # videos
+- [Why Amtrak’s long-distance trains even exist](https://www.youtube.com/watch?v=784ZfG4LS04)
+
+- [Cars are surveillance devices. Here's the proof.](https://www.youtube.com/watch?v=J7oTWytFCmE)
+
 - [The Art of Delayed Gratification](https://youtube.com/watch?v=7aSE-aIPyGo)
 
 - [Sherlock Is Garbage, And Here's Why](https://www.youtube.com/watch?v=LkoGBOs5ecM)
@@ -1724,6 +1730,14 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [How WNBA players are balancing investments and splurges with new salaries](https://www.espn.com/wnba/story/_/id/49662565/wnba-players-salary-investments-new-cars-money-cba) - From cars and watches to investments and property, here's how WNBA players are using their life-changing new money.
+
+- [I Kept My Father's Horrific Secret Since I Was 8. His Final Confession Before He Died Was Far Worse Than I Imagined.](https://www.huffpost.com/entry/dad-nazi-hitler-life-story-family-secrets-authoritarianism_n_6a5e8d67e4b03e444877eaa4) - “The atrocities my father committed are more than historical abstractions to me. They are part of my bloodline — a legacy.”
+
+- [This Coin-Sized Device Can Hack a Boeing 737](https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/) - Security researchers found that in less than 60 seconds, they could open a hatch on a plane’s exterior, plug in a tiny device, and redirect the aircraft’s autopilot or sabotage its flight plan.
+
+- [Fairphone Is Finally Selling Its Repairable Phone in the US](https://www.wired.com/story/you-can-finally-buy-a-fairphone-a-sustainable-repairable-smartphone-in-the-us/) - More than a decade after launching in Europe, the Netherlands company is now selling its repairable phones in the US, starting with the Fairphone (Gen 6+).
+
 - [Her childhood photo. Thousands of explicit images. One woman’s nightmare.](https://www.washingtonpost.com/technology/2026/08/15/woman-alleges-grok-made-thousands-sexual-abuse-images-childhood-snap/) - A Wyoming woman alleges in a federal lawsuit that her stepfather used the Grok chatbot to transform a childhood photo into child sexual abuse material.
 
 - [The Most Powerful Men in America Are Eating Only Steak and Sauerkraut. Could I?](https://www.nytimes.com/2026/08/04/magazine/trump-rfk-steak-kimchi-diet.html) - I ate like Robert F. Kennedy Jr. for a week. The results were fascinating.

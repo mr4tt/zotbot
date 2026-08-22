@@ -1,4 +1,6 @@
 # misc_longform
+- [How Thailand resisted colonization - Works in Progress](https://worksinprogress.co/issue/how-thailand-resisted-colonization/) - Its royal family used a charm offensive where military power failed.
+
 - [The price of a Costco hot dog has gone up | Sina Booeshaghi](https://sina.bio/posts/costco-hotdog.html)
 
 - [Play behind bars](https://boundlessplay.substack.com/p/play-behind-bars) - Crosswords – by Keri Blakinger
