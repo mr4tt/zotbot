@@ -1,4 +1,10 @@
 # news
+- [Air France Closes Paris Lounge Sauna After Passengers Apparently Turned It Into A Sex Den](https://liveandletsfly.com/air-france-lounge-sauna-closed/) - Air France has permanently closed its Terminal 2E Hall L lounge sauna after passengers used the private space for inappropriate activity.
+
+- [Reggie Watts Is a Prominent Ketamine Advocate. Was It His Ex's 'Undoing'?](https://www.rollingstone.com/tv-movies/tv-movie-features/reggie-watts-ketamine-drug-advocate-1235607828/) - Comedian and musican Reggie Watts is a prominent ketamine advocate. Was it his ex-girlfriend's "undoing"?
+
+- [The Dating Scene That’s Suddenly Dominated by Chip Nerds](https://www.wsj.com/lifestyle/relationships/memory-chip-engineers-stock-bonus-samsung-sk-hynix-f43226ef) - Thanks to mid six-figure bonuses, engineers at Samsung and SK Hynix are the hottest bachelors in South Korea.
+
 - [How WNBA players are balancing investments and splurges with new salaries](https://www.espn.com/wnba/story/_/id/49662565/wnba-players-salary-investments-new-cars-money-cba) - From cars and watches to investments and property, here's how WNBA players are using their life-changing new money.
 
 - [I Kept My Father's Horrific Secret Since I Was 8. His Final Confession Before He Died Was Far Worse Than I Imagined.](https://www.huffpost.com/entry/dad-nazi-hitler-life-story-family-secrets-authoritarianism_n_6a5e8d67e4b03e444877eaa4) - “The atrocities my father committed are more than historical abstractions to me. They are part of my bloodline — a legacy.”
@@ -11,11 +17,19 @@
 
 - [The Most Powerful Men in America Are Eating Only Steak and Sauerkraut. Could I?](https://www.nytimes.com/2026/08/04/magazine/trump-rfk-steak-kimchi-diet.html) - I ate like Robert F. Kennedy Jr. for a week. The results were fascinating.
 
+- [The Chinese Philosopher Americans Can’t Stop Fighting About](https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/) - Yiyang Zhuge was already an intellectual celebrity in China. Her viral interview with Christopher Nolan made her famous in the US—and quickly turned her into a political Rorschach test.
+
+- [‘I feel motherly towards them’: the nature reserve manager sharing her office with a wasp nest](https://www.theguardian.com/environment/2026/aug/11/i-feel-motherly-towards-them-the-nature-reserve-manager-sharing-her-office-with-a-wasp-nest) - Eilish Rothney’s first instinct was to get rid of the wasps entering her converted shipping container in Norfolk. Now she enjoys their constant hum
+
+- [Covert CIA program said to be behind mysterious attacks on Galápagos boats](https://www.washingtonpost.com/investigations/2026/08/13/covert-cia-program-said-be-behind-mysterious-attacks-galpagos-boats/) - A surveillance plane flew from El Salvador toward the fishing boats before drones attacked, flight data shows.
+
 - [What Happened to Talenti?](https://www.nytimes.com/wirecutter/reviews/talenti-investigation/)
 
 - [How Can Someone Vanish Without A Trace?](https://www.wsj.com/us-news/how-savannah-guthrie-lost-mother-nancy-28907a65)
 
 - [How I got into Berghain, Berlin’s notoriously selective club](https://www.ft.com/content/c31a7fec-d757-481a-a6d8-3d414803db4b?syn-25a6b1a6=1)
+
+- [New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln](https://apnews.com/article/aircraft-carriers-uss-abraham-lincoln-washington-iran-5366eba29f72b6b317416fde81d57a61) - The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln.
 
 - [😭 or 😂: Do Your Emojis Make You Look Old?](https://www.nytimes.com/interactive/2026/08/12/upshot/emoji-generations.html) - When it comes to emoji usage, we’re all just following teen girls.
 

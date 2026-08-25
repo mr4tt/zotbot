@@ -18,6 +18,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [Open Source Must Be Fun (Or It Will Die)](https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/) - Homebrew is thriving while other open source projects struggle. Its scarcest resource isn’t money: it’s maintainer motivation.
+
 - [Predictable RNG Fallback and 32-Bit Reseed in COLDCARD Firmware](https://engineering.block.xyz/blog/predictable-rng-fallback-and-32-bit-reseed-in-coldcard-firmware) - How a disabled hardware-RNG path and 32-bit reseed constrain entropy in affected COLDCARD firmware and expose generated secrets.
 
 - [How 2004 RuneScape fit a multiplayer RPG into 56k dial-up · jkm.dev](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/) - In 2004 I played too much RuneScape on a 56k modem that died the moment Mum picked up the phone. A 3D world, up to a couple of thousand players on a server, dozens on screen at once - in the browser, on 5 kilobytes per second. It worked. Let’s follow a single step and see how.
@@ -230,6 +232,10 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Seven books I keep close because I love them](https://blog.plover.com/meta/about-me.html) - From the highly eclectic blog of Mark Dominus
+
+- [I have acquired my dream 3DS](https://theworksofegan.net//posts/2026-08-16-new-3ds/) - It's been 11 long years.
+
 - [How Thailand resisted colonization - Works in Progress](https://worksinprogress.co/issue/how-thailand-resisted-colonization/) - Its royal family used a charm offensive where military power failed.
 
 - [The price of a Costco hot dog has gone up | Sina Booeshaghi](https://sina.bio/posts/costco-hotdog.html)
@@ -237,6 +243,8 @@ To view a single category, check the files/ folder.
 - [Play behind bars](https://boundlessplay.substack.com/p/play-behind-bars) - Crosswords – by Keri Blakinger
 
 - [Slowing Down: Breaking the Fast Fashion Mindset](https://truestyle.substack.com/p/slowing-down-breaking-the-fast-fashion) - The goal of this article is not to convince you of anything. I’m not going to tell you why you should divest from fast fashion and put in the effort to shop more thoughtfully and with longevity in mind, as that approach has historically gotten me in trouble.
+
+- [Your Cookware Got Worse On Purpose](https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose) - One buyout firm quietly collected Pyrex, Corelle, Instant Pot, and Oneida. Farberware is a name on a 200-year lease. And the pans still worth buying.
 
 - [Jewish settlers stole my house. It’s not my fault they’re Jewish.](https://mondoweiss.net/2023/09/jewish-settlers-stole-my-house-its-not-my-fault-theyre-jewish/) - Palestinians are told the words we use dwarf the decades of violence enacted against us by the self-proclaimed Jewish State. A drone is one thing, but a trope—a trope is unacceptable. No more.
 
@@ -740,6 +748,8 @@ To view a single category, check the files/ folder.
 - [0K47](https://0k47.com/) - The official website and shop of 0K47. Find the latest content, buy merch, and support our nerdy apparel.
 
 # crochet
+- [Crochet Lace Spring Scarf Tutorial](https://www.youtube.com/watch?v=ZIsH5js9KyM)
+
 - [Seattle Scarf: Free Crochet Pattern](https://hearthookhome.com/seattle-scarf-free-crochet-pattern/)
 
 - [🌈How to Crochet a Seamless Flat Circle with Invisible Color Change! ✨](https://www.youtube.com/watch?v=lyqLVYFt_4Q)
@@ -1730,6 +1740,12 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Air France Closes Paris Lounge Sauna After Passengers Apparently Turned It Into A Sex Den](https://liveandletsfly.com/air-france-lounge-sauna-closed/) - Air France has permanently closed its Terminal 2E Hall L lounge sauna after passengers used the private space for inappropriate activity.
+
+- [Reggie Watts Is a Prominent Ketamine Advocate. Was It His Ex's 'Undoing'?](https://www.rollingstone.com/tv-movies/tv-movie-features/reggie-watts-ketamine-drug-advocate-1235607828/) - Comedian and musican Reggie Watts is a prominent ketamine advocate. Was it his ex-girlfriend's "undoing"?
+
+- [The Dating Scene That’s Suddenly Dominated by Chip Nerds](https://www.wsj.com/lifestyle/relationships/memory-chip-engineers-stock-bonus-samsung-sk-hynix-f43226ef) - Thanks to mid six-figure bonuses, engineers at Samsung and SK Hynix are the hottest bachelors in South Korea.
+
 - [How WNBA players are balancing investments and splurges with new salaries](https://www.espn.com/wnba/story/_/id/49662565/wnba-players-salary-investments-new-cars-money-cba) - From cars and watches to investments and property, here's how WNBA players are using their life-changing new money.
 
 - [I Kept My Father's Horrific Secret Since I Was 8. His Final Confession Before He Died Was Far Worse Than I Imagined.](https://www.huffpost.com/entry/dad-nazi-hitler-life-story-family-secrets-authoritarianism_n_6a5e8d67e4b03e444877eaa4) - “The atrocities my father committed are more than historical abstractions to me. They are part of my bloodline — a legacy.”
@@ -1742,11 +1758,19 @@ To view a single category, check the files/ folder.
 
 - [The Most Powerful Men in America Are Eating Only Steak and Sauerkraut. Could I?](https://www.nytimes.com/2026/08/04/magazine/trump-rfk-steak-kimchi-diet.html) - I ate like Robert F. Kennedy Jr. for a week. The results were fascinating.
 
+- [The Chinese Philosopher Americans Can’t Stop Fighting About](https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/) - Yiyang Zhuge was already an intellectual celebrity in China. Her viral interview with Christopher Nolan made her famous in the US—and quickly turned her into a political Rorschach test.
+
+- [‘I feel motherly towards them’: the nature reserve manager sharing her office with a wasp nest](https://www.theguardian.com/environment/2026/aug/11/i-feel-motherly-towards-them-the-nature-reserve-manager-sharing-her-office-with-a-wasp-nest) - Eilish Rothney’s first instinct was to get rid of the wasps entering her converted shipping container in Norfolk. Now she enjoys their constant hum
+
+- [Covert CIA program said to be behind mysterious attacks on Galápagos boats](https://www.washingtonpost.com/investigations/2026/08/13/covert-cia-program-said-be-behind-mysterious-attacks-galpagos-boats/) - A surveillance plane flew from El Salvador toward the fishing boats before drones attacked, flight data shows.
+
 - [What Happened to Talenti?](https://www.nytimes.com/wirecutter/reviews/talenti-investigation/)
 
 - [How Can Someone Vanish Without A Trace?](https://www.wsj.com/us-news/how-savannah-guthrie-lost-mother-nancy-28907a65)
 
 - [How I got into Berghain, Berlin’s notoriously selective club](https://www.ft.com/content/c31a7fec-d757-481a-a6d8-3d414803db4b?syn-25a6b1a6=1)
+
+- [New aircraft carrier heads toward Mideast after reports of issues on long-deployed USS Lincoln](https://apnews.com/article/aircraft-carriers-uss-abraham-lincoln-washington-iran-5366eba29f72b6b317416fde81d57a61) - The Pacific-based aircraft carrier USS George Washington has begun heading toward the Middle East as reports have emerged of mental health and supply issues aboard the long-deployed USS Abraham Lincoln.
 
 - [😭 or 😂: Do Your Emojis Make You Look Old?](https://www.nytimes.com/interactive/2026/08/12/upshot/emoji-generations.html) - When it comes to emoji usage, we’re all just following teen girls.
 

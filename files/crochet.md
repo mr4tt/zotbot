@@ -1,4 +1,6 @@
 # crochet
+- [Crochet Lace Spring Scarf Tutorial](https://www.youtube.com/watch?v=ZIsH5js9KyM)
+
 - [Seattle Scarf: Free Crochet Pattern](https://hearthookhome.com/seattle-scarf-free-crochet-pattern/)
 
 - [🌈How to Crochet a Seamless Flat Circle with Invisible Color Change! ✨](https://www.youtube.com/watch?v=lyqLVYFt_4Q)

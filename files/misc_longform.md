@@ -1,4 +1,8 @@
 # misc_longform
+- [Seven books I keep close because I love them](https://blog.plover.com/meta/about-me.html) - From the highly eclectic blog of Mark Dominus
+
+- [I have acquired my dream 3DS](https://theworksofegan.net//posts/2026-08-16-new-3ds/) - It's been 11 long years.
+
 - [How Thailand resisted colonization - Works in Progress](https://worksinprogress.co/issue/how-thailand-resisted-colonization/) - Its royal family used a charm offensive where military power failed.
 
 - [The price of a Costco hot dog has gone up | Sina Booeshaghi](https://sina.bio/posts/costco-hotdog.html)
@@ -6,6 +10,8 @@
 - [Play behind bars](https://boundlessplay.substack.com/p/play-behind-bars) - Crosswords – by Keri Blakinger
 
 - [Slowing Down: Breaking the Fast Fashion Mindset](https://truestyle.substack.com/p/slowing-down-breaking-the-fast-fashion) - The goal of this article is not to convince you of anything. I’m not going to tell you why you should divest from fast fashion and put in the effort to shop more thoughtfully and with longevity in mind, as that approach has historically gotten me in trouble.
+
+- [Your Cookware Got Worse On Purpose](https://www.worseonpurpose.com/p/your-cookware-got-worse-on-purpose) - One buyout firm quietly collected Pyrex, Corelle, Instant Pot, and Oneida. Farberware is a name on a 200-year lease. And the pans still worth buying.
 
 - [Jewish settlers stole my house. It’s not my fault they’re Jewish.](https://mondoweiss.net/2023/09/jewish-settlers-stole-my-house-its-not-my-fault-theyre-jewish/) - Palestinians are told the words we use dwarf the decades of violence enacted against us by the self-proclaimed Jewish State. A drone is one thing, but a trope—a trope is unacceptable. No more.
 
