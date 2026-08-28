@@ -1,4 +1,16 @@
 # news
+- [Man executed for fatally poisoning billionaire who helped bring ‘3 Body Problem’ to Netflix](https://www.cnn.com/2026/05/28/china/china-netflix-crime-execution-intl-hnk) - A Chinese lawyer who fatally poisoned the billionaire gaming tycoon who helped produce the Netflix sci-fi hit “3 Body Problem” has been executed, according to Chinese state media.
+
+- [The real Salt Path: how a blockbuster book and film were ...](https://observer.co.uk/news/national/article/the-real-salt-path-how-the-couple-behind-a-bestseller-left-a-trail-of-debt-and-deceit) - Penniless and homeless, the Winns found fame and fortune with the story of their 630-mile walk to salvation. We can reveal that the truth behind it is very different
+
+- [Moth Winn’s recovery was a ‘miracle’. CBD patients and th...](https://observer.co.uk/news/national/article/moth-winns-recovery-was-a-miracle-cbd-patients-and-their-doctors-tell-a-different-story) - A CBD patient and his doctor speak about the bleak reality of living with the disease – and how The Salt Path gave them hope that has turned to anger
+
+- [The Home Slopping Network](https://www.theatlantic.com/technology/2026/08/fairground-ai-roku-channel/688318/) - A new channel on Roku’s TV service offers all-you-can-eat AI programming. I binged eight hours of it.
+
+- [‘Hysteria’ Grips San Francisco’s Housing Market as A.I. Wealth Pours In](https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html) - Even before OpenAI and Anthropic go public, they are distorting home sales in the San Francisco Bay Area, as people race to buy and sellers ask for stock instead of cash.
+
+- [Suicide is a tragedy, not an argument](https://unherd.com/2026/08/suicide-is-a-tragedy-not-an-argument/)
+
 - [Air France Closes Paris Lounge Sauna After Passengers Apparently Turned It Into A Sex Den](https://liveandletsfly.com/air-france-lounge-sauna-closed/) - Air France has permanently closed its Terminal 2E Hall L lounge sauna after passengers used the private space for inappropriate activity.
 
 - [Reggie Watts Is a Prominent Ketamine Advocate. Was It His Ex's 'Undoing'?](https://www.rollingstone.com/tv-movies/tv-movie-features/reggie-watts-ketamine-drug-advocate-1235607828/) - Comedian and musican Reggie Watts is a prominent ketamine advocate. Was it his ex-girlfriend's "undoing"?
