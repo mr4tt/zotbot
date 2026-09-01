@@ -1,4 +1,6 @@
 # misc
+- [Planetwurst — The World Atlas of Sausages](https://planetwurst.com/) - Explore sausages from around the world. Discover regional varieties, find the best producers, and learn where to eat them.
+
 - [Lost and Found](https://walzr.com/lost-and-found)
 
 - [has_not_been_viewed_much — Will W.](https://iamwillwang.com/notes/has-not-been-viewed-much/) - Museum APIs and the art that hasn't been viewed much.
