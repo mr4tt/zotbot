@@ -1,4 +1,8 @@
 # cs_misc
+- [Normalized Fascism in Open Source: $12 Million Given to DHH](https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/) - Open source has become a safe harbor for far-right politics, from David Heinemeier Hansson's white-nationalist rhetoric and the Omarchy Foundation's $12 million in patron funding to so-called apolitical projects that treat marginalized contributors as political, and why a united boycott of complicit tech companies is our only way forward.
+
+- [a CVE dispute](https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/) - A few years years ago the curl project signed up and became a CNA. This means that we are masters of and can allocate our own CVE identifiers. For any security problems within our territory, it is we who decides if the issue should get a CVE or not. No more bogus CVEs. 57 CVEs … Continue reading a CVE dispute →
+
 - [Open Source Must Be Fun (Or It Will Die)](https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/) - Homebrew is thriving while other open source projects struggle. Its scarcest resource isn’t money: it’s maintainer motivation.
 
 - [Predictable RNG Fallback and 32-Bit Reseed in COLDCARD Firmware](https://engineering.block.xyz/blog/predictable-rng-fallback-and-32-bit-reseed-in-coldcard-firmware) - How a disabled hardware-RNG path and 32-bit reseed constrain entropy in affected COLDCARD firmware and expose generated secrets.

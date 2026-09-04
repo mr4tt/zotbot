@@ -1,4 +1,6 @@
 # news
+- [FBI Probes Service Selling 153M+ Drivers Licenses – Krebs on Security](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
+
 - [Man executed for fatally poisoning billionaire who helped bring ‘3 Body Problem’ to Netflix](https://www.cnn.com/2026/05/28/china/china-netflix-crime-execution-intl-hnk) - A Chinese lawyer who fatally poisoned the billionaire gaming tycoon who helped produce the Netflix sci-fi hit “3 Body Problem” has been executed, according to Chinese state media.
 
 - [The real Salt Path: how a blockbuster book and film were ...](https://observer.co.uk/news/national/article/the-real-salt-path-how-the-couple-behind-a-bestseller-left-a-trail-of-debt-and-deceit) - Penniless and homeless, the Winns found fame and fortune with the story of their 630-mile walk to salvation. We can reveal that the truth behind it is very different

@@ -18,6 +18,10 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [Normalized Fascism in Open Source: $12 Million Given to DHH](https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/) - Open source has become a safe harbor for far-right politics, from David Heinemeier Hansson's white-nationalist rhetoric and the Omarchy Foundation's $12 million in patron funding to so-called apolitical projects that treat marginalized contributors as political, and why a united boycott of complicit tech companies is our only way forward.
+
+- [a CVE dispute](https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/) - A few years years ago the curl project signed up and became a CNA. This means that we are masters of and can allocate our own CVE identifiers. For any security problems within our territory, it is we who decides if the issue should get a CVE or not. No more bogus CVEs. 57 CVEs … Continue reading a CVE dispute →
+
 - [Open Source Must Be Fun (Or It Will Die)](https://mikemcquaid.com/open-source-must-be-fun-or-it-will-die/) - Homebrew is thriving while other open source projects struggle. Its scarcest resource isn’t money: it’s maintainer motivation.
 
 - [Predictable RNG Fallback and 32-Bit Reseed in COLDCARD Firmware](https://engineering.block.xyz/blog/predictable-rng-fallback-and-32-bit-reseed-in-coldcard-firmware) - How a disabled hardware-RNG path and 32-bit reseed constrain entropy in affected COLDCARD firmware and expose generated secrets.
@@ -1740,6 +1744,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [FBI Probes Service Selling 153M+ Drivers Licenses – Krebs on Security](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
+
 - [Man executed for fatally poisoning billionaire who helped bring ‘3 Body Problem’ to Netflix](https://www.cnn.com/2026/05/28/china/china-netflix-crime-execution-intl-hnk) - A Chinese lawyer who fatally poisoned the billionaire gaming tycoon who helped produce the Netflix sci-fi hit “3 Body Problem” has been executed, according to Chinese state media.
 
 - [The real Salt Path: how a blockbuster book and film were ...](https://observer.co.uk/news/national/article/the-real-salt-path-how-the-couple-behind-a-bestseller-left-a-trail-of-debt-and-deceit) - Penniless and homeless, the Winns found fame and fortune with the story of their 630-mile walk to salvation. We can reveal that the truth behind it is very different
