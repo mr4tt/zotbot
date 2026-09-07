@@ -1,4 +1,6 @@
 # misc
+- [LudoTune](https://ludotune.com) - LudoTune is an online musical toy for building tunes with cubes
+
 - [Planetwurst — The World Atlas of Sausages](https://planetwurst.com/) - Explore sausages from around the world. Discover regional varieties, find the best producers, and learn where to eat them.
 
 - [Lost and Found](https://walzr.com/lost-and-found)

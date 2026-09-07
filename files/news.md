@@ -1,4 +1,10 @@
 # news
+- [The Children a Scientist Took Home](https://www.newyorker.com/magazine/2026/08/24/the-scientist-who-lived-with-dozens-of-children-from-the-south-pacific) - Carleton Gajdusek won the Nobel Prize for his work on a disease in Papua New Guinea. But his biggest experiment was on the children he took back to the U.S.
+
+- [From Kissing One Guy in 20 Years to 11 in a Month](https://www.nytimes.com/2026/04/24/style/modern-love-divorce-hinge-kissing-one-guy-for-20-years-11-in-a-month.html) - My husband leaving nearly broke me. I tried to put myself back together by dating for the first time in my life.
+
+- [Rachel Cusk Tried to Caricature Natalie Portman. She Only Caricatured Herself.](https://www.nytimes.com/2026/08/28/magazine/rachel-cusk-natalie-portman-life-of-m.html) - Her latest novel appears to savage a celebrity. But Cusk has, once again, managed to turn herself into the victim.
+
 - [FBI Probes Service Selling 153M+ Drivers Licenses – Krebs on Security](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
 
 - [Man executed for fatally poisoning billionaire who helped bring ‘3 Body Problem’ to Netflix](https://www.cnn.com/2026/05/28/china/china-netflix-crime-execution-intl-hnk) - A Chinese lawyer who fatally poisoned the billionaire gaming tycoon who helped produce the Netflix sci-fi hit “3 Body Problem” has been executed, according to Chinese state media.

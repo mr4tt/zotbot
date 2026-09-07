@@ -1,4 +1,6 @@
 # cs_misc
+- [Am I in The Stack? - a Hugging Face Space by HuggingFaceCode](https://huggingface.co/spaces/HuggingFaceCode/in-the-stack) - Enter your GitHub username or organization name to see whether any of your repositories are included in The Stack v3 dataset. The app lists any matching repositories and provides a ready‑to‑use lin...
+
 - [Normalized Fascism in Open Source: $12 Million Given to DHH](https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/) - Open source has become a safe harbor for far-right politics, from David Heinemeier Hansson's white-nationalist rhetoric and the Omarchy Foundation's $12 million in patron funding to so-called apolitical projects that treat marginalized contributors as political, and why a united boycott of complicit tech companies is our only way forward.
 
 - [a CVE dispute](https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/) - A few years years ago the curl project signed up and became a CNA. This means that we are masters of and can allocate our own CVE identifiers. For any security problems within our territory, it is we who decides if the issue should get a CVE or not. No more bogus CVEs. 57 CVEs … Continue reading a CVE dispute →

@@ -18,6 +18,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [Am I in The Stack? - a Hugging Face Space by HuggingFaceCode](https://huggingface.co/spaces/HuggingFaceCode/in-the-stack) - Enter your GitHub username or organization name to see whether any of your repositories are included in The Stack v3 dataset. The app lists any matching repositories and provides a ready‑to‑use lin...
+
 - [Normalized Fascism in Open Source: $12 Million Given to DHH](https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/) - Open source has become a safe harbor for far-right politics, from David Heinemeier Hansson's white-nationalist rhetoric and the Omarchy Foundation's $12 million in patron funding to so-called apolitical projects that treat marginalized contributors as political, and why a united boycott of complicit tech companies is our only way forward.
 
 - [a CVE dispute](https://daniel.haxx.se/blog/2026/06/24/a-cve-dispute/) - A few years years ago the curl project signed up and became a CNA. This means that we are masters of and can allocate our own CVE identifiers. For any security problems within our territory, it is we who decides if the issue should get a CVE or not. No more bogus CVEs. 57 CVEs … Continue reading a CVE dispute →
@@ -1744,6 +1746,12 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The Children a Scientist Took Home](https://www.newyorker.com/magazine/2026/08/24/the-scientist-who-lived-with-dozens-of-children-from-the-south-pacific) - Carleton Gajdusek won the Nobel Prize for his work on a disease in Papua New Guinea. But his biggest experiment was on the children he took back to the U.S.
+
+- [From Kissing One Guy in 20 Years to 11 in a Month](https://www.nytimes.com/2026/04/24/style/modern-love-divorce-hinge-kissing-one-guy-for-20-years-11-in-a-month.html) - My husband leaving nearly broke me. I tried to put myself back together by dating for the first time in my life.
+
+- [Rachel Cusk Tried to Caricature Natalie Portman. She Only Caricatured Herself.](https://www.nytimes.com/2026/08/28/magazine/rachel-cusk-natalie-portman-life-of-m.html) - Her latest novel appears to savage a celebrity. But Cusk has, once again, managed to turn herself into the victim.
+
 - [FBI Probes Service Selling 153M+ Drivers Licenses – Krebs on Security](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
 
 - [Man executed for fatally poisoning billionaire who helped bring ‘3 Body Problem’ to Netflix](https://www.cnn.com/2026/05/28/china/china-netflix-crime-execution-intl-hnk) - A Chinese lawyer who fatally poisoned the billionaire gaming tycoon who helped produce the Netflix sci-fi hit “3 Body Problem” has been executed, according to Chinese state media.
@@ -3040,6 +3048,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [LudoTune](https://ludotune.com) - LudoTune is an online musical toy for building tunes with cubes
+
 - [Planetwurst — The World Atlas of Sausages](https://planetwurst.com/) - Explore sausages from around the world. Discover regional varieties, find the best producers, and learn where to eat them.
 
 - [Lost and Found](https://walzr.com/lost-and-found)
