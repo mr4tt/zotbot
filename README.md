@@ -238,6 +238,14 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [On not becoming a cyborg](https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/) - I was a voracious reader as a kid, and I noticed a funny phenomenon: whatever writer I had most recently read, my next paper for English class would sound like them. If I read a bunch of Stephen Ki…
+
+- [Unsung @ 500: Behind the scenes](https://unsung.aresluna.org/unsung-at-500-behind-the-scenes/) - A blog about software craft and quality
+
+- [My Favorite Database Shirts](https://www.cs.cmu.edu/~pavlo/blog/2016/07/my-favorite-database-shirts.html) - Andy reviews his favorite NoSQL and NewSQL database shirts.
+
+- [The cupcake incident](https://michaelnotebook.com/cupcake/?)
+
 - [Seven books I keep close because I love them](https://blog.plover.com/meta/about-me.html) - From the highly eclectic blog of Mark Dominus
 
 - [I have acquired my dream 3DS](https://theworksofegan.net//posts/2026-08-16-new-3ds/) - It's been 11 long years.
@@ -754,6 +762,8 @@ To view a single category, check the files/ folder.
 - [0K47](https://0k47.com/) - The official website and shop of 0K47. Find the latest content, buy merch, and support our nerdy apparel.
 
 # crochet
+- [YouTube](https://m.youtube.com/watch?v=aFC7biSDKX4)
+
 - [Crochet Lace Spring Scarf Tutorial](https://www.youtube.com/watch?v=ZIsH5js9KyM)
 
 - [Seattle Scarf: Free Crochet Pattern](https://hearthookhome.com/seattle-scarf-free-crochet-pattern/)
@@ -1096,6 +1106,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [The cupcake incident](https://michaelnotebook.com/cupcake/?)
+
 - [ProtonDB](https://www.protondb.com/)
 
 - [Bicycle School | A comprehensive guide to road riding](https://bestrides.org/bikeschool/)

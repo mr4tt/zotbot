@@ -1,4 +1,6 @@
 # crochet
+- [YouTube](https://m.youtube.com/watch?v=aFC7biSDKX4)
+
 - [Crochet Lace Spring Scarf Tutorial](https://www.youtube.com/watch?v=ZIsH5js9KyM)
 
 - [Seattle Scarf: Free Crochet Pattern](https://hearthookhome.com/seattle-scarf-free-crochet-pattern/)

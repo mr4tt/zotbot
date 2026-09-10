@@ -1,4 +1,6 @@
 # general_resources
+- [The cupcake incident](https://michaelnotebook.com/cupcake/?)
+
 - [ProtonDB](https://www.protondb.com/)
 
 - [Bicycle School | A comprehensive guide to road riding](https://bestrides.org/bikeschool/)

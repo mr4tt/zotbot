@@ -1,4 +1,12 @@
 # misc_longform
+- [On not becoming a cyborg](https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/) - I was a voracious reader as a kid, and I noticed a funny phenomenon: whatever writer I had most recently read, my next paper for English class would sound like them. If I read a bunch of Stephen Ki…
+
+- [Unsung @ 500: Behind the scenes](https://unsung.aresluna.org/unsung-at-500-behind-the-scenes/) - A blog about software craft and quality
+
+- [My Favorite Database Shirts](https://www.cs.cmu.edu/~pavlo/blog/2016/07/my-favorite-database-shirts.html) - Andy reviews his favorite NoSQL and NewSQL database shirts.
+
+- [The cupcake incident](https://michaelnotebook.com/cupcake/?)
+
 - [Seven books I keep close because I love them](https://blog.plover.com/meta/about-me.html) - From the highly eclectic blog of Mark Dominus
 
 - [I have acquired my dream 3DS](https://theworksofegan.net//posts/2026-08-16-new-3ds/) - It's been 11 long years.
