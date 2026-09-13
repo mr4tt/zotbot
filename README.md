@@ -18,6 +18,12 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [Opusfived](https://opusfived.dev/) - Make one button blue. Change nothing else. A short interactive comedy about agentic AI assistants that can never just do the thing.
+
+- [Building Software Is Learning](https://registerspill.thorstenball.com/p/building-software-is-learning) - An internal note to the Amp team on feedback and shipping faster
+
+- [I’ve factored the RSA keys of a Certificate Authority…](https://mcpherrin.ca/2026/09/07/rsa.html) - … from the 90s.
+
 - [Am I in The Stack? - a Hugging Face Space by HuggingFaceCode](https://huggingface.co/spaces/HuggingFaceCode/in-the-stack) - Enter your GitHub username or organization name to see whether any of your repositories are included in The Stack v3 dataset. The app lists any matching repositories and provides a ready‑to‑use lin...
 
 - [Normalized Fascism in Open Source: $12 Million Given to DHH](https://brennan.day/normalized-fascism-in-open-source-12-million-given-to-dhh/) - Open source has become a safe harbor for far-right politics, from David Heinemeier Hansson's white-nationalist rhetoric and the Omarchy Foundation's $12 million in patron funding to so-called apolitical projects that treat marginalized contributors as political, and why a united boycott of complicit tech companies is our only way forward.
