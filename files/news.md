@@ -1,4 +1,6 @@
 # news
+- [Deal Reached to Sell Chicago Parking Meters to Investment Firm, Alderpeople Say](https://news.wttw.com/2026/09/15/deal-reached-sell-chicago-parking-meters-investment-firm-alderpeople-say) - The deal requires Stonepeak to sell Omni Air International, which has a contract with the Trump administration to carry out deportations, according to the City Council members.
+
 - [The Children a Scientist Took Home](https://www.newyorker.com/magazine/2026/08/24/the-scientist-who-lived-with-dozens-of-children-from-the-south-pacific) - Carleton Gajdusek won the Nobel Prize for his work on a disease in Papua New Guinea. But his biggest experiment was on the children he took back to the U.S.
 
 - [From Kissing One Guy in 20 Years to 11 in a Month](https://www.nytimes.com/2026/04/24/style/modern-love-divorce-hinge-kissing-one-guy-for-20-years-11-in-a-month.html) - My husband leaving nearly broke me. I tried to put myself back together by dating for the first time in my life.
