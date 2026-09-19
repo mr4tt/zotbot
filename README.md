@@ -1764,6 +1764,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy](https://www.404media.co/spotify-ai-music-scam/) - A glaring loophole in digital music distribution makes it very easy to piggyback on the talent of real artists with AI generated music.
+
 - [Deal Reached to Sell Chicago Parking Meters to Investment Firm, Alderpeople Say](https://news.wttw.com/2026/09/15/deal-reached-sell-chicago-parking-meters-investment-firm-alderpeople-say) - The deal requires Stonepeak to sell Omni Air International, which has a contract with the Trump administration to carry out deportations, according to the City Council members.
 
 - [The Children a Scientist Took Home](https://www.newyorker.com/magazine/2026/08/24/the-scientist-who-lived-with-dozens-of-children-from-the-south-pacific) - Carleton Gajdusek won the Nobel Prize for his work on a disease in Papua New Guinea. But his biggest experiment was on the children he took back to the U.S.
