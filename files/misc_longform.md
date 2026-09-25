@@ -1,4 +1,10 @@
 # misc_longform
+- [Taylor Swift has a lot to lose on The Life of a Showgirl: The Encore](https://georgegriffithswrites.substack.com/p/taylor-swift-the-life-of-a-showgirl-the-encore-is-a-risk) - After the previous front-to-back creative disaster of an album, this is the crossroads of if Taylor Swift wants to be seen as an artist or a brand.
+
+- [SCP-9730 - SCP Foundation](https://scp-wiki.wikidot.com/scp-9730) - The SCP Foundation's 'top-secret' archives, declassified for your enjoyment.
+
+- [Application error: a client-side exception has occurred](https://www.petemillspaugh.com/your-corner-of-the-internet?) - Pete Millspaugh's digital garden
+
 - [On not becoming a cyborg](https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/) - I was a voracious reader as a kid, and I noticed a funny phenomenon: whatever writer I had most recently read, my next paper for English class would sound like them. If I read a bunch of Stephen Ki…
 
 - [Unsung @ 500: Behind the scenes](https://unsung.aresluna.org/unsung-at-500-behind-the-scenes/) - A blog about software craft and quality

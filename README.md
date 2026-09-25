@@ -244,6 +244,12 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Taylor Swift has a lot to lose on The Life of a Showgirl: The Encore](https://georgegriffithswrites.substack.com/p/taylor-swift-the-life-of-a-showgirl-the-encore-is-a-risk) - After the previous front-to-back creative disaster of an album, this is the crossroads of if Taylor Swift wants to be seen as an artist or a brand.
+
+- [SCP-9730 - SCP Foundation](https://scp-wiki.wikidot.com/scp-9730) - The SCP Foundation's 'top-secret' archives, declassified for your enjoyment.
+
+- [Application error: a client-side exception has occurred](https://www.petemillspaugh.com/your-corner-of-the-internet?) - Pete Millspaugh's digital garden
+
 - [On not becoming a cyborg](https://nolanlawson.com/2026/08/31/on-not-becoming-a-cyborg/) - I was a voracious reader as a kid, and I noticed a funny phenomenon: whatever writer I had most recently read, my next paper for English class would sound like them. If I read a bunch of Stephen Ki…
 
 - [Unsung @ 500: Behind the scenes](https://unsung.aresluna.org/unsung-at-500-behind-the-scenes/) - A blog about software craft and quality
@@ -1764,6 +1770,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [As San Francisco car break-ins plunge, these businesses are suffering](https://www.sfchronicle.com/sf/article/bipping-car-break-in-glass-repair-20275993.php) - All over the city, auto glass merchants say they are hobbled by what’s otherwise a staggering sign of progress.
+
 - [I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy](https://www.404media.co/spotify-ai-music-scam/) - A glaring loophole in digital music distribution makes it very easy to piggyback on the talent of real artists with AI generated music.
 
 - [Deal Reached to Sell Chicago Parking Meters to Investment Firm, Alderpeople Say](https://news.wttw.com/2026/09/15/deal-reached-sell-chicago-parking-meters-investment-firm-alderpeople-say) - The deal requires Stonepeak to sell Omni Air International, which has a contract with the Trump administration to carry out deportations, according to the City Council members.
@@ -2445,6 +2453,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Panchiko](https://en.wikipedia.org/w/index.php?title=Panchiko&oldid=1373231417) - Panchiko ( pan-CHEE-koh) is a British indie rock band originating from Nottingham, England. Formed between 1997 and 1998, the band originally consisted of lead vocalist and guitarist Owain Davies, guitarist/keyboardist Andrew "Andy" Wright, bassist Shaun Ferreday, and a drummer named John. A year after the revival of Panchiko in 2020, they were join...
+
 - [Tadpole person](https://en.wikipedia.org/w/index.php?title=Tadpole_person&oldid=1353034406) - A tadpole person or headfooter is a simplistic representation of a human being as a figure without a torso, with arms and legs attached to the head. Tadpole people appear in young children's drawings before they learn to draw torsos and move on to more realistic depictions such as stick figures. Preschoolers who draw tadpole people generally do not ...
 
 - [Adam Worth](https://en.wikipedia.org/w/index.php?title=Adam_Worth&oldid=1354614522) - Adam Worth (c. 1844 – 8 January 1902) was a crime boss and fraudster. His career in crime, stretching from the United States to Europe and southern Africa, included the infamous theft of Gainsborough's celebrated Portrait of Georgiana, Duchess of Devonshire, which he retained for 25 years.  In London, he lived as a respected member of high society u...
