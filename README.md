@@ -18,6 +18,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [One month without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html) - Several months ago, I decided that AI contributions were no longer welcome in a FOSS project I am building and maintaining - LibreWeddingPlanner. It’s not that it got a lot of contributions with AI — actually all contributions I’ve had are translations and feature requests — but I wanted to...
+
 - [Opusfived](https://opusfived.dev/) - Make one button blue. Change nothing else. A short interactive comedy about agentic AI assistants that can never just do the thing.
 
 - [Building Software Is Learning](https://registerspill.thorstenball.com/p/building-software-is-learning) - An internal note to the Amp team on feedback and shipping faster
@@ -675,6 +677,8 @@ To view a single category, check the files/ folder.
 - [Collections: Why Don’t We Use Chemical Weapons Anymore?](https://acoup.blog/2020/03/20/collections-why-dont-we-use-chemical-weapons-anymore/) - This week, we’re going to talk briefly about why ‘we’ – and by ‘we’ here, I mean the top-tier of modern militaries – have generally eschewed the systematic…
 
 # shops
+- [liliuhms shop](https://shop.liliuhms.com/) - Original goods designed by Lily Hoang-Zhu. liliuhms is a brand specializing in apparel, lifestyle goods & accessories! liliuhms' goal is to create things that put a smile on your face!
+
 - [Products](https://shop.kinwamonster.com/collections/all) - An artist-owned Street Fashion apparel brand inspired by monsters and bold designs!
 
 - [Wikipedia Store](https://store.wikimedia.org/) - The Wikipedia Store is the official online store for Wikipedia and its sister projects. All proceeds go to the Wikimedia Foundation, the 501(c)(3) non profit.
@@ -1770,6 +1774,14 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Why No One Wants to Date Tech Bros](https://www.wired.com/story/tech-bros-dating-palantir-tesla/) - Once seen as nerdy but harmless innovators, men in tech are now widely regarded as red-pilled Elon Musk wannabes. It’s made getting laid a whole lot harder.
+
+- [The Ketchup Conundrum](https://www.newyorker.com/magazine/2004/09/06/the-ketchup-conundrum) - Mustard now comes in dozens of varieties. Why has ketchup stayed the same?
+
+- [EDITORIAL | Cornell Won’t, We Will](https://www.cornellsun.com/article/2026/09/editorial-cornell-won-t-we-will) - The Editorial Board demands that Cornell stops protecting the alleged Chi Phi rapists through the University's opaque sexual assault policies.
+
+- [How the Founder of Lady Gaga’s Biggest Fan Site Ended Up in Prison](https://pitchfork.com/story/how-the-founder-of-lady-gaga-biggest-fan-site-ended-up-in-prison/) - Gaga Daily’s Kirill Nguyen is free—and streaming Mayhem—after being detained for protesting the Belarusian government
+
 - [As San Francisco car break-ins plunge, these businesses are suffering](https://www.sfchronicle.com/sf/article/bipping-car-break-in-glass-repair-20275993.php) - All over the city, auto glass merchants say they are hobbled by what’s otherwise a staggering sign of progress.
 
 - [I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy](https://www.404media.co/spotify-ai-music-scam/) - A glaring loophole in digital music distribution makes it very easy to piggyback on the talent of real artists with AI generated music.
@@ -3080,6 +3092,8 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Uncovered.ink · Judge a book by its writing](https://uncovered.ink) - Read first pages blind. No cover, no name, no hype. Find out what you actually fall for.
+
 - [LudoTune](https://ludotune.com) - LudoTune is an online musical toy for building tunes with cubes
 
 - [Planetwurst — The World Atlas of Sausages](https://planetwurst.com/) - Explore sausages from around the world. Discover regional varieties, find the best producers, and learn where to eat them.

@@ -1,4 +1,12 @@
 # news
+- [Why No One Wants to Date Tech Bros](https://www.wired.com/story/tech-bros-dating-palantir-tesla/) - Once seen as nerdy but harmless innovators, men in tech are now widely regarded as red-pilled Elon Musk wannabes. It’s made getting laid a whole lot harder.
+
+- [The Ketchup Conundrum](https://www.newyorker.com/magazine/2004/09/06/the-ketchup-conundrum) - Mustard now comes in dozens of varieties. Why has ketchup stayed the same?
+
+- [EDITORIAL | Cornell Won’t, We Will](https://www.cornellsun.com/article/2026/09/editorial-cornell-won-t-we-will) - The Editorial Board demands that Cornell stops protecting the alleged Chi Phi rapists through the University's opaque sexual assault policies.
+
+- [How the Founder of Lady Gaga’s Biggest Fan Site Ended Up in Prison](https://pitchfork.com/story/how-the-founder-of-lady-gaga-biggest-fan-site-ended-up-in-prison/) - Gaga Daily’s Kirill Nguyen is free—and streaming Mayhem—after being detained for protesting the Belarusian government
+
 - [As San Francisco car break-ins plunge, these businesses are suffering](https://www.sfchronicle.com/sf/article/bipping-car-break-in-glass-repair-20275993.php) - All over the city, auto glass merchants say they are hobbled by what’s otherwise a staggering sign of progress.
 
 - [I Hijacked a Real Artist's Spotify with AI Music. It Was Disturbingly Easy](https://www.404media.co/spotify-ai-music-scam/) - A glaring loophole in digital music distribution makes it very easy to piggyback on the talent of real artists with AI generated music.

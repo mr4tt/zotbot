@@ -1,4 +1,6 @@
 # cs_misc
+- [One month without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html) - Several months ago, I decided that AI contributions were no longer welcome in a FOSS project I am building and maintaining - LibreWeddingPlanner. It’s not that it got a lot of contributions with AI — actually all contributions I’ve had are translations and feature requests — but I wanted to...
+
 - [Opusfived](https://opusfived.dev/) - Make one button blue. Change nothing else. A short interactive comedy about agentic AI assistants that can never just do the thing.
 
 - [Building Software Is Learning](https://registerspill.thorstenball.com/p/building-software-is-learning) - An internal note to the Amp team on feedback and shipping faster

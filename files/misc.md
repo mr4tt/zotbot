@@ -1,4 +1,6 @@
 # misc
+- [Uncovered.ink · Judge a book by its writing](https://uncovered.ink) - Read first pages blind. No cover, no name, no hype. Find out what you actually fall for.
+
 - [LudoTune](https://ludotune.com) - LudoTune is an online musical toy for building tunes with cubes
 
 - [Planetwurst — The World Atlas of Sausages](https://planetwurst.com/) - Explore sausages from around the world. Discover regional varieties, find the best producers, and learn where to eat them.

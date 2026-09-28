@@ -1,4 +1,6 @@
 # shops
+- [liliuhms shop](https://shop.liliuhms.com/) - Original goods designed by Lily Hoang-Zhu. liliuhms is a brand specializing in apparel, lifestyle goods & accessories! liliuhms' goal is to create things that put a smile on your face!
+
 - [Products](https://shop.kinwamonster.com/collections/all) - An artist-owned Street Fashion apparel brand inspired by monsters and bold designs!
 
 - [Wikipedia Store](https://store.wikimedia.org/) - The Wikipedia Store is the official online store for Wikipedia and its sister projects. All proceeds go to the Wikimedia Foundation, the 501(c)(3) non profit.
