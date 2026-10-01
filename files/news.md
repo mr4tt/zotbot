@@ -1,4 +1,6 @@
 # news
+- [New York Times executive killed by his elderly in-laws, police say](https://www.cnn.com/2026/09/28/us/jonathan-mckinsey-new-york-times-executive-killed) - A 77-year-old couple gunned down their son-in-law in a California city park over the weekend, authorities said, and court documents showed the victim had been in a bitter custody dispute with their daughter.
+
 - [Why No One Wants to Date Tech Bros](https://www.wired.com/story/tech-bros-dating-palantir-tesla/) - Once seen as nerdy but harmless innovators, men in tech are now widely regarded as red-pilled Elon Musk wannabes. It’s made getting laid a whole lot harder.
 
 - [The Ketchup Conundrum](https://www.newyorker.com/magazine/2004/09/06/the-ketchup-conundrum) - Mustard now comes in dozens of varieties. Why has ketchup stayed the same?

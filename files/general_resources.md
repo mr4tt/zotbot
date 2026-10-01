@@ -1,4 +1,6 @@
 # general_resources
+- [Late Night Souped-Up Ramen | J. Kenji López-Alt](https://frienji.kenjilopezalt.com/posts/late-night-up-169276047) - Late Night Souped-Up Ramen  by J. Kenji López-Alt on Patreon. Join J. Kenji López-Alt's community for exclusive content and updates.
+
 - [The cupcake incident](https://michaelnotebook.com/cupcake/?)
 
 - [ProtonDB](https://www.protondb.com/)

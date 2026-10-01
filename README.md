@@ -246,6 +246,10 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Tumblr](https://assets.tumblr.com/analytics.html?_v=9f5febfd57a8a649c598d888f2d9e062#https://mcmansionhell.com)
+
+- [Red Blob Games: English: A vs An](https://www.redblobgames.com/x/2635-a-vs-an/)
+
 - [Taylor Swift has a lot to lose on The Life of a Showgirl: The Encore](https://georgegriffithswrites.substack.com/p/taylor-swift-the-life-of-a-showgirl-the-encore-is-a-risk) - After the previous front-to-back creative disaster of an album, this is the crossroads of if Taylor Swift wants to be seen as an artist or a brand.
 
 - [SCP-9730 - SCP Foundation](https://scp-wiki.wikidot.com/scp-9730) - The SCP Foundation's 'top-secret' archives, declassified for your enjoyment.
@@ -1122,6 +1126,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Late Night Souped-Up Ramen | J. Kenji López-Alt](https://frienji.kenjilopezalt.com/posts/late-night-up-169276047) - Late Night Souped-Up Ramen  by J. Kenji López-Alt on Patreon. Join J. Kenji López-Alt's community for exclusive content and updates.
+
 - [The cupcake incident](https://michaelnotebook.com/cupcake/?)
 
 - [ProtonDB](https://www.protondb.com/)
@@ -1774,6 +1780,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [New York Times executive killed by his elderly in-laws, police say](https://www.cnn.com/2026/09/28/us/jonathan-mckinsey-new-york-times-executive-killed) - A 77-year-old couple gunned down their son-in-law in a California city park over the weekend, authorities said, and court documents showed the victim had been in a bitter custody dispute with their daughter.
+
 - [Why No One Wants to Date Tech Bros](https://www.wired.com/story/tech-bros-dating-palantir-tesla/) - Once seen as nerdy but harmless innovators, men in tech are now widely regarded as red-pilled Elon Musk wannabes. It’s made getting laid a whole lot harder.
 
 - [The Ketchup Conundrum](https://www.newyorker.com/magazine/2004/09/06/the-ketchup-conundrum) - Mustard now comes in dozens of varieties. Why has ketchup stayed the same?
@@ -2465,6 +2473,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Maria Licciardi](https://en.wikipedia.org/w/index.php?title=Maria_Licciardi&oldid=1368047307) - Maria Licciardi (Italian pronunciation: [maˈriːa litˈtʃardi]; born 24 March 1951) is an Italian criminal affiliated with the Camorra, head of the Licciardi clan, and one of the bosses of the Secondigliano Alliance. She was one of the most powerful bosses of the Camorra in the city of Naples from 1993 until her arrest in 2001. Licciardi was referred ...
+
 - [Panchiko](https://en.wikipedia.org/w/index.php?title=Panchiko&oldid=1373231417) - Panchiko ( pan-CHEE-koh) is a British indie rock band originating from Nottingham, England. Formed between 1997 and 1998, the band originally consisted of lead vocalist and guitarist Owain Davies, guitarist/keyboardist Andrew "Andy" Wright, bassist Shaun Ferreday, and a drummer named John. A year after the revival of Panchiko in 2020, they were join...
 
 - [Tadpole person](https://en.wikipedia.org/w/index.php?title=Tadpole_person&oldid=1353034406) - A tadpole person or headfooter is a simplistic representation of a human being as a figure without a torso, with arms and legs attached to the head. Tadpole people appear in young children's drawings before they learn to draw torsos and move on to more realistic depictions such as stick figures. Preschoolers who draw tadpole people generally do not ...

@@ -1,4 +1,8 @@
 # misc_longform
+- [Tumblr](https://assets.tumblr.com/analytics.html?_v=9f5febfd57a8a649c598d888f2d9e062#https://mcmansionhell.com)
+
+- [Red Blob Games: English: A vs An](https://www.redblobgames.com/x/2635-a-vs-an/)
+
 - [Taylor Swift has a lot to lose on The Life of a Showgirl: The Encore](https://georgegriffithswrites.substack.com/p/taylor-swift-the-life-of-a-showgirl-the-encore-is-a-risk) - After the previous front-to-back creative disaster of an album, this is the crossroads of if Taylor Swift wants to be seen as an artist or a brand.
 
 - [SCP-9730 - SCP Foundation](https://scp-wiki.wikidot.com/scp-9730) - The SCP Foundation's 'top-secret' archives, declassified for your enjoyment.
