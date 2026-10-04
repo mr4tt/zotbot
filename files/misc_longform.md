@@ -1,4 +1,6 @@
 # misc_longform
+- [It’s Decorative Gourd Season, Motherfuckers](https://www.mcsweeneys.net/articles/its-decorative-gourd-season-motherfuckers) - For the seventeenth year: Welcome to autumn, fuckheads.
+
 - [Tumblr](https://assets.tumblr.com/analytics.html?_v=9f5febfd57a8a649c598d888f2d9e062#https://mcmansionhell.com)
 
 - [Red Blob Games: English: A vs An](https://www.redblobgames.com/x/2635-a-vs-an/)

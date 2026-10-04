@@ -246,6 +246,8 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [It’s Decorative Gourd Season, Motherfuckers](https://www.mcsweeneys.net/articles/its-decorative-gourd-season-motherfuckers) - For the seventeenth year: Welcome to autumn, fuckheads.
+
 - [Tumblr](https://assets.tumblr.com/analytics.html?_v=9f5febfd57a8a649c598d888f2d9e062#https://mcmansionhell.com)
 
 - [Red Blob Games: English: A vs An](https://www.redblobgames.com/x/2635-a-vs-an/)
@@ -1780,6 +1782,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [He Was a Suspect in the Yogurt Shop Murders for Thirty Years. He Can't Forget.](https://www.texasmonthly.com/true-crime/the-yogurt-shop-killer-who-wasnt/) - Forrest Welborn spent three decades as a suspect in Austin’s infamous yogurt shop murders. It all but destroyed his life. This year, he was finally exonerated. So why doesn’t he feel free?
+
+- [Bose Returns to Wired Earbuds With New $99 Noise-Canceling Pair](https://www.bloomberg.com/news/articles/2026-09-28/bose-debuts-99-bose-noise-cancelling-wired-earbuds-seizing-on-growing-trend) - Bose Corp. introduced a $99 wired pair of noise-canceling earbuds, offering a rare feature at a time when corded earphones have seen a resurgence among younger shoppers.
+
 - [New York Times executive killed by his elderly in-laws, police say](https://www.cnn.com/2026/09/28/us/jonathan-mckinsey-new-york-times-executive-killed) - A 77-year-old couple gunned down their son-in-law in a California city park over the weekend, authorities said, and court documents showed the victim had been in a bitter custody dispute with their daughter.
 
 - [Why No One Wants to Date Tech Bros](https://www.wired.com/story/tech-bros-dating-palantir-tesla/) - Once seen as nerdy but harmless innovators, men in tech are now widely regarded as red-pilled Elon Musk wannabes. It’s made getting laid a whole lot harder.

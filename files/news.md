@@ -1,4 +1,8 @@
 # news
+- [He Was a Suspect in the Yogurt Shop Murders for Thirty Years. He Can't Forget.](https://www.texasmonthly.com/true-crime/the-yogurt-shop-killer-who-wasnt/) - Forrest Welborn spent three decades as a suspect in Austin’s infamous yogurt shop murders. It all but destroyed his life. This year, he was finally exonerated. So why doesn’t he feel free?
+
+- [Bose Returns to Wired Earbuds With New $99 Noise-Canceling Pair](https://www.bloomberg.com/news/articles/2026-09-28/bose-debuts-99-bose-noise-cancelling-wired-earbuds-seizing-on-growing-trend) - Bose Corp. introduced a $99 wired pair of noise-canceling earbuds, offering a rare feature at a time when corded earphones have seen a resurgence among younger shoppers.
+
 - [New York Times executive killed by his elderly in-laws, police say](https://www.cnn.com/2026/09/28/us/jonathan-mckinsey-new-york-times-executive-killed) - A 77-year-old couple gunned down their son-in-law in a California city park over the weekend, authorities said, and court documents showed the victim had been in a bitter custody dispute with their daughter.
 
 - [Why No One Wants to Date Tech Bros](https://www.wired.com/story/tech-bros-dating-palantir-tesla/) - Once seen as nerdy but harmless innovators, men in tech are now widely regarded as red-pilled Elon Musk wannabes. It’s made getting laid a whole lot harder.
