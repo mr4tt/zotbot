@@ -1782,6 +1782,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Elon Musk’s Exes Are the Most Damning Part of a Massive New Documentary](https://www.wired.com/story/elon-musks-exes-are-the-most-damning-part-of-a-massive-new-documentary/) - Interviews with Justine Wilson and Ashley St. Clair in the nearly four-hour-long “Musk” paint the world’s richest man as capricious and cruel even toward those closest to him.
+
 - [He Was a Suspect in the Yogurt Shop Murders for Thirty Years. He Can't Forget.](https://www.texasmonthly.com/true-crime/the-yogurt-shop-killer-who-wasnt/) - Forrest Welborn spent three decades as a suspect in Austin’s infamous yogurt shop murders. It all but destroyed his life. This year, he was finally exonerated. So why doesn’t he feel free?
 
 - [Bose Returns to Wired Earbuds With New $99 Noise-Canceling Pair](https://www.bloomberg.com/news/articles/2026-09-28/bose-debuts-99-bose-noise-cancelling-wired-earbuds-seizing-on-growing-trend) - Bose Corp. introduced a $99 wired pair of noise-canceling earbuds, offering a rare feature at a time when corded earphones have seen a resurgence among younger shoppers.
