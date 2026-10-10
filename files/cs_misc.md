@@ -1,4 +1,8 @@
 # cs_misc
+- [<smarmelling> — The accidental history of 3000, 8080, and other port numbers](https://smarmelling.com/posts/the-accidental-history-of-3000-8080-and-other-port-numbers.html)
+
+- [Six SQL patterns I use to catch transaction fraud](https://analytics.fixelsmith.com/posts/sql-fraud-patterns/) - The actual queries I run when I'm hunting fraud in transaction data. Velocity, impossible distances, suspicious amounts, merchant clusters, off-hours buys, and window functions.
+
 - [One month without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html) - Several months ago, I decided that AI contributions were no longer welcome in a FOSS project I am building and maintaining - LibreWeddingPlanner. It’s not that it got a lot of contributions with AI — actually all contributions I’ve had are translations and feature requests — but I wanted to...
 
 - [Opusfived](https://opusfived.dev/) - Make one button blue. Change nothing else. A short interactive comedy about agentic AI assistants that can never just do the thing.
