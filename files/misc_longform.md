@@ -1,4 +1,8 @@
 # misc_longform
+- [Busyness Is a Choice](https://candost.blog/busyness-is-a-choice/) - "Busy" is a shield we choose.
+
+- [Building without predicting](https://sive.rs/fit) - Derek Sivers official site. Thoughts on philosophy, culture, self-improvement. Author of Useful Not True, How to Live, Hell Yeah or No, Anything You Want.
+
 - [It’s Decorative Gourd Season, Motherfuckers](https://www.mcsweeneys.net/articles/its-decorative-gourd-season-motherfuckers) - For the seventeenth year: Welcome to autumn, fuckheads.
 
 - [Tumblr](https://assets.tumblr.com/analytics.html?_v=9f5febfd57a8a649c598d888f2d9e062#https://mcmansionhell.com)

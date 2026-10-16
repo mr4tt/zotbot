@@ -18,6 +18,10 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [Understanding Bidirectional Text: A Guide for Developers](https://blog.master.dev/you-dont-know-bidi-and-neither-does-chatgpt/) - Discover the complexities of bidirectional text, its challenges, and how to properly render languages like Arabic and Persian in the digital world.
+
+- [Dealing With Abandonware](https://blog.hris.to/./dealing-with-abandonware.html) - reverse engineering, abandonware
+
 - [<smarmelling> — The accidental history of 3000, 8080, and other port numbers](https://smarmelling.com/posts/the-accidental-history-of-3000-8080-and-other-port-numbers.html)
 
 - [Six SQL patterns I use to catch transaction fraud](https://analytics.fixelsmith.com/posts/sql-fraud-patterns/) - The actual queries I run when I'm hunting fraud in transaction data. Velocity, impossible distances, suspicious amounts, merchant clusters, off-hours buys, and window functions.
@@ -250,6 +254,10 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Busyness Is a Choice](https://candost.blog/busyness-is-a-choice/) - "Busy" is a shield we choose.
+
+- [Building without predicting](https://sive.rs/fit) - Derek Sivers official site. Thoughts on philosophy, culture, self-improvement. Author of Useful Not True, How to Live, Hell Yeah or No, Anything You Want.
+
 - [It’s Decorative Gourd Season, Motherfuckers](https://www.mcsweeneys.net/articles/its-decorative-gourd-season-motherfuckers) - For the seventeenth year: Welcome to autumn, fuckheads.
 
 - [Tumblr](https://assets.tumblr.com/analytics.html?_v=9f5febfd57a8a649c598d888f2d9e062#https://mcmansionhell.com)
@@ -1786,6 +1794,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [the case for lowercase](https://www.wired.com/story/the-case-for-lowercase/) - a certain kind of person writes in all lowercase now. why?
+
 - [Opinion | My Dumbphone Made My Life Better. It Made Everyone Else’s Worse.](https://www.nytimes.com/2026/09/16/opinion/dumbphone-smartphone-friendship.html) - An extended digital detox is freeing, but it can be hard on friends and family.
 
 - [Elon Musk’s Exes Are the Most Damning Part of a Massive New Documentary](https://www.wired.com/story/elon-musks-exes-are-the-most-damning-part-of-a-massive-new-documentary/) - Interviews with Justine Wilson and Ashley St. Clair in the nearly four-hour-long “Musk” paint the world’s richest man as capricious and cruel even toward those closest to him.
@@ -2487,6 +2497,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Death Valley Germans](https://en.wikipedia.org/w/index.php?title=Death_Valley_Germans&oldid=1379887348) - The Death Valley Germans (as dubbed by the media) were a family of four tourists from Germany who went missing in Death Valley National Park, on the California–Nevada border in the United States, on 23 July 1996. Their rental van was discovered in a remote area of the park in October 1996. Despite an intense search and rescue operation, the only thi...
+
 - [Maria Licciardi](https://en.wikipedia.org/w/index.php?title=Maria_Licciardi&oldid=1368047307) - Maria Licciardi (Italian pronunciation: [maˈriːa litˈtʃardi]; born 24 March 1951) is an Italian criminal affiliated with the Camorra, head of the Licciardi clan, and one of the bosses of the Secondigliano Alliance. She was one of the most powerful bosses of the Camorra in the city of Naples from 1993 until her arrest in 2001. Licciardi was referred ...
 
 - [Panchiko](https://en.wikipedia.org/w/index.php?title=Panchiko&oldid=1373231417) - Panchiko ( pan-CHEE-koh) is a British indie rock band originating from Nottingham, England. Formed between 1997 and 1998, the band originally consisted of lead vocalist and guitarist Owain Davies, guitarist/keyboardist Andrew "Andy" Wright, bassist Shaun Ferreday, and a drummer named John. A year after the revival of Panchiko in 2020, they were join...

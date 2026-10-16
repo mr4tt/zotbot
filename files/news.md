@@ -1,4 +1,6 @@
 # news
+- [the case for lowercase](https://www.wired.com/story/the-case-for-lowercase/) - a certain kind of person writes in all lowercase now. why?
+
 - [Opinion | My Dumbphone Made My Life Better. It Made Everyone Else’s Worse.](https://www.nytimes.com/2026/09/16/opinion/dumbphone-smartphone-friendship.html) - An extended digital detox is freeing, but it can be hard on friends and family.
 
 - [Elon Musk’s Exes Are the Most Damning Part of a Massive New Documentary](https://www.wired.com/story/elon-musks-exes-are-the-most-damning-part-of-a-massive-new-documentary/) - Interviews with Justine Wilson and Ashley St. Clair in the nearly four-hour-long “Musk” paint the world’s richest man as capricious and cruel even toward those closest to him.
