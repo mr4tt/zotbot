@@ -1,4 +1,6 @@
 # news
+- [Massacre at Minab: The School That Became a Grave](https://www.dropsitenews.com/p/minab-school-massacre-iran-war-children-families) - The bombing of an Iranian school, killing 120 children, is one of the worst U.S. war crimes since Vietnam. Drop Site spoke to survivors, first responders, parents, and witnesses. This is their story.
+
 - [the case for lowercase](https://www.wired.com/story/the-case-for-lowercase/) - a certain kind of person writes in all lowercase now. why?
 
 - [Opinion | My Dumbphone Made My Life Better. It Made Everyone Else’s Worse.](https://www.nytimes.com/2026/09/16/opinion/dumbphone-smartphone-friendship.html) - An extended digital detox is freeing, but it can be hard on friends and family.
