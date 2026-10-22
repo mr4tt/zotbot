@@ -1,4 +1,10 @@
 # misc_longform
+- [Go Lives](https://franklantz.substack.com/p/go-lives) - The greatest Go player of all time just did something amazing. What can this tell us about life in the era of superhuman AI?
+
+- [I was a Theranos whistleblower. In ‘You Can See Everything,’ Elizabeth Holmes is still lying](https://www.statnews.com/2026/10/19/elizabeth-holmes-theranos-whistleblower-tyler-shultz-insider-review/) - A more accurate name would be “You Can See Everything That We Chose To Point The Camera At,”Theranos whistleblower Tyler Shultz writes.
+
+- [Sending Spammers to Password Purgatory with Microsoft Power Automate and Cloudflare Workers KV](https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/) - How best to punish spammers? I give this topic a lot of thought because I spend a lot of time sifting through the endless rubbish they send me. And that's when it dawned on me: the punishment should fit the crime - robbing me of my time - which means that
+
 - [Busyness Is a Choice](https://candost.blog/busyness-is-a-choice/) - "Busy" is a shield we choose.
 
 - [Building without predicting](https://sive.rs/fit) - Derek Sivers official site. Thoughts on philosophy, culture, self-improvement. Author of Useful Not True, How to Live, Hell Yeah or No, Anything You Want.
