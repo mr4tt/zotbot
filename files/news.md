@@ -1,4 +1,6 @@
 # news
+- [Just Eat's AI food photos are a disaster — but why are we letting AI invent pictures of things we're paying for?](https://www.techradar.com/ai-platforms-assistants/just-eats-ai-put-bacon-and-eggs-in-a-glass-of-cola-and-its-exposed-a-much-bigger-problem-with-ai) - Just Eat pauses trial of AI-generated images for menu items after unfortunate bacon and eggs in a fizzy drink image.
+
 - [Massacre at Minab: The School That Became a Grave](https://www.dropsitenews.com/p/minab-school-massacre-iran-war-children-families) - The bombing of an Iranian school, killing 120 children, is one of the worst U.S. war crimes since Vietnam. Drop Site spoke to survivors, first responders, parents, and witnesses. This is their story.
 
 - [the case for lowercase](https://www.wired.com/story/the-case-for-lowercase/) - a certain kind of person writes in all lowercase now. why?
