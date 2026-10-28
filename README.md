@@ -18,6 +18,10 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [CVE Tracker — CVEs per month since 1999](https://cve.0xosprey.com/) - Live count of published CVE records, rebuilt daily from the official CVE list.
+
+- [Non-Determinism Doesn't Matter](https://sklar.rocks/non-determinism-doesnt-matter/?)
+
 - [eMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/) - The private keys of eight eMudhra intermediate CA certificates, trusted by major root programs, have been compromised. Check whether your client is affected and how to protect it.
 
 - [Understanding Bidirectional Text: A Guide for Developers](https://blog.master.dev/you-dont-know-bidi-and-neither-does-chatgpt/) - Discover the complexities of bidirectional text, its challenges, and how to properly render languages like Arabic and Persian in the digital world.
@@ -1241,6 +1245,8 @@ To view a single category, check the files/ folder.
 - [GTD Made Simple: Why I think the Internet needs one more blog post about “Getting Things Done”](https://www.theexclusive.org/2015/11/gtd-made-simple-why-i-think-internet.html) - I’m naturally disorganised, but I have so much stuff to do that out of necessity I get organized. (Then more stuff comes and I get disorganised again.) The way I get organized is by attempting to follow a system called GTD. GTD comes from a book by David Allen called Getting Things Done. The book is an unusual read, a mix of management-speak, Zen-sp...
 
 # design_resources
+- [Daoho Portfolio](https://www.daoho.dev/)
+
 - [Color Palette Generator – Color Wheel Tool | Adobe Express​](https://color.adobe.com/create/color-wheel) - Use the color palette generator to create harmonious color schemes with the interactive color wheel. Choose a base color, apply a harmony, and design with confidence in Adobe Express.
 
 - [Bezier Customizer, a tool from Whimsical Animations](https://courses.joshwcomeau.com/tools/bezier) - Create the perfect easing curve with this helpful tool!
@@ -1802,6 +1808,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Opinion | The Path to Great Art Is Not Through A.I.](https://www.nytimes.com/interactive/2026/09/27/opinion/ai-art-creativity.html) - Anything worth remembering came from a person who did not know where she or he was going until arriving.
+
 - [Just Eat's AI food photos are a disaster — but why are we letting AI invent pictures of things we're paying for?](https://www.techradar.com/ai-platforms-assistants/just-eats-ai-put-bacon-and-eggs-in-a-glass-of-cola-and-its-exposed-a-much-bigger-problem-with-ai) - Just Eat pauses trial of AI-generated images for menu items after unfortunate bacon and eggs in a fizzy drink image.
 
 - [Massacre at Minab: The School That Became a Grave](https://www.dropsitenews.com/p/minab-school-massacre-iran-war-children-families) - The bombing of an Iranian school, killing 120 children, is one of the worst U.S. war crimes since Vietnam. Drop Site spoke to survivors, first responders, parents, and witnesses. This is their story.

@@ -1,4 +1,8 @@
 # cs_misc
+- [CVE Tracker — CVEs per month since 1999](https://cve.0xosprey.com/) - Live count of published CVE records, rebuilt daily from the official CVE list.
+
+- [Non-Determinism Doesn't Matter](https://sklar.rocks/non-determinism-doesnt-matter/?)
+
 - [eMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/) - The private keys of eight eMudhra intermediate CA certificates, trusted by major root programs, have been compromised. Check whether your client is affected and how to protect it.
 
 - [Understanding Bidirectional Text: A Guide for Developers](https://blog.master.dev/you-dont-know-bidi-and-neither-does-chatgpt/) - Discover the complexities of bidirectional text, its challenges, and how to properly render languages like Arabic and Persian in the digital world.
