@@ -1,4 +1,6 @@
 # cs_misc
+- [Increase your slope: A new grad’s guide to becoming effective at Stripe](https://www.vikramsingh.me/increase-your-slope) - A new grad’s guide to becoming effective at Stripe
+
 - [CVE Tracker — CVEs per month since 1999](https://cve.0xosprey.com/) - Live count of published CVE records, rebuilt daily from the official CVE list.
 
 - [Non-Determinism Doesn't Matter](https://sklar.rocks/non-determinism-doesnt-matter/?)

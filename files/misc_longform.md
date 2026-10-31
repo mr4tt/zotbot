@@ -1,4 +1,6 @@
 # misc_longform
+- [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/) - Replacing the old battery on rechargeable bike lights
+
 - [Go Lives](https://franklantz.substack.com/p/go-lives) - The greatest Go player of all time just did something amazing. What can this tell us about life in the era of superhuman AI?
 
 - [I was a Theranos whistleblower. In ‘You Can See Everything,’ Elizabeth Holmes is still lying](https://www.statnews.com/2026/10/19/elizabeth-holmes-theranos-whistleblower-tyler-shultz-insider-review/) - A more accurate name would be “You Can See Everything That We Chose To Point The Camera At,”Theranos whistleblower Tyler Shultz writes.

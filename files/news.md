@@ -1,4 +1,14 @@
 # news
+- [Opinion | I’m in ‘You Can See Everything.’ Here’s My Side of the Story.](https://www.nytimes.com/2026/10/30/opinion/you-can-see-everything-elizabeth-holmes-nathan-fielder.html) - I’m in ‘You Can See Everything.’ Here’s my side of the story.
+
+- [My Second Child Is Perfect. He Ruined My Life](https://www.gq.com/story/second-child-fatherhood-essay) - In 2024, Zach Baron documented his long journey to fatherhood via IVF in GQ. Now, he reports on the mind-altering chaos (and occasional brilliance) of life with two walking, talking young boys.
+
+- [Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?](https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/) - TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.
+
+- [ChatGPT’s Advice to Cut Her Seizure Drug Led to Devastating Consequences](https://www.nytimes.com/2026/10/27/well/ai-chatgpt-medication-epilepsy-death.html) - The chatbot helped a woman taper off a lifesaving drug and hide the plan from her doctors.
+
+- [The Secret ‘Ozempidemic’ on Sorority Row](https://www.thecut.com/article/sorority-rows-glp-1-secret.html) - College girls are desperate to join the best sororities. Some are turning to weight-loss drugs to get there.
+
 - [Opinion | The Path to Great Art Is Not Through A.I.](https://www.nytimes.com/interactive/2026/09/27/opinion/ai-art-creativity.html) - Anything worth remembering came from a person who did not know where she or he was going until arriving.
 
 - [Just Eat's AI food photos are a disaster — but why are we letting AI invent pictures of things we're paying for?](https://www.techradar.com/ai-platforms-assistants/just-eats-ai-put-bacon-and-eggs-in-a-glass-of-cola-and-its-exposed-a-much-bigger-problem-with-ai) - Just Eat pauses trial of AI-generated images for menu items after unfortunate bacon and eggs in a fizzy drink image.
