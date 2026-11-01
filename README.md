@@ -1812,6 +1812,8 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [](https://www.theatlantic.com/magazine/archive/2014/03/the-dark-power-of-fraternities/357580/?gift=zv0gUQbIs0D1fmxQ25GJmo8osEc-Vt8ZVKs1l3EkMxo)
+
 - [Opinion | I’m in ‘You Can See Everything.’ Here’s My Side of the Story.](https://www.nytimes.com/2026/10/30/opinion/you-can-see-everything-elizabeth-holmes-nathan-fielder.html) - I’m in ‘You Can See Everything.’ Here’s my side of the story.
 
 - [My Second Child Is Perfect. He Ruined My Life](https://www.gq.com/story/second-child-fatherhood-essay) - In 2024, Zach Baron documented his long journey to fatherhood via IVF in GQ. Now, he reports on the mind-altering chaos (and occasional brilliance) of life with two walking, talking young boys.
