@@ -262,6 +262,10 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [How the Bird Eye Was Pushed to an Evolutionary Extreme](https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/) - The bird retina is one of the most energetically expensive tissues in the animal kingdom, yet it doesn’t use the energy advantage of oxygen. New research finally explains how this is possible.
+
+- [Cartographers of North Korea :: 북한의 지도 제작자](https://cartographers-nk.wonyoung.so/) - An analysis of the OpenStreetMap data in North Korea: Who are the contributors?
+
 - [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/) - Replacing the old battery on rechargeable bike lights
 
 - [Go Lives](https://franklantz.substack.com/p/go-lives) - The greatest Go player of all time just did something amazing. What can this tell us about life in the era of superhuman AI?
@@ -1156,6 +1160,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/) - You can learn new things. Pixel art, touch typing, 3d modelling, music, calligraphy, wood working, knitting, a language. Whatever is practical and calls to you, you can learn. In the long term, learning new things is fun and makes life richer in ways you can’t even imagine, and it’s a time investment that will pay dividends for life as these skills ...
+
 - [Late Night Souped-Up Ramen | J. Kenji López-Alt](https://frienji.kenjilopezalt.com/posts/late-night-up-169276047) - Late Night Souped-Up Ramen  by J. Kenji López-Alt on Patreon. Join J. Kenji López-Alt's community for exclusive content and updates.
 
 - [The cupcake incident](https://michaelnotebook.com/cupcake/?)
@@ -1812,6 +1818,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The Atlantic](https://www.theatlantic.com/magazine/archive/2004/03/the-armageddon-plan/302902/) - The Atlantic covers news, politics, culture, technology, health, and more, through its articles, podcasts, videos, and flagship magazine.
+
+- [From U.S., the ABC's of Jihad](https://www.washingtonpost.com/archive/politics/2002/03/23/from-us-the-abcs-of-jihad/d079075a-3ed3-4030-9a96-0d48f6355e54/)
+
 - [](https://www.theatlantic.com/magazine/archive/2014/03/the-dark-power-of-fraternities/357580/?gift=zv0gUQbIs0D1fmxQ25GJmo8osEc-Vt8ZVKs1l3EkMxo)
 
 - [Opinion | I’m in ‘You Can See Everything.’ Here’s My Side of the Story.](https://www.nytimes.com/2026/10/30/opinion/you-can-see-everything-elizabeth-holmes-nathan-fielder.html) - I’m in ‘You Can See Everything.’ Here’s my side of the story.
@@ -2533,6 +2543,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [Dasht-i-Leili massacre](https://en.wikipedia.org/w/index.php?title=Dasht-i-Leili_massacre&oldid=1383106933) - In December 2001, between 250 and 2,000 Taliban insurgents who had surrendered to the National Islamic Movement of Afghanistan (part of the Northern Alliance) were massacred while being transported to Sheberghan Prison in the Jowzjan Province. Fighters loyal to General Abdul Rashid Dostum tightly packed the prisoners into shipping containers in Kund...
+
 - [Death Valley Germans](https://en.wikipedia.org/w/index.php?title=Death_Valley_Germans&oldid=1379887348) - The Death Valley Germans (as dubbed by the media) were a family of four tourists from Germany who went missing in Death Valley National Park, on the California–Nevada border in the United States, on 23 July 1996. Their rental van was discovered in a remote area of the park in October 1996. Despite an intense search and rescue operation, the only thi...
 
 - [Maria Licciardi](https://en.wikipedia.org/w/index.php?title=Maria_Licciardi&oldid=1368047307) - Maria Licciardi (Italian pronunciation: [maˈriːa litˈtʃardi]; born 24 March 1951) is an Italian criminal affiliated with the Camorra, head of the Licciardi clan, and one of the bosses of the Secondigliano Alliance. She was one of the most powerful bosses of the Camorra in the city of Naples from 1993 until her arrest in 2001. Licciardi was referred ...

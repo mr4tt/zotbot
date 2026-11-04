@@ -1,4 +1,8 @@
 # news
+- [The Atlantic](https://www.theatlantic.com/magazine/archive/2004/03/the-armageddon-plan/302902/) - The Atlantic covers news, politics, culture, technology, health, and more, through its articles, podcasts, videos, and flagship magazine.
+
+- [From U.S., the ABC's of Jihad](https://www.washingtonpost.com/archive/politics/2002/03/23/from-us-the-abcs-of-jihad/d079075a-3ed3-4030-9a96-0d48f6355e54/)
+
 - [](https://www.theatlantic.com/magazine/archive/2014/03/the-dark-power-of-fraternities/357580/?gift=zv0gUQbIs0D1fmxQ25GJmo8osEc-Vt8ZVKs1l3EkMxo)
 
 - [Opinion | I’m in ‘You Can See Everything.’ Here’s My Side of the Story.](https://www.nytimes.com/2026/10/30/opinion/you-can-see-everything-elizabeth-holmes-nathan-fielder.html) - I’m in ‘You Can See Everything.’ Here’s my side of the story.

@@ -1,4 +1,8 @@
 # misc_longform
+- [How the Bird Eye Was Pushed to an Evolutionary Extreme](https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/) - The bird retina is one of the most energetically expensive tissues in the animal kingdom, yet it doesn’t use the energy advantage of oxygen. New research finally explains how this is possible.
+
+- [Cartographers of North Korea :: 북한의 지도 제작자](https://cartographers-nk.wonyoung.so/) - An analysis of the OpenStreetMap data in North Korea: Who are the contributors?
+
 - [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/) - Replacing the old battery on rechargeable bike lights
 
 - [Go Lives](https://franklantz.substack.com/p/go-lives) - The greatest Go player of all time just did something amazing. What can this tell us about life in the era of superhuman AI?
