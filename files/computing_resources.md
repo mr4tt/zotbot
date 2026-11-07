@@ -1,4 +1,6 @@
 # computing_resources
+- [High Performance Git](https://gitperf.com/)
+
 - [Oh Shit, Git!?!](https://ohshitgit.com/)
 
 - [API Improvement Proposals](https://google.aip.dev/)

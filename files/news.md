@@ -1,4 +1,8 @@
 # news
+- [NewJeans Contracts Show How K-Pop Keeps Control of its Stars](https://www.nytimes.com/interactive/2026/11/05/world/asia/kpop-newjeans-contract.html) - NewJeans shattered records. Behind the scenes were unusually restrictive contracts, signed when the girls were ages 14 to 17.
+
+- [A ‘Miraculous Transformation’: How Kim Jong-un Fortified North Korea](https://www.nytimes.com/2026/06/08/world/asia/north-korea-kim-jong-un-pandemic-economy.html) - He used the pandemic to ruthlessly tighten his grip on the country. Then he energized its economy by leveraging Russia’s war in Ukraine.
+
 - [The Atlantic](https://www.theatlantic.com/magazine/archive/2004/03/the-armageddon-plan/302902/) - The Atlantic covers news, politics, culture, technology, health, and more, through its articles, podcasts, videos, and flagship magazine.
 
 - [From U.S., the ABC's of Jihad](https://www.washingtonpost.com/archive/politics/2002/03/23/from-us-the-abcs-of-jihad/d079075a-3ed3-4030-9a96-0d48f6355e54/)

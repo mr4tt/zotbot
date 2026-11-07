@@ -1,4 +1,8 @@
 # misc
+- [General Aviation Safety](https://philip.greenspun.com/flying/safety)
+
+- [Dithered QR code generator](https://www.andrewt.net/dithered-qr-codes)
+
 - [Uncovered.ink · Judge a book by its writing](https://uncovered.ink) - Read first pages blind. No cover, no name, no hype. Find out what you actually fall for.
 
 - [LudoTune](https://ludotune.com) - LudoTune is an online musical toy for building tunes with cubes

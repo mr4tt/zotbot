@@ -18,6 +18,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [*sshole · sshhole.com](https://sshhole.com/)
+
 - [Increase your slope: A new grad’s guide to becoming effective at Stripe](https://www.vikramsingh.me/increase-your-slope) - A new grad’s guide to becoming effective at Stripe
 
 - [CVE Tracker — CVEs per month since 1999](https://cve.0xosprey.com/) - Live count of published CVE records, rebuilt daily from the official CVE list.
@@ -1432,6 +1434,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [High Performance Git](https://gitperf.com/)
+
 - [Oh Shit, Git!?!](https://ohshitgit.com/)
 
 - [API Improvement Proposals](https://google.aip.dev/)
@@ -1818,6 +1822,10 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [NewJeans Contracts Show How K-Pop Keeps Control of its Stars](https://www.nytimes.com/interactive/2026/11/05/world/asia/kpop-newjeans-contract.html) - NewJeans shattered records. Behind the scenes were unusually restrictive contracts, signed when the girls were ages 14 to 17.
+
+- [A ‘Miraculous Transformation’: How Kim Jong-un Fortified North Korea](https://www.nytimes.com/2026/06/08/world/asia/north-korea-kim-jong-un-pandemic-economy.html) - He used the pandemic to ruthlessly tighten his grip on the country. Then he energized its economy by leveraging Russia’s war in Ukraine.
+
 - [The Atlantic](https://www.theatlantic.com/magazine/archive/2004/03/the-armageddon-plan/302902/) - The Atlantic covers news, politics, culture, technology, health, and more, through its articles, podcasts, videos, and flagship magazine.
 
 - [From U.S., the ABC's of Jihad](https://www.washingtonpost.com/archive/politics/2002/03/23/from-us-the-abcs-of-jihad/d079075a-3ed3-4030-9a96-0d48f6355e54/)
@@ -3176,6 +3184,10 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [General Aviation Safety](https://philip.greenspun.com/flying/safety)
+
+- [Dithered QR code generator](https://www.andrewt.net/dithered-qr-codes)
+
 - [Uncovered.ink · Judge a book by its writing](https://uncovered.ink) - Read first pages blind. No cover, no name, no hype. Find out what you actually fall for.
 
 - [LudoTune](https://ludotune.com) - LudoTune is an online musical toy for building tunes with cubes
