@@ -1,4 +1,20 @@
 # news
+- [Is Racing in $300 Shoes Cheating?](https://www.nytimes.com/2026/09/15/magazine/racing-shoes-sneakers-cheating-alphafly.html) - If it’s wrong, I don’t want to be right.
+
+- [Ballots Have Been Seized Across the US. No One Knows What Will Happen Next](https://www.wired.com/story/ballots-have-been-seized-across-the-us-no-one-knows-what-will-happen-next/) - So far this year, authorities have seized or demanded ballots from elections in four states. Experts fear the trend could throw the midterms into chaos unless courts draw a line.
+
+- [The spy who loved her](https://www.theguardian.com/education/2004/nov/18/artsandhumanities.highereducation) - Gabriele Kliem was engaged to her 'dream man' for seven years. But all along he was a Stasi agent, whose job it was to seduce women into handing over secret documents. Linda Pressly on the Stasi 'romeos' who haunted West Germany during the cold war.
+
+- [Nvidia Chief Seen as Target of Chinese Spy Plot](https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html) - A Chinese businesswoman who had a close relationship with Jensen Huang was found to be passing intelligence to Beijing. President Trump was briefed and took no action.
+
+- [States Are Learning the Wrong Lesson From the ‘Mississippi Miracle’](https://www.theatlantic.com/ideas/2026/04/mississippi-education-miracle/686731/) - A phonics-based curriculum is only one part of how Mississippi went from worst to first in education. The other part is much harder to pull off.
+
+- [How IShowSpeed Became the Most Influential Streamer in the World](https://www.nytimes.com/2026/10/29/magazine/ishowspeed-america-tour-livestream.html) - Livestreaming is unstoppably ascendant — and often boring. IShowSpeed became the king of the form by bringing his act into the real world.
+
+- [The Dark Power of Fraternities](https://www.theatlantic.com/magazine/archive/2014/03/the-dark-power-of-fraternities/357580/) - A yearlong investigation of Greek houses reveals their endemic, lurid, and sometimes tragic problems—and a sophisticated system for shifting the blame.
+
+- ["An Irreparably Damaged Life": CIA Kidnapping Victim Khaled el-Masri 20 Years On](https://www.spiegel.de/international/europe/an-irreparably-damaged-life-cia-kidnapping-victim-khaled-el-masri-20-years-on-a-70c197a8-ae67-470b-91e1-413e148bea0a) - Almost two decades ago, the CIA abducted and tortured Khaled el-Masri, a German citizen whom the intelligence service mistakenly believed to be a terrorist. He is still suffering from the consequences today. Many questions about his case remain unanswered, also for the German government.
+
 - [NewJeans Contracts Show How K-Pop Keeps Control of its Stars](https://www.nytimes.com/interactive/2026/11/05/world/asia/kpop-newjeans-contract.html) - NewJeans shattered records. Behind the scenes were unusually restrictive contracts, signed when the girls were ages 14 to 17.
 
 - [A ‘Miraculous Transformation’: How Kim Jong-un Fortified North Korea](https://www.nytimes.com/2026/06/08/world/asia/north-korea-kim-jong-un-pandemic-economy.html) - He used the pandemic to ruthlessly tighten his grip on the country. Then he energized its economy by leveraging Russia’s war in Ukraine.
@@ -6,8 +22,6 @@
 - [The Atlantic](https://www.theatlantic.com/magazine/archive/2004/03/the-armageddon-plan/302902/) - The Atlantic covers news, politics, culture, technology, health, and more, through its articles, podcasts, videos, and flagship magazine.
 
 - [From U.S., the ABC's of Jihad](https://www.washingtonpost.com/archive/politics/2002/03/23/from-us-the-abcs-of-jihad/d079075a-3ed3-4030-9a96-0d48f6355e54/)
-
-- [](https://www.theatlantic.com/magazine/archive/2014/03/the-dark-power-of-fraternities/357580/?gift=zv0gUQbIs0D1fmxQ25GJmo8osEc-Vt8ZVKs1l3EkMxo)
 
 - [Opinion | I’m in ‘You Can See Everything.’ Here’s My Side of the Story.](https://www.nytimes.com/2026/10/30/opinion/you-can-see-everything-elizabeth-holmes-nathan-fielder.html) - I’m in ‘You Can See Everything.’ Here’s my side of the story.
 
@@ -26,6 +40,8 @@
 - [Massacre at Minab: The School That Became a Grave](https://www.dropsitenews.com/p/minab-school-massacre-iran-war-children-families) - The bombing of an Iranian school, killing 120 children, is one of the worst U.S. war crimes since Vietnam. Drop Site spoke to survivors, first responders, parents, and witnesses. This is their story.
 
 - [the case for lowercase](https://www.wired.com/story/the-case-for-lowercase/) - a certain kind of person writes in all lowercase now. why?
+
+- [A College Girl Was Exploited on Camera. A Network of Anonymous Men Got to Work](https://www.wired.com/story/burnerverse-maddie-kowalski/) - Maddie Kowalski is one of countless young women who’ve had their lives destroyed by the burnerverse, a loosely connected online community of sports fans. Now she’s fighting back.
 
 - [Opinion | My Dumbphone Made My Life Better. It Made Everyone Else’s Worse.](https://www.nytimes.com/2026/09/16/opinion/dumbphone-smartphone-friendship.html) - An extended digital detox is freeing, but it can be hard on friends and family.
 
@@ -51,6 +67,8 @@
 
 - [Deal Reached to Sell Chicago Parking Meters to Investment Firm, Alderpeople Say](https://news.wttw.com/2026/09/15/deal-reached-sell-chicago-parking-meters-investment-firm-alderpeople-say) - The deal requires Stonepeak to sell Omni Air International, which has a contract with the Trump administration to carry out deportations, according to the City Council members.
 
+- [The Billionaires’ Vagina Club](https://www.newyorker.com/magazine/2026/07/06/the-billionaires-vagina-club) - With her motto, “Sexual health is health,” Dr. Sally Greenwald aims to optimize orgasms for the women of Silicon Valley.
+
 - [The Children a Scientist Took Home](https://www.newyorker.com/magazine/2026/08/24/the-scientist-who-lived-with-dozens-of-children-from-the-south-pacific) - Carleton Gajdusek won the Nobel Prize for his work on a disease in Papua New Guinea. But his biggest experiment was on the children he took back to the U.S.
 
 - [From Kissing One Guy in 20 Years to 11 in a Month](https://www.nytimes.com/2026/04/24/style/modern-love-divorce-hinge-kissing-one-guy-for-20-years-11-in-a-month.html) - My husband leaving nearly broke me. I tried to put myself back together by dating for the first time in my life.
@@ -58,6 +76,8 @@
 - [Rachel Cusk Tried to Caricature Natalie Portman. She Only Caricatured Herself.](https://www.nytimes.com/2026/08/28/magazine/rachel-cusk-natalie-portman-life-of-m.html) - Her latest novel appears to savage a celebrity. But Cusk has, once again, managed to turn herself into the victim.
 
 - [FBI Probes Service Selling 153M+ Drivers Licenses – Krebs on Security](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
+
+- [Italy's Tiramisù World Cup seeks 130 tasters for jury](https://www.wantedinmilan.com/news/italy-tiramisu-world-cup-seeks-tasters-for-jury.html) - The Tiramisù World Cup is seeking 130 amateur tasters to help judge the competition's opening rounds in the north Italian city of Treviso this October.
 
 - [Man executed for fatally poisoning billionaire who helped bring ‘3 Body Problem’ to Netflix](https://www.cnn.com/2026/05/28/china/china-netflix-crime-execution-intl-hnk) - A Chinese lawyer who fatally poisoned the billionaire gaming tycoon who helped produce the Netflix sci-fi hit “3 Body Problem” has been executed, according to Chinese state media.
 

@@ -1,7 +1,11 @@
 # misc_longform
+- [One Thought Too Many](https://www.thenewphilosophy.com/writing/one-thought-too-many/) - Should the man save the stranger or his wife?
+
 - [How the Bird Eye Was Pushed to an Evolutionary Extreme](https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/) - The bird retina is one of the most energetically expensive tissues in the animal kingdom, yet it doesn’t use the energy advantage of oxygen. New research finally explains how this is possible.
 
 - [Cartographers of North Korea :: 북한의 지도 제작자](https://cartographers-nk.wonyoung.so/) - An analysis of the OpenStreetMap data in North Korea: Who are the contributors?
+
+- [My first visit to New York Cities](https://unsung.aresluna.org/my-first-visit-to-new-york-cities/) - A blog about software craft and quality
 
 - [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/) - Replacing the old battery on rechargeable bike lights
 
@@ -10,6 +14,14 @@
 - [I was a Theranos whistleblower. In ‘You Can See Everything,’ Elizabeth Holmes is still lying](https://www.statnews.com/2026/10/19/elizabeth-holmes-theranos-whistleblower-tyler-shultz-insider-review/) - A more accurate name would be “You Can See Everything That We Chose To Point The Camera At,”Theranos whistleblower Tyler Shultz writes.
 
 - [Sending Spammers to Password Purgatory with Microsoft Power Automate and Cloudflare Workers KV](https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/) - How best to punish spammers? I give this topic a lot of thought because I spend a lot of time sifting through the endless rubbish they send me. And that's when it dawned on me: the punishment should fit the crime - robbing me of my time - which means that
+
+- [A riddle wrapped in a curve](https://blog.cryptographyengineering.com/2015/10/22/a-riddle-wrapped-in-curve/) - If you’re looking for a nice dose of crypto conspiracy theorizing and want to read a paper by some very knowledgeable cryptographers, I have just the paper for you. Titled “A Riddle Wrapped in an E…
+
+- [Muni heritage weekend](https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/) - I went to San Francisco for Muni Heritage Weekend 2026! I stood by the tracks for three hours with my line scan camera, scanning trams.
+
+- [I Program on the Subway](https://www.scd31.com/posts/programming-on-the-subway)
+
+- [squash soliloquies and torani tirades](https://unsnackable.substack.com/p/squash-soliloquies-and-torani-tirades) - unsnackable vol. 79 with thoughts on how a historical lack of squash and cordials has made drinks less enjoyable in america, why torani syrups are irredeemably terrible and a look into my extensive (and international) drink syrup collection
 
 - [Busyness Is a Choice](https://candost.blog/busyness-is-a-choice/) - "Busy" is a shield we choose.
 
@@ -20,6 +32,8 @@
 - [Tumblr](https://assets.tumblr.com/analytics.html?_v=9f5febfd57a8a649c598d888f2d9e062#https://mcmansionhell.com)
 
 - [Red Blob Games: English: A vs An](https://www.redblobgames.com/x/2635-a-vs-an/)
+
+- [Five Geek Social Fallacies – Plausibly Deniable](https://plausiblydeniable.com/five-geek-social-fallacies/)
 
 - [Taylor Swift has a lot to lose on The Life of a Showgirl: The Encore](https://georgegriffithswrites.substack.com/p/taylor-swift-the-life-of-a-showgirl-the-encore-is-a-risk) - After the previous front-to-back creative disaster of an album, this is the crossroads of if Taylor Swift wants to be seen as an artist or a brand.
 
@@ -34,6 +48,8 @@
 - [My Favorite Database Shirts](https://www.cs.cmu.edu/~pavlo/blog/2016/07/my-favorite-database-shirts.html) - Andy reviews his favorite NoSQL and NewSQL database shirts.
 
 - [The cupcake incident](https://michaelnotebook.com/cupcake/?)
+
+- [Introducing Dashboard Touch, a build-your-own version of Touch ID - Anil Dash](https://anildash.com/2026/08/20/introducing-dashboard-touch/) - A blog about making culture. Since 1999.
 
 - [Seven books I keep close because I love them](https://blog.plover.com/meta/about-me.html) - From the highly eclectic blog of Mark Dominus
 

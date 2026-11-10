@@ -1,7 +1,13 @@
 # misc
+- [Answer to "Cooling a cup of coffee with help of a spoon"](https://physics.stackexchange.com/a/5421)
+
 - [General Aviation Safety](https://philip.greenspun.com/flying/safety)
 
 - [Dithered QR code generator](https://www.andrewt.net/dithered-qr-codes)
+
+- [Family Gaming Database - Guides, Ratings and Suggestions](https://www.familygamingdatabase.com/?) - Database of video games for families to discover new things to play and exciting worlds to visit
+
+- [Overgrown, when plants invade your abandoned tabs | Charlie Gerard | Senior research engineer & Creative Technologist Charlie Gerard | Senior research engineer & Creative Technologist](https://charliegerard.dev/blog/overgrown-extension/?utm_source=cassidoo&utm_medium=email&utm_campaign=u1faf5-life-experience-is-priceless-amanda)
 
 - [Uncovered.ink · Judge a book by its writing](https://uncovered.ink) - Read first pages blind. No cover, no name, no hype. Find out what you actually fall for.
 

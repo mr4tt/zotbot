@@ -18,6 +18,10 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [calculator-app](https://chadnauseam.com/coding/random/calculator-app) - calculator-app - Chad Nauseam Home
+
+- ["Here's the sad state of the cloud"](https://newsletter.goodtechthings.com/p/heres-the-sad-state-of-the-cloud) - also, 10% off new guidebooks!
+
 - [*sshole · sshhole.com](https://sshhole.com/)
 
 - [Increase your slope: A new grad’s guide to becoming effective at Stripe](https://www.vikramsingh.me/increase-your-slope) - A new grad’s guide to becoming effective at Stripe
@@ -31,6 +35,8 @@ To view a single category, check the files/ folder.
 - [Understanding Bidirectional Text: A Guide for Developers](https://blog.master.dev/you-dont-know-bidi-and-neither-does-chatgpt/) - Discover the complexities of bidirectional text, its challenges, and how to properly render languages like Arabic and Persian in the digital world.
 
 - [Dealing With Abandonware](https://blog.hris.to/./dealing-with-abandonware.html) - reverse engineering, abandonware
+
+- [IANA's email about why example.com changed | Oliver Dunk](https://www.oliverdunk.com) - I emailed IANA (Internet Assigned Numbers Authority) earlier today to ask about the new content on example.com. To my surprise, their VP replied. Here is the email: I am happy to try and answer any questions you have. The changes we make to the site from time-to-time are usually informed by a desire to either reduce the overall bandwidth demands of ...
 
 - [<smarmelling> — The accidental history of 3000, 8080, and other port numbers](https://smarmelling.com/posts/the-accidental-history-of-3000-8080-and-other-port-numbers.html)
 
@@ -264,9 +270,13 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [One Thought Too Many](https://www.thenewphilosophy.com/writing/one-thought-too-many/) - Should the man save the stranger or his wife?
+
 - [How the Bird Eye Was Pushed to an Evolutionary Extreme](https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/) - The bird retina is one of the most energetically expensive tissues in the animal kingdom, yet it doesn’t use the energy advantage of oxygen. New research finally explains how this is possible.
 
 - [Cartographers of North Korea :: 북한의 지도 제작자](https://cartographers-nk.wonyoung.so/) - An analysis of the OpenStreetMap data in North Korea: Who are the contributors?
+
+- [My first visit to New York Cities](https://unsung.aresluna.org/my-first-visit-to-new-york-cities/) - A blog about software craft and quality
 
 - [Replacing the old battery on rechargeable bike lights](https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/) - Replacing the old battery on rechargeable bike lights
 
@@ -275,6 +285,14 @@ To view a single category, check the files/ folder.
 - [I was a Theranos whistleblower. In ‘You Can See Everything,’ Elizabeth Holmes is still lying](https://www.statnews.com/2026/10/19/elizabeth-holmes-theranos-whistleblower-tyler-shultz-insider-review/) - A more accurate name would be “You Can See Everything That We Chose To Point The Camera At,”Theranos whistleblower Tyler Shultz writes.
 
 - [Sending Spammers to Password Purgatory with Microsoft Power Automate and Cloudflare Workers KV](https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-power-automate-and-cloudflare-workers-kv/) - How best to punish spammers? I give this topic a lot of thought because I spend a lot of time sifting through the endless rubbish they send me. And that's when it dawned on me: the punishment should fit the crime - robbing me of my time - which means that
+
+- [A riddle wrapped in a curve](https://blog.cryptographyengineering.com/2015/10/22/a-riddle-wrapped-in-curve/) - If you’re looking for a nice dose of crypto conspiracy theorizing and want to read a paper by some very knowledgeable cryptographers, I have just the paper for you. Titled “A Riddle Wrapped in an E…
+
+- [Muni heritage weekend](https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/) - I went to San Francisco for Muni Heritage Weekend 2026! I stood by the tracks for three hours with my line scan camera, scanning trams.
+
+- [I Program on the Subway](https://www.scd31.com/posts/programming-on-the-subway)
+
+- [squash soliloquies and torani tirades](https://unsnackable.substack.com/p/squash-soliloquies-and-torani-tirades) - unsnackable vol. 79 with thoughts on how a historical lack of squash and cordials has made drinks less enjoyable in america, why torani syrups are irredeemably terrible and a look into my extensive (and international) drink syrup collection
 
 - [Busyness Is a Choice](https://candost.blog/busyness-is-a-choice/) - "Busy" is a shield we choose.
 
@@ -285,6 +303,8 @@ To view a single category, check the files/ folder.
 - [Tumblr](https://assets.tumblr.com/analytics.html?_v=9f5febfd57a8a649c598d888f2d9e062#https://mcmansionhell.com)
 
 - [Red Blob Games: English: A vs An](https://www.redblobgames.com/x/2635-a-vs-an/)
+
+- [Five Geek Social Fallacies – Plausibly Deniable](https://plausiblydeniable.com/five-geek-social-fallacies/)
 
 - [Taylor Swift has a lot to lose on The Life of a Showgirl: The Encore](https://georgegriffithswrites.substack.com/p/taylor-swift-the-life-of-a-showgirl-the-encore-is-a-risk) - After the previous front-to-back creative disaster of an album, this is the crossroads of if Taylor Swift wants to be seen as an artist or a brand.
 
@@ -299,6 +319,8 @@ To view a single category, check the files/ folder.
 - [My Favorite Database Shirts](https://www.cs.cmu.edu/~pavlo/blog/2016/07/my-favorite-database-shirts.html) - Andy reviews his favorite NoSQL and NewSQL database shirts.
 
 - [The cupcake incident](https://michaelnotebook.com/cupcake/?)
+
+- [Introducing Dashboard Touch, a build-your-own version of Touch ID - Anil Dash](https://anildash.com/2026/08/20/introducing-dashboard-touch/) - A blog about making culture. Since 1999.
 
 - [Seven books I keep close because I love them](https://blog.plover.com/meta/about-me.html) - From the highly eclectic blog of Mark Dominus
 
@@ -1434,7 +1456,11 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [Systems Design 2.0](https://www.youtube.com/playlist) - Hopefully a strict improvement over the original version, more visual explanations
+
 - [High Performance Git](https://gitperf.com/)
+
+- [Equinox: Light / Dark](https://equinox.netigen.com/)
 
 - [Oh Shit, Git!?!](https://ohshitgit.com/)
 
@@ -1822,6 +1848,22 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [Is Racing in $300 Shoes Cheating?](https://www.nytimes.com/2026/09/15/magazine/racing-shoes-sneakers-cheating-alphafly.html) - If it’s wrong, I don’t want to be right.
+
+- [Ballots Have Been Seized Across the US. No One Knows What Will Happen Next](https://www.wired.com/story/ballots-have-been-seized-across-the-us-no-one-knows-what-will-happen-next/) - So far this year, authorities have seized or demanded ballots from elections in four states. Experts fear the trend could throw the midterms into chaos unless courts draw a line.
+
+- [The spy who loved her](https://www.theguardian.com/education/2004/nov/18/artsandhumanities.highereducation) - Gabriele Kliem was engaged to her 'dream man' for seven years. But all along he was a Stasi agent, whose job it was to seduce women into handing over secret documents. Linda Pressly on the Stasi 'romeos' who haunted West Germany during the cold war.
+
+- [Nvidia Chief Seen as Target of Chinese Spy Plot](https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html) - A Chinese businesswoman who had a close relationship with Jensen Huang was found to be passing intelligence to Beijing. President Trump was briefed and took no action.
+
+- [States Are Learning the Wrong Lesson From the ‘Mississippi Miracle’](https://www.theatlantic.com/ideas/2026/04/mississippi-education-miracle/686731/) - A phonics-based curriculum is only one part of how Mississippi went from worst to first in education. The other part is much harder to pull off.
+
+- [How IShowSpeed Became the Most Influential Streamer in the World](https://www.nytimes.com/2026/10/29/magazine/ishowspeed-america-tour-livestream.html) - Livestreaming is unstoppably ascendant — and often boring. IShowSpeed became the king of the form by bringing his act into the real world.
+
+- [The Dark Power of Fraternities](https://www.theatlantic.com/magazine/archive/2014/03/the-dark-power-of-fraternities/357580/) - A yearlong investigation of Greek houses reveals their endemic, lurid, and sometimes tragic problems—and a sophisticated system for shifting the blame.
+
+- ["An Irreparably Damaged Life": CIA Kidnapping Victim Khaled el-Masri 20 Years On](https://www.spiegel.de/international/europe/an-irreparably-damaged-life-cia-kidnapping-victim-khaled-el-masri-20-years-on-a-70c197a8-ae67-470b-91e1-413e148bea0a) - Almost two decades ago, the CIA abducted and tortured Khaled el-Masri, a German citizen whom the intelligence service mistakenly believed to be a terrorist. He is still suffering from the consequences today. Many questions about his case remain unanswered, also for the German government.
+
 - [NewJeans Contracts Show How K-Pop Keeps Control of its Stars](https://www.nytimes.com/interactive/2026/11/05/world/asia/kpop-newjeans-contract.html) - NewJeans shattered records. Behind the scenes were unusually restrictive contracts, signed when the girls were ages 14 to 17.
 
 - [A ‘Miraculous Transformation’: How Kim Jong-un Fortified North Korea](https://www.nytimes.com/2026/06/08/world/asia/north-korea-kim-jong-un-pandemic-economy.html) - He used the pandemic to ruthlessly tighten his grip on the country. Then he energized its economy by leveraging Russia’s war in Ukraine.
@@ -1829,8 +1871,6 @@ To view a single category, check the files/ folder.
 - [The Atlantic](https://www.theatlantic.com/magazine/archive/2004/03/the-armageddon-plan/302902/) - The Atlantic covers news, politics, culture, technology, health, and more, through its articles, podcasts, videos, and flagship magazine.
 
 - [From U.S., the ABC's of Jihad](https://www.washingtonpost.com/archive/politics/2002/03/23/from-us-the-abcs-of-jihad/d079075a-3ed3-4030-9a96-0d48f6355e54/)
-
-- [](https://www.theatlantic.com/magazine/archive/2014/03/the-dark-power-of-fraternities/357580/?gift=zv0gUQbIs0D1fmxQ25GJmo8osEc-Vt8ZVKs1l3EkMxo)
 
 - [Opinion | I’m in ‘You Can See Everything.’ Here’s My Side of the Story.](https://www.nytimes.com/2026/10/30/opinion/you-can-see-everything-elizabeth-holmes-nathan-fielder.html) - I’m in ‘You Can See Everything.’ Here’s my side of the story.
 
@@ -1849,6 +1889,8 @@ To view a single category, check the files/ folder.
 - [Massacre at Minab: The School That Became a Grave](https://www.dropsitenews.com/p/minab-school-massacre-iran-war-children-families) - The bombing of an Iranian school, killing 120 children, is one of the worst U.S. war crimes since Vietnam. Drop Site spoke to survivors, first responders, parents, and witnesses. This is their story.
 
 - [the case for lowercase](https://www.wired.com/story/the-case-for-lowercase/) - a certain kind of person writes in all lowercase now. why?
+
+- [A College Girl Was Exploited on Camera. A Network of Anonymous Men Got to Work](https://www.wired.com/story/burnerverse-maddie-kowalski/) - Maddie Kowalski is one of countless young women who’ve had their lives destroyed by the burnerverse, a loosely connected online community of sports fans. Now she’s fighting back.
 
 - [Opinion | My Dumbphone Made My Life Better. It Made Everyone Else’s Worse.](https://www.nytimes.com/2026/09/16/opinion/dumbphone-smartphone-friendship.html) - An extended digital detox is freeing, but it can be hard on friends and family.
 
@@ -1874,6 +1916,8 @@ To view a single category, check the files/ folder.
 
 - [Deal Reached to Sell Chicago Parking Meters to Investment Firm, Alderpeople Say](https://news.wttw.com/2026/09/15/deal-reached-sell-chicago-parking-meters-investment-firm-alderpeople-say) - The deal requires Stonepeak to sell Omni Air International, which has a contract with the Trump administration to carry out deportations, according to the City Council members.
 
+- [The Billionaires’ Vagina Club](https://www.newyorker.com/magazine/2026/07/06/the-billionaires-vagina-club) - With her motto, “Sexual health is health,” Dr. Sally Greenwald aims to optimize orgasms for the women of Silicon Valley.
+
 - [The Children a Scientist Took Home](https://www.newyorker.com/magazine/2026/08/24/the-scientist-who-lived-with-dozens-of-children-from-the-south-pacific) - Carleton Gajdusek won the Nobel Prize for his work on a disease in Papua New Guinea. But his biggest experiment was on the children he took back to the U.S.
 
 - [From Kissing One Guy in 20 Years to 11 in a Month](https://www.nytimes.com/2026/04/24/style/modern-love-divorce-hinge-kissing-one-guy-for-20-years-11-in-a-month.html) - My husband leaving nearly broke me. I tried to put myself back together by dating for the first time in my life.
@@ -1881,6 +1925,8 @@ To view a single category, check the files/ folder.
 - [Rachel Cusk Tried to Caricature Natalie Portman. She Only Caricatured Herself.](https://www.nytimes.com/2026/08/28/magazine/rachel-cusk-natalie-portman-life-of-m.html) - Her latest novel appears to savage a celebrity. But Cusk has, once again, managed to turn herself into the victim.
 
 - [FBI Probes Service Selling 153M+ Drivers Licenses – Krebs on Security](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
+
+- [Italy's Tiramisù World Cup seeks 130 tasters for jury](https://www.wantedinmilan.com/news/italy-tiramisu-world-cup-seeks-tasters-for-jury.html) - The Tiramisù World Cup is seeking 130 amateur tasters to help judge the competition's opening rounds in the north Italian city of Treviso this October.
 
 - [Man executed for fatally poisoning billionaire who helped bring ‘3 Body Problem’ to Netflix](https://www.cnn.com/2026/05/28/china/china-netflix-crime-execution-intl-hnk) - A Chinese lawyer who fatally poisoned the billionaire gaming tycoon who helped produce the Netflix sci-fi hit “3 Body Problem” has been executed, according to Chinese state media.
 
@@ -2551,6 +2597,8 @@ To view a single category, check the files/ folder.
 - [Donkey Kong cheating case rocked by photos of illicit joystick modification](https://arstechnica.com/gaming/2023/02/did-billy-mitchell-use-this-illicit-joystick-to-set-a-donkey-kong-high-score/) - Tall, red-topped stick could prove crucial in Mitchell's defamation suit.
 
 # wikipedia
+- [CIA black sites](https://en.wikipedia.org/w/index.php?title=CIA_black_sites&oldid=1384036902) - Following the September 11 attacks of 2001 and subsequent war on terror, the United States Central Intelligence Agency (CIA) established a "Detention and Interrogation Program" that included a network of clandestine extrajudicial detention centres, officially known as "black sites", to detain, interrogate, and often torture suspected enemy combatant...
+
 - [Dasht-i-Leili massacre](https://en.wikipedia.org/w/index.php?title=Dasht-i-Leili_massacre&oldid=1383106933) - In December 2001, between 250 and 2,000 Taliban insurgents who had surrendered to the National Islamic Movement of Afghanistan (part of the Northern Alliance) were massacred while being transported to Sheberghan Prison in the Jowzjan Province. Fighters loyal to General Abdul Rashid Dostum tightly packed the prisoners into shipping containers in Kund...
 
 - [Death Valley Germans](https://en.wikipedia.org/w/index.php?title=Death_Valley_Germans&oldid=1379887348) - The Death Valley Germans (as dubbed by the media) were a family of four tourists from Germany who went missing in Death Valley National Park, on the California–Nevada border in the United States, on 23 July 1996. Their rental van was discovered in a remote area of the park in October 1996. Despite an intense search and rescue operation, the only thi...
@@ -2558,6 +2606,8 @@ To view a single category, check the files/ folder.
 - [Maria Licciardi](https://en.wikipedia.org/w/index.php?title=Maria_Licciardi&oldid=1368047307) - Maria Licciardi (Italian pronunciation: [maˈriːa litˈtʃardi]; born 24 March 1951) is an Italian criminal affiliated with the Camorra, head of the Licciardi clan, and one of the bosses of the Secondigliano Alliance. She was one of the most powerful bosses of the Camorra in the city of Naples from 1993 until her arrest in 2001. Licciardi was referred ...
 
 - [Panchiko](https://en.wikipedia.org/w/index.php?title=Panchiko&oldid=1373231417) - Panchiko ( pan-CHEE-koh) is a British indie rock band originating from Nottingham, England. Formed between 1997 and 1998, the band originally consisted of lead vocalist and guitarist Owain Davies, guitarist/keyboardist Andrew "Andy" Wright, bassist Shaun Ferreday, and a drummer named John. A year after the revival of Panchiko in 2020, they were join...
+
+- [List of Intel codenames](https://en.wikipedia.org/w/index.php?title=List_of_Intel_codenames&oldid=1363158180) - Intel has historically named integrated circuit (IC) development projects after geographical names of towns, rivers or mountains near the location of the Intel facility responsible for the IC. Many of these are in the American West, particularly in Oregon (where most of Intel's CPU projects are designed; see famous codenames). As Intel's development...
 
 - [Tadpole person](https://en.wikipedia.org/w/index.php?title=Tadpole_person&oldid=1353034406) - A tadpole person or headfooter is a simplistic representation of a human being as a figure without a torso, with arms and legs attached to the head. Tadpole people appear in young children's drawings before they learn to draw torsos and move on to more realistic depictions such as stick figures. Preschoolers who draw tadpole people generally do not ...
 
@@ -3184,9 +3234,15 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [Answer to "Cooling a cup of coffee with help of a spoon"](https://physics.stackexchange.com/a/5421)
+
 - [General Aviation Safety](https://philip.greenspun.com/flying/safety)
 
 - [Dithered QR code generator](https://www.andrewt.net/dithered-qr-codes)
+
+- [Family Gaming Database - Guides, Ratings and Suggestions](https://www.familygamingdatabase.com/?) - Database of video games for families to discover new things to play and exciting worlds to visit
+
+- [Overgrown, when plants invade your abandoned tabs | Charlie Gerard | Senior research engineer & Creative Technologist Charlie Gerard | Senior research engineer & Creative Technologist](https://charliegerard.dev/blog/overgrown-extension/?utm_source=cassidoo&utm_medium=email&utm_campaign=u1faf5-life-experience-is-priceless-amanda)
 
 - [Uncovered.ink · Judge a book by its writing](https://uncovered.ink) - Read first pages blind. No cover, no name, no hype. Find out what you actually fall for.
 

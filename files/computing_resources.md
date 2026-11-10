@@ -1,5 +1,9 @@
 # computing_resources
+- [Systems Design 2.0](https://www.youtube.com/playlist) - Hopefully a strict improvement over the original version, more visual explanations
+
 - [High Performance Git](https://gitperf.com/)
+
+- [Equinox: Light / Dark](https://equinox.netigen.com/)
 
 - [Oh Shit, Git!?!](https://ohshitgit.com/)
 

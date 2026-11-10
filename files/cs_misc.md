@@ -1,4 +1,8 @@
 # cs_misc
+- [calculator-app](https://chadnauseam.com/coding/random/calculator-app) - calculator-app - Chad Nauseam Home
+
+- ["Here's the sad state of the cloud"](https://newsletter.goodtechthings.com/p/heres-the-sad-state-of-the-cloud) - also, 10% off new guidebooks!
+
 - [*sshole · sshhole.com](https://sshhole.com/)
 
 - [Increase your slope: A new grad’s guide to becoming effective at Stripe](https://www.vikramsingh.me/increase-your-slope) - A new grad’s guide to becoming effective at Stripe
@@ -12,6 +16,8 @@
 - [Understanding Bidirectional Text: A Guide for Developers](https://blog.master.dev/you-dont-know-bidi-and-neither-does-chatgpt/) - Discover the complexities of bidirectional text, its challenges, and how to properly render languages like Arabic and Persian in the digital world.
 
 - [Dealing With Abandonware](https://blog.hris.to/./dealing-with-abandonware.html) - reverse engineering, abandonware
+
+- [IANA's email about why example.com changed | Oliver Dunk](https://www.oliverdunk.com) - I emailed IANA (Internet Assigned Numbers Authority) earlier today to ask about the new content on example.com. To my surprise, their VP replied. Here is the email: I am happy to try and answer any questions you have. The changes we make to the site from time-to-time are usually informed by a desire to either reduce the overall bandwidth demands of ...
 
 - [<smarmelling> — The accidental history of 3000, 8080, and other port numbers](https://smarmelling.com/posts/the-accidental-history-of-3000-8080-and-other-port-numbers.html)
 
