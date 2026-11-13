@@ -18,6 +18,8 @@ To view a single category, check the files/ folder.
 - [wikipedia](#wikipedia)
 - [misc](#misc)
 # cs_misc
+- [Bouncy Ball will always bounce back](https://filipfila.wordpress.com/2026/01/25/bouncy-ball-will-always-bounce-back/) - Bouncy Ball. A proper KDE 4 classic. Many hymns of praise have been sung about this lovable desktop extension. Do You Remember the KDE Bouncy Ball Widget? Fear not, OMG! Ubuntu! You will bounce aga…
+
 - [calculator-app](https://chadnauseam.com/coding/random/calculator-app) - calculator-app - Chad Nauseam Home
 
 - ["Here's the sad state of the cloud"](https://newsletter.goodtechthings.com/p/heres-the-sad-state-of-the-cloud) - also, 10% off new guidebooks!
@@ -43,6 +45,8 @@ To view a single category, check the files/ folder.
 - [Six SQL patterns I use to catch transaction fraud](https://analytics.fixelsmith.com/posts/sql-fraud-patterns/) - The actual queries I run when I'm hunting fraud in transaction data. Velocity, impossible distances, suspicious amounts, merchant clusters, off-hours buys, and window functions.
 
 - [One month without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html) - Several months ago, I decided that AI contributions were no longer welcome in a FOSS project I am building and maintaining - LibreWeddingPlanner. It’s not that it got a lot of contributions with AI — actually all contributions I’ve had are translations and feature requests — but I wanted to...
+
+- [the senior engineer death spiral](https://sunilpai.dev/posts/the-senior-engineer-death-spiral/) - on proving yourself, burning out, and being a good teammate
 
 - [Opusfived](https://opusfived.dev/) - Make one button blue. Change nothing else. A short interactive comedy about agentic AI assistants that can never just do the thing.
 
@@ -270,6 +274,12 @@ To view a single category, check the files/ folder.
 - [It's Nicky Case!](https://ncase.me) - i make shtuff for curious & playful peeps
 
 # misc_longform
+- [Why Don’t Immigrants Apply for Citizenship?](https://www.americanimmigrationcouncil.org/fact-sheet/why-dont-they-just-get-line/) - There is no line available for undocumented immigrants and the “regular channels” do not include them.
+
+- [More than Mail | The Culture and History of the Japanese Postal System](https://www.japanhousela.com/articles/more-than-mail-culture-history-japanese-postal-system-post-office-box-service-symbol-logo/) - Discover the history and culture of Japan’s postal system, from iconic red postboxes to the 〒 symbol, at JAPAN HOUSE Los Angeles.
+
+- [how to be a girl's girl](https://divyavenn.substack.com/p/how-to-be-a-girls-girl) - on making women feel irrationally good about you
+
 - [One Thought Too Many](https://www.thenewphilosophy.com/writing/one-thought-too-many/) - Should the man save the stranger or his wife?
 
 - [How the Bird Eye Was Pushed to an Evolutionary Extreme](https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/) - The bird retina is one of the most energetically expensive tissues in the animal kingdom, yet it doesn’t use the energy advantage of oxygen. New research finally explains how this is possible.
@@ -345,6 +355,8 @@ To view a single category, check the files/ folder.
 - [Every Matt Damon Movie, Ranked By How Gay He Is In Them](https://thestain.substack.com/p/every-matt-damon-movie-ranked-by) - And yes, I mean every single one.
 
 - [Did medieval people love their children? - Works in Progress Magazine](https://worksinprogress.co/issue/did-medieval-people-love-their-children/) - Is it really plausible that children survived the hardship of medieval life without devoted parents?
+
+- [If you’re a button, you have one job – Unsung](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/) - A blog about software craft and quality
 
 - [Backtrack-free cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)
 
@@ -1184,6 +1196,8 @@ To view a single category, check the files/ folder.
 - [https://twitter.com/zachsilberberg/status/1588731953150275584?s=20](https://twitter.com/zachsilberberg/status/1588731953150275584?s=20)
 
 # general_resources
+- [nowhere · an entire website encoded in a URL](https://hostednowhere.com) - Nowhere encodes an entire website into a URL. The content lives in the link itself and is never stored on a server. Hosted nowhere, present everywhere.
+
 - [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/) - You can learn new things. Pixel art, touch typing, 3d modelling, music, calligraphy, wood working, knitting, a language. Whatever is practical and calls to you, you can learn. In the long term, learning new things is fun and makes life richer in ways you can’t even imagine, and it’s a time investment that will pay dividends for life as these skills ...
 
 - [Late Night Souped-Up Ramen | J. Kenji López-Alt](https://frienji.kenjilopezalt.com/posts/late-night-up-169276047) - Late Night Souped-Up Ramen  by J. Kenji López-Alt on Patreon. Join J. Kenji López-Alt's community for exclusive content and updates.
@@ -1456,6 +1470,8 @@ To view a single category, check the files/ folder.
 - [Yuhki Yamashita: Confessions of Modern Design (Welcome to the WIP)](https://www.youtube.com/watch?v=GacLX9amSao) - How do you make progress when the work is always in flux? What if some of the best features actually—gasp!—start with a solution instead of a problem? In thi...
 
 # computing_resources
+- [Mike Acton’s Expectations of Professional Software Engineers - Adam Johnson](https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/) - In a 2019 talk/rant titled “Everyone Watching This Is Fired”, games industry veteran Mike Acton rattled off a sample of 50 things he expects of developers he works with. The title refers to his tongue-in-cheek suggestion that anyone who doesn’t meet all these requirements would be immediately fired.
+
 - [Systems Design 2.0](https://www.youtube.com/playlist) - Hopefully a strict improvement over the original version, more visual explanations
 
 - [High Performance Git](https://gitperf.com/)
@@ -1848,6 +1864,18 @@ To view a single category, check the files/ folder.
 - [Requiem for a Dollface](https://www.uncannymagazine.com/article/requiem-for-a-dollface/) - The doll was dead. There was nothing for it. Bear had seen bad cases before: legs ripped off, heads torn from necks, hair rudely shorn. Dolls mutilated by ink, fire, even—once—the lawn mower. Not every child loved their toys gently. That was life. This was murder. He wondered if the little girl knew yet. It […]
 
 # news
+- [The Elizabeth Holmes Documentary, Through the Eyes of the Reporter Who Exposed Her](https://www.nytimes.com/2026/10/17/business/theranos-fraud-elizabeth-holmes-documentary.html) - Ms. Holmes handed the makers of “You Can See Everything” — and the rest of the world — a microscope with which to observe and dissect her lies.
+
+- [For these Gen Z California kids, college's hottest club is Costco](https://www.sfgate.com/food/article/uc-costco-clubs-22494687.php) - Students are obsessed with the bulk-buying behemoth.
+
+- [The 'You Can See Everything' Interview You've Been Waiting For](https://www.rollingstone.com/tv-movies/tv-movie-features/amanda-seyfried-nathan-fielder-you-can-see-everything-1235653104/) - 'You Can See Everything' actor Amanda Seyfried joins co-directors Nathan Fielder and Lance Oppenheim to discuss making the hit Elizabeth Holmes doc.
+
+- [Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him](https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html) - Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.
+
+- [This Post Office has an underwater mailbox – USPS Employee News](https://news.usps.com/2026/10/20/this-post-office-has-an-underwater-mailbox/)
+
+- [Obama Has Ties to Slavery Not by His Father but His Mother, Research Suggests](https://www.nytimes.com/2012/07/30/us/obamas-mother-had-african-forebear-study-suggests.html) - An Ancestry.com team believes that President Obama’s African heritage stems not only from his Kenyan father, but from his white mother, whose lineage may include a slave in colonial Virginia.
+
 - [Is Racing in $300 Shoes Cheating?](https://www.nytimes.com/2026/09/15/magazine/racing-shoes-sneakers-cheating-alphafly.html) - If it’s wrong, I don’t want to be right.
 
 - [Ballots Have Been Seized Across the US. No One Knows What Will Happen Next](https://www.wired.com/story/ballots-have-been-seized-across-the-us-no-one-knows-what-will-happen-next/) - So far this year, authorities have seized or demanded ballots from elections in four states. Experts fear the trend could throw the midterms into chaos unless courts draw a line.
@@ -3234,6 +3262,10 @@ To view a single category, check the files/ folder.
 - [Sony Pictures hack](https://en.wikipedia.org/w/index.php?title=Sony_Pictures_hack&oldid=1138937239) - On November 24, 2014, a hacker group identifying itself as "Guardians of Peace" leaked a release of confidential data from the film studio Sony Pictures Entertainment (SPE). The data included personal information about Sony Pictures employees and their families, emails between employees, information about executive salaries at the company, copies of...
 
 # misc
+- [eyeball](https://eyeball.rory.codes/) - Click where you think the number falls on the line. A minimalist game of numerical intuition.
+
+- [How To Build Kites - 3 Extremely Simple Kites For Adults Or Big Kids!](https://www.my-best-kite.com/how-to-build-kites.html) - If you want to know how to build kites, you are at the right place. These 3 simple kites are super quick and easy, yet fly really well.
+
 - [Answer to "Cooling a cup of coffee with help of a spoon"](https://physics.stackexchange.com/a/5421)
 
 - [General Aviation Safety](https://philip.greenspun.com/flying/safety)

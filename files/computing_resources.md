@@ -1,4 +1,6 @@
 # computing_resources
+- [Mike Acton’s Expectations of Professional Software Engineers - Adam Johnson](https://adamj.eu/tech/2022/06/17/mike-actons-expectations-of-professional-software-engineers/) - In a 2019 talk/rant titled “Everyone Watching This Is Fired”, games industry veteran Mike Acton rattled off a sample of 50 things he expects of developers he works with. The title refers to his tongue-in-cheek suggestion that anyone who doesn’t meet all these requirements would be immediately fired.
+
 - [Systems Design 2.0](https://www.youtube.com/playlist) - Hopefully a strict improvement over the original version, more visual explanations
 
 - [High Performance Git](https://gitperf.com/)

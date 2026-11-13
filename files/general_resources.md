@@ -1,4 +1,6 @@
 # general_resources
+- [nowhere · an entire website encoded in a URL](https://hostednowhere.com) - Nowhere encodes an entire website into a URL. The content lives in the link itself and is never stored on a server. Hosted nowhere, present everywhere.
+
 - [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/) - You can learn new things. Pixel art, touch typing, 3d modelling, music, calligraphy, wood working, knitting, a language. Whatever is practical and calls to you, you can learn. In the long term, learning new things is fun and makes life richer in ways you can’t even imagine, and it’s a time investment that will pay dividends for life as these skills ...
 
 - [Late Night Souped-Up Ramen | J. Kenji López-Alt](https://frienji.kenjilopezalt.com/posts/late-night-up-169276047) - Late Night Souped-Up Ramen  by J. Kenji López-Alt on Patreon. Join J. Kenji López-Alt's community for exclusive content and updates.

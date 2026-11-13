@@ -1,4 +1,8 @@
 # misc
+- [eyeball](https://eyeball.rory.codes/) - Click where you think the number falls on the line. A minimalist game of numerical intuition.
+
+- [How To Build Kites - 3 Extremely Simple Kites For Adults Or Big Kids!](https://www.my-best-kite.com/how-to-build-kites.html) - If you want to know how to build kites, you are at the right place. These 3 simple kites are super quick and easy, yet fly really well.
+
 - [Answer to "Cooling a cup of coffee with help of a spoon"](https://physics.stackexchange.com/a/5421)
 
 - [General Aviation Safety](https://philip.greenspun.com/flying/safety)

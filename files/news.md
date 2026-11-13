@@ -1,4 +1,16 @@
 # news
+- [The Elizabeth Holmes Documentary, Through the Eyes of the Reporter Who Exposed Her](https://www.nytimes.com/2026/10/17/business/theranos-fraud-elizabeth-holmes-documentary.html) - Ms. Holmes handed the makers of “You Can See Everything” — and the rest of the world — a microscope with which to observe and dissect her lies.
+
+- [For these Gen Z California kids, college's hottest club is Costco](https://www.sfgate.com/food/article/uc-costco-clubs-22494687.php) - Students are obsessed with the bulk-buying behemoth.
+
+- [The 'You Can See Everything' Interview You've Been Waiting For](https://www.rollingstone.com/tv-movies/tv-movie-features/amanda-seyfried-nathan-fielder-you-can-see-everything-1235653104/) - 'You Can See Everything' actor Amanda Seyfried joins co-directors Nathan Fielder and Lance Oppenheim to discuss making the hit Elizabeth Holmes doc.
+
+- [Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him](https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html) - Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.
+
+- [This Post Office has an underwater mailbox – USPS Employee News](https://news.usps.com/2026/10/20/this-post-office-has-an-underwater-mailbox/)
+
+- [Obama Has Ties to Slavery Not by His Father but His Mother, Research Suggests](https://www.nytimes.com/2012/07/30/us/obamas-mother-had-african-forebear-study-suggests.html) - An Ancestry.com team believes that President Obama’s African heritage stems not only from his Kenyan father, but from his white mother, whose lineage may include a slave in colonial Virginia.
+
 - [Is Racing in $300 Shoes Cheating?](https://www.nytimes.com/2026/09/15/magazine/racing-shoes-sneakers-cheating-alphafly.html) - If it’s wrong, I don’t want to be right.
 
 - [Ballots Have Been Seized Across the US. No One Knows What Will Happen Next](https://www.wired.com/story/ballots-have-been-seized-across-the-us-no-one-knows-what-will-happen-next/) - So far this year, authorities have seized or demanded ballots from elections in four states. Experts fear the trend could throw the midterms into chaos unless courts draw a line.

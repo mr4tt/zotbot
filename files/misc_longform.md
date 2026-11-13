@@ -1,4 +1,10 @@
 # misc_longform
+- [Why Don’t Immigrants Apply for Citizenship?](https://www.americanimmigrationcouncil.org/fact-sheet/why-dont-they-just-get-line/) - There is no line available for undocumented immigrants and the “regular channels” do not include them.
+
+- [More than Mail | The Culture and History of the Japanese Postal System](https://www.japanhousela.com/articles/more-than-mail-culture-history-japanese-postal-system-post-office-box-service-symbol-logo/) - Discover the history and culture of Japan’s postal system, from iconic red postboxes to the 〒 symbol, at JAPAN HOUSE Los Angeles.
+
+- [how to be a girl's girl](https://divyavenn.substack.com/p/how-to-be-a-girls-girl) - on making women feel irrationally good about you
+
 - [One Thought Too Many](https://www.thenewphilosophy.com/writing/one-thought-too-many/) - Should the man save the stranger or his wife?
 
 - [How the Bird Eye Was Pushed to an Evolutionary Extreme](https://www.quantamagazine.org/how-the-bird-eye-was-pushed-to-an-evolutionary-extreme-20260513/) - The bird retina is one of the most energetically expensive tissues in the animal kingdom, yet it doesn’t use the energy advantage of oxygen. New research finally explains how this is possible.
@@ -74,6 +80,8 @@
 - [Every Matt Damon Movie, Ranked By How Gay He Is In Them](https://thestain.substack.com/p/every-matt-damon-movie-ranked-by) - And yes, I mean every single one.
 
 - [Did medieval people love their children? - Works in Progress Magazine](https://worksinprogress.co/issue/did-medieval-people-love-their-children/) - Is it really plausible that children survived the hardship of medieval life without devoted parents?
+
+- [If you’re a button, you have one job – Unsung](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/) - A blog about software craft and quality
 
 - [Backtrack-free cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)
 

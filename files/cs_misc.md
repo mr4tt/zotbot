@@ -1,4 +1,6 @@
 # cs_misc
+- [Bouncy Ball will always bounce back](https://filipfila.wordpress.com/2026/01/25/bouncy-ball-will-always-bounce-back/) - Bouncy Ball. A proper KDE 4 classic. Many hymns of praise have been sung about this lovable desktop extension. Do You Remember the KDE Bouncy Ball Widget? Fear not, OMG! Ubuntu! You will bounce aga…
+
 - [calculator-app](https://chadnauseam.com/coding/random/calculator-app) - calculator-app - Chad Nauseam Home
 
 - ["Here's the sad state of the cloud"](https://newsletter.goodtechthings.com/p/heres-the-sad-state-of-the-cloud) - also, 10% off new guidebooks!
@@ -24,6 +26,8 @@
 - [Six SQL patterns I use to catch transaction fraud](https://analytics.fixelsmith.com/posts/sql-fraud-patterns/) - The actual queries I run when I'm hunting fraud in transaction data. Velocity, impossible distances, suspicious amounts, merchant clusters, off-hours buys, and window functions.
 
 - [One month without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html) - Several months ago, I decided that AI contributions were no longer welcome in a FOSS project I am building and maintaining - LibreWeddingPlanner. It’s not that it got a lot of contributions with AI — actually all contributions I’ve had are translations and feature requests — but I wanted to...
+
+- [the senior engineer death spiral](https://sunilpai.dev/posts/the-senior-engineer-death-spiral/) - on proving yourself, burning out, and being a good teammate
 
 - [Opusfived](https://opusfived.dev/) - Make one button blue. Change nothing else. A short interactive comedy about agentic AI assistants that can never just do the thing.
 
